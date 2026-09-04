@@ -96,7 +96,7 @@
     "discovered_at": "2026-09-04T20:31:46.853051+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "c944baa64299782b42e84b01"
+    "duplicate_of": ""
   },
   {
     "id": "d776de3fb9384be5527184c2",
@@ -1911,7 +1911,7 @@
     "discovered_at": "2026-09-04T20:03:33.197799+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "41fbc91fad2ba7b194b904b2"
   },
   {
     "id": "bcb57a7e79bd19dbb5f39ba7",

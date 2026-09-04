@@ -1,3 +1,6 @@
+// Add `chip_id` only after a photo is identity-verified against a current
+// data/live.json record. The comparison UI then preserves author and licence.
+// An unscaled photograph never implies physical dimensions.
 window.SILICON_DIE_IMAGES = [
   {
     "id": "ad102-photo", "name": "NVIDIA GeForce RTX 4090 · AD102", "vendor": "NVIDIA",
