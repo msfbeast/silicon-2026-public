@@ -1,5 +1,115 @@
 [
   {
+    "id": "7e96dd908207a5bbd1af1477",
+    "title": "Intel Foundry Direct Connect 2025 Make-or-Break Time For Intel - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYVlyRWxVcWxZaE9xZ1NmOEptWU8yamktX0lHNE5ocUFXeldhbVFOaGxqZFgtcFhnY2MtbWRnVVY5MTdwVk14V1ZncWh3NFdndmdJeWUyRE5uank3dW5YbzJZajBHMEhta0NvTi1XTUdGOFRaUEhZNEtIRHMtenhCaDZmaExYU2pFYkJ0S3FDT2tTWWZQVkdJ?oc=5",
+    "source": "ServeTheHome",
+    "published": "Tue, 29 Apr 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.225141+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "406cfe6e84c0897cb85eae2f",
+    "title": "Intel's process roadmap to 2025: Intel 7, 4, 3, 20A, and 18A explained - XDA",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCbnNoQ2hyYkI1ZTcySm5hSktqTnc1eDJYWDJoZGNUY09qVElpS3ZQdUpqSnkzQ0p1dVVEbmFIbnFzenR3bVlPUmFxejlUYXk2YVhVbDBzVUhCcWtER05OM2RER2RJN2xVYk1ESQ?oc=5",
+    "source": "XDA",
+    "published": "Sat, 19 Oct 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.225109+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b1bac48a9e0ee1b315537655",
+    "title": "Intel’s Next Frontier: Redefining Chiplet Integration Through Advanced Packaging - semivision",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXhRcGVyZUtoeWdRYjNnLTVKWlU3VzY0QVQxcmp0YzJHZURZdlI4dm1HQzdCLXVCM09NTFlhbmdETFdJTnZ5TWtlZmpYUUY0X01XbFU1aHp0ZVpSaEpKbHNMZWZFNkRKdzJFVGxMVXhJQ2xwRFNJc2ZnZmRPWTM2SzA2VVZVRDQ?oc=5",
+    "source": "semivision",
+    "published": "Thu, 01 May 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.225081+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "535686a781c28a2d8d2c6cd3",
+    "title": "Cutting-Edge Process Technologies for Data Center - Intel",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2JlRVhhUXItRGpuT2lwdDIwOGsxQzlLRVF3LUVsQzdLSldVYTQxTVFKazVFOWNaNjJudUdfNEw1a3dpWTlaYkkzQ3JfS3RrZTFwSkRabm1LaXphM1VZQ2lZd3N2aElSd05KYm5MQVJBNXRiQndBS1dmUVNDY3BjOTRUZ0o5OGJFdVBoMjBLVkFnY2JHUFNUQmlydVp6bUlOX3BvSE1LTEk0UQ?oc=5",
+    "source": "Intel",
+    "published": "Mon, 01 Jul 2024 22:11:36 GMT",
+    "discovered_at": "2026-09-04T19:54:48.225050+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "28332ca384cfe5e29c66ca73",
+    "title": "Intel Foundry expands process technology roadmap - Electronics360",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHBwMlc2NnQ0Wm40bkJtZG14YzBac0lIZmNGU2xmTWp2U0RmVE5xR0VEeXJwS1d5U3ZOT2EyWmpBOWNaanhxMUdpcklqNmFjOHI0SnJYbGtVLVJDdVAtTHR6eDlNRTBJNW03ejE0eU04VU9MbHotVWlMYW93NC1tekVsY1VISWk0TV9MYUJ5WnpEOWVvbXVzd01vWnlaQnBESUE?oc=5",
+    "source": "Electronics360",
+    "published": "Wed, 21 Feb 2024 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.225015+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4eaea9db4e498828079368a3",
+    "title": "Intel Vs. Samsung Vs. TSMC - Semiconductor Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1oM1FFSkxmRXE0ZkJBdTd4UVVpVlRSQ0tnZ0hvNWE3Q0RnQmZXb1JWa2ZEZzc2Zk1yWEVlRE5tckg4WGV3WUVBcllEeG1PVmFMMFN1ZXI4WEJLeWhwSk5ueVE2WQ?oc=5",
+    "source": "Semiconductor Engineering",
+    "published": "Mon, 15 Jul 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.224947+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "39c4b262fe0019532b4c6e38",
+    "title": "Sub-1nm Process Technology Won’t Arrive Till 2034, Logic Roadmap Highlights 2D FETs For 0.2nm & Sub 0.2nm Nodes By 2043-2046 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUhIX056SjFjaXhMaXFIUkpTeTNpMlNXMUtNNHBYRUM0NFVsUVhjOVhzdVNRUDNaUUtRNHp1QVpRZG9pcFJjUlB1Z1NFdmM5SVR3RFIyaVB3cGZ2MlNwNlF0OEJYSnJxeW5SVS1VeFFuR3VPWmlYeFFJTFFDUkFtNUhVVk1wNUlQV3Frc29IOFI3WW9xYVFQTHdpYVRxb0ZVcnJfRm1MdDhxdFdFNEEyWtIBtgFBVV95cUxPamViUDlqRmFISmFQMmN6VFlUXzg5Q25GOEZnRjU5MGRsSEpodHBmVTBXTTh4RmtCU0pQMlFkQ0N0UmUwTnZNYVRxR0p0M0hnNVNYU3EtMFFBaklObjRVa2tTUS10WVZ3ZnRnLUI1Y3NBM0QwQUFLY1hRdl9yUTB5TXdZMkptdXQ4Z1BCUExVbVhwcDA2ZkZxNlFwU2VmZHk5UFhQVHJxdHpDbWdCLTl2TjFCbHBmdw?oc=5",
+    "source": "Wccftech",
+    "published": "Sat, 02 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:48.224847+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ee5e8eb0edea16f1f87819ba",
+    "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls - infosecurity-magazine.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aVXdMTW1YVW9mOEtjajZSbldIcERuNUlzRHFlRVlKcExaclc2dVRLeFVtc3NqWE5JcXZlVFk5T3dEVjhCYmpQcmVrSWYzUnU3amlBd09RWk5UQ2NqXzNxQWVjeHRscVY4bldEWEEzSEZRZ2xSellkLW9Vcw?oc=5",
+    "source": "infosecurity-magazine.com",
+    "published": "Mon, 17 Aug 2026 15:45:00 GMT",
+    "discovered_at": "2026-09-04T19:54:47.031189+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2b140e6a0d34bca48d89f2b0",
+    "title": "AWS and NVIDIA to Deploy 2 Million More GPUs in 2027-2028, Bringing Vera CPUs and Custom NVHBM to Trainium - storagereview.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVEFvaERLbTB6UW55SGJwb2RjQUFmOWs3UEZaR1hyNHNEN0pUcFlGTUF6anJjUFk3NWl3Z25PVDA0NmNSbUxMMG4tUHFWNUxwa19sN0dPY2ozZ2pEem1saTRsZTk0aWZ1U3hrYktuanRRZ3BESm0xQ0p4b0NHVmE5cW1JUlRDcHEzOU94enV0eXRhRkJ6Ynd2VmdxSjdaLWpXMmVnNmdnNTFVdk5oOG1kVDRIOEgxdjdUckpPWFMzdF96Rm4wczFZYnd0cmRicnNFVW5Pd0RLMNIB3AFBVV95cUxOMTcwRHMySl9WY3Z5WGdSRGFBRVV0Y1E1LVhmQUxYX3FtQnR5MzVOby01Y3BsblBHUU54OG95RmE4UWVTdmZ2Y2RBWjhLNloycUpUS1pkWW1FUEwyRVdrZ00yVGItRHVIUmY1SXpDYkZ3Z3NOcWduWENLQXBra3hZNTZNemhDY0hVOFpoRTk0ZW0tdnNZM2tDbi1DZy03SGxMdDZPaW1PVmRSNVFQb0ZFcnN3R2VoV094QkNPMWlCZEJuaGoxakttT3k4SzRIcjlhUy1XVW5KVnpVN214?oc=5",
+    "source": "storagereview.com",
+    "published": "Thu, 27 Aug 2026 17:21:24 GMT",
+    "discovered_at": "2026-09-04T19:54:45.244042+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "97ae2011fc6f81f7306ac606",
+    "title": "AWS and NVIDIA expand partnership for next-gen AI infrastructure - aboutamazon.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zZ2tmZ01kLUFpRnU5OEZRR0c4YnVjTmo0SU1pT0pGYzczaHc1THZvY2p3c0pYQzY3OFZSYUZYUkZPVVdYajZ2dXJLdnBlZkMxSzBwTHBfcm5JamRjTEliR1pjc3hQXzdFd2ZqcWVKaFcwNDQ?oc=5",
+    "source": "aboutamazon.com",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:54:45.243979+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "a7d8234f2d47178f4dce2ea8",
     "title": "Testing Apple’s 2026 16-inch MacBook Pro, M5 Max, and its new “performance” cores - arstechnica.com",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd05jTjNGYW1rbVZKQm1XZkJpcDIxS19tSkp3NVFhOGlqalRzd05pTEJIdFVNQXFoRmd6TGRnS1lDTWhYYXBwSDNwNy1KTVc5M3pEekczdUo3NVBLZllpYjhJT2VpTGo5SXNtNmFRclJSZUdWZ1NtTF9YWndaY01DVkFRek5vcFU5UHp3cDhFdDFhZGlFX2U4bGxveVFKbTZubWQ0ZndPXzhucWR0YXJEbEE0bnR0MGpv?oc=5",
@@ -7,6 +117,7 @@
     "published": "Mon, 09 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:07.318299+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -17,6 +128,7 @@
     "published": "Fri, 03 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838405+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -27,6 +139,7 @@
     "published": "Mon, 20 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838294+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -37,6 +150,7 @@
     "published": "Fri, 27 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838131+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -47,6 +161,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:05.298470+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -57,6 +172,7 @@
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:04.612727+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -67,6 +183,7 @@
     "published": "Mon, 31 Aug 2026 06:09:10 GMT",
     "discovered_at": "2026-09-04T19:50:04.612692+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -77,6 +194,7 @@
     "published": "Thu, 27 Aug 2026 06:18:49 GMT",
     "discovered_at": "2026-09-04T19:50:04.057855+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -87,6 +205,7 @@
     "published": "Thu, 27 Aug 2026 05:09:25 GMT",
     "discovered_at": "2026-09-04T19:50:04.057783+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -97,6 +216,7 @@
     "published": "Sat, 02 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:03.209111+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -107,6 +227,7 @@
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:01.623717+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -117,6 +238,7 @@
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:00.558903+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -127,6 +249,7 @@
     "published": "Wed, 08 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:00.012888+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -137,6 +260,7 @@
     "published": "Fri, 28 Aug 2026 07:02:38 GMT",
     "discovered_at": "2026-09-04T19:49:59.250879+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -147,6 +271,7 @@
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:49:59.250815+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -157,6 +282,7 @@
     "published": "Fri, 28 Aug 2026 06:14:11 GMT",
     "discovered_at": "2026-09-04T19:49:56.644286+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -167,6 +293,7 @@
     "published": "Thu, 27 Aug 2026 08:05:37 GMT",
     "discovered_at": "2026-09-04T19:48:43.795309+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -177,6 +304,7 @@
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:48:42.484478+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -187,6 +315,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:48:41.986456+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -197,6 +326,7 @@
     "published": "Thu, 03 Sep 2026 06:55:50 GMT",
     "discovered_at": "2026-09-04T19:48:35.934257+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -207,6 +337,7 @@
     "published": "Tue, 24 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:19.581589+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -217,6 +348,7 @@
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009463+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -227,6 +359,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009437+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -237,6 +370,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009415+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -247,6 +381,7 @@
     "published": "Mon, 31 Aug 2026 18:20:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009357+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -257,6 +392,7 @@
     "published": "Wed, 25 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009272+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -267,6 +403,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009223+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -277,6 +414,7 @@
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009192+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -287,6 +425,7 @@
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:47.323729+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -297,6 +436,7 @@
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:47.323619+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -307,6 +447,7 @@
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:45.046707+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -317,6 +458,7 @@
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:45.046570+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -327,6 +469,7 @@
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969235+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -337,6 +480,7 @@
     "published": "Fri, 09 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969212+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -347,6 +491,7 @@
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969142+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -357,6 +502,7 @@
     "published": "Thu, 30 Jan 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.413425+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -367,6 +513,7 @@
     "published": "Mon, 09 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.413364+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -377,6 +524,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:41.407627+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -387,6 +535,7 @@
     "published": "Thu, 18 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.099318+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -397,6 +546,7 @@
     "published": "Thu, 11 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.099055+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -407,6 +557,7 @@
     "published": "Sun, 14 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.098982+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -417,6 +568,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:37.638762+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -427,6 +579,7 @@
     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:36.213549+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -437,6 +590,7 @@
     "published": "Tue, 25 Aug 2026 17:00:33 GMT",
     "discovered_at": "2026-09-04T19:45:35.272748+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -447,6 +601,7 @@
     "published": "Tue, 25 Aug 2026 21:37:55 GMT",
     "discovered_at": "2026-09-04T19:45:35.272491+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -457,6 +612,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:35.272468+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -467,6 +623,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:35.272374+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -477,6 +634,7 @@
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.898353+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -487,6 +645,7 @@
     "published": "Wed, 08 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.407180+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -497,6 +656,7 @@
     "published": "Thu, 03 Sep 2026 11:41:09 GMT",
     "discovered_at": "2026-09-04T19:45:34.407140+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -507,6 +667,7 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.102200+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -517,6 +678,7 @@
     "published": "Thu, 03 Sep 2026 08:07:34 GMT",
     "discovered_at": "2026-09-04T19:45:33.800539+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -527,6 +689,7 @@
     "published": "Fri, 04 Sep 2026 07:09:25 GMT",
     "discovered_at": "2026-09-04T19:45:33.800493+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -537,6 +700,7 @@
     "published": "Sun, 30 Aug 2026 23:14:02 GMT",
     "discovered_at": "2026-09-04T19:45:33.187395+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -547,6 +711,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:33.187143+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -557,6 +722,7 @@
     "published": "Mon, 26 Jul 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004964+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -567,6 +733,7 @@
     "published": "Fri, 26 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004721+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -577,6 +744,7 @@
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004526+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -587,6 +755,7 @@
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:16.422666+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -597,6 +766,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.744653+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -607,6 +777,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173442+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -617,6 +788,7 @@
     "published": "Fri, 24 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173410+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -627,6 +799,7 @@
     "published": "Tue, 28 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173381+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -637,6 +810,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173124+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -647,6 +821,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173038+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -657,6 +832,7 @@
     "published": "Fri, 07 Jan 2022 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:13.785983+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -667,6 +843,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:12.916354+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -677,6 +854,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:12.504325+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -687,6 +865,7 @@
     "published": "Tue, 01 Sep 2026 12:19:38 GMT",
     "discovered_at": "2026-09-04T19:39:11.629920+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -697,6 +876,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:11.017304+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -707,6 +887,7 @@
     "published": "Fri, 04 Sep 2026 09:44:16 GMT",
     "discovered_at": "2026-09-04T19:39:10.373882+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -717,6 +898,7 @@
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:09.924695+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -727,6 +909,7 @@
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:08.846626+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -737,6 +920,7 @@
     "published": "Wed, 03 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:08.346494+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -747,6 +931,7 @@
     "published": "Wed, 04 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:06.464885+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -757,6 +942,7 @@
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:04.454612+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -767,6 +953,7 @@
     "published": "Thu, 03 Sep 2026 07:49:27 GMT",
     "discovered_at": "2026-09-04T19:39:04.002775+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -777,6 +964,7 @@
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:42.495602+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -787,6 +975,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:41.779829+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -797,6 +986,7 @@
     "published": "Sat, 25 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:34.926691+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -807,6 +997,7 @@
     "published": "Mon, 31 Aug 2026 15:45:20 GMT",
     "discovered_at": "2026-09-04T19:03:34.926380+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -817,6 +1008,7 @@
     "published": "Fri, 22 Aug 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:10.643614+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -827,6 +1019,7 @@
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410475+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -837,6 +1030,7 @@
     "published": "Tue, 09 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410374+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -847,6 +1041,7 @@
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410230+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -857,6 +1052,7 @@
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.907270+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -867,6 +1063,7 @@
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.907196+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -877,6 +1074,7 @@
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.357004+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -887,6 +1085,7 @@
     "published": "Fri, 19 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:06.898997+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -897,6 +1096,7 @@
     "published": "Tue, 01 Sep 2026 21:34:57 GMT",
     "discovered_at": "2026-09-04T18:59:05.685418+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -907,6 +1107,7 @@
     "published": "Mon, 22 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:05.051476+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -917,6 +1118,7 @@
     "published": "Mon, 31 Aug 2026 16:59:26 GMT",
     "discovered_at": "2026-09-04T18:59:04.508726+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -927,6 +1129,7 @@
     "published": "Fri, 04 Sep 2026 16:48:56 GMT",
     "discovered_at": "2026-09-04T18:59:03.767515+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -937,6 +1140,7 @@
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T18:59:03.767452+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -947,6 +1151,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:03.767421+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -957,6 +1162,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950333+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -967,6 +1173,7 @@
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950314+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -977,6 +1184,7 @@
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950261+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -987,6 +1195,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.197207+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -997,6 +1206,7 @@
     "published": "Fri, 03 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:01.613766+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1007,6 +1217,7 @@
     "published": "Wed, 29 Mar 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:00.193170+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1017,6 +1228,7 @@
     "published": "Sun, 19 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:00.192995+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1027,6 +1239,7 @@
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:59.651395+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1037,6 +1250,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:59.013351+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1047,6 +1261,7 @@
     "published": "Fri, 04 Sep 2026 13:05:10 GMT",
     "discovered_at": "2026-09-04T18:58:58.469196+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1057,6 +1272,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:56.812482+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1067,6 +1283,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:56.062053+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1077,6 +1294,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:55.286344+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1087,6 +1305,7 @@
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:55:14.051736+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1097,6 +1316,7 @@
     "published": "Tue, 20 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:55:12.261474+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1107,6 +1327,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:16.244706+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1117,6 +1338,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:14.314890+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1127,6 +1349,7 @@
     "published": "Thu, 27 Aug 2026 08:18:52 GMT",
     "discovered_at": "2026-09-04T18:47:11.306843+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1137,6 +1360,7 @@
     "published": "Tue, 17 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:10.521228+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1147,6 +1371,7 @@
     "published": "Mon, 31 Aug 2026 11:15:00 GMT",
     "discovered_at": "2026-09-04T18:47:08.907546+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1157,6 +1382,7 @@
     "published": "Tue, 01 Sep 2026 03:33:03 GMT",
     "discovered_at": "2026-09-04T18:47:07.757687+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1167,6 +1393,7 @@
     "published": "Tue, 16 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.894060+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1177,6 +1404,7 @@
     "published": "Mon, 23 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.167046+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1187,6 +1415,7 @@
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.167017+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1197,6 +1426,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166989+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1207,6 +1437,7 @@
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166956+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1217,6 +1448,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166921+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1227,6 +1459,7 @@
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166713+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1237,6 +1470,7 @@
     "published": "Sun, 28 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:05.617325+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1247,6 +1481,7 @@
     "published": "Sat, 04 Sep 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901962+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1257,6 +1492,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901557+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1267,6 +1503,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901444+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1277,6 +1514,7 @@
     "published": "Fri, 28 Aug 2026 03:32:03 GMT",
     "discovered_at": "2026-09-04T18:47:04.232993+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1287,6 +1525,7 @@
     "published": "Mon, 10 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:03.813375+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1297,6 +1536,7 @@
     "published": "Tue, 01 Sep 2026 19:25:23 GMT",
     "discovered_at": "2026-09-04T18:47:03.144529+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1307,6 +1547,7 @@
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:02.197250+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1317,6 +1558,7 @@
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:01.575771+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1327,6 +1569,7 @@
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:01.575422+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1337,6 +1580,7 @@
     "published": "Mon, 31 Aug 2026 03:33:49 GMT",
     "discovered_at": "2026-09-04T18:47:00.897642+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1347,6 +1591,7 @@
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:00.897586+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1357,6 +1602,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:00.897457+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1367,6 +1613,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:00.897418+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1377,6 +1624,7 @@
     "published": "Tue, 05 May 2026 18:03:14 GMT",
     "discovered_at": "2026-09-04T18:46:59.041566+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1387,6 +1635,7 @@
     "published": "Wed, 02 Sep 2026 22:14:00 GMT",
     "discovered_at": "2026-09-04T18:46:58.262381+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1397,6 +1646,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.960071+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1407,6 +1657,7 @@
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.959905+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1417,6 +1668,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.959613+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1427,6 +1679,7 @@
     "published": "Tue, 25 Aug 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:56.493562+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1437,6 +1690,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:56.493157+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1447,6 +1701,7 @@
     "published": "Tue, 01 Sep 2026 06:41:00 GMT",
     "discovered_at": "2026-09-04T18:31:22.860420+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1457,6 +1712,7 @@
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981327+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1467,6 +1723,7 @@
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981269+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1477,6 +1734,7 @@
     "published": "Tue, 12 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981126+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1487,6 +1745,7 @@
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.980957+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1497,6 +1756,7 @@
     "published": "Thu, 06 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:16.569270+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1507,6 +1767,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:13.969587+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1517,6 +1778,7 @@
     "published": "Fri, 31 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:13.186924+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1527,6 +1789,7 @@
     "published": "Fri, 04 Sep 2026 02:23:56 GMT",
     "discovered_at": "2026-09-04T18:31:10.071612+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1537,6 +1800,7 @@
     "published": "Thu, 03 Sep 2026 23:36:27 GMT",
     "discovered_at": "2026-09-04T18:31:08.012124+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1547,6 +1811,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:05.722093+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1557,6 +1822,7 @@
     "published": "Fri, 21 Aug 2026 05:56:18 GMT",
     "discovered_at": "2026-09-04T18:31:05.722055+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1567,6 +1833,7 @@
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:05.722011+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1577,6 +1844,7 @@
     "published": "Tue, 25 Aug 2026 14:19:40 GMT",
     "discovered_at": "2026-09-04T18:31:04.307769+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1587,6 +1855,7 @@
     "published": "Fri, 31 Jul 2026 12:44:02 GMT",
     "discovered_at": "2026-09-04T18:23:51.519496+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1597,6 +1866,7 @@
     "published": "Wed, 02 Sep 2026 12:00:00 GMT",
     "discovered_at": "2026-09-04T18:23:48.828564+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1607,6 +1877,7 @@
     "published": "Tue, 25 Aug 2026 12:49:02 GMT",
     "discovered_at": "2026-09-04T18:23:46.293137+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1617,6 +1888,7 @@
     "published": "Fri, 04 Sep 2026 18:09:42 GMT",
     "discovered_at": "2026-09-04T18:23:33.641299+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1627,6 +1899,7 @@
     "published": "Thu, 30 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085220+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1637,6 +1910,7 @@
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085175+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1647,6 +1921,7 @@
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085060+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1657,6 +1932,7 @@
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640347+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1667,6 +1943,7 @@
     "published": "Fri, 22 Aug 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640329+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1677,6 +1954,7 @@
     "published": "Mon, 09 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640293+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1687,6 +1965,7 @@
     "published": "Tue, 21 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640271+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1697,6 +1976,7 @@
     "published": "Sun, 12 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640251+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1707,6 +1987,7 @@
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640232+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1717,6 +1998,7 @@
     "published": "Sat, 28 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579881+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1727,6 +2009,7 @@
     "published": "Fri, 03 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579857+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1737,6 +2020,7 @@
     "published": "Tue, 24 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579761+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1747,6 +2031,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579734+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1757,6 +2042,7 @@
     "published": "Sat, 13 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579629+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1767,6 +2053,7 @@
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:48.451763+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1777,6 +2064,7 @@
     "published": "Fri, 31 Jul 2026 12:44:02 GMT",
     "discovered_at": "2026-09-04T18:18:48.451743+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1787,6 +2075,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:48.451691+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1797,6 +2086,7 @@
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538180+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1807,6 +2097,7 @@
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538145+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1817,6 +2108,7 @@
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538113+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1827,6 +2119,7 @@
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538099+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1837,6 +2130,7 @@
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538079+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1847,6 +2141,7 @@
     "published": "Tue, 12 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538060+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1857,6 +2152,7 @@
     "published": "Tue, 09 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538029+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1867,6 +2163,7 @@
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538014+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1877,6 +2174,7 @@
     "published": "Wed, 10 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537995+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1887,6 +2185,7 @@
     "published": "Sun, 10 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537974+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1897,6 +2196,7 @@
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537954+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1907,6 +2207,7 @@
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537909+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1917,6 +2218,7 @@
     "published": "Tue, 22 Jul 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195319+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1927,6 +2229,7 @@
     "published": "Wed, 29 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195301+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1937,6 +2240,7 @@
     "published": "Tue, 28 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195281+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1947,6 +2251,7 @@
     "published": "Sat, 28 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195265+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1957,6 +2262,7 @@
     "published": "Mon, 03 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195250+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1967,6 +2273,7 @@
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195224+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1977,6 +2284,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195185+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1987,6 +2295,7 @@
     "published": "Wed, 14 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195158+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -1997,6 +2306,7 @@
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195136+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2007,6 +2317,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195098+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2017,6 +2328,7 @@
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195080+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2027,6 +2339,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195048+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2037,6 +2350,7 @@
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:45.565165+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2047,6 +2361,7 @@
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:45.565130+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2057,6 +2372,7 @@
     "published": "Fri, 04 Sep 2026 09:48:43 GMT",
     "discovered_at": "2026-09-04T18:18:45.565113+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2067,6 +2383,7 @@
     "published": "Thu, 27 Aug 2026 10:50:33 GMT",
     "discovered_at": "2026-09-04T18:18:44.689128+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2077,6 +2394,7 @@
     "published": "Thu, 27 Aug 2026 13:05:16 GMT",
     "discovered_at": "2026-09-04T18:18:44.689074+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2087,6 +2405,7 @@
     "published": "Thu, 27 Aug 2026 08:05:37 GMT",
     "discovered_at": "2026-09-04T18:18:44.688965+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2097,6 +2416,7 @@
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248765+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2107,6 +2427,7 @@
     "published": "Thu, 27 Aug 2026 22:08:28 GMT",
     "discovered_at": "2026-09-04T18:18:44.248749+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2117,6 +2438,7 @@
     "published": "Fri, 21 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248711+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2127,6 +2449,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248639+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2137,6 +2460,7 @@
     "published": "Sat, 22 Aug 2026 02:44:19 GMT",
     "discovered_at": "2026-09-04T18:18:44.248598+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2147,6 +2471,7 @@
     "published": "Tue, 30 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:43.527535+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2157,6 +2482,7 @@
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:43.527399+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2167,6 +2493,7 @@
     "published": "Tue, 11 Aug 2026 11:16:28 GMT",
     "discovered_at": "2026-09-04T18:18:43.527374+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2177,6 +2504,7 @@
     "published": "Wed, 19 Aug 2026 22:52:45 GMT",
     "discovered_at": "2026-09-04T18:18:42.617617+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2187,6 +2515,7 @@
     "published": "Tue, 01 Sep 2026 20:46:25 GMT",
     "discovered_at": "2026-09-04T18:18:42.617522+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2197,6 +2526,7 @@
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017577+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2207,6 +2537,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017559+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2217,6 +2548,7 @@
     "published": "Thu, 06 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017526+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2227,6 +2559,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017477+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2237,6 +2570,7 @@
     "published": "Fri, 04 Sep 2026 16:48:56 GMT",
     "discovered_at": "2026-09-04T18:18:42.017451+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2247,6 +2581,7 @@
     "published": "Mon, 31 Aug 2026 15:38:31 GMT",
     "discovered_at": "2026-09-04T18:18:42.017426+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2257,6 +2592,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082800+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2267,6 +2603,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082718+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2277,6 +2614,7 @@
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082640+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2287,6 +2625,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082622+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2297,6 +2636,7 @@
     "published": "Fri, 04 Sep 2026 09:44:16 GMT",
     "discovered_at": "2026-09-04T18:18:41.082578+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2307,6 +2647,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:40.185020+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2317,6 +2658,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:40.184937+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2327,6 +2669,7 @@
     "published": "Tue, 01 Sep 2026 02:05:29 GMT",
     "discovered_at": "2026-09-04T18:18:39.291461+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2337,6 +2680,7 @@
     "published": "Fri, 19 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:38.599000+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2347,6 +2691,7 @@
     "published": "Fri, 31 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:38.598937+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2357,6 +2702,7 @@
     "published": "Thu, 21 Sep 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717238+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2367,6 +2713,7 @@
     "published": "Sat, 04 Sep 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717209+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2377,6 +2724,7 @@
     "published": "Wed, 03 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717190+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2387,6 +2735,7 @@
     "published": "Tue, 25 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717106+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2397,6 +2746,7 @@
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.716990+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2407,6 +2757,7 @@
     "published": "Tue, 11 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:36.120634+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2417,6 +2768,7 @@
     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:36.120474+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2427,6 +2779,7 @@
     "published": "Thu, 03 Sep 2026 13:05:41 GMT",
     "discovered_at": "2026-09-04T18:18:35.344013+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2437,6 +2790,7 @@
     "published": "Fri, 04 Sep 2026 12:28:42 GMT",
     "discovered_at": "2026-09-04T18:18:35.343983+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2447,6 +2801,7 @@
     "published": "Fri, 04 Sep 2026 15:56:01 GMT",
     "discovered_at": "2026-09-04T18:18:35.343944+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2457,6 +2812,7 @@
     "published": "Fri, 04 Sep 2026 13:05:10 GMT",
     "discovered_at": "2026-09-04T18:18:35.343926+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2467,6 +2823,7 @@
     "published": "Fri, 04 Sep 2026 11:00:17 GMT",
     "discovered_at": "2026-09-04T18:18:35.343880+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2477,6 +2834,7 @@
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:35.343827+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2487,6 +2845,7 @@
     "published": "Tue, 13 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.493492+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2497,6 +2856,7 @@
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.493385+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2507,6 +2867,7 @@
     "published": "Thu, 15 Jan 2026 14:14:28 GMT",
     "discovered_at": "2026-09-04T18:18:34.493354+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": "ded63aafb07871c783a46357"
   },
   {
@@ -2517,6 +2878,7 @@
     "published": "Thu, 11 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103665+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2527,6 +2889,7 @@
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103651+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2537,6 +2900,7 @@
     "published": "Fri, 16 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103561+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2547,6 +2911,7 @@
     "published": "Fri, 06 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103529+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2557,6 +2922,7 @@
     "published": "Tue, 25 Aug 2026 15:13:25 GMT",
     "discovered_at": "2026-09-04T18:18:32.579193+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2567,6 +2933,7 @@
     "published": "Thu, 03 Sep 2026 19:30:21 GMT",
     "discovered_at": "2026-09-04T18:18:32.579157+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2577,6 +2944,7 @@
     "published": "Sat, 29 Aug 2026 02:18:01 GMT",
     "discovered_at": "2026-09-04T18:18:32.579128+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2587,6 +2955,7 @@
     "published": "Fri, 04 Sep 2026 14:26:17 GMT",
     "discovered_at": "2026-09-04T18:18:32.579069+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2597,6 +2966,7 @@
     "published": "Tue, 25 Aug 2026 13:01:30 GMT",
     "discovered_at": "2026-09-04T18:18:32.579041+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2607,6 +2977,7 @@
     "published": "Fri, 04 Sep 2026 10:02:16 GMT",
     "discovered_at": "2026-09-04T18:18:32.579005+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2617,6 +2988,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:32.578959+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2627,6 +2999,7 @@
     "published": "Fri, 24 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436926+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2637,6 +3010,7 @@
     "published": "Sat, 09 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436845+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2647,6 +3021,7 @@
     "published": "Mon, 20 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436826+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2657,6 +3032,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436697+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2667,6 +3043,7 @@
     "published": "Fri, 04 Sep 2026 12:18:16 GMT",
     "discovered_at": "2026-09-04T18:18:30.385322+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2677,6 +3054,7 @@
     "published": "Thu, 03 Sep 2026 11:41:09 GMT",
     "discovered_at": "2026-09-04T18:18:30.385237+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2687,6 +3065,7 @@
     "published": "Thu, 03 Sep 2026 06:55:50 GMT",
     "discovered_at": "2026-09-04T18:18:30.385206+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2697,6 +3076,7 @@
     "published": "Thu, 03 Sep 2026 08:33:19 GMT",
     "discovered_at": "2026-09-04T18:18:30.385190+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2707,6 +3087,7 @@
     "published": "Fri, 04 Sep 2026 11:03:00 GMT",
     "discovered_at": "2026-09-04T18:18:30.385090+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2717,6 +3098,7 @@
     "published": "Sun, 12 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676550+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2727,7 +3109,8 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676505+00:00",
     "status": "Unreviewed discovery",
-    "duplicate_of": ""
+    "source_tier": "E",
+    "duplicate_of": "6777477156dff576f696c513"
   },
   {
     "id": "b741d801f718d01c5a308d83",
@@ -2737,6 +3120,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676345+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2747,6 +3131,7 @@
     "published": "Fri, 21 Aug 2026 20:36:01 GMT",
     "discovered_at": "2026-09-04T18:18:29.676322+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2757,6 +3142,7 @@
     "published": "Fri, 04 Sep 2026 13:48:18 GMT",
     "discovered_at": "2026-09-04T18:18:29.061587+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2767,6 +3153,7 @@
     "published": "Fri, 04 Sep 2026 07:09:25 GMT",
     "discovered_at": "2026-09-04T18:18:29.061375+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2777,6 +3164,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:28.172206+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2787,6 +3175,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:28.172144+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2797,6 +3186,7 @@
     "published": "Fri, 04 Sep 2026 18:09:42 GMT",
     "discovered_at": "2026-09-04T18:18:28.171944+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2807,6 +3197,7 @@
     "published": "Wed, 21 Feb 2024 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816841+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2817,6 +3208,7 @@
     "published": "Tue, 29 Apr 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816816+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2827,6 +3219,7 @@
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816797+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2837,6 +3230,7 @@
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816775+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2847,6 +3241,7 @@
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816732+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2857,6 +3252,7 @@
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816716+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2867,6 +3263,7 @@
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816700+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2877,6 +3274,7 @@
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816681+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2887,6 +3285,7 @@
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816664+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2897,6 +3296,7 @@
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816634+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2907,6 +3307,7 @@
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816607+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2917,6 +3318,7 @@
     "published": "Tue, 10 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275643+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2927,6 +3329,7 @@
     "published": "Mon, 10 Jul 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275621+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2937,6 +3340,7 @@
     "published": "Fri, 31 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275598+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2947,6 +3351,7 @@
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275578+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2957,6 +3362,7 @@
     "published": "Wed, 29 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275558+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2967,6 +3373,7 @@
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275542+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2977,6 +3384,7 @@
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275499+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2987,6 +3395,7 @@
     "published": "Fri, 28 Aug 2026 07:33:04 GMT",
     "discovered_at": "2026-09-04T09:45:43.275436+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -2997,6 +3406,7 @@
     "published": "Sat, 06 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400690+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3007,6 +3417,7 @@
     "published": "Thu, 30 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400657+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3017,6 +3428,7 @@
     "published": "Fri, 01 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400641+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3027,6 +3439,7 @@
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400623+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3037,6 +3450,7 @@
     "published": "Mon, 08 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400599+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3047,6 +3461,7 @@
     "published": "Mon, 20 Apr 2026 07:42:40 GMT",
     "discovered_at": "2026-09-04T09:45:42.400575+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3057,6 +3472,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400557+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3067,6 +3483,7 @@
     "published": "Mon, 15 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400523+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3077,6 +3494,7 @@
     "published": "Mon, 06 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400505+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3087,6 +3505,7 @@
     "published": "Fri, 01 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400487+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3097,6 +3516,7 @@
     "published": "Fri, 27 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400467+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3107,6 +3527,7 @@
     "published": "Sat, 13 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400432+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3117,6 +3538,7 @@
     "published": "Sat, 20 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475659+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3127,6 +3549,7 @@
     "published": "Tue, 26 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475642+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3137,6 +3560,7 @@
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475611+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3147,6 +3571,7 @@
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475589+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3157,6 +3582,7 @@
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475554+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3167,6 +3593,7 @@
     "published": "Sun, 17 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475533+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3177,6 +3604,7 @@
     "published": "Mon, 17 Aug 2026 15:45:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475513+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3187,6 +3615,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475495+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3197,6 +3626,7 @@
     "published": "Tue, 01 Sep 2026 06:41:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475476+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3207,6 +3637,7 @@
     "published": "Tue, 28 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475439+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3217,6 +3648,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:45:41.475417+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3227,6 +3659,7 @@
     "published": "Fri, 04 Sep 2026 05:38:57 GMT",
     "discovered_at": "2026-09-04T09:45:41.475388+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3237,6 +3670,7 @@
     "published": "Fri, 07 Jan 2022 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523558+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3247,6 +3681,7 @@
     "published": "Tue, 10 Jan 2023 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523541+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3257,6 +3692,7 @@
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523513+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3267,6 +3703,7 @@
     "published": "Mon, 22 May 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523484+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3277,6 +3714,7 @@
     "published": "Mon, 15 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840452+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3287,6 +3725,7 @@
     "published": "Thu, 09 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840433+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3297,6 +3736,7 @@
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840414+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3307,6 +3747,7 @@
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840398+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3317,6 +3758,7 @@
     "published": "Wed, 22 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840380+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3327,6 +3769,7 @@
     "published": "Mon, 31 Aug 2026 06:09:10 GMT",
     "discovered_at": "2026-09-04T09:45:39.840356+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3337,6 +3780,7 @@
     "published": "Tue, 23 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840339+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3347,6 +3791,7 @@
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840321+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3357,6 +3802,7 @@
     "published": "Wed, 02 Sep 2026 20:00:30 GMT",
     "discovered_at": "2026-09-04T09:45:39.840295+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3367,6 +3813,7 @@
     "published": "Tue, 25 Aug 2026 12:13:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840276+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3377,6 +3824,7 @@
     "published": "Wed, 02 Sep 2026 12:09:47 GMT",
     "discovered_at": "2026-09-04T09:45:39.840252+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3387,6 +3835,7 @@
     "published": "Mon, 31 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840218+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3397,6 +3846,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391493+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3407,6 +3857,7 @@
     "published": "Thu, 27 Aug 2026 20:07:47 GMT",
     "discovered_at": "2026-09-04T09:45:38.391473+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3417,6 +3868,7 @@
     "published": "Thu, 27 Aug 2026 06:18:49 GMT",
     "discovered_at": "2026-09-04T09:45:38.391450+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3427,6 +3879,7 @@
     "published": "Fri, 28 Aug 2026 15:28:05 GMT",
     "discovered_at": "2026-09-04T09:45:38.391413+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3437,6 +3890,7 @@
     "published": "Thu, 27 Aug 2026 05:09:25 GMT",
     "discovered_at": "2026-09-04T09:45:38.391395+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3447,6 +3901,7 @@
     "published": "Thu, 27 Aug 2026 12:02:42 GMT",
     "discovered_at": "2026-09-04T09:45:38.391358+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3457,6 +3912,7 @@
     "published": "Thu, 27 Aug 2026 08:18:52 GMT",
     "discovered_at": "2026-09-04T09:45:38.391340+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3467,6 +3923,7 @@
     "published": "Thu, 27 Aug 2026 11:50:12 GMT",
     "discovered_at": "2026-09-04T09:45:38.391305+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3477,7 +3934,8 @@
     "published": "Thu, 27 Aug 2026 17:21:24 GMT",
     "discovered_at": "2026-09-04T09:45:38.391287+00:00",
     "status": "Unreviewed discovery",
-    "duplicate_of": ""
+    "source_tier": "E",
+    "duplicate_of": "2b140e6a0d34bca48d89f2b0"
   },
   {
     "id": "d67b0f9c1cf9b15b92122ffc",
@@ -3487,6 +3945,7 @@
     "published": "Mon, 31 Aug 2026 11:12:40 GMT",
     "discovered_at": "2026-09-04T09:45:38.391251+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3497,6 +3956,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391230+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3507,6 +3967,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391204+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3517,6 +3978,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543819+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3527,6 +3989,7 @@
     "published": "Thu, 02 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543798+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3537,6 +4000,7 @@
     "published": "Thu, 05 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543777+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3547,6 +4011,7 @@
     "published": "Thu, 27 Aug 2026 22:08:28 GMT",
     "discovered_at": "2026-09-04T09:45:36.543760+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3557,6 +4022,7 @@
     "published": "Thu, 21 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543735+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3567,6 +4033,7 @@
     "published": "Fri, 21 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543712+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3577,6 +4044,7 @@
     "published": "Tue, 17 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543680+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3587,6 +4055,7 @@
     "published": "Sun, 25 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543631+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3597,6 +4066,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543607+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3607,6 +4077,7 @@
     "published": "Thu, 20 Aug 2026 04:02:19 GMT",
     "discovered_at": "2026-09-04T09:45:36.543587+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3617,6 +4088,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543568+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3627,6 +4099,7 @@
     "published": "Tue, 01 Sep 2026 21:34:57 GMT",
     "discovered_at": "2026-09-04T09:45:36.543538+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3637,6 +4110,7 @@
     "published": "Tue, 13 Jul 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707586+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3647,6 +4121,7 @@
     "published": "Thu, 30 Jan 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707565+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3657,6 +4132,7 @@
     "published": "Mon, 09 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707544+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3667,6 +4143,7 @@
     "published": "Mon, 26 Feb 2024 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707527+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3677,6 +4154,7 @@
     "published": "Tue, 30 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707506+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3687,6 +4165,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707485+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3697,6 +4176,7 @@
     "published": "Sun, 16 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707466+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3707,6 +4187,7 @@
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707446+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3717,6 +4198,7 @@
     "published": "Sat, 02 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707410+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3727,6 +4209,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707390+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3737,6 +4220,7 @@
     "published": "Wed, 24 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707368+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3747,6 +4231,7 @@
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707338+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3757,6 +4242,7 @@
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852184+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": "7adbaece0550d6afada92cf4"
   },
   {
@@ -3767,6 +4253,7 @@
     "published": "Tue, 25 Aug 2026 12:49:02 GMT",
     "discovered_at": "2026-09-04T09:45:34.852153+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3777,6 +4264,7 @@
     "published": "Mon, 13 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852138+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3787,6 +4275,7 @@
     "published": "Wed, 18 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852121+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3797,6 +4286,7 @@
     "published": "Fri, 17 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852100+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3807,6 +4297,7 @@
     "published": "Wed, 22 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852081+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3817,6 +4308,7 @@
     "published": "Mon, 31 Aug 2026 11:15:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852050+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3827,6 +4319,7 @@
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852027+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3837,6 +4330,7 @@
     "published": "Tue, 01 Sep 2026 12:19:38 GMT",
     "discovered_at": "2026-09-04T09:45:34.852008+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3847,6 +4341,7 @@
     "published": "Mon, 31 Aug 2026 18:15:23 GMT",
     "discovered_at": "2026-09-04T09:45:34.851976+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3857,6 +4352,7 @@
     "published": "Fri, 04 Sep 2026 00:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.851953+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3867,6 +4363,7 @@
     "published": "Mon, 31 Aug 2026 16:59:26 GMT",
     "discovered_at": "2026-09-04T09:45:34.851925+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3877,6 +4374,7 @@
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.901015+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3887,6 +4385,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900994+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3897,6 +4396,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900979+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3907,6 +4407,7 @@
     "published": "Mon, 31 Aug 2026 14:03:44 GMT",
     "discovered_at": "2026-09-04T09:45:33.900942+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3917,6 +4418,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900924+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3927,6 +4429,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900856+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3937,6 +4440,7 @@
     "published": "Tue, 01 Sep 2026 02:09:53 GMT",
     "discovered_at": "2026-09-04T09:45:33.900829+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3947,6 +4451,7 @@
     "published": "Tue, 01 Sep 2026 11:08:34 GMT",
     "discovered_at": "2026-09-04T09:45:33.900806+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3957,6 +4462,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900787+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3967,6 +4473,7 @@
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900758+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3977,6 +4484,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823217+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3987,6 +4495,7 @@
     "published": "Fri, 20 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823187+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -3997,6 +4506,7 @@
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823171+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4007,6 +4517,7 @@
     "published": "Tue, 25 Aug 2026 03:34:45 GMT",
     "discovered_at": "2026-09-04T09:45:32.823142+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4017,6 +4528,7 @@
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823124+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4027,6 +4539,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823103+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4037,6 +4550,7 @@
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823080+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4047,6 +4561,7 @@
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823062+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4057,6 +4572,7 @@
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823047+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4067,6 +4583,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823016+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4077,6 +4594,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.822994+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4087,6 +4605,7 @@
     "published": "Tue, 01 Sep 2026 03:33:03 GMT",
     "discovered_at": "2026-09-04T09:45:32.822971+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4097,6 +4616,7 @@
     "published": "Sat, 22 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878543+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4107,6 +4627,7 @@
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878516+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4117,6 +4638,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878501+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4127,6 +4649,7 @@
     "published": "Sat, 22 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878476+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4137,6 +4660,7 @@
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878455+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4147,6 +4671,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878439+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4157,6 +4682,7 @@
     "published": "Tue, 16 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878418+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4167,6 +4693,7 @@
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878393+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4177,6 +4704,7 @@
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878371+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4187,6 +4715,7 @@
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878343+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": "628125464f14d84d709c0c3c"
   },
   {
@@ -4197,6 +4726,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878323+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4207,6 +4737,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878292+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4217,6 +4748,7 @@
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.806840+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4227,6 +4759,7 @@
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278609+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4237,6 +4770,7 @@
     "published": "Wed, 08 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278558+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4247,6 +4781,7 @@
     "published": "Tue, 28 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278460+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4257,6 +4792,7 @@
     "published": "Fri, 19 Jun 2026 02:35:45 GMT",
     "discovered_at": "2026-09-04T09:45:29.154595+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4267,6 +4803,7 @@
     "published": "Mon, 06 Jul 2026 07:06:01 GMT",
     "discovered_at": "2026-09-04T09:45:28.757498+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4277,6 +4814,7 @@
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:28.311369+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4287,6 +4825,7 @@
     "published": "Mon, 04 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:27.389763+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4297,6 +4836,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:45:25.893543+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4307,6 +4847,7 @@
     "published": "Tue, 07 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:25.893389+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4317,6 +4858,7 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:22.890298+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": "6548ade8034556f613e4a18b"
   },
   {
@@ -4327,6 +4869,7 @@
     "published": "Wed, 19 Aug 2026 01:35:24 GMT",
     "discovered_at": "2026-09-04T09:45:22.235747+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4337,6 +4880,7 @@
     "published": "Mon, 24 Aug 2026 14:27:00 GMT",
     "discovered_at": "2026-09-04T09:45:21.635175+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4347,6 +4891,7 @@
     "published": "Mon, 23 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821248+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4357,6 +4902,7 @@
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821240+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4367,6 +4913,7 @@
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821232+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4377,6 +4924,7 @@
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821223+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4387,6 +4935,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821215+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4397,6 +4946,7 @@
     "published": "Fri, 12 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821206+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4407,6 +4957,7 @@
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821196+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4417,6 +4968,7 @@
     "published": "Tue, 24 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821187+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4427,6 +4979,7 @@
     "published": "Wed, 15 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821176+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4437,6 +4990,7 @@
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821167+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4447,6 +5001,7 @@
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821157+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4457,6 +5012,7 @@
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821139+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4467,6 +5023,7 @@
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672860+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4477,6 +5034,7 @@
     "published": "Fri, 19 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672852+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4487,6 +5045,7 @@
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672843+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4497,6 +5056,7 @@
     "published": "Tue, 16 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672835+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4507,6 +5067,7 @@
     "published": "Wed, 05 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672826+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4517,6 +5078,7 @@
     "published": "Wed, 21 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672818+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4527,6 +5089,7 @@
     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672811+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4537,6 +5100,7 @@
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672802+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4547,6 +5111,7 @@
     "published": "Sun, 28 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672794+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4557,6 +5122,7 @@
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672785+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4567,6 +5133,7 @@
     "published": "Mon, 13 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672776+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4577,6 +5144,7 @@
     "published": "Mon, 23 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672759+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4587,6 +5155,7 @@
     "published": "Fri, 25 Jul 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019656+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4597,6 +5166,7 @@
     "published": "Mon, 08 May 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019620+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4607,6 +5177,7 @@
     "published": "Tue, 25 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019602+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4617,6 +5188,7 @@
     "published": "Wed, 17 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019584+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4627,6 +5199,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019565+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4637,6 +5210,7 @@
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019547+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4647,6 +5221,7 @@
     "published": "Mon, 03 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019527+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4657,6 +5232,7 @@
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019487+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4667,6 +5243,7 @@
     "published": "Tue, 25 Aug 2026 18:55:08 GMT",
     "discovered_at": "2026-09-04T09:26:52.019465+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4677,6 +5254,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019432+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4687,6 +5265,7 @@
     "published": "Thu, 18 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.686024+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4697,6 +5276,7 @@
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.686011+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4707,6 +5287,7 @@
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685995+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4717,6 +5298,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685976+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4727,6 +5309,7 @@
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685963+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4737,6 +5320,7 @@
     "published": "Fri, 19 Jun 2026 02:35:45 GMT",
     "discovered_at": "2026-09-04T09:26:51.685949+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4747,6 +5331,7 @@
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685936+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4757,6 +5342,7 @@
     "published": "Fri, 28 Aug 2026 07:02:38 GMT",
     "discovered_at": "2026-09-04T09:26:51.685923+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4767,6 +5353,7 @@
     "published": "Thu, 11 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685908+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4777,6 +5364,7 @@
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685895+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4787,6 +5375,7 @@
     "published": "Sun, 14 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685879+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4797,6 +5386,7 @@
     "published": "Fri, 28 Aug 2026 03:32:03 GMT",
     "discovered_at": "2026-09-04T09:26:51.685852+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4807,6 +5397,7 @@
     "published": "Mon, 06 Jul 2026 07:06:01 GMT",
     "discovered_at": "2026-09-04T09:26:50.915457+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4817,6 +5408,7 @@
     "published": "Wed, 12 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915449+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4827,6 +5419,7 @@
     "published": "Sat, 18 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915441+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4837,6 +5430,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915434+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4847,6 +5441,7 @@
     "published": "Mon, 10 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915425+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4857,6 +5452,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915417+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4867,6 +5463,7 @@
     "published": "Sat, 22 Aug 2026 03:45:24 GMT",
     "discovered_at": "2026-09-04T09:26:50.915409+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4877,6 +5474,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915401+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4887,6 +5485,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915390+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4897,6 +5496,7 @@
     "published": "Sun, 12 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915381+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4907,6 +5507,7 @@
     "published": "Thu, 27 Aug 2026 10:00:13 GMT",
     "discovered_at": "2026-09-04T09:26:50.915372+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4917,6 +5518,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915354+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4927,6 +5529,7 @@
     "published": "Sun, 30 Aug 2026 20:43:12 GMT",
     "discovered_at": "2026-09-04T09:26:50.178863+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4937,6 +5540,7 @@
     "published": "Fri, 04 Sep 2026 05:51:20 GMT",
     "discovered_at": "2026-09-04T09:26:50.178855+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4947,6 +5551,7 @@
     "published": "Tue, 01 Sep 2026 19:25:23 GMT",
     "discovered_at": "2026-09-04T09:26:50.178846+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4957,6 +5562,7 @@
     "published": "Thu, 03 Sep 2026 23:41:04 GMT",
     "discovered_at": "2026-09-04T09:26:50.178837+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4967,6 +5573,7 @@
     "published": "Thu, 03 Sep 2026 16:00:08 GMT",
     "discovered_at": "2026-09-04T09:26:50.178828+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4977,6 +5584,7 @@
     "published": "Thu, 03 Sep 2026 21:25:06 GMT",
     "discovered_at": "2026-09-04T09:26:50.178817+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4987,6 +5595,7 @@
     "published": "Thu, 03 Sep 2026 16:02:48 GMT",
     "discovered_at": "2026-09-04T09:26:50.178808+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -4997,6 +5606,7 @@
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178798+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5007,6 +5617,7 @@
     "published": "Fri, 04 Sep 2026 06:59:04 GMT",
     "discovered_at": "2026-09-04T09:26:50.178788+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5017,6 +5628,7 @@
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178769+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5027,6 +5639,7 @@
     "published": "Thu, 03 Sep 2026 20:29:38 GMT",
     "discovered_at": "2026-09-04T09:26:50.178758+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5037,6 +5650,7 @@
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178739+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5047,6 +5661,7 @@
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295556+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5057,6 +5672,7 @@
     "published": "Sat, 25 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295547+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5067,6 +5683,7 @@
     "published": "Mon, 02 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295537+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5077,6 +5694,7 @@
     "published": "Wed, 04 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295525+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": "30194969ca328499d9e08aa1"
   },
   {
@@ -5087,6 +5705,7 @@
     "published": "Thu, 20 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295516+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5097,6 +5716,7 @@
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295506+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5107,6 +5727,7 @@
     "published": "Thu, 15 Jan 2026 14:14:28 GMT",
     "discovered_at": "2026-09-04T09:26:49.295494+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5117,6 +5738,7 @@
     "published": "Mon, 04 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295484+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5127,6 +5749,7 @@
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295473+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5137,6 +5760,7 @@
     "published": "Mon, 31 Aug 2026 15:45:20 GMT",
     "discovered_at": "2026-09-04T09:26:49.295459+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5147,6 +5771,7 @@
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295447+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5157,6 +5782,7 @@
     "published": "Wed, 26 Aug 2026 12:05:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295426+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5167,6 +5793,7 @@
     "published": "Thu, 02 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634264+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5177,6 +5804,7 @@
     "published": "Thu, 11 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634255+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5187,6 +5815,7 @@
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634247+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5197,6 +5826,7 @@
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634239+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5207,6 +5837,7 @@
     "published": "Sat, 30 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634230+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5217,6 +5848,7 @@
     "published": "Fri, 16 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634220+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5227,6 +5859,7 @@
     "published": "Fri, 06 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634212+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5237,6 +5870,7 @@
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634204+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5247,6 +5881,7 @@
     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634194+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5257,6 +5892,7 @@
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634186+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5267,6 +5903,7 @@
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634173+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5277,6 +5914,7 @@
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634154+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5287,6 +5925,7 @@
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858270+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5297,6 +5936,7 @@
     "published": "Sun, 08 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858260+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5307,6 +5947,7 @@
     "published": "Fri, 10 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858250+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5317,6 +5958,7 @@
     "published": "Mon, 31 Aug 2026 03:33:49 GMT",
     "discovered_at": "2026-09-04T09:26:47.858240+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5327,6 +5969,7 @@
     "published": "Sat, 18 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858229+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5337,6 +5980,7 @@
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858218+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5347,6 +5991,7 @@
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858206+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5357,6 +6002,7 @@
     "published": "Tue, 07 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858194+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5367,6 +6013,7 @@
     "published": "Sat, 16 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858183+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5377,6 +6024,7 @@
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858169+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5387,6 +6035,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:26:47.858157+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5397,6 +6046,7 @@
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:26:47.858137+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5407,6 +6057,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844453+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5417,6 +6068,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844446+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5427,6 +6079,7 @@
     "published": "Wed, 26 Aug 2026 00:59:37 GMT",
     "discovered_at": "2026-09-04T09:26:46.844437+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5437,6 +6090,7 @@
     "published": "Tue, 25 Aug 2026 15:13:25 GMT",
     "discovered_at": "2026-09-04T09:26:46.844430+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5447,6 +6101,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844421+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5457,6 +6112,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844412+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5467,6 +6123,7 @@
     "published": "Thu, 03 Sep 2026 19:20:50 GMT",
     "discovered_at": "2026-09-04T09:26:46.844404+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5477,6 +6134,7 @@
     "published": "Tue, 25 Aug 2026 13:01:30 GMT",
     "discovered_at": "2026-09-04T09:26:46.844394+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5487,6 +6145,7 @@
     "published": "Thu, 03 Sep 2026 19:30:21 GMT",
     "discovered_at": "2026-09-04T09:26:46.844385+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5497,6 +6156,7 @@
     "published": "Thu, 03 Sep 2026 23:36:27 GMT",
     "discovered_at": "2026-09-04T09:26:46.844376+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5507,6 +6167,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844367+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5517,6 +6178,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844351+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5527,6 +6189,7 @@
     "published": "Mon, 19 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165575+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5537,6 +6200,7 @@
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165561+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5547,6 +6211,7 @@
     "published": "Fri, 24 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165545+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5557,6 +6222,7 @@
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165531+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5567,6 +6233,7 @@
     "published": "Fri, 07 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165519+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5577,6 +6244,7 @@
     "published": "Thu, 23 Jul 2026 18:31:43 GMT",
     "discovered_at": "2026-09-04T09:26:46.165506+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5587,6 +6255,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165493+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5597,6 +6266,7 @@
     "published": "Mon, 20 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165477+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5607,6 +6277,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165463+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5617,6 +6288,7 @@
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165446+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5627,6 +6299,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165429+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5637,6 +6310,7 @@
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165401+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5647,6 +6321,7 @@
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328994+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5657,6 +6332,7 @@
     "published": "Mon, 16 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328987+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5667,6 +6343,7 @@
     "published": "Wed, 08 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328979+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5677,6 +6354,7 @@
     "published": "Thu, 03 Sep 2026 08:33:19 GMT",
     "discovered_at": "2026-09-04T09:26:45.328970+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5687,6 +6365,7 @@
     "published": "Wed, 02 Sep 2026 22:14:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328961+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5697,6 +6376,7 @@
     "published": "Thu, 03 Sep 2026 07:49:27 GMT",
     "discovered_at": "2026-09-04T09:26:45.328951+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5707,6 +6387,7 @@
     "published": "Thu, 03 Sep 2026 06:04:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328934+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5717,6 +6398,7 @@
     "published": "Thu, 12 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696848+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5727,6 +6409,7 @@
     "published": "Sat, 16 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696841+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5737,6 +6420,7 @@
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696834+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5747,7 +6431,8 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696826+00:00",
     "status": "Unreviewed discovery",
-    "duplicate_of": "88f4ec678eb0051ac6907463"
+    "source_tier": "E",
+    "duplicate_of": ""
   },
   {
     "id": "1ecec9a791e5f69d2433111d",
@@ -5757,6 +6442,7 @@
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696817+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5767,6 +6453,7 @@
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696808+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5777,6 +6464,7 @@
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696801+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5787,6 +6475,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696792+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5797,6 +6486,7 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696784+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5807,6 +6497,7 @@
     "published": "Tue, 25 Aug 2026 05:16:38 GMT",
     "discovered_at": "2026-09-04T09:26:44.696777+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5817,6 +6508,7 @@
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696768+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5827,6 +6519,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696752+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5837,6 +6530,7 @@
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970417+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5847,6 +6541,7 @@
     "published": "Fri, 04 Sep 2026 06:56:42 GMT",
     "discovered_at": "2026-09-04T09:26:43.970406+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5857,6 +6552,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970395+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5867,6 +6563,7 @@
     "published": "Wed, 19 Aug 2026 01:35:24 GMT",
     "discovered_at": "2026-09-04T09:26:43.970382+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5877,6 +6574,7 @@
     "published": "Tue, 01 Sep 2026 16:40:33 GMT",
     "discovered_at": "2026-09-04T09:26:43.970371+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5887,6 +6585,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970356+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5897,6 +6596,7 @@
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970345+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5907,6 +6607,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970334+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5917,6 +6618,7 @@
     "published": "Thu, 03 Sep 2026 08:07:34 GMT",
     "discovered_at": "2026-09-04T09:26:43.970322+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5927,6 +6629,7 @@
     "published": "Thu, 03 Sep 2026 14:14:58 GMT",
     "discovered_at": "2026-09-04T09:26:43.970308+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5937,6 +6640,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970293+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5947,6 +6651,7 @@
     "published": "Wed, 02 Sep 2026 13:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970269+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5957,6 +6662,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350982+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5967,6 +6673,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350975+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5977,6 +6684,7 @@
     "published": "Mon, 24 Aug 2026 12:00:24 GMT",
     "discovered_at": "2026-09-04T09:26:43.350968+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5987,6 +6695,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350959+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -5997,6 +6706,7 @@
     "published": "Mon, 24 Aug 2026 14:27:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350951+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6007,6 +6717,7 @@
     "published": "Mon, 24 Aug 2026 11:19:34 GMT",
     "discovered_at": "2026-09-04T09:26:43.350944+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6017,6 +6728,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350936+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6027,6 +6739,7 @@
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350927+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6037,6 +6750,7 @@
     "published": "Sat, 29 Aug 2026 00:30:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350918+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6047,6 +6761,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350908+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6057,6 +6772,7 @@
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350899+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   },
   {
@@ -6067,6 +6783,7 @@
     "published": "Tue, 01 Sep 2026 17:22:30 GMT",
     "discovered_at": "2026-09-04T09:26:43.350882+00:00",
     "status": "Unreviewed discovery",
+    "source_tier": "E",
     "duplicate_of": ""
   }
 ]
