@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://silicon-2026-intelligence.msfbeast.chatgpt.site/sitemap.xml
+Sitemap: https://msfbeast.github.io/silicon-2026-public/sitemap.xml
