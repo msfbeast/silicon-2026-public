@@ -1,5 +1,247 @@
 [
   {
+    "id": "1acf469ed9b2ee23c0ca659a",
+    "title": "Amazon’s Custom Chips Pose Another Threat to Nvidia - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMkZLNjFLdzB3Z1Z3QURQZ3ZmNlZPQ21URzNVLUtmTVpGRDNkMWh5WWlxcWN1cGxhRmZQZVZheDJtU3QwNnA4ajJ2UEpmaXlfRFQ3Uzg3UmFjYi1CNjZZbUdHSFBkYjlWMWNnNFJtQ2pWa3o4WVUxZXI4bDRtdXZ3dGlLcG9yZ1RvbkxYUlZzRGE?oc=5",
+    "source": "wsj.com",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:50.525647+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7c05c7fa4373ae97f05ac60c",
+    "title": "How Amazon became one of the world’s top chip companies in a decade - aboutamazon.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oTTMtVXpHbmZ6ZnFKeWhnYUM3eVM2eGtpTmFrU293cGUtV09yNGNPU2RnczYyMXI1c1I4aktfU1pTRURWTGRNVk1CdUQ2RzhFT1NPN21QQWJ5b3lXamE1T09weF94ejAycXN0TzZyLWp2YUpDRUxiYQ?oc=5",
+    "source": "aboutamazon.com",
+    "published": "Fri, 31 Jul 2026 20:02:34 GMT",
+    "discovered_at": "2026-09-04T20:31:50.525241+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b39db184caef37b73cf7e93d",
+    "title": "Expanding our use of Google Cloud TPUs and Services - anthropic.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcmlnaG9Gcjc1M2poaFB1cEloYy1jczhrR1FJMmtxc0oyRl9fNXRkb2E1d2lLQmNmX19JZnFiTFpHVHhzc2lVN1NDS2VBeDRCZC1KUGZLNDJtai00MUdNTlNwd2dGOFlkT0VKa1pZNFJiQnZlSWd2QnFTbXozcGdxQWE3TUtnU0RJbGc?oc=5",
+    "source": "anthropic.com",
+    "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:50.086463+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5a580157cce00d7041eb09b3",
+    "title": "Qualcomm Pursues Tenstorrent at Up to $10 Billion: RISC-V Bet on Nvidia’s Blind Spot - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd1VCNmVZV3cyeTl2QUdYRFVobm5kOHUtY3dpV0pjVk9Idjh3dEZ4TFZaSWVEYUd6OFFnQ05od05oaDlxODVMSEtFOE1jcWZ0cFNjVHdXVXN2YjRLTzJveEhhVFIyNkdSMmptN0MzZ0YzU1M5OVFXb0oxYS1DVlpBLW1CQWlxNkRma2JINkZBdmgxcUlVU0ljRGREVXFkcjhxRjRfRkxxU2Exckk3YVRLOHd5MTZOc0RGeW5tSzkzdnRQQQ?oc=5",
+    "source": "techtimes.com",
+    "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:49.147857+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7c76b7d7fc824c068b8a6d3e",
+    "title": "Data Center Processor From SiFive Does the AI Heavy Lifting - All About Circuits",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjgtaW5vQ0FKN0hOM2hKMVFhZkRiX1luMHVjdmVEOTRMdmlHMWR6OFg5Zy1IYTU2S2JFYTRoQUthR2UxSmV6UVIybjFvVGg3S3F3c1psbWxuVVVNTWZreHA3NTZmWUZ5U0NzX2hPRVlITVlCOWNNNTdpSTdXYVE2QkNOT0djeUlfbFVCM2tEMmpzUmg2d2NfTUVB?oc=5",
+    "source": "All About Circuits",
+    "published": "Wed, 14 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:48.530399+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "798c7bcc7f55db4906365080",
+    "title": "Xpeng reportedly considering shelving plans to adopt Thor as Nvidia chip suffers delays - cnevpost.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdUN1dlB3Qi1HUVQ5MUxlYjZNRjRJOE5qQmRMWEE0VUg0MzlyUHR4aXJyYjVWdllGSHMzV0VkUmU5VDAwTExSZ3d1Vlp2QlRVMEYtb2VLZDB1MzlBSDlUbnNYOVNwTlM1NGNZc1hBMkJfMWtGaGoxeXQ0QzkyN1YwQ2xQUHp4bGNhMXVLQkRDMWFoZU5l?oc=5",
+    "source": "cnevpost.com",
+    "published": "Mon, 16 Dec 2024 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:48.267123+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f7fe07ccfad4324b57b05e05",
+    "title": "Automotive Hypervisor Market Size, Forecasts Report 2026-2035 - gminsights.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5TRHd6QjlOOEZpWklTQmQ1TE5tektKclNtYTc2bVF3OElrMjJ1aGlZY1oyWFhCWGR0MUxtVUJNdFhLSUtMSmMwaVIxbzd6a1dRUjA1elZnNzdLX3RiWUdiYUFNdmhlZHBOMGpfZ0hxN2xKN1pQNHRkMlpWbmxSQQ?oc=5",
+    "source": "gminsights.com",
+    "published": "Thu, 25 May 2023 09:54:36 GMT",
+    "discovered_at": "2026-09-04T20:31:48.266943+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "adad1ffc3301816edfe30afd",
+    "title": "Mobileye files for IPO, company to spin out of Intel - therobotreport.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHNLVWxsY0tUc0k5WTQzN1o3UnE5MlAyWE9nV0FTZU4tc1FGZ2xVZjVaeWVEUGpCbDZCcU9taVN6YVBJeUZrV0p5am5JSDZSVUZIdmRQbkhFN1hhRGlRVFJNaW52Wnd1eGhpRkg0SVA1VGd3Q0IxaHlPSW5icV9icWZEbmxJTkNZcTM4?oc=5",
+    "source": "therobotreport.com",
+    "published": "Tue, 08 Mar 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:47.522298+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "41fbc91fad2ba7b194b904b2",
+    "title": "NVIDIA GTC 2026: Rubin GPUs, Groq LPUs, Vera CPUs, and What NVIDIA Is Building for Trillion-Parameter Infer... - storagereview.com",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQngtZ1Q3dkFaUzQ5U1lvSGpCYnc2UjhQajFkbHNsejNBMEc2bFMyODJrSmgxb2poa2FpS3VTcl9mdEktaXAtcm9DQjU5XzZJTndfNVJhSm41YXdxb01qLWZFUEVnd25CRWh1a3hmaE5TTFRpWko0X2p0SVFMd3pYREVYeXQyMUJadDM2S2NVc0hPYlA2WTVBMUdZa3lDNEswRU1vREFtWmREVjcySmd1X3BMTS14ODlFV010S0M5MVdqZE1ZNVhqSndtWFlINmlmR19SRW8xeHd5QdIB3wFBVV95cUxPLW50WUpJVHhYb3g5NWY5Uk5uZWNrWVZKWGdjNzRQWm8wRTZzU0VaNWM5UlVZd2IwWmszeGpPSDB1SWdmT04wTUowMmRNa2czNjFJM25XSHJWTFVuS0MtNmlCTkdQMjlEbGQtcDJQZmk4T3d4eHdaaV8yaGwtbGxScm5NLWxmc1R2V2lJUWlIeTY5YVgwajdSV1lXbEFsdXhqdERZajZtOTN5YUtRLXRTSlI5M0xlSG1ZZmNOSy0wU0VRVi1zRnJVYUtxeU42X001WndGQUhwUk5TLTlFaUQw?oc=5",
+    "source": "storagereview.com",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:46.853051+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "c944baa64299782b42e84b01"
+  },
+  {
+    "id": "d776de3fb9384be5527184c2",
+    "title": "NVIDIA Vera Rubin POD: Seven Chips, Five Rack-Scale Systems, One AI Supercomputer | NVIDIA Technical Blog - developer.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORy12NjAwNzdBcUo2NEF2QTI2TkF4bklBUVo3M01jeVRPaGI5LVZpd01HbDlxM3RxbWFiUkNDcXBDVXpJaE54T09rOXV2UlRMaVJJeEo4dTVCMlNMREpESzZ2dkhVN0RUT0VuVlN2dEhaTUY5dzNqSHpGdXpDd2V5OElUSUpBQkl1Z05OYVpyQjh3OFN1czRzaXZhakUzNHdPbnRINGEteGZxVUEwYnRIWXNpUQ?oc=5",
+    "source": "developer.nvidia.com",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:46.852961+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f4c351fd5c67d8265174aeeb",
+    "title": "Intel Unveils 2023-2025 Xeon CPU Roadmap: Emerald Rapids In 2023, Granite Rapids & Sierra Forest In 2024, Clearwater Forest In 2025 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RnQWpqaDZXWjlsRnkwWVVsdGk1TlJUX1ZZX0R4TTBJZjVnZkk1MXVRZkQyaUF2eU9NNXVyUnloYjNBNGx4ZVViLUttQ044T3o0OUdsdW1YcjVncTlkejJDR2xBVEdCUVc0ak1LSVBiZUZQbTVwUVJad1lMMzB0dUk5NEV0cy1oS3EzZU1JQzlpZUhtaHJFSm5OQnJMdGxCRGRlaXJKcTJXVFNDWXI1VWNETWpEcWM1bWlMV1hPSEZUeHFWaE9XOWd0STFtQmFodkZiOTdNaTBKZHVES210Q1dB0gHnAUFVX3lxTE81SVVpOV9GdFNzT0U1TXRoZW1xWmJVcm1laTdidjhGNW9sVkF1ZzlRS29ncllZdDBjSER6U2NkMkpuZnVBTFVjNVpRYzNfU0FLVUFyQy1TOTlmTlRnNjJNWTdrUklMTF9tN3lHN1ZkSldab3JMR0VIUmZpSUpic2ZsazN6NnA4ZTV2VmYyZkd2M2hpTmZPVm5md0tnSmd2VWNjenl2MkhINHpiS1JZSXJXSF9JSTIyT0NNX3Qtc1FQNjN6XzRCMGJjQlNWUXhsOXB3SHBzQTQwSkNiT0RMTjJuTFJYMWpZNA?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 29 Mar 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:46.394162+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "70928022fef18c0e0dfc208d",
+    "title": "Intel Panther Lake samples with flagship 18A node have been powered on at eight customers — Co-CEOs dispel rumors regarding poor silicon health - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQaXJ2VWFDREdIaTN2N2Nla2Y0Z1dkN190dDdoMnZFVXZwYjVEQWs0aXNtdUlORDNMN1BtVDhRdmpwdHRkY29YdndGNlBDMkNfQkV0QnpMQ3VaRWRVQjFvS2llR052RHJwWkVWM3hSbUZFRThCZzJ2azlJOGdabmhDbVh0MVJxcnQ1RVB0Slg4QUhBLWtMNkZsUV9wN2I2a0llRU5aNUhmZFFOZ2hKeWtDbkxkTGZKRmE4MmZzNkJSUGVSMFY0RE02bTA3aTNLLWMtWEZsRjdnWkFQYUh6OGk0b2hIbkZEaWlwU1o4Y29UdHFMMEtKX3dkWGp4ZjVZdjFScmVYbUJpcVlIZF9NbGlEXzY0cWVNSVJr?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Fri, 13 Dec 2024 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:46.393702+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d36ab1a970abb157f34024b2",
+    "title": "AMD at $900 Billion: Zen 6 Venice Launch Sets Up a 25% Run to $1 Trillion - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNHhDck1NejF2bXFoUktyeHNvYXJRVHdoVklmQ2lwX2hUZmVUcUtsNE9jYnN6Wnhzb0FldHpla2FaRTgtc04tR1ZaNXZIcm1UTjBJUi1EX2N5b1VWZUlRcFVxVXZlX0t6SXc1X2g4aENycEJPV1RIZE5wbFVUWjhOTnJhX0VhS216Q2szRnJZdVB3OXV0VEZ1aGFzeUFBMlZoUzBXT3MtNlNSS0lNVDFKdXdqWQ?oc=5",
+    "source": "techtimes.com",
+    "published": "Mon, 13 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:46.114629+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7ae964d55b5c3a5a432a6973",
+    "title": "Rockchip unveils RK3572 processor with 4 TOPS NPU and LPDDR5X support - linuxgizmos.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVHhTX2phY1R5VzQteWZ6UnlEYTZlSmZ5OHFESXA0cmJRTlE1WFhIZ1kzZVFoQnRHbTRLMFU4Y1NEUHlRTzZ0V0pUcV9haGFiRVZra0ZoeEpwRFFrUGdwU0gzeDRQeG5jQjB4b1dXd015VnR5Qi1pb3JPczNMODdVLWtYcnBtb0YwTWhzZVlhSGNKRnhOd211NkFR?oc=5",
+    "source": "linuxgizmos.com",
+    "published": "Sun, 17 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:44.482443+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "acb92639c76d4983d4c223b7",
+    "title": "Sipeed launches K3 Pico-ITX and CoM260 boards with SpacemiT RISC-V SoC - linuxgizmos.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3E2elpUdWJiZ1FGWDVPdDNkNWhLX0sxS0tZSWZrb1EwN2ozV0FIczRJRFBJV0xiU2hWbHYwSXFNdGY5SHFVMGZReU9lZzJzNUo3ckhyTUNrenpFZ0o3OE9wQ1ZTMVpDQ0NwV1d0VHYwUTYtMFNqYjRkTHk5eG5lR2xQM0lVTGxaR2Z1M3Rpd0xiSnAzVHc?oc=5",
+    "source": "linuxgizmos.com",
+    "published": "Sun, 10 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:43.980779+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "da1ec8f8ab9bc25a182a0497",
+    "title": "RISC-V Market Size & Share, Forecasts Report 2026-2035 - gminsights.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6c1MySHFlYUZ2MUoteEFoaHgxQk56OTdXWFFzWF9SQkxZenpDOW56M1NtMV9nMTl2aDZHQjBwSjlocTZ5dzJYWkhSUnUtV3ZvRnRYS0diVFRWSGI0djZReTFoU3V4cDBjeWc?oc=5",
+    "source": "gminsights.com",
+    "published": "Mon, 31 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:43.190714+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3ca29cd903121821ca986c75",
+    "title": "Global smartphone SoC shipments to fall 7% in 2026, revenue to grow: Counterpoint - fonearena.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjN1MHZhTWVMYVU1UmZ1OHRmWEFhSUE2X1dYT1ZDMjhwT2dvR1JCdkdrUDZteFFxWk9GNzFJVDd3ZWI2Y3BYMTltYkFvb1dNcnRubVRrWmdtUXZxMEU1NFNvWTRpV2p1WDNCSlNSOElibVc5c0RXVW8tWGZadEI0bVpkVTdOa0tqQXpTQkdaYnU1aW9BRC1j0gGcAUFVX3lxTE1uQWZsZVRERWF3bEpmRktYLWY4ZEV4U3JIS1lIQXZVeHR2X0NRcjI5SmZPcHU5N29HYU9lN0Qxc2M4dWNVSFZKVTFraWhiNHRkS25jV0lPbnNvODItVWtjZTFQSWk0NExtWWJFaWs5VElfRWl1ZDM1Wjl6ZUhQcjdWXzl6STNNMFJuQXVTcW1VUkZsM3VjdzRUVzVtcg?oc=5",
+    "source": "fonearena.com",
+    "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:39.171138+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b76040490aa83dc69eb2bc35",
+    "title": "HTC U23 Pro with Snapdragon 7 Gen 1 surfaces - fonearena.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04dlljMy1vWWVhdndwVlFUQ2x0NTRpelk0cXBselF1bXdLN0N4SDcteExzaGtWQ0dTcElkNm1CS3NBZDdKUERsVzBta2RtT0EycDh5QmloNUZxbnJ4WWxFS0gydmtZSEtVbFRxaF9YVWRVR3I0NTEzZHRmVdIBgAFBVV95cUxPN3NZYnBpTEE3YkpJeE9BZ3dMWGQ1cFRSLUdwbmlfVlNYT2E2N0NxdDBsWE9Qa3JDNm5aTElWSkE3TjRLWGVYdC1XLUNYY3RYaFRqRFVIT3A1akZWTkRoQmxzb25sME9hMWVkQ1dqZHFyZmxyZjNvMjl1VmRrcUtMNQ?oc=5",
+    "source": "fonearena.com",
+    "published": "Mon, 08 May 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:38.830919+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ad11a741381c6b2491b3f5db",
+    "title": "Apple launches refreshed Mac Mini and Mac Studio with M6 and M5 Pro silicon in India - businesstoday.in",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUHkwZU5SR3AxUDdPTHNYWGJ0bS04eHF5Ti15YnJSNmM0aUVZeXpRRjhzQnlpOVV3Vnh4RzgtOW82QmxRMjRrTTcwd3Y1Rm1HeDhBcUZsR2FRR3pUS3Jlbk1ZYnZWV3NSUEkyLUZEOFY5d3FUeXdJRGItSUVsWmFqODlMOEhUTjY3dmZOTVFWdXRqOUU1ZjQ0NGJmLVNEVGhlZE9hRXkySEVrWjU3WGt2Ni1waVFVbnU2TGc3QmhncFZKRndZaTZobm56clRNOFNhcXhpbWwzTkVGWE1DZmU3c0dzSWp3ZVps0gHuAUFVX3lxTE9kbXpKMVA2MGVEVHJaSzZZZWhIdm9aRl9UV2NmdW5ISFhKVHd3VjFacXFYOGJyaHNhalVXNERWRFlyQk12QVlRbmFFdnd6Q3hjN2k1cW9Mc3lhSGFlU3F1bUxwWEI5OERKRDVLbnVRYkR0MUVKQnhDME5lSWY5Q1VoMFdRaFNUOXBRcUUtTFVQeTd2UUlfaGVxV0FWV3ZEVnZheG9hYjBIZHpFZWNJVTcwVWJtQTQ3M19Vbmgyemd3aHpfMGRjVlltMFpaWEFyQ25NQkhXcG1wUTUzT0JJaUFlbFIxVHl6Ti1iTk93eXc?oc=5",
+    "source": "businesstoday.in",
+    "published": "Tue, 25 Aug 2026 17:00:33 GMT",
+    "discovered_at": "2026-09-04T20:31:36.226275+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "617fbd999a549b341e435de6",
+    "title": "Apple M5 Ultra and M6 Silicon Explained: 2nm Tech, Quad-Die Chips Promise Macs Massive AI Muscle - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14MFA1TGdWa0NlekZtMkluSkMwdGdjOUhtMHdnYjhrN3Z0Q3hCQUxMbnp5M05mVnQ4YUdnVERDR3NYQl83UDEyUVhrWVM1NmNLemRhQmJXMmlPb0RmVWdxTmdzbFZ2TzYxVDhMZjNWQl81MFRU?oc=5",
+    "source": "PCMag",
+    "published": "Tue, 25 Aug 2026 21:37:55 GMT",
+    "discovered_at": "2026-09-04T20:31:36.225917+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a12428200b3ee86f37320031",
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - Apple",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZxQ3lxQ1NUai1ZSFpUZldZS002TWl2d3JKSTNrRHRGdml1SnBjZVlzZ3d1NDctbzhGNVJNZWpQelh1WUZseWFKQ3hYMnNlLV9JWVpXaG9lcVJfUXMybmhNNlBhc1R5X2lJTTZUdVNqbXdOczBWNkMzQm11T0dwcVdtcWE2R1pmcVk1YTRkLUpHLTJORVBtZTVDZXE?oc=5",
+    "source": "Apple",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:31:36.225886+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb70d0e6e5a384cad6c660bd",
+    "title": "Exynos 2700 Leak Reveals Major Details of Galaxy S27 Processor - phoneworld.com.pk",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUF8tendXR2Z1c2ZsTWUtNTF5M0FNMEItMTVyNVFpaUNLSHVUckpvV09lalpnM2RMbVJDdjh6dUJ3T1F1cG5yRXNBQVQyRllSY01XZTUyR2hzT3dYQm8tWUxPckZycVdLdU5PY2t2Z0l3Z0tzTWdnZkI4UE1oMk1KNm5YbFVDY1RkZUZLTXdQQXJwenRPOFdvVA?oc=5",
+    "source": "phoneworld.com.pk",
+    "published": "Fri, 04 Sep 2026 12:18:16 GMT",
+    "discovered_at": "2026-09-04T20:31:35.488763+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "073796d503170daa54e0f682",
     "title": "AWS makes Trainium3 UltraServers generally available - Data Center Dynamics",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVdoZXFZSzdfRjNXY3VpakwyLVprb2tVQUF2ZkQ4YjBqZTJZVHVwRkViU0F0a0oycTQ1VE5HeVRieTdHQzQzOEVnNlJHb3VDTEtXUGV0X3ZlR3ZaTDVyd0s4YXp2ZzNPanpJeGFxemhTVkhtc01HMGdWb3g3d3lEWG03eGNWd3gyalJZMTJ1TWQ5bWdRNk5QNmNWUWY?oc=5",
@@ -2274,7 +2516,7 @@
     "discovered_at": "2026-09-04T19:54:45.244042+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "ffecc0a5f37277ab7a9859ca"
   },
   {
     "id": "97ae2011fc6f81f7306ac606",
@@ -4364,7 +4606,7 @@
     "discovered_at": "2026-09-04T18:18:47.537974+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "acb92639c76d4983d4c223b7"
   },
   {
     "id": "8662ce0e81f3888103485916",
@@ -5772,7 +6014,7 @@
     "discovered_at": "2026-09-04T09:45:41.475533+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "7ae964d55b5c3a5a432a6973"
   },
   {
     "id": "7057b57820bc98ab880c41e1",
@@ -6113,7 +6355,7 @@
     "discovered_at": "2026-09-04T09:45:38.391287+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "2b140e6a0d34bca48d89f2b0"
+    "duplicate_of": ""
   },
   {
     "id": "d67b0f9c1cf9b15b92122ffc",
@@ -7301,7 +7543,7 @@
     "discovered_at": "2026-09-04T09:26:52.672785+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "3ca29cd903121821ca986c75"
   },
   {
     "id": "f08960f75e939f56ec211e0b",
@@ -7345,7 +7587,7 @@
     "discovered_at": "2026-09-04T09:26:52.019620+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "b76040490aa83dc69eb2bc35"
   },
   {
     "id": "ac0136860438879f68cd6801",

@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_updated": "2026-09-04T18:50:00+00:00",
+    "last_updated": "2026-09-05T00:00:00+00:00",
     "update_mode": "editorial",
     "schema_version": 1
   },
@@ -1320,7 +1320,7 @@
     ,{
       "id": "rtx-5090", "name": "GeForce RTX 5090", "vendor": "NVIDIA",
       "category": "Discrete GPU", "status": "Confirmed", "confidence": 95, "date": "2026-09-04",
-      "launch": "Officially documented desktop graphics product; release date not verified in this record.",
+      "launch": "Available from 30 January 2025, confirmed by NVIDIA's launch announcement.",
       "process": "Foundry and node not verified from the cited product specification.",
       "cpu": "Not a host CPU; discrete graphics processor.",
       "gpu": "Blackwell; 21,760 CUDA cores; fourth-generation RT cores; reference boost 2.41 GHz.",
@@ -1329,10 +1329,11 @@
       "die": "Physical die dimensions not verified here. The AD102 gallery photograph belongs to RTX 4090, not this chip.",
       "bench": "No independent benchmark imported. NVIDIA's comparison charts include upscaling and frame generation, not native-rendered FPS alone.",
       "headline": "Desktop Blackwell reference with 32 GB graphics memory and dedicated ray-tracing hardware.",
-      "caveat": "Reference-card specifications can differ from board-partner models. Record date is the source-review date, not the product launch date.",
+      "caveat": "Reference-card specifications can differ from board-partner models. The 30 January 2025 date is product availability, while this record was reviewed later.",
       "metrics": {"gb_single": null, "gb_multi": null, "antutu": null, "npu": null, "bandwidth": null, "peak": null},
-      "sources": [{"label": "NVIDIA RTX 5090 official specifications", "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/", "kind": "Official"}],
+      "sources": [{"label": "NVIDIA RTX 5090 official specifications", "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/", "kind": "Official"}, {"label": "NVIDIA RTX 5090 availability announcement", "url": "https://www.nvidia.com/en-gb/geforce/news/rtx-5090-5080-out-now/", "kind": "Official"}],
       "field_evidence": {
+        "launch": {"status": "Confirmed", "timestamp": "2026-09-05T00:00:00+00:00", "sources": ["https://www.nvidia.com/en-gb/geforce/news/rtx-5090-5080-out-now/"]},
         "gpu": {"status": "Confirmed", "timestamp": "2026-09-04T09:49:21+00:00", "sources": ["https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/"]},
         "memory": {"status": "Confirmed", "timestamp": "2026-09-04T09:49:21+00:00", "sources": ["https://www.nvidia.com/en-us/geforce/graphics-cards/50-series/rtx-5090/"]}
       }
@@ -1340,7 +1341,7 @@
     {
       "id": "rx-9070-xt", "name": "Radeon RX 9070 XT", "vendor": "AMD",
       "category": "Discrete GPU", "status": "Confirmed", "confidence": 95, "date": "2026-09-04",
-      "launch": "Officially documented desktop Radeon RX 9000 product; release date not verified in this record.",
+      "launch": "Available from 6 March 2025, confirmed by AMD's RX 9000 launch announcement.",
       "process": "Foundry and node not verified from the cited product specification.",
       "cpu": "Not a host CPU; discrete graphics processor.",
       "gpu": "64 compute units; 4,096 stream processors; 64 ray accelerators. Game clock 2.4 GHz; boost up to 2.97 GHz.",
@@ -1349,10 +1350,11 @@
       "die": "No verified physical dimensions or licensed chip photograph in this record.",
       "bench": "No independent benchmark imported; vendor gaming examples are not a cross-platform ranking.",
       "headline": "Discrete Radeon reference with explicit dense-versus-sparse AI arithmetic context.",
-      "caveat": "Boost and theoretical throughput are not sustained measurements. Board-partner power and cooling vary. Record date is the source-review date.",
+      "caveat": "Boost and theoretical throughput are not sustained measurements. Board-partner power and cooling vary. The 6 March 2025 date is product availability.",
       "metrics": {"gb_single": null, "gb_multi": null, "antutu": null, "npu": null, "bandwidth": 640, "peak": null},
-      "sources": [{"label": "AMD Radeon RX 9070 XT official specifications", "url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html", "kind": "Official"}],
+      "sources": [{"label": "AMD Radeon RX 9070 XT official specifications", "url": "https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html", "kind": "Official"}, {"label": "AMD RX 9000 launch and availability", "url": "https://ir.amd.com/news-events/press-releases/detail/1238/amd-unveils-next-generation-amd-rdna-4-architecture-with-the-launch-of-amd-radeon-rx-9000-series-graphics-cards", "kind": "Official"}],
       "field_evidence": {
+        "launch": {"status": "Confirmed", "timestamp": "2026-09-05T00:00:00+00:00", "sources": ["https://ir.amd.com/news-events/press-releases/detail/1238/amd-unveils-next-generation-amd-rdna-4-architecture-with-the-launch-of-amd-radeon-rx-9000-series-graphics-cards"]},
         "gpu": {"status": "Confirmed", "timestamp": "2026-09-04T09:49:21+00:00", "sources": ["https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html"]},
         "ai": {"status": "Confirmed", "timestamp": "2026-09-04T09:49:21+00:00", "sources": ["https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html"]},
         "memory": {"status": "Confirmed", "timestamp": "2026-09-04T09:49:21+00:00", "sources": ["https://www.amd.com/en/products/graphics/desktops/radeon/9000-series/amd-radeon-rx-9070xt.html"]}
