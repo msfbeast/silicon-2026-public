@@ -6,7 +6,8 @@
     "source": "arstechnica.com",
     "published": "Mon, 09 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:07.318299+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3028ef56e6fa5d98d2584088",
@@ -15,7 +16,8 @@
     "source": "huaweicentral.com",
     "published": "Fri, 03 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838405+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "77cc409cd4ab2c0e981dd3d3",
@@ -24,7 +26,8 @@
     "source": "intelligentliving.co",
     "published": "Mon, 20 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838294+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9315dbefe20e17f62cfc7356",
@@ -33,7 +36,8 @@
     "source": "huaweicentral.com",
     "published": "Fri, 27 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:06.838131+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "484bb35dcfdd57e3352cf1cf",
@@ -42,7 +46,8 @@
     "source": "automotiveworld.com",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:05.298470+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e4cbf5d9a95edf799b445a53",
@@ -51,7 +56,8 @@
     "source": "insightsonindia.com",
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:04.612727+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6166c4cf4cb512e557f719fa",
@@ -60,7 +66,8 @@
     "source": "intelligentliving.co",
     "published": "Mon, 31 Aug 2026 06:09:10 GMT",
     "discovered_at": "2026-09-04T19:50:04.612692+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e8a6f395ea3b6593c5763b6e",
@@ -69,7 +76,8 @@
     "source": "livemint.com",
     "published": "Thu, 27 Aug 2026 06:18:49 GMT",
     "discovered_at": "2026-09-04T19:50:04.057855+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ffd3d486b88e9bab7f7d652f",
@@ -78,7 +86,8 @@
     "source": "thehindubusinessline.com",
     "published": "Thu, 27 Aug 2026 05:09:25 GMT",
     "discovered_at": "2026-09-04T19:50:04.057783+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8a720d6413faffb1c902da62",
@@ -87,7 +96,8 @@
     "source": "igorslab.de",
     "published": "Sat, 02 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:03.209111+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "10bce52c603d5a3a4fa25d65",
@@ -96,7 +106,8 @@
     "source": "igorslab.de",
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:01.623717+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "197c2336158d4955ba6acba4",
@@ -105,7 +116,8 @@
     "source": "Sportskeeda Tech",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:00.558903+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9847e50e0b97f60d3e5d7741",
@@ -114,7 +126,8 @@
     "source": "huaweicentral.com",
     "published": "Wed, 08 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:50:00.012888+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "67e2bd002866fb275b05b3af",
@@ -123,7 +136,8 @@
     "source": "huaweicentral.com",
     "published": "Fri, 28 Aug 2026 07:02:38 GMT",
     "discovered_at": "2026-09-04T19:49:59.250879+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3aabbcb934449e8b91c92d8e",
@@ -132,7 +146,8 @@
     "source": "huaweicentral.com",
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:49:59.250815+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d7f70103e0130298d7990a53",
@@ -141,7 +156,8 @@
     "source": "tech-insider.org",
     "published": "Fri, 28 Aug 2026 06:14:11 GMT",
     "discovered_at": "2026-09-04T19:49:56.644286+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ce21175a9629f828bc80a875",
@@ -150,7 +166,8 @@
     "source": "enterpriseai.economictimes.indiatimes.com",
     "published": "Thu, 27 Aug 2026 08:05:37 GMT",
     "discovered_at": "2026-09-04T19:48:43.795309+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7adbaece0550d6afada92cf4",
@@ -159,7 +176,8 @@
     "source": "storagereview.com",
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:48:42.484478+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1892c687eaaffa29b3c3e993",
@@ -168,7 +186,8 @@
     "source": "livemint.com",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:48:41.986456+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7c12cbe0d55df06ff713190d",
@@ -177,7 +196,8 @@
     "source": "androidpure.com",
     "published": "Thu, 03 Sep 2026 06:55:50 GMT",
     "discovered_at": "2026-09-04T19:48:35.934257+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "96a050581ffaf9e827a24266",
@@ -186,7 +206,8 @@
     "source": "digitimes",
     "published": "Tue, 24 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:19.581589+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b4ffbdb46fc6ed3b83aa3333",
@@ -195,7 +216,8 @@
     "source": "nvidianews.nvidia.com",
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009463+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4533fb418258821a3964b23b",
@@ -204,7 +226,8 @@
     "source": "NVIDIA Blog",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009437+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2d26735005b0a91bd61c5dee",
@@ -213,7 +236,8 @@
     "source": "CNBC",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009415+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "730b6c64190e9441672c25a3",
@@ -222,7 +246,8 @@
     "source": "24/7 Wall St.",
     "published": "Mon, 31 Aug 2026 18:20:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009357+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "11a740e15791a1d7572ed5d6",
@@ -231,7 +256,8 @@
     "source": "CNBC",
     "published": "Wed, 25 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009272+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "81cdce23842f1056cb573df6",
@@ -240,7 +266,8 @@
     "source": "bloomberg.com",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009223+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "48cedde2aef9588aac3cf6a8",
@@ -249,7 +276,8 @@
     "source": "Yahoo Finance",
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T19:47:15.009192+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "680079c1bc332ec926cad327",
@@ -258,7 +286,8 @@
     "source": "newsletter.semianalysis.com",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:47.323729+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9a5fd1f27b6f9dd7aaf505d5",
@@ -267,7 +296,8 @@
     "source": "semiengineering.com",
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:47.323619+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1428dffc202727de19880c69",
@@ -276,7 +306,8 @@
     "source": "liliputing.com",
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:45.046707+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a58bf14f749eb58934639e1",
@@ -285,7 +316,8 @@
     "source": "liliputing.com",
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:45.046570+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "52a410a8c9bf1ae5ea8a22c2",
@@ -294,7 +326,8 @@
     "source": "chosun.com",
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969235+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a2bec299e0b98bbd8119fc58",
@@ -303,7 +336,8 @@
     "source": "36 Kr",
     "published": "Fri, 09 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969212+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fdb5c520454e8151514b6e02",
@@ -312,7 +346,8 @@
     "source": "fortune.com",
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.969142+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9f10f6774d3ed319615e0318",
@@ -321,7 +356,8 @@
     "source": "nextplatform.com",
     "published": "Thu, 30 Jan 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.413425+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "51b8b17c59ada1a1c2461964",
@@ -330,7 +366,8 @@
     "source": "newsletter.semianalysis.com",
     "published": "Mon, 09 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:42.413364+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fd3517c36336da4c0c66a0b0",
@@ -339,7 +376,8 @@
     "source": "newsletter.semianalysis.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:41.407627+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2917e4c823ef0358776c35fc",
@@ -348,7 +386,8 @@
     "source": "techinsights.com",
     "published": "Thu, 18 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.099318+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f3bc1f4b5721a0437d396dde",
@@ -357,7 +396,8 @@
     "source": "techinsights.com",
     "published": "Thu, 11 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.099055+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9bc2d7936d88dd714da3a513",
@@ -366,7 +406,8 @@
     "source": "newsletter.semianalysis.com",
     "published": "Sun, 14 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:38.098982+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "236ac00a46f50740ef4cdf99",
@@ -375,7 +416,8 @@
     "source": "nokiamob.net",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:37.638762+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2b44d9016182054629ab4ade",
@@ -384,7 +426,8 @@
     "source": "pcmag.com",
     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:36.213549+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9354a9effba21f5e1af05e14",
@@ -393,7 +436,8 @@
     "source": "Business Today",
     "published": "Tue, 25 Aug 2026 17:00:33 GMT",
     "discovered_at": "2026-09-04T19:45:35.272748+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2b0b50110ab90056c2e8b161",
@@ -402,7 +446,8 @@
     "source": "pcmag.com",
     "published": "Tue, 25 Aug 2026 21:37:55 GMT",
     "discovered_at": "2026-09-04T19:45:35.272491+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e658dee83c9da5f79a4db2aa",
@@ -411,7 +456,8 @@
     "source": "apple.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:35.272468+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "54d5c6b0d01d447dcaf513a5",
@@ -420,7 +466,8 @@
     "source": "apple.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:35.272374+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f656861947adec9f3182638e",
@@ -429,7 +476,8 @@
     "source": "nokiamob.net",
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.898353+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6df9fddf8d5829cb5928953d",
@@ -438,7 +486,8 @@
     "source": "gadgets360.com",
     "published": "Wed, 08 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.407180+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9d0371a0a6facca20a6b7b95",
@@ -447,7 +496,8 @@
     "source": "gadgets360.com",
     "published": "Thu, 03 Sep 2026 11:41:09 GMT",
     "discovered_at": "2026-09-04T19:45:34.407140+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e24ec877535cc17e5be3024e",
@@ -456,7 +506,8 @@
     "source": "nokiamob.net",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:34.102200+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a285b45dcfb40d98c9c81b8c",
@@ -465,7 +516,8 @@
     "source": "gadgets360.com",
     "published": "Thu, 03 Sep 2026 08:07:34 GMT",
     "discovered_at": "2026-09-04T19:45:33.800539+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9fd450a2f05691075f614aa0",
@@ -474,7 +526,8 @@
     "source": "nokiamob.net",
     "published": "Fri, 04 Sep 2026 07:09:25 GMT",
     "discovered_at": "2026-09-04T19:45:33.800493+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bd14d70ad893d1e4a5555194",
@@ -483,7 +536,8 @@
     "source": "TradingView",
     "published": "Sun, 30 Aug 2026 23:14:02 GMT",
     "discovered_at": "2026-09-04T19:45:33.187395+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "72bdd0117c0277ce6ab1c03e",
@@ -492,7 +546,8 @@
     "source": "nokiamob.net",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:45:33.187143+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c64810b83b6d3436bd2e3221",
@@ -501,7 +556,8 @@
     "source": "intc.com",
     "published": "Mon, 26 Jul 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004964+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9466543945d76e491bea7f75",
@@ -510,7 +566,8 @@
     "source": "Tom's Hardware",
     "published": "Fri, 26 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004721+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "302fa3a3fc6578bdbf306034",
@@ -519,7 +576,8 @@
     "source": "futurumgroup.com",
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:17.004526+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "05a28e0f29e0b52d3c215b05",
@@ -528,7 +586,8 @@
     "source": "Tech Times",
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:16.422666+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "217ae71eab0353a61ef597f9",
@@ -537,7 +596,8 @@
     "source": "Phoronix",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.744653+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "235bd123e3d8d388cedfdb8a",
@@ -546,7 +606,8 @@
     "source": "Automotive World",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173442+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4c67a40c025b9db83dbb679f",
@@ -555,7 +616,8 @@
     "source": "electrive.com",
     "published": "Fri, 24 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173410+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a1329bf425ee16368970a7a9",
@@ -564,7 +626,8 @@
     "source": "nvidianews.nvidia.com",
     "published": "Tue, 28 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173381+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "148214a8bc1b0e8d9591e74c",
@@ -573,7 +636,8 @@
     "source": "nvidianews.nvidia.com",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173124+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a13052846d84ed61de99a826",
@@ -582,7 +646,8 @@
     "source": "techcrunch.com",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:14.173038+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "496381cbea2501cadf1d9c63",
@@ -591,7 +656,8 @@
     "source": "techcrunch.com",
     "published": "Fri, 07 Jan 2022 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:13.785983+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a770ba43928c3cf19a738b65",
@@ -600,7 +666,8 @@
     "source": "nvidianews.nvidia.com",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:12.916354+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "88a25c5731578f49aa0574f9",
@@ -609,7 +676,8 @@
     "source": "TradingView",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:12.504325+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f20f3fde86da8a517753ceea",
@@ -618,7 +686,8 @@
     "source": "pulse2.com",
     "published": "Tue, 01 Sep 2026 12:19:38 GMT",
     "discovered_at": "2026-09-04T19:39:11.629920+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4d54d7bbbe76308daae2ccae",
@@ -627,7 +696,8 @@
     "source": "nvidianews.nvidia.com",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:11.017304+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "df014602b927a2711477269b",
@@ -636,7 +706,8 @@
     "source": "techpowerup.com",
     "published": "Fri, 04 Sep 2026 09:44:16 GMT",
     "discovered_at": "2026-09-04T19:39:10.373882+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "628125464f14d84d709c0c3c",
@@ -645,7 +716,8 @@
     "source": "hwcooling.net",
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:09.924695+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e50db6fc481fcb51c20cddb5",
@@ -654,7 +726,8 @@
     "source": "eetasia.com",
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:08.846626+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bdfb259d22d22629088cfc71",
@@ -663,7 +736,8 @@
     "source": "techpowerup.com",
     "published": "Wed, 03 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:08.346494+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "30194969ca328499d9e08aa1",
@@ -672,7 +746,8 @@
     "source": "hwcooling.net",
     "published": "Wed, 04 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:06.464885+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7daef72015e94c91b20192c5",
@@ -681,7 +756,8 @@
     "source": "apple.gadgethacks.com",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:39:04.454612+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8190db3d98d0a16455432543",
@@ -690,7 +766,8 @@
     "source": "sammyguru.com",
     "published": "Thu, 03 Sep 2026 07:49:27 GMT",
     "discovered_at": "2026-09-04T19:39:04.002775+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7d0687d5211dc4053100b277",
@@ -699,7 +776,8 @@
     "source": "techtimes.com",
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:42.495602+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "57977b86420bc27a0d0318f6",
@@ -708,7 +786,8 @@
     "source": "techtimes.com",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:41.779829+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "23616a30f9ead5a84c4c9fb8",
@@ -717,7 +796,8 @@
     "source": "techtimes.com",
     "published": "Sat, 25 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T19:03:34.926691+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7e4b3a4ddfcc3124bb4d257d",
@@ -726,7 +806,8 @@
     "source": "techtimes.com",
     "published": "Mon, 31 Aug 2026 15:45:20 GMT",
     "discovered_at": "2026-09-04T19:03:34.926380+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ef2daa554713a8e530bc14db",
@@ -735,7 +816,8 @@
     "source": "developer.nvidia.com",
     "published": "Fri, 22 Aug 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:10.643614+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "59bb924ed3972ea30df74f31",
@@ -744,7 +826,8 @@
     "source": "phoronix.com",
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410475+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "532089b9d5ee4cdc15316da9",
@@ -753,7 +836,8 @@
     "source": "phoronix.com",
     "published": "Tue, 09 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410374+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "03032250c1f8af4d260abc14",
@@ -762,7 +846,8 @@
     "source": "phoronix.com",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:08.410230+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a217a6e6b2ddd02946d5dba1",
@@ -771,7 +856,8 @@
     "source": "Automotive World",
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.907270+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5148041c2cea5f9338a637fd",
@@ -780,7 +866,8 @@
     "source": "CNBC",
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.907196+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7b033dbb7fd254ad6bd36eaf",
@@ -789,7 +876,8 @@
     "source": "changinglanesnewsletter.com",
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:07.357004+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "14c6810f199d98219a2bdf3d",
@@ -798,7 +886,8 @@
     "source": "TheWire.in",
     "published": "Fri, 19 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:06.898997+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "54c7449e83a3af0e554a5b95",
@@ -807,7 +896,8 @@
     "source": "voronoiapp.com",
     "published": "Tue, 01 Sep 2026 21:34:57 GMT",
     "discovered_at": "2026-09-04T18:59:05.685418+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fb82ebdffe50e6c0c964d25d",
@@ -816,7 +906,8 @@
     "source": "TechRadar",
     "published": "Mon, 22 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:05.051476+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "282d1e84518279c2d60ade1f",
@@ -825,7 +916,8 @@
     "source": "newsroom.cisco.com",
     "published": "Mon, 31 Aug 2026 16:59:26 GMT",
     "discovered_at": "2026-09-04T18:59:04.508726+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cdb9c52f43e3f6c55ef9c601",
@@ -834,7 +926,8 @@
     "source": "theglobeandmail.com",
     "published": "Fri, 04 Sep 2026 16:48:56 GMT",
     "discovered_at": "2026-09-04T18:59:03.767515+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a5276b46283e026cb9befad9",
@@ -843,7 +936,8 @@
     "source": "tradingview.com",
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T18:59:03.767452+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b150aa8027e2d21587f5c2ae",
@@ -852,7 +946,8 @@
     "source": "developer.nvidia.com",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:03.767421+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f788a2f9a39dd31319f72801",
@@ -861,7 +956,8 @@
     "source": "Sportskeeda Tech",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950333+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c65ced011279517d0049adc5",
@@ -870,7 +966,8 @@
     "source": "finance.biggo.com",
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950314+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f7b7d9b5494110023fc177e7",
@@ -879,7 +976,8 @@
     "source": "overclock3d.net",
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.950261+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4f34b931414cc422b218e7ab",
@@ -888,7 +986,8 @@
     "source": "overclock3d.net",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:02.197207+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7ac03e0d26ca91540eff5306",
@@ -897,7 +996,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 03 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:01.613766+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2aeb6234f4167e0468fbabf2",
@@ -906,7 +1006,8 @@
     "source": "Wccftech",
     "published": "Wed, 29 Mar 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:00.193170+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "26b746749934d9392960a430",
@@ -915,7 +1016,8 @@
     "source": "infos-it.fr",
     "published": "Sun, 19 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:59:00.192995+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4bfa3887cf286b0731870a5a",
@@ -924,7 +1026,8 @@
     "source": "phonearena.com",
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:59.651395+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d6c8eb05a1fccb90ad9ab0c1",
@@ -933,7 +1036,8 @@
     "source": "phonearena.com",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:59.013351+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d06d885bd65eb3426d66b998",
@@ -942,7 +1046,8 @@
     "source": "theshortcut.com",
     "published": "Fri, 04 Sep 2026 13:05:10 GMT",
     "discovered_at": "2026-09-04T18:58:58.469196+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7d6a6c3f3166205377d488fb",
@@ -951,7 +1056,8 @@
     "source": "HotHardware",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:56.812482+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b1fe2822e3aec9759a03f105",
@@ -960,7 +1066,8 @@
     "source": "forbes.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:56.062053+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3675712d91ea12896d487091",
@@ -969,7 +1076,8 @@
     "source": "ndtvprofit.com",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:58:55.286344+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d15471de24bbf99f593850b2",
@@ -978,7 +1086,8 @@
     "source": "OC3D",
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:55:14.051736+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b7f3da1578488004a0c1ffed",
@@ -987,7 +1096,8 @@
     "source": "digitimes",
     "published": "Tue, 20 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:55:12.261474+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6190675a33258fe978260d2c",
@@ -996,7 +1106,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:16.244706+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "dfb4472f4d66bbda7cc26e85",
@@ -1005,7 +1116,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:14.314890+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2c58067572923ed98bea7d46",
@@ -1014,7 +1126,8 @@
     "source": "fortuneindia.com",
     "published": "Thu, 27 Aug 2026 08:18:52 GMT",
     "discovered_at": "2026-09-04T18:47:11.306843+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0cbd5cb6952e4ae2c8a43a28",
@@ -1023,7 +1136,8 @@
     "source": "timesofindia.indiatimes.com",
     "published": "Tue, 17 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:10.521228+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "42d31c413e186687b3cd2441",
@@ -1032,7 +1146,8 @@
     "source": "stocktitan.net",
     "published": "Mon, 31 Aug 2026 11:15:00 GMT",
     "discovered_at": "2026-09-04T18:47:08.907546+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2e84c47f8944b26b53dd7673",
@@ -1041,7 +1156,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 01 Sep 2026 03:33:03 GMT",
     "discovered_at": "2026-09-04T18:47:07.757687+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "128fc05a4efbd2975bf78d5b",
@@ -1050,7 +1166,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 16 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.894060+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3e5c3be7d8e8c591ef6828bc",
@@ -1059,7 +1176,8 @@
     "source": "notebookcheck.net",
     "published": "Mon, 23 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.167046+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5c653c2f29f730d145ab6e53",
@@ -1068,7 +1186,8 @@
     "source": "notebookcheck.net",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.167017+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b6314465f1aebee6b47c3884",
@@ -1077,7 +1196,8 @@
     "source": "notebookcheck.net",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166989+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "be01fafa426b7eb23da5780c",
@@ -1086,7 +1206,8 @@
     "source": "notebookcheck.net",
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166956+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b601b5ac92e5f3c017ed9152",
@@ -1095,7 +1216,8 @@
     "source": "notebookcheck.net",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166921+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a57f2e326f4101636c884fc6",
@@ -1104,7 +1226,8 @@
     "source": "notebookcheck.net",
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:06.166713+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "57390927c0252ebfb27b7f62",
@@ -1113,7 +1236,8 @@
     "source": "notebookcheck.net",
     "published": "Sun, 28 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:05.617325+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cccaafc83bbdaef40488ff89",
@@ -1122,7 +1246,8 @@
     "source": "notebookcheck.net",
     "published": "Sat, 04 Sep 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901962+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e792433f19837796b7d6025d",
@@ -1131,7 +1256,8 @@
     "source": "notebookcheck.net",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901557+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c8ab8d7f7f3d7f4e0117eb19",
@@ -1140,7 +1266,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:04.901444+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2b32d1e7e79c2f206ce150c6",
@@ -1149,7 +1276,8 @@
     "source": "notebookcheck.net",
     "published": "Fri, 28 Aug 2026 03:32:03 GMT",
     "discovered_at": "2026-09-04T18:47:04.232993+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4227edc214eaca5a19a4e1d9",
@@ -1158,7 +1286,8 @@
     "source": "notebookcheck.net",
     "published": "Mon, 10 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:03.813375+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "89432b61982724c446f8485e",
@@ -1167,7 +1296,8 @@
     "source": "TechPowerUp",
     "published": "Tue, 01 Sep 2026 19:25:23 GMT",
     "discovered_at": "2026-09-04T18:47:03.144529+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "774d492c0560bae99001bed3",
@@ -1176,7 +1306,8 @@
     "source": "notebookcheck.net",
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:02.197250+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "895da009424aaade4a43f3d2",
@@ -1185,7 +1316,8 @@
     "source": "notebookcheck.net",
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:01.575771+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e52972d263255cf43e0b66d5",
@@ -1194,7 +1326,8 @@
     "source": "notebookcheck.net",
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:01.575422+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "82c98312fdd4300c8a169a38",
@@ -1203,7 +1336,8 @@
     "source": "notebookcheck.net",
     "published": "Mon, 31 Aug 2026 03:33:49 GMT",
     "discovered_at": "2026-09-04T18:47:00.897642+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6d9c7515c2cf28f009cb8875",
@@ -1212,7 +1346,8 @@
     "source": "9to5google.com",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:47:00.897586+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "59f90794d9ebbaa22cab4c3b",
@@ -1221,7 +1356,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:00.897457+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ed6db7201bdfb78dfddcb581",
@@ -1230,7 +1366,8 @@
     "source": "notebookcheck.net",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T18:47:00.897418+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a66c837425c301befb594954",
@@ -1239,7 +1376,8 @@
     "source": "zeera wireless",
     "published": "Tue, 05 May 2026 18:03:14 GMT",
     "discovered_at": "2026-09-04T18:46:59.041566+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c0b0d9bf65d9ed62ddaff022",
@@ -1248,7 +1386,8 @@
     "source": "notebookcheck.net",
     "published": "Wed, 02 Sep 2026 22:14:00 GMT",
     "discovered_at": "2026-09-04T18:46:58.262381+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "79dcf630e57d8b5250886ef0",
@@ -1257,7 +1396,8 @@
     "source": "notebookcheck.net",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.960071+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6190140663821fd2914bc717",
@@ -1266,7 +1406,8 @@
     "source": "notebookcheck.net",
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.959905+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6fe4dbf0029dcac171e616de",
@@ -1275,7 +1416,8 @@
     "source": "notebookcheck.net",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:57.959613+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3161931bc71f7567f6bcf9e4",
@@ -1284,7 +1426,8 @@
     "source": "Analytics Insight",
     "published": "Tue, 25 Aug 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:56.493562+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "126911652a81129f30715f3d",
@@ -1293,7 +1436,8 @@
     "source": "timesofindia.indiatimes.com",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:46:56.493157+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "870feb12506df579af2bb9bc",
@@ -1302,7 +1446,8 @@
     "source": "cnx-software.com",
     "published": "Tue, 01 Sep 2026 06:41:00 GMT",
     "discovered_at": "2026-09-04T18:31:22.860420+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3bba395f1d2d4839578b6268",
@@ -1311,7 +1456,8 @@
     "source": "cnx-software.com",
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981327+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cb7f2489ab03d6b179e6449f",
@@ -1320,7 +1466,8 @@
     "source": "cnx-software.com",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981269+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a78d85820e2733f2020f7b5",
@@ -1329,7 +1476,8 @@
     "source": "cnx-software.com",
     "published": "Tue, 12 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.981126+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "24a47d61efc31b95d32f58ca",
@@ -1338,7 +1486,8 @@
     "source": "cnx-software.com",
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:21.980957+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f540175ab4d644573e91c16c",
@@ -1347,7 +1496,8 @@
     "source": "The Information",
     "published": "Thu, 06 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:16.569270+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b44608ebcb5abd7bdc14cfd7",
@@ -1356,7 +1506,8 @@
     "source": "xda-developers.com",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:13.969587+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a77565145b0dad4cdbe493cf",
@@ -1365,7 +1516,8 @@
     "source": "digitimes",
     "published": "Fri, 31 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:13.186924+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "11aa0e9584b311ef9d114bf7",
@@ -1374,7 +1526,8 @@
     "source": "Cryptopolitan",
     "published": "Fri, 04 Sep 2026 02:23:56 GMT",
     "discovered_at": "2026-09-04T18:31:10.071612+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "92b24043c561214f79d9e47c",
@@ -1383,7 +1536,8 @@
     "source": "mashable.com",
     "published": "Thu, 03 Sep 2026 23:36:27 GMT",
     "discovered_at": "2026-09-04T18:31:08.012124+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d2cd2c91f939fb99dcd1c55e",
@@ -1392,7 +1546,8 @@
     "source": "Gizmochina",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:05.722093+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c701885ade1586d65da54ce2",
@@ -1401,7 +1556,8 @@
     "source": "The Tech Outlook",
     "published": "Fri, 21 Aug 2026 05:56:18 GMT",
     "discovered_at": "2026-09-04T18:31:05.722055+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "edbd69b28bc1fb9605557b30",
@@ -1410,7 +1566,8 @@
     "source": "Android Headlines",
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:31:05.722011+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7ff34f98bb712c63fc71a3a0",
@@ -1419,7 +1576,8 @@
     "source": "The Next Web",
     "published": "Tue, 25 Aug 2026 14:19:40 GMT",
     "discovered_at": "2026-09-04T18:31:04.307769+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e28137e7b7a44af31a9012ff",
@@ -1428,7 +1586,8 @@
     "source": "IT Voice Media Pvt. Ltd.",
     "published": "Fri, 31 Jul 2026 12:44:02 GMT",
     "discovered_at": "2026-09-04T18:23:51.519496+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "96a447e1928cbe6fa2831d35",
@@ -1437,7 +1596,8 @@
     "source": "businesswire.com",
     "published": "Wed, 02 Sep 2026 12:00:00 GMT",
     "discovered_at": "2026-09-04T18:23:48.828564+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0c8fb4e6204151fcfe772e4f",
@@ -1446,7 +1606,8 @@
     "source": "fuelcarmagazine.com",
     "published": "Tue, 25 Aug 2026 12:49:02 GMT",
     "discovered_at": "2026-09-04T18:23:46.293137+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "acda1386fc5c12f35a30579f",
@@ -1455,7 +1616,8 @@
     "source": "Dealroom",
     "published": "Fri, 04 Sep 2026 18:09:42 GMT",
     "discovered_at": "2026-09-04T18:23:33.641299+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a8925784c003c74aa60e2830",
@@ -1464,7 +1626,8 @@
     "source": "igor´sLAB",
     "published": "Thu, 30 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085220+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5d955b793d01ce675845199d",
@@ -1473,7 +1636,8 @@
     "source": "Bitget",
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085175+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "11114969a4b4d08e096cf78e",
@@ -1482,7 +1646,8 @@
     "source": "EE Times",
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:51.085060+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "060fbb83c35a8835f9b89498",
@@ -1491,7 +1656,8 @@
     "source": "PCMag UK",
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640347+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e5c5849d70beef1a778ba42b",
@@ -1500,7 +1666,8 @@
     "source": "NVIDIA Developer",
     "published": "Fri, 22 Aug 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640329+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cc694e8c0e91412ab30cdde8",
@@ -1509,7 +1676,8 @@
     "source": "Ars Technica",
     "published": "Mon, 09 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640293+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b1f283a38ab24d5fa9d2d8a7",
@@ -1518,7 +1686,8 @@
     "source": "Creative Strategies",
     "published": "Tue, 21 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640271+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1b1615b4471589ce957b03dd",
@@ -1527,7 +1696,8 @@
     "source": "Macworld",
     "published": "Sun, 12 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640251+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4d87ac173aed434e184542ce",
@@ -1536,7 +1706,8 @@
     "source": "AppleInsider",
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:50.640232+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5d8c8d22ecb7f83e9b5da4e3",
@@ -1545,7 +1716,8 @@
     "source": "TechRadar",
     "published": "Sat, 28 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579881+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "18e1d1b0de40ff23ea85af87",
@@ -1554,7 +1726,8 @@
     "source": "Huawei Central",
     "published": "Fri, 03 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579857+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8f2e6ebaf79378126b635d22",
@@ -1563,7 +1736,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 24 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579761+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f0e3c5015968ba2c56105ed4",
@@ -1572,7 +1746,8 @@
     "source": "scmp.com",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579734+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "18ced7c1bc38e56b3ffdc212",
@@ -1581,7 +1756,8 @@
     "source": "TechPowerUp",
     "published": "Sat, 13 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:49.579629+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6a7bde5b845e5a7bb7ae98da",
@@ -1590,7 +1766,8 @@
     "source": "mymobileindia.com",
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:48.451763+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ec44cbfaabd96ae8fe56aae1",
@@ -1599,7 +1776,8 @@
     "source": "itvoice.in",
     "published": "Fri, 31 Jul 2026 12:44:02 GMT",
     "discovered_at": "2026-09-04T18:18:48.451743+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a3bb18a52fddf4977cbee577",
@@ -1608,7 +1786,8 @@
     "source": "telecomtalk.info",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:48.451691+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "57e34c3ea78a4b2d8219b03a",
@@ -1617,7 +1796,8 @@
     "source": "CNX Software",
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538180+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bc5180d92ecbe058b58dda6e",
@@ -1626,7 +1806,8 @@
     "source": "CNX Software",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538145+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5e2cceca1948ee37fbb67deb",
@@ -1635,7 +1816,8 @@
     "source": "Phoronix",
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538113+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d8f0076347d1e58b0155efce",
@@ -1644,7 +1826,8 @@
     "source": "Liliputing",
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538099+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6b7ed82aba4172ea7ee5ae85",
@@ -1653,7 +1836,8 @@
     "source": "LinuxGizmos.com",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538079+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5921d014cca1ad859967a31d",
@@ -1662,7 +1846,8 @@
     "source": "CNX Software",
     "published": "Tue, 12 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538060+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fa8e20dd609a7de883ee2b5e",
@@ -1671,7 +1856,8 @@
     "source": "Phoronix",
     "published": "Tue, 09 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538029+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "18d725416952f3d07788ef3d",
@@ -1680,7 +1866,8 @@
     "source": "Liliputing",
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.538014+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0ef872ffc165103644767784",
@@ -1689,7 +1876,8 @@
     "source": "The Register",
     "published": "Wed, 10 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537995+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b32fdd1308556332affe4111",
@@ -1698,7 +1886,8 @@
     "source": "LinuxGizmos.com",
     "published": "Sun, 10 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537974+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8662ce0e81f3888103485916",
@@ -1707,7 +1896,8 @@
     "source": "CNX Software",
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537954+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "90a20e529af22fc5a8257f74",
@@ -1716,7 +1906,8 @@
     "source": "Phoronix",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.537909+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5afeaa9b34dceff1bb13d040",
@@ -1725,7 +1916,8 @@
     "source": "Engineering.com",
     "published": "Tue, 22 Jul 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195319+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9771dbb9146faac4c2f502dc",
@@ -1734,7 +1926,8 @@
     "source": "AI Business",
     "published": "Wed, 29 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195301+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "109ae85f2fac0b3ed803740c",
@@ -1743,7 +1936,8 @@
     "source": "NVIDIA Newsroom",
     "published": "Tue, 28 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195281+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "09765ee6defe250208fd31fb",
@@ -1752,7 +1946,8 @@
     "source": "Exoswan Insights",
     "published": "Sat, 28 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195265+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "386aec4d1efce547e96127d0",
@@ -1761,7 +1956,8 @@
     "source": "Counterpoint Research",
     "published": "Mon, 03 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195250+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "eb4c66fc3126475d9416e57f",
@@ -1770,7 +1966,8 @@
     "source": "automotiveworld.com",
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195224+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "35045c2b7b90ed5d67254e74",
@@ -1779,7 +1976,8 @@
     "source": "Tech Times",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195185+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ee822b4bad9387e244217008",
@@ -1788,7 +1986,8 @@
     "source": "sify.com",
     "published": "Wed, 14 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195158+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b620bdb841ac430784b854a0",
@@ -1797,7 +1996,8 @@
     "source": "cnbc.com",
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195136+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3feb0fefa028a638d1a0797e",
@@ -1806,7 +2006,8 @@
     "source": "NVIDIA Newsroom",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195098+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7f393db37e53caa5dbaf1f68",
@@ -1815,7 +2016,8 @@
     "source": "Counterpoint Research",
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195080+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "39669d46884dcbe8e163ed9e",
@@ -1824,7 +2026,8 @@
     "source": "TechCrunch",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:47.195048+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "da709bcdeea67c075270a305",
@@ -1833,7 +2036,8 @@
     "source": "New Electronics",
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:45.565165+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a083b712f839dc361a36d3a",
@@ -1842,7 +2046,8 @@
     "source": "opensourceforu.com",
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:45.565130+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fd8c6ffbdf41b689e6b96318",
@@ -1851,7 +2056,8 @@
     "source": "Geeky Gadgets",
     "published": "Fri, 04 Sep 2026 09:48:43 GMT",
     "discovered_at": "2026-09-04T18:18:45.565113+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7acde7b9a761281ccd2b9d84",
@@ -1860,7 +2066,8 @@
     "source": "eeNews Europe",
     "published": "Thu, 27 Aug 2026 10:50:33 GMT",
     "discovered_at": "2026-09-04T18:18:44.689128+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "94b71eec470044f95ce15c13",
@@ -1869,7 +2076,8 @@
     "source": "AI Business",
     "published": "Thu, 27 Aug 2026 13:05:16 GMT",
     "discovered_at": "2026-09-04T18:18:44.689074+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "03ba04ff2a81d175ebd0e788",
@@ -1878,7 +2086,8 @@
     "source": "ET Enterprise AI",
     "published": "Thu, 27 Aug 2026 08:05:37 GMT",
     "discovered_at": "2026-09-04T18:18:44.688965+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "36469067b11d55e3f0e48354",
@@ -1887,7 +2096,8 @@
     "source": "Fortune",
     "published": "Thu, 25 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248765+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0bd25c87855b2a4776f0cd3e",
@@ -1896,7 +2106,8 @@
     "source": "Memeburn",
     "published": "Thu, 27 Aug 2026 22:08:28 GMT",
     "discovered_at": "2026-09-04T18:18:44.248749+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "da79fb050e05f7fe0bfed16c",
@@ -1905,7 +2116,8 @@
     "source": "cnbc.com",
     "published": "Fri, 21 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248711+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "113f4e7d47b158eb575b6309",
@@ -1914,7 +2126,8 @@
     "source": "es.tradingview.com",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:44.248639+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f8684e287cf074cc066dd783",
@@ -1923,7 +2136,8 @@
     "source": "36 Kr",
     "published": "Sat, 22 Aug 2026 02:44:19 GMT",
     "discovered_at": "2026-09-04T18:18:44.248598+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7301fa3fcd8eabf942da4a86",
@@ -1932,7 +2146,8 @@
     "source": "Club386",
     "published": "Tue, 30 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:43.527535+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c0fbbcccdc711611c61ad891",
@@ -1941,7 +2156,8 @@
     "source": "The Futurum Group",
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:43.527399+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f43c3d7c33bb609198176a40",
@@ -1950,7 +2166,8 @@
     "source": "HWCooling.net",
     "published": "Tue, 11 Aug 2026 11:16:28 GMT",
     "discovered_at": "2026-09-04T18:18:43.527374+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "86f36f01e00505071fe4259f",
@@ -1959,7 +2176,8 @@
     "source": "IT Pro",
     "published": "Wed, 19 Aug 2026 22:52:45 GMT",
     "discovered_at": "2026-09-04T18:18:42.617617+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e9df46bbe297d074ca52c881",
@@ -1968,7 +2186,8 @@
     "source": "tech-insider.org",
     "published": "Tue, 01 Sep 2026 20:46:25 GMT",
     "discovered_at": "2026-09-04T18:18:42.617522+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7554c05f99fdf827a1b9edcc",
@@ -1977,7 +2196,8 @@
     "source": "tech-insider.org",
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017577+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5185c3dbb4fc3927d539fe88",
@@ -1986,7 +2206,8 @@
     "source": "NVIDIA Newsroom",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017559+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f90d4d797600376f5bf5802f",
@@ -1995,7 +2216,8 @@
     "source": "theinformation.com",
     "published": "Thu, 06 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017526+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cb3bb8872881aaa632c5e543",
@@ -2004,7 +2226,8 @@
     "source": "cnbc.com",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:42.017477+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5fd5425683d1abec09045b7b",
@@ -2013,7 +2236,8 @@
     "source": "The Globe and Mail",
     "published": "Fri, 04 Sep 2026 16:48:56 GMT",
     "discovered_at": "2026-09-04T18:18:42.017451+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "06bcd068e8c88abcf856419b",
@@ -2022,7 +2246,8 @@
     "source": "Investing.com India",
     "published": "Mon, 31 Aug 2026 15:38:31 GMT",
     "discovered_at": "2026-09-04T18:18:42.017426+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "548dc709ceb86406e38e48d0",
@@ -2031,7 +2256,8 @@
     "source": "tech.sportskeeda.com",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082800+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a411ad0f154b06bf26a3239a",
@@ -2040,7 +2266,8 @@
     "source": "medium.com",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082718+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5eaf3b058a3caa2969f1219f",
@@ -2049,7 +2276,8 @@
     "source": "Jon Peddie Research",
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082640+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "883769a185de09117d0f0847",
@@ -2058,7 +2286,8 @@
     "source": "hothardware.com",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:41.082622+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "20bc4e3fd7c477c2bd7b270c",
@@ -2067,7 +2296,8 @@
     "source": "TechPowerUp",
     "published": "Fri, 04 Sep 2026 09:44:16 GMT",
     "discovered_at": "2026-09-04T18:18:41.082578+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "70cb6c25b9541a3756c92b44",
@@ -2076,7 +2306,8 @@
     "source": "hothardware.com",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:40.185020+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1d9be38c0e455cec9176ce45",
@@ -2085,7 +2316,8 @@
     "source": "OC3D",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:40.184937+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9316b5b1369e807cd0e07438",
@@ -2094,7 +2326,8 @@
     "source": "shattered.io",
     "published": "Tue, 01 Sep 2026 02:05:29 GMT",
     "discovered_at": "2026-09-04T18:18:39.291461+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8953b7d1579bf615246bb101",
@@ -2103,7 +2336,8 @@
     "source": "telecom.economictimes.indiatimes.com",
     "published": "Fri, 19 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:38.599000+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "232429f6654a600ae1b069a9",
@@ -2112,7 +2346,8 @@
     "source": "digitimes.com",
     "published": "Fri, 31 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:38.598937+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "375ddc237c80c5ec936b131b",
@@ -2121,7 +2356,8 @@
     "source": "Wccftech",
     "published": "Thu, 21 Sep 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717238+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "58148f3805eff494db0e0005",
@@ -2130,7 +2366,8 @@
     "source": "Notebookcheck",
     "published": "Sat, 04 Sep 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717209+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "eb6b3079b1329d365ab44b35",
@@ -2139,7 +2376,8 @@
     "source": "TechPowerUp",
     "published": "Wed, 03 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717190+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e780c638e942edf27798f444",
@@ -2148,7 +2386,8 @@
     "source": "TechPowerUp",
     "published": "Tue, 25 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.717106+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e2ecb18ef51706ae9812c45d",
@@ -2157,7 +2396,8 @@
     "source": "TechPowerUp",
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:37.716990+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c67498e6b5f880fa05f60f00",
@@ -2166,7 +2406,8 @@
     "source": "Techgenyz",
     "published": "Tue, 11 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:36.120634+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0df1feeb31fbe4e6c48a3d09",
@@ -2175,7 +2416,8 @@
     "source": "MakeUseOf",
     "published": "Thu, 27 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:36.120474+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4f4abcb2796d4268f3f146c1",
@@ -2184,7 +2426,8 @@
     "source": "tomsguide.com",
     "published": "Thu, 03 Sep 2026 13:05:41 GMT",
     "discovered_at": "2026-09-04T18:18:35.344013+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "650e11dcc505815145adf34a",
@@ -2193,7 +2436,8 @@
     "source": "The FPS Review",
     "published": "Fri, 04 Sep 2026 12:28:42 GMT",
     "discovered_at": "2026-09-04T18:18:35.343983+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3d30a179d3d63daa031fe499",
@@ -2202,7 +2446,8 @@
     "source": "CryptoRank",
     "published": "Fri, 04 Sep 2026 15:56:01 GMT",
     "discovered_at": "2026-09-04T18:18:35.343944+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c86f7e85a4c4912ea9a949c1",
@@ -2211,7 +2456,8 @@
     "source": "The Shortcut | Matt Swider",
     "published": "Fri, 04 Sep 2026 13:05:10 GMT",
     "discovered_at": "2026-09-04T18:18:35.343926+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "66fefab3a49cbcfc701065b9",
@@ -2220,7 +2466,8 @@
     "source": "tech-insider.org",
     "published": "Fri, 04 Sep 2026 11:00:17 GMT",
     "discovered_at": "2026-09-04T18:18:35.343880+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6026ea17e07b27f2d295e4a5",
@@ -2229,7 +2476,8 @@
     "source": "The Verge",
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:35.343827+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9800235cbedc66043dc68801",
@@ -2238,7 +2486,8 @@
     "source": "VideoCardz.com",
     "published": "Tue, 13 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.493492+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "41dab17cd5ff8220dcd3b05e",
@@ -2247,7 +2496,8 @@
     "source": "TechPowerUp",
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.493385+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7140f4e1b222566335bf7e5f",
@@ -2256,7 +2506,8 @@
     "source": "ultrabookreview.com",
     "published": "Thu, 15 Jan 2026 14:14:28 GMT",
     "discovered_at": "2026-09-04T18:18:34.493354+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "ded63aafb07871c783a46357"
   },
   {
     "id": "c77a1b5f7c8704c048685f47",
@@ -2265,7 +2516,8 @@
     "source": "Club386",
     "published": "Thu, 11 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103665+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9bfdb7a0956b3aa4305c8753",
@@ -2274,7 +2526,8 @@
     "source": "VideoCardz.com",
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103651+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fcd92ee49d3d64ec21114168",
@@ -2283,7 +2536,8 @@
     "source": "TechPowerUp",
     "published": "Fri, 16 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103561+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "56d67c8e4b22dad41c724d21",
@@ -2292,7 +2546,8 @@
     "source": "Club386",
     "published": "Fri, 06 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:34.103529+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4ffe779d6e285ae2ab2dc768",
@@ -2301,7 +2556,8 @@
     "source": "popsci.com",
     "published": "Tue, 25 Aug 2026 15:13:25 GMT",
     "discovered_at": "2026-09-04T18:18:32.579193+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d02fd5ea991e5f73cdddc2c9",
@@ -2310,7 +2566,8 @@
     "source": "MacDailyNews",
     "published": "Thu, 03 Sep 2026 19:30:21 GMT",
     "discovered_at": "2026-09-04T18:18:32.579157+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "896113eed152de34273603ce",
@@ -2319,7 +2576,8 @@
     "source": "shattered.io",
     "published": "Sat, 29 Aug 2026 02:18:01 GMT",
     "discovered_at": "2026-09-04T18:18:32.579128+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e34f47235c87fe6cc4841d91",
@@ -2328,7 +2586,8 @@
     "source": "The Apple Post",
     "published": "Fri, 04 Sep 2026 14:26:17 GMT",
     "discovered_at": "2026-09-04T18:18:32.579069+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d4bc7d0f725991fd5ea50be4",
@@ -2337,7 +2596,8 @@
     "source": "hindustantimes.com",
     "published": "Tue, 25 Aug 2026 13:01:30 GMT",
     "discovered_at": "2026-09-04T18:18:32.579041+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ccf86bd86bde6f807afd0f7f",
@@ -2346,7 +2606,8 @@
     "source": "techguide.com.au",
     "published": "Fri, 04 Sep 2026 10:02:16 GMT",
     "discovered_at": "2026-09-04T18:18:32.579005+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c19536eac513d94dd67f1857",
@@ -2355,7 +2616,8 @@
     "source": "9to5mac.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:32.578959+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "dbed1c564e77040fe14f56a4",
@@ -2364,7 +2626,8 @@
     "source": "Techgenyz",
     "published": "Fri, 24 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436926+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b0d9541715532fba4564af49",
@@ -2373,7 +2636,8 @@
     "source": "finance.biggo.com",
     "published": "Sat, 09 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436845+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c18317c88d2ad6d8405a683d",
@@ -2382,7 +2646,8 @@
     "source": "9to5mac.com",
     "published": "Mon, 20 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436826+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "48a0bb91e1ce9d7c0618fe91",
@@ -2391,7 +2656,8 @@
     "source": "mymobileindia.com",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:31.436697+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ead988d455602bcfa726eb43",
@@ -2400,7 +2666,8 @@
     "source": "PhoneWorld",
     "published": "Fri, 04 Sep 2026 12:18:16 GMT",
     "discovered_at": "2026-09-04T18:18:30.385322+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "57c4bb524bcd456098948cad",
@@ -2409,7 +2676,8 @@
     "source": "Gadgets 360",
     "published": "Thu, 03 Sep 2026 11:41:09 GMT",
     "discovered_at": "2026-09-04T18:18:30.385237+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "620202dc56808a7c945c58ea",
@@ -2418,7 +2686,8 @@
     "source": "AndroidPure",
     "published": "Thu, 03 Sep 2026 06:55:50 GMT",
     "discovered_at": "2026-09-04T18:18:30.385206+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "16bb3beb20024f94d5394f4e",
@@ -2427,7 +2696,8 @@
     "source": "TechPowerUp",
     "published": "Thu, 03 Sep 2026 08:33:19 GMT",
     "discovered_at": "2026-09-04T18:18:30.385190+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "48c7fb4bcd05431e9bccc727",
@@ -2436,7 +2706,8 @@
     "source": "Android Authority",
     "published": "Fri, 04 Sep 2026 11:03:00 GMT",
     "discovered_at": "2026-09-04T18:18:30.385090+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d037ebf664d6102146a7615e",
@@ -2445,7 +2716,8 @@
     "source": "igor´sLAB",
     "published": "Sun, 12 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676550+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "88f4ec678eb0051ac6907463",
@@ -2454,7 +2726,8 @@
     "source": "root-nation.com",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676505+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b741d801f718d01c5a308d83",
@@ -2463,7 +2736,8 @@
     "source": "mymobileindia.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:29.676345+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a3c90cae2843a8d660264ae",
@@ -2472,7 +2746,8 @@
     "source": "Android Headlines",
     "published": "Fri, 21 Aug 2026 20:36:01 GMT",
     "discovered_at": "2026-09-04T18:18:29.676322+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6cfbb74644f1cead9b9e6d5e",
@@ -2481,7 +2756,8 @@
     "source": "Android Headlines",
     "published": "Fri, 04 Sep 2026 13:48:18 GMT",
     "discovered_at": "2026-09-04T18:18:29.061587+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6366a78346e451f27ea06f05",
@@ -2490,7 +2766,8 @@
     "source": "Nokiamob",
     "published": "Fri, 04 Sep 2026 07:09:25 GMT",
     "discovered_at": "2026-09-04T18:18:29.061375+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "60351b0eea1c4b7ba11f76dc",
@@ -2499,7 +2776,8 @@
     "source": "AD HOC NEWS",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:28.172206+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2cbabdb7db9bd4a85cfc8582",
@@ -2508,7 +2786,8 @@
     "source": "scmp.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T18:18:28.172144+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2e32606c370300b013745c98",
@@ -2517,7 +2796,8 @@
     "source": "app.dealroom.co",
     "published": "Fri, 04 Sep 2026 18:09:42 GMT",
     "discovered_at": "2026-09-04T18:18:28.171944+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9e02066d6a70473440a27c52",
@@ -2526,7 +2806,8 @@
     "source": "intc.com",
     "published": "Wed, 21 Feb 2024 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816841+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "995af31dcfb0a64cdfecf7d9",
@@ -2535,7 +2816,8 @@
     "source": "Intel Newsroom",
     "published": "Tue, 29 Apr 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816816+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "42b9c99ec3515c1945aa1858",
@@ -2544,7 +2826,8 @@
     "source": "bitget.com",
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816797+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d8a4d9b1bacad3e97ced99d5",
@@ -2553,7 +2836,8 @@
     "source": "TrendForce",
     "published": "Tue, 28 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816775+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "63b9b0485d82fd5afc4d952d",
@@ -2562,7 +2846,8 @@
     "source": "Semiecosystem",
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816732+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a5cde9f04cf2242334250f8b",
@@ -2571,7 +2856,8 @@
     "source": "SemiAnalysis",
     "published": "Thu, 02 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816716+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1d5facc2234a18ca119dd91c",
@@ -2580,7 +2866,8 @@
     "source": "finance.biggo.com",
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816700+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "674168312908809ca51f710f",
@@ -2589,7 +2876,8 @@
     "source": "eetimes.com",
     "published": "Wed, 22 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816681+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "99684d5494cc852a5fa55166",
@@ -2598,7 +2886,8 @@
     "source": "Wccftech",
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816664+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "19e28d0f6f1f32cf265ca3c2",
@@ -2607,7 +2896,8 @@
     "source": "Semiconductor Engineering",
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816634+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5c9b2cb9a885987655b87635",
@@ -2616,7 +2906,8 @@
     "source": "The Futurum Group",
     "published": "Fri, 24 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.816607+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "390289c390c7c2dc34d4f15b",
@@ -2625,7 +2916,8 @@
     "source": "Ars Technica",
     "published": "Tue, 10 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275643+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bcd51af48cb8d89e1c0c3c66",
@@ -2634,7 +2926,8 @@
     "source": "EEJournal",
     "published": "Mon, 10 Jul 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275621+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9ba47fc79f004c75455efd6a",
@@ -2643,7 +2936,8 @@
     "source": "PCMag",
     "published": "Fri, 31 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275598+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "64625b75648852b38ec6441b",
@@ -2652,7 +2946,8 @@
     "source": "ServeTheHome",
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275578+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ad5e8f4ecf7740f124494188",
@@ -2661,7 +2956,8 @@
     "source": "Nature",
     "published": "Wed, 29 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275558+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "37058821d50aa9b3560fe83a",
@@ -2670,7 +2966,8 @@
     "source": "NVIDIA Developer",
     "published": "Mon, 05 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275542+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "52f9bcb0ecda44c4ba089445",
@@ -2679,7 +2976,8 @@
     "source": "ServeTheHome",
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:43.275499+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "93123dda18855b1c95ddca0f",
@@ -2688,7 +2986,8 @@
     "source": "Semiconductor Engineering",
     "published": "Fri, 28 Aug 2026 07:33:04 GMT",
     "discovered_at": "2026-09-04T09:45:43.275436+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3c09e0109b5ef3b3ba3c343b",
@@ -2697,7 +2996,8 @@
     "source": "Huawei Central",
     "published": "Sat, 06 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400690+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "88835aaceaad54ece67d9945",
@@ -2706,7 +3006,8 @@
     "source": "finance.biggo.com",
     "published": "Thu, 30 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400657+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6540cd548b0124a4602550e5",
@@ -2715,7 +3016,8 @@
     "source": "Tech in Asia",
     "published": "Fri, 01 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400641+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "be067a3d4a8413e618b11bd5",
@@ -2724,7 +3026,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400623+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1dcbb4f0718838f36e9a802a",
@@ -2733,7 +3036,8 @@
     "source": "TrendForce",
     "published": "Mon, 08 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400599+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bbf0f99676ab7807e183b516",
@@ -2742,7 +3046,8 @@
     "source": "Intelligent Living",
     "published": "Mon, 20 Apr 2026 07:42:40 GMT",
     "discovered_at": "2026-09-04T09:45:42.400575+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "af964bd948e9962141c58fcd",
@@ -2751,7 +3056,8 @@
     "source": "South China Morning Post",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400557+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2d2ce0ddab4146e881991b83",
@@ -2760,7 +3066,8 @@
     "source": "Pandaily",
     "published": "Mon, 15 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400523+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "87e86b7cc3d88d896de7b52a",
@@ -2769,7 +3076,8 @@
     "source": "tech-insider.org",
     "published": "Mon, 06 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400505+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a67bcb8fd0b235ed1c438bac",
@@ -2778,7 +3086,8 @@
     "source": "capacityglobal.com",
     "published": "Fri, 01 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400487+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9c5aabeb9bafc0f2083b9226",
@@ -2787,7 +3096,8 @@
     "source": "Huawei Central",
     "published": "Fri, 27 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400467+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "79d1bca500ea15631bdd3233",
@@ -2796,7 +3106,8 @@
     "source": "techpowerup.com",
     "published": "Sat, 13 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:42.400432+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c2b4c6f699a3d678c93b8b0a",
@@ -2805,7 +3116,8 @@
     "source": "It's FOSS",
     "published": "Sat, 20 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475659+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f84a410fd97388e74a631426",
@@ -2814,7 +3126,8 @@
     "source": "ETV Bharat",
     "published": "Tue, 26 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475642+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b389105302cc0ebd12b30606",
@@ -2823,7 +3136,8 @@
     "source": "Tech Times",
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475611+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "64c3252d498c8449290925b4",
@@ -2832,7 +3146,8 @@
     "source": "The Hindu",
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475589+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a2c5ca59530b19e51e8fe216",
@@ -2841,7 +3156,8 @@
     "source": "My Mobile India",
     "published": "Mon, 27 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475554+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "560183fecbd9063eca166183",
@@ -2850,7 +3166,8 @@
     "source": "LinuxGizmos.com",
     "published": "Sun, 17 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475533+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7057b57820bc98ab880c41e1",
@@ -2859,7 +3176,8 @@
     "source": "Infosecurity Magazine",
     "published": "Mon, 17 Aug 2026 15:45:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475513+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2db9029e534e5eecdd4b0836",
@@ -2868,7 +3186,8 @@
     "source": "TelecomTalk",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475495+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3717c347765a73194af00620",
@@ -2877,7 +3196,8 @@
     "source": "CNX Software",
     "published": "Tue, 01 Sep 2026 06:41:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475476+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5708ea695d1d784ba6fb73d7",
@@ -2886,7 +3206,8 @@
     "source": "Counterpoint Research",
     "published": "Tue, 28 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:41.475439+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "00a8573a653d7b5b5a3a3f53",
@@ -2895,7 +3216,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:45:41.475417+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "df0465f438594d78d588040a",
@@ -2904,7 +3226,8 @@
     "source": "ixbt.games",
     "published": "Fri, 04 Sep 2026 05:38:57 GMT",
     "discovered_at": "2026-09-04T09:45:41.475388+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4835cdadaef00bf5e6770849",
@@ -2913,7 +3236,8 @@
     "source": "TechCrunch",
     "published": "Fri, 07 Jan 2022 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523558+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0216560f313d8c53c2cdba28",
@@ -2922,7 +3246,8 @@
     "source": "Electronic Design",
     "published": "Tue, 10 Jan 2023 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523541+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0706dfa3b20ebda5dd674c97",
@@ -2931,7 +3256,8 @@
     "source": "Changing Lanes | Andrew Miller",
     "published": "Tue, 21 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523513+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7c39efaf7f51a5cf404c7ea5",
@@ -2940,7 +3266,8 @@
     "source": "Omdia",
     "published": "Mon, 22 May 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:40.523484+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d9023000c9aef4dc6a04c375",
@@ -2949,7 +3276,8 @@
     "source": "PIB",
     "published": "Mon, 15 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840452+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "69b66aa84c2094140b888fbd",
@@ -2958,7 +3286,8 @@
     "source": "SiliconANGLE",
     "published": "Thu, 09 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840433+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "72165d4be656118e764eeeeb",
@@ -2967,7 +3296,8 @@
     "source": "Nature",
     "published": "Sun, 21 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840414+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8eeb16ca7ecfd749fdf73c96",
@@ -2976,7 +3306,8 @@
     "source": "Open Source For You",
     "published": "Thu, 30 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840398+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3013d188913dae1790119f8c",
@@ -2985,7 +3316,8 @@
     "source": "iitm.ac.in",
     "published": "Wed, 22 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840380+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "af94ccd8599e6516dedddbef",
@@ -2994,7 +3326,8 @@
     "source": "Intelligent Living",
     "published": "Mon, 31 Aug 2026 06:09:10 GMT",
     "discovered_at": "2026-09-04T09:45:39.840356+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4c433c6c1ce6b80528b0ded4",
@@ -3003,7 +3336,8 @@
     "source": "Counterpoint Research",
     "published": "Tue, 23 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840339+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "828aba96b686b58e7633fb23",
@@ -3012,7 +3346,8 @@
     "source": "INSIGHTS IAS",
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840321+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "73104f776e36bfaaf4d2959d",
@@ -3021,7 +3356,8 @@
     "source": "ServeTheHome",
     "published": "Wed, 02 Sep 2026 20:00:30 GMT",
     "discovered_at": "2026-09-04T09:45:39.840295+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6443b4ba65bb1f051e1d169e",
@@ -3030,7 +3366,8 @@
     "source": "The Register",
     "published": "Tue, 25 Aug 2026 12:13:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840276+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "94e86064567b3c8c6e6a0bc4",
@@ -3039,7 +3376,8 @@
     "source": "Business Wire",
     "published": "Wed, 02 Sep 2026 12:09:47 GMT",
     "discovered_at": "2026-09-04T09:45:39.840252+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6dcbe8b1003fa67e5441aa36",
@@ -3048,7 +3386,8 @@
     "source": "Global Market Insights Inc.",
     "published": "Mon, 31 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:39.840218+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "61100f0092b3a23cbee72355",
@@ -3057,7 +3396,8 @@
     "source": "TechCrunch",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391493+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "37d7bf5fc94aed07680d09d8",
@@ -3066,7 +3406,8 @@
     "source": "Data Center Knowledge",
     "published": "Thu, 27 Aug 2026 20:07:47 GMT",
     "discovered_at": "2026-09-04T09:45:38.391473+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "331654cf02b7ba237e0aa2c9",
@@ -3075,7 +3416,8 @@
     "source": "Livemint",
     "published": "Thu, 27 Aug 2026 06:18:49 GMT",
     "discovered_at": "2026-09-04T09:45:38.391450+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "82b814f6b8de3cb611ad6f86",
@@ -3084,7 +3426,8 @@
     "source": "Fierce Network",
     "published": "Fri, 28 Aug 2026 15:28:05 GMT",
     "discovered_at": "2026-09-04T09:45:38.391413+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b9f05404d4e96b5dcc27c659",
@@ -3093,7 +3436,8 @@
     "source": "BusinessLine",
     "published": "Thu, 27 Aug 2026 05:09:25 GMT",
     "discovered_at": "2026-09-04T09:45:38.391395+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "122e22123a16e8b92dc670a0",
@@ -3102,7 +3446,8 @@
     "source": "Data Center Dynamics",
     "published": "Thu, 27 Aug 2026 12:02:42 GMT",
     "discovered_at": "2026-09-04T09:45:38.391358+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "45148138aad4e27efd8338b4",
@@ -3111,7 +3456,8 @@
     "source": "Fortune India",
     "published": "Thu, 27 Aug 2026 08:18:52 GMT",
     "discovered_at": "2026-09-04T09:45:38.391340+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8d49e148245779d6acb2de93",
@@ -3120,7 +3466,8 @@
     "source": "analyticsindiamag.com",
     "published": "Thu, 27 Aug 2026 11:50:12 GMT",
     "discovered_at": "2026-09-04T09:45:38.391305+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ffecc0a5f37277ab7a9859ca",
@@ -3129,7 +3476,8 @@
     "source": "StorageReview.com",
     "published": "Thu, 27 Aug 2026 17:21:24 GMT",
     "discovered_at": "2026-09-04T09:45:38.391287+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d67b0f9c1cf9b15b92122ffc",
@@ -3138,7 +3486,8 @@
     "source": "tech-insider.org",
     "published": "Mon, 31 Aug 2026 11:12:40 GMT",
     "discovered_at": "2026-09-04T09:45:38.391251+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "82f8236f54ed7438b05d075c",
@@ -3147,7 +3496,8 @@
     "source": "About Amazon",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391230+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f5e57a20c285455fbaf2b700",
@@ -3156,7 +3506,8 @@
     "source": "NVIDIA Newsroom",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:38.391204+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7b4d528009fb1ae28678bacb",
@@ -3165,7 +3516,8 @@
     "source": "Seeking Alpha",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543819+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0505e3b1cdf543554da4bf73",
@@ -3174,7 +3526,8 @@
     "source": "Kearney",
     "published": "Thu, 02 Oct 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543798+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0b38114ff6a8180ad6f3e9d0",
@@ -3183,7 +3536,8 @@
     "source": "The Korea Herald",
     "published": "Thu, 05 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543777+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c67f91f40dd2f086b244a46e",
@@ -3192,7 +3546,8 @@
     "source": "memeburn.com",
     "published": "Thu, 27 Aug 2026 22:08:28 GMT",
     "discovered_at": "2026-09-04T09:45:36.543760+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e88d6bc8aabeb5324c8ebce8",
@@ -3201,7 +3556,8 @@
     "source": "Tom's Hardware",
     "published": "Thu, 21 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543735+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "48dab566d40ead142d0ef3f4",
@@ -3210,7 +3566,8 @@
     "source": "CNBC",
     "published": "Fri, 21 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543712+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d72550555dee3ba92f643462",
@@ -3219,7 +3576,8 @@
     "source": "The Times of India",
     "published": "Tue, 17 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543680+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e30179f22dbd453a7edf795f",
@@ -3228,7 +3586,8 @@
     "source": "Counterpoint Research",
     "published": "Sun, 25 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543631+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9ac1d45fe1911a90a125952d",
@@ -3237,7 +3596,8 @@
     "source": "tech-insider.org",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543607+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "38c3dd59323137c04745f041",
@@ -3246,7 +3606,8 @@
     "source": "Tech Wire Asia",
     "published": "Thu, 20 Aug 2026 04:02:19 GMT",
     "discovered_at": "2026-09-04T09:45:36.543587+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d9bc35c4af6a343cc506ef98",
@@ -3255,7 +3616,8 @@
     "source": "AIMultiple",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:36.543568+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "15cbd9f4581efb2381627733",
@@ -3264,7 +3626,8 @@
     "source": "Voronoi by Visual Capitalist",
     "published": "Tue, 01 Sep 2026 21:34:57 GMT",
     "discovered_at": "2026-09-04T09:45:36.543538+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "febffa191300df33e78f68b2",
@@ -3273,7 +3636,8 @@
     "source": "TechTarget",
     "published": "Tue, 13 Jul 2021 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707586+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a8dd81ceee0f354759154f4d",
@@ -3282,7 +3646,8 @@
     "source": "The Next Platform",
     "published": "Thu, 30 Jan 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707565+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bc09642fd01adfa232c465b1",
@@ -3291,7 +3656,8 @@
     "source": "SemiAnalysis",
     "published": "Mon, 09 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707544+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "439fed9d6473d9c70029e035",
@@ -3300,7 +3666,8 @@
     "source": "Samsung Global Newsroom",
     "published": "Mon, 26 Feb 2024 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707527+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f8590702519b48faee33bbab",
@@ -3309,7 +3676,8 @@
     "source": "club386.com",
     "published": "Tue, 30 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707506+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b7190afbb48dcaf6d882d7d5",
@@ -3318,7 +3686,8 @@
     "source": "Tom's Hardware",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707485+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5d3dc0807c9889de5790f8e2",
@@ -3327,7 +3696,8 @@
     "source": "ServeTheHome",
     "published": "Sun, 16 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707466+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6782195db3a784459ccac28e",
@@ -3336,7 +3706,8 @@
     "source": "Wccftech",
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707446+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a287a50b96a2a4ed5505e117",
@@ -3345,7 +3716,8 @@
     "source": "igor´sLAB",
     "published": "Sat, 02 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707410+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "093f8a2d9681269f7faaff98",
@@ -3354,7 +3726,8 @@
     "source": "ServeTheHome",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707390+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "414a3ce672563a970a411d56",
@@ -3363,7 +3736,8 @@
     "source": "analyticsindiamag.com",
     "published": "Wed, 24 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707368+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f322835b09d06b9b7c37cbc5",
@@ -3372,7 +3746,8 @@
     "source": "Intel Newsroom",
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:35.707338+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5c6febc9420dd8c07de11cfc",
@@ -3381,7 +3756,8 @@
     "source": "StorageReview.com",
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852184+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "7adbaece0550d6afada92cf4"
   },
   {
     "id": "a2fd4d081f63531617f28b6d",
@@ -3390,7 +3766,8 @@
     "source": "fuelcarmagazine",
     "published": "Tue, 25 Aug 2026 12:49:02 GMT",
     "discovered_at": "2026-09-04T09:45:34.852153+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d3fda84c2a725e737e624fc0",
@@ -3399,7 +3776,8 @@
     "source": "tech-insider.org",
     "published": "Mon, 13 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852138+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "95c9f6ff376b002a0d578cb8",
@@ -3408,7 +3786,8 @@
     "source": "Samsung Global Newsroom",
     "published": "Wed, 18 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852121+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9864c59f634173ea8e1e1012",
@@ -3417,7 +3796,8 @@
     "source": "ServeTheHome",
     "published": "Fri, 17 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852100+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "71ded8f983ce08412ef7478e",
@@ -3426,7 +3806,8 @@
     "source": "Tom's Hardware",
     "published": "Wed, 22 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852081+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e69f6c253bb07633a49a8361",
@@ -3435,7 +3816,8 @@
     "source": "Stock Titan",
     "published": "Mon, 31 Aug 2026 11:15:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852050+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "32a2482439f71c08860c3b8a",
@@ -3444,7 +3826,8 @@
     "source": "AMD",
     "published": "Thu, 07 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.852027+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ea49870203ce6c9eaee26bef",
@@ -3453,7 +3836,8 @@
     "source": "Pulse 2.0",
     "published": "Tue, 01 Sep 2026 12:19:38 GMT",
     "discovered_at": "2026-09-04T09:45:34.852008+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7cd29a455b358426f93f25b9",
@@ -3462,7 +3846,8 @@
     "source": "TradingView",
     "published": "Mon, 31 Aug 2026 18:15:23 GMT",
     "discovered_at": "2026-09-04T09:45:34.851976+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "37a0c04d3cc88904c8e45cd7",
@@ -3471,7 +3856,8 @@
     "source": "techbarrista.com",
     "published": "Fri, 04 Sep 2026 00:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:34.851953+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5969171093e8e097df3ff492",
@@ -3480,7 +3866,8 @@
     "source": "Cisco Newsroom",
     "published": "Mon, 31 Aug 2026 16:59:26 GMT",
     "discovered_at": "2026-09-04T09:45:34.851925+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "120053b6f87091e4668b70cf",
@@ -3489,7 +3876,8 @@
     "source": "Fortune",
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.901015+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ca229ff09e7041601a97368a",
@@ -3498,7 +3886,8 @@
     "source": "aimultiple.com",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900994+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1eb880e26ec5c3947adff6d9",
@@ -3507,7 +3896,8 @@
     "source": "Livemint",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900979+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e2ece463f513737bc0d8531e",
@@ -3516,7 +3906,8 @@
     "source": "qz.com",
     "published": "Mon, 31 Aug 2026 14:03:44 GMT",
     "discovered_at": "2026-09-04T09:45:33.900942+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0e081b923596500547718448",
@@ -3525,7 +3916,8 @@
     "source": "SemiAnalysis",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900924+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "db05e77c31add80e34bc3d9b",
@@ -3534,7 +3926,8 @@
     "source": "CNBC",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900856+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "21e78b33675a29114d507619",
@@ -3543,7 +3936,8 @@
     "source": "Investing.com",
     "published": "Tue, 01 Sep 2026 02:09:53 GMT",
     "discovered_at": "2026-09-04T09:45:33.900829+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5b1c011e24ed5a82553a7c77",
@@ -3552,7 +3946,8 @@
     "source": "finance.biggo.com",
     "published": "Tue, 01 Sep 2026 11:08:34 GMT",
     "discovered_at": "2026-09-04T09:45:33.900806+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5804125fee7fd5c2a35094fe",
@@ -3561,7 +3956,8 @@
     "source": "NVIDIA Developer",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900787+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b87ecd0d616fdf55be7d395e",
@@ -3570,7 +3966,8 @@
     "source": "TradingView",
     "published": "Tue, 01 Sep 2026 04:24:00 GMT",
     "discovered_at": "2026-09-04T09:45:33.900758+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "47bd9033ac73c58c1a0e5480",
@@ -3579,7 +3976,8 @@
     "source": "Wccftech",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823217+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "97800665460a15ff2c8b9c31",
@@ -3588,7 +3986,8 @@
     "source": "finance.biggo.com",
     "published": "Fri, 20 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823187+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "498e570b192249aa9f36a9a0",
@@ -3597,7 +3996,8 @@
     "source": "Tom's Hardware",
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823171+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e9fa45227bb12826b2bb9c70",
@@ -3606,7 +4006,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 25 Aug 2026 03:34:45 GMT",
     "discovered_at": "2026-09-04T09:45:32.823142+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e446ab2fbb3f601c0339f609",
@@ -3615,7 +4016,8 @@
     "source": "OC3D",
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823124+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b8114429acbc792aa107b689",
@@ -3624,7 +4026,8 @@
     "source": "Medium",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823103+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8694cb37e69f5b0af604e535",
@@ -3633,7 +4036,8 @@
     "source": "VideoCardz.com",
     "published": "Mon, 01 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823080+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d0e102d4ffccfe48c4d17c16",
@@ -3642,7 +4046,8 @@
     "source": "igor´sLAB",
     "published": "Fri, 08 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823062+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "042dc10cda7fbe2f81f55461",
@@ -3651,7 +4056,8 @@
     "source": "techpowerup.com",
     "published": "Mon, 27 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823047+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6a3b40afb5607cf84b4ec722",
@@ -3660,7 +4066,8 @@
     "source": "TweakTown",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.823016+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "683312f7164fd064bbf6384d",
@@ -3669,7 +4076,8 @@
     "source": "HotHardware",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:32.822994+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "505d61cd64e6d584cfb3a1da",
@@ -3678,7 +4086,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 01 Sep 2026 03:33:03 GMT",
     "discovered_at": "2026-09-04T09:45:32.822971+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c9d439f59a949c510c746d8b",
@@ -3687,7 +4096,8 @@
     "source": "Tom's Hardware",
     "published": "Sat, 22 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878543+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "62190a5aaee4364bb69bbfe2",
@@ -3696,7 +4106,8 @@
     "source": "finance.biggo.com",
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878516+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5d2b3877add72ccd50a9cd66",
@@ -3705,7 +4116,8 @@
     "source": "TweakTown",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878501+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a18370a8600ec8034c4b0b60",
@@ -3714,7 +4126,8 @@
     "source": "VideoCardz.com",
     "published": "Sat, 22 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878476+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "91d0607a8a2a598447f9c8f9",
@@ -3723,7 +4136,8 @@
     "source": "Wccftech",
     "published": "Fri, 23 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878455+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "89cfb3ee7ff3d335ee77ba28",
@@ -3732,7 +4146,8 @@
     "source": "HotHardware",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878439+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "13db3396466359dddb102135",
@@ -3741,7 +4156,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 16 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878418+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "85b5dba88ad454de11d0993e",
@@ -3750,7 +4166,8 @@
     "source": "OC3D",
     "published": "Tue, 19 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878393+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a3db0cf819e125ec9c8e335b",
@@ -3759,7 +4176,8 @@
     "source": "Tom's Hardware",
     "published": "Mon, 16 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878371+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4d86e9183f74ec5679080895",
@@ -3768,7 +4186,8 @@
     "source": "HWCooling.net",
     "published": "Tue, 14 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878343+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "628125464f14d84d709c0c3c"
   },
   {
     "id": "d1a18891609e80895baf26b2",
@@ -3777,7 +4196,8 @@
     "source": "TweakTown",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878323+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1b64227a66dd457f8cf5ca69",
@@ -3786,7 +4206,8 @@
     "source": "finance.biggo.com",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:31.878292+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b35bf4e38a50d4da7f88731f",
@@ -3795,7 +4216,8 @@
     "source": "pcgamer.com",
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.806840+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "08a99e9de1566d6fdd197d52",
@@ -3804,7 +4226,8 @@
     "source": "GSMArena.com",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278609+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d71774ad8438ad723d8d73db",
@@ -3813,7 +4236,8 @@
     "source": "Huawei Central",
     "published": "Wed, 08 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278558+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2e6f530e3ff8b7ce09ed2de7",
@@ -3822,7 +4246,8 @@
     "source": "Counterpoint Research",
     "published": "Tue, 28 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:30.278460+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "67f5c90eb5b87352285af2f8",
@@ -3831,7 +4256,8 @@
     "source": "memeburn.com",
     "published": "Fri, 19 Jun 2026 02:35:45 GMT",
     "discovered_at": "2026-09-04T09:45:29.154595+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1d5d958054568d3417dd6cd8",
@@ -3840,7 +4266,8 @@
     "source": "memeburn.com",
     "published": "Mon, 06 Jul 2026 07:06:01 GMT",
     "discovered_at": "2026-09-04T09:45:28.757498+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a203e23b3b501ed6d4b2f48",
@@ -3849,7 +4276,8 @@
     "source": "CNET",
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:28.311369+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8131a8a02011bdab8f800cce",
@@ -3858,7 +4286,8 @@
     "source": "HotHardware",
     "published": "Mon, 04 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:27.389763+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "58dfb50fdadaf18c939ac549",
@@ -3867,7 +4296,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:45:25.893543+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2ca44e5dbca0c41f6faafe1d",
@@ -3876,7 +4306,8 @@
     "source": "HotHardware",
     "published": "Tue, 07 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:25.893389+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e6cb54aa22e92cbe6fd990ad",
@@ -3885,7 +4316,8 @@
     "source": "Gizchina.com",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:45:22.890298+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "6548ade8034556f613e4a18b"
   },
   {
     "id": "2e9964974587bbc3a7674517",
@@ -3894,7 +4326,8 @@
     "source": "memeburn.com",
     "published": "Wed, 19 Aug 2026 01:35:24 GMT",
     "discovered_at": "2026-09-04T09:45:22.235747+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a8e32ef00ed0bfa9d9e9cb75",
@@ -3903,7 +4336,8 @@
     "source": "HotHardware",
     "published": "Mon, 24 Aug 2026 14:27:00 GMT",
     "discovered_at": "2026-09-04T09:45:21.635175+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a39055486c0e4648a8d08f20",
@@ -3912,7 +4346,8 @@
     "source": "Notebookcheck",
     "published": "Mon, 23 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821248+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ff4d8e6765f465fe1b640bbd",
@@ -3921,7 +4356,8 @@
     "source": "Notebookcheck",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821240+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "133b85847a9c5b4281c6add9",
@@ -3930,7 +4366,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 05 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821232+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7d14edacb8fd546555b577e6",
@@ -3939,7 +4376,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 22 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821223+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "25cea3ced1747fe602306729",
@@ -3948,7 +4386,8 @@
     "source": "Notebookcheck",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821215+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "373e4be2a08c5d23a842d35f",
@@ -3957,7 +4396,8 @@
     "source": "Wccftech",
     "published": "Fri, 12 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821206+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8704549f3625012a89ec15cc",
@@ -3966,7 +4406,8 @@
     "source": "finance.biggo.com",
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821196+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f19f09c0dea105a9263e2d26",
@@ -3975,7 +4416,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 24 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821187+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "418638352301bfa9a20277ec",
@@ -3984,7 +4426,8 @@
     "source": "Digital Foundry",
     "published": "Wed, 15 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821176+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1c53d1b9220206a946db6b2d",
@@ -3993,7 +4436,8 @@
     "source": "tech.sportskeeda.com",
     "published": "Sat, 18 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821167+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6d36751d3632ce6dfe7a2a2d",
@@ -4002,7 +4446,8 @@
     "source": "XDA",
     "published": "Sun, 31 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821157+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "739a21b84f852f5963effdd5",
@@ -4011,7 +4456,8 @@
     "source": "Notebookcheck",
     "published": "Sat, 25 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:53.821139+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d717b28abbddacbd52890ad9",
@@ -4020,7 +4466,8 @@
     "source": "Notebookcheck",
     "published": "Wed, 20 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672860+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4ca4205dde350abac46792de",
@@ -4029,7 +4476,8 @@
     "source": "ET Telecom",
     "published": "Fri, 19 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672852+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "18b171c62afd84d6c1fc92c6",
@@ -4038,7 +4486,8 @@
     "source": "Notebookcheck",
     "published": "Wed, 13 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672843+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1290b5d324c55cd8c25057ea",
@@ -4047,7 +4496,8 @@
     "source": "techpowerup.com",
     "published": "Tue, 16 Sep 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672835+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "035ec342e6572fe86388ef9b",
@@ -4056,7 +4506,8 @@
     "source": "Counterpoint Research",
     "published": "Wed, 05 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672826+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a26f1fb500ae4a8cebbd0c45",
@@ -4065,7 +4516,8 @@
     "source": "WinBuzzer",
     "published": "Wed, 21 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672818+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5609e504fb97788a86a00ced",
@@ -4074,7 +4526,8 @@
     "source": "Wccftech",
     "published": "Thu, 16 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672811+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5a776c97651a64d199d3c917",
@@ -4083,7 +4536,8 @@
     "source": "EE Times Asia",
     "published": "Mon, 02 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672802+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "575493a8154d719895b8e7a7",
@@ -4092,7 +4546,8 @@
     "source": "Notebookcheck",
     "published": "Sun, 28 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672794+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "61572eb3317472dfb4c2f3b8",
@@ -4101,7 +4556,8 @@
     "source": "FoneArena.com",
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672785+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f08960f75e939f56ec211e0b",
@@ -4110,7 +4566,8 @@
     "source": "GSMArena.com",
     "published": "Mon, 13 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672776+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "917b9dc466134540f23d47dd",
@@ -4119,7 +4576,8 @@
     "source": "Counterpoint Research",
     "published": "Mon, 23 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.672759+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f8e1d58866498747bade2f84",
@@ -4128,7 +4586,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 25 Jul 2025 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019656+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9cc3878a730ba9c8597ae198",
@@ -4137,7 +4596,8 @@
     "source": "FoneArena.com",
     "published": "Mon, 08 May 2023 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019620+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ac0136860438879f68cd6801",
@@ -4146,7 +4606,8 @@
     "source": "techpowerup.com",
     "published": "Tue, 25 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019602+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3f889d995e6c596c71685864",
@@ -4155,7 +4616,8 @@
     "source": "Wccftech",
     "published": "Wed, 17 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019584+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "735549a1ca4fb01b54936303",
@@ -4164,7 +4626,8 @@
     "source": "Notebookcheck",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019565+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f0e1dc7b81c9f58955b8db4f",
@@ -4173,7 +4636,8 @@
     "source": "Android Headlines",
     "published": "Wed, 28 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019547+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8ef5289c4f94d879c3319fc7",
@@ -4182,7 +4646,8 @@
     "source": "Wccftech",
     "published": "Mon, 03 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019527+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c3f3bb533f45ad46e68741a4",
@@ -4191,7 +4656,8 @@
     "source": "techpowerup.com",
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019487+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ea424eeddd717ee45752fa60",
@@ -4200,7 +4666,8 @@
     "source": "Tech Times",
     "published": "Tue, 25 Aug 2026 18:55:08 GMT",
     "discovered_at": "2026-09-04T09:26:52.019465+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9683f98848b6dffefd7dfcbb",
@@ -4209,7 +4676,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:52.019432+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5b45735b27b4f1d46598e3b8",
@@ -4218,7 +4686,8 @@
     "source": "TechInsights",
     "published": "Thu, 18 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.686024+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "35ccdeebe079289a1c22ea21",
@@ -4227,7 +4696,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.686011+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e2164a29d12761dd9307e189",
@@ -4236,7 +4706,8 @@
     "source": "Wccftech",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685995+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "aae5d2888471255b3a7ca5f4",
@@ -4245,7 +4716,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685976+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "71a1064b78193f8676555692",
@@ -4254,7 +4726,8 @@
     "source": "GSMArena.com",
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685963+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7ae5b9cfaf374eaab3f746a7",
@@ -4263,7 +4736,8 @@
     "source": "Memeburn",
     "published": "Fri, 19 Jun 2026 02:35:45 GMT",
     "discovered_at": "2026-09-04T09:26:51.685949+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a5bb2ab34a5e5c816b40e9fc",
@@ -4272,7 +4746,8 @@
     "source": "PhoneArena",
     "published": "Thu, 27 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685936+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "26356be3823e5b671c9aaf15",
@@ -4281,7 +4756,8 @@
     "source": "Huawei Central",
     "published": "Fri, 28 Aug 2026 07:02:38 GMT",
     "discovered_at": "2026-09-04T09:26:51.685923+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "189d5bbb60f8302ec4bef709",
@@ -4290,7 +4766,8 @@
     "source": "TechInsights",
     "published": "Thu, 11 Dec 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685908+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5a7651bb6f00640644a6b37a",
@@ -4299,7 +4776,8 @@
     "source": "Huawei Central",
     "published": "Tue, 18 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685895+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "598531fe99ed25ba6d846ae5",
@@ -4308,7 +4786,8 @@
     "source": "SemiAnalysis",
     "published": "Sun, 14 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:51.685879+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d1ed8f415dd487f963cdd48d",
@@ -4317,7 +4796,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 28 Aug 2026 03:32:03 GMT",
     "discovered_at": "2026-09-04T09:26:51.685852+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7ce0e9f8e4f98614090d2f64",
@@ -4326,7 +4806,8 @@
     "source": "Memeburn",
     "published": "Mon, 06 Jul 2026 07:06:01 GMT",
     "discovered_at": "2026-09-04T09:26:50.915457+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "08e3ddc442425ccd25d225f4",
@@ -4335,7 +4816,8 @@
     "source": "Android Authority",
     "published": "Wed, 12 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915449+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "33dee9547dc4d4f8c411ebf0",
@@ -4344,7 +4826,8 @@
     "source": "nokiapoweruser.com",
     "published": "Sat, 18 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915441+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cff4f37e5e3441617ce64a20",
@@ -4353,7 +4836,8 @@
     "source": "Android Police",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915434+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0a47c1abd57574939b8b999d",
@@ -4362,7 +4846,8 @@
     "source": "Notebookcheck",
     "published": "Mon, 10 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915425+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e71446d8861a3ff2219a667d",
@@ -4371,7 +4856,8 @@
     "source": "GSMArena.com",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915417+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "19f9448bfa8d302a10c88772",
@@ -4380,7 +4866,8 @@
     "source": "Gizbot",
     "published": "Sat, 22 Aug 2026 03:45:24 GMT",
     "discovered_at": "2026-09-04T09:26:50.915409+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d40112b2c2292059d18cfc9b",
@@ -4389,7 +4876,8 @@
     "source": "PhoneArena",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915401+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "04b668d74062ec1fef26d9b5",
@@ -4398,7 +4886,8 @@
     "source": "Nokiamob",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915390+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1505a3b4935c62c005d2d5df",
@@ -4407,7 +4896,8 @@
     "source": "Android Police",
     "published": "Sun, 12 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915381+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d0c8da9629bf467c8feb16f0",
@@ -4416,7 +4906,8 @@
     "source": "makeuseof.com",
     "published": "Thu, 27 Aug 2026 10:00:13 GMT",
     "discovered_at": "2026-09-04T09:26:50.915372+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "14ebdba878cdcf7dbbd03650",
@@ -4425,7 +4916,8 @@
     "source": "Android Authority",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.915354+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "bbdd6d120a087e78a9f38e0e",
@@ -4434,7 +4926,8 @@
     "source": "tech-insider.org",
     "published": "Sun, 30 Aug 2026 20:43:12 GMT",
     "discovered_at": "2026-09-04T09:26:50.178863+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "833763a58261282ea99e76aa",
@@ -4443,7 +4936,8 @@
     "source": "Windows Report",
     "published": "Fri, 04 Sep 2026 05:51:20 GMT",
     "discovered_at": "2026-09-04T09:26:50.178855+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8452d7443c688f690d481361",
@@ -4452,7 +4946,8 @@
     "source": "techpowerup.com",
     "published": "Tue, 01 Sep 2026 19:25:23 GMT",
     "discovered_at": "2026-09-04T09:26:50.178846+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b649a98704f4e5d144702e36",
@@ -4461,7 +4956,8 @@
     "source": "tech-ish.com",
     "published": "Thu, 03 Sep 2026 23:41:04 GMT",
     "discovered_at": "2026-09-04T09:26:50.178837+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ba0170bbf71c6bc9b7d0c3ef",
@@ -4470,7 +4966,8 @@
     "source": "Wccftech",
     "published": "Thu, 03 Sep 2026 16:00:08 GMT",
     "discovered_at": "2026-09-04T09:26:50.178828+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0fcc3d0033a515ab639e0424",
@@ -4479,7 +4976,8 @@
     "source": "Digital Trends",
     "published": "Thu, 03 Sep 2026 21:25:06 GMT",
     "discovered_at": "2026-09-04T09:26:50.178817+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4c8790c7eac292703ba1a5b0",
@@ -4488,7 +4986,8 @@
     "source": "PCWorld",
     "published": "Thu, 03 Sep 2026 16:02:48 GMT",
     "discovered_at": "2026-09-04T09:26:50.178808+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "57e6d5b5049c26daed0a0c2a",
@@ -4497,7 +4996,8 @@
     "source": "cnet.com",
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178798+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "15b28f2349a5365c909e7977",
@@ -4506,7 +5006,8 @@
     "source": "Tom's Guide",
     "published": "Fri, 04 Sep 2026 06:59:04 GMT",
     "discovered_at": "2026-09-04T09:26:50.178788+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e5816c6b5bf9517c2ea9065e",
@@ -4515,7 +5016,8 @@
     "source": "Tom's Hardware",
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178769+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4202388ef58f16419f31be25",
@@ -4524,7 +5026,8 @@
     "source": "dealntech.com",
     "published": "Thu, 03 Sep 2026 20:29:38 GMT",
     "discovered_at": "2026-09-04T09:26:50.178758+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8c107e342badbc5f51dde341",
@@ -4533,7 +5036,8 @@
     "source": "theverge.com",
     "published": "Thu, 03 Sep 2026 16:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:50.178739+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "02be49fa15e6aa224212ab2f",
@@ -4542,7 +5046,8 @@
     "source": "TechSpot",
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295556+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b3d4d7e68259d3c1d619d5f6",
@@ -4551,7 +5056,8 @@
     "source": "Tech Times",
     "published": "Sat, 25 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295547+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ce23c947b310eecfc82bcd9e",
@@ -4560,7 +5066,8 @@
     "source": "Tom's Hardware",
     "published": "Mon, 02 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295537+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7e6b6de70774ad80e7dea72f",
@@ -4569,7 +5076,8 @@
     "source": "HWCooling.net",
     "published": "Wed, 04 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295525+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "30194969ca328499d9e08aa1"
   },
   {
     "id": "c34d30ddbfbdb2c1578ca36e",
@@ -4578,7 +5086,8 @@
     "source": "VideoCardz.com",
     "published": "Thu, 20 Nov 2025 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295516+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "daee20201ac73f2fa3428455",
@@ -4587,7 +5096,8 @@
     "source": "techpowerup.com",
     "published": "Tue, 06 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295506+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ded63aafb07871c783a46357",
@@ -4596,7 +5106,8 @@
     "source": "Ultrabookreview.com",
     "published": "Thu, 15 Jan 2026 14:14:28 GMT",
     "discovered_at": "2026-09-04T09:26:49.295494+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "01fc22698213211b7e6bd083",
@@ -4605,7 +5116,8 @@
     "source": "hothardware.com",
     "published": "Mon, 04 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295484+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a1b6bcc108559d3037cd8b94",
@@ -4614,7 +5126,8 @@
     "source": "Tom's Hardware",
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295473+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ccd592b676ac0fed512eb885",
@@ -4623,7 +5136,8 @@
     "source": "Tech Times",
     "published": "Mon, 31 Aug 2026 15:45:20 GMT",
     "discovered_at": "2026-09-04T09:26:49.295459+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ff3c4d60362aae2b638aad18",
@@ -4632,7 +5146,8 @@
     "source": "Notebookcheck",
     "published": "Thu, 09 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295447+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "97bc6a4aff7ad9e215b2c965",
@@ -4641,7 +5156,8 @@
     "source": "finance.biggo.com",
     "published": "Wed, 26 Aug 2026 12:05:00 GMT",
     "discovered_at": "2026-09-04T09:26:49.295426+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "425c703d35d301b0c76e52f2",
@@ -4650,7 +5166,8 @@
     "source": "techpowerup.com",
     "published": "Thu, 02 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634264+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "477a5a70f38c5821adfc22b4",
@@ -4659,7 +5176,8 @@
     "source": "club386.com",
     "published": "Thu, 11 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634255+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4768b9f3ccc841a3e7d5ed07",
@@ -4668,7 +5186,8 @@
     "source": "Notebookcheck",
     "published": "Wed, 25 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634247+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b6b082cb25862d43d8fb3be2",
@@ -4677,7 +5196,8 @@
     "source": "Tom's Hardware",
     "published": "Thu, 26 Mar 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634239+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cef7b0987045edcb820fd7d3",
@@ -4686,7 +5206,8 @@
     "source": "Wccftech",
     "published": "Sat, 30 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634230+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b09035a21dd8a891b2592fda",
@@ -4695,7 +5216,8 @@
     "source": "techpowerup.com",
     "published": "Fri, 16 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634220+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "722de67687be6e86b6bec254",
@@ -4704,7 +5226,8 @@
     "source": "club386.com",
     "published": "Fri, 06 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634212+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a8279e93506981332f85718b",
@@ -4713,7 +5236,8 @@
     "source": "Wccftech",
     "published": "Tue, 05 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634204+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2490bbc9b2bcf49e14b44908",
@@ -4722,7 +5246,8 @@
     "source": "PCMag",
     "published": "Thu, 16 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634194+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8b9ae4f704ab1eb8c0ece933",
@@ -4731,7 +5256,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634186+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fe8dba3470e13e2109e31cd0",
@@ -4740,7 +5266,8 @@
     "source": "Notebookcheck",
     "published": "Mon, 17 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634173+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7851ac1a5435de6821734922",
@@ -4749,7 +5276,8 @@
     "source": "VideoCardz.com",
     "published": "Tue, 02 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:48.634154+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "662cc3afe350dbc5da29b27b",
@@ -4758,7 +5286,8 @@
     "source": "hothardware.com",
     "published": "Thu, 04 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858270+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4605fc0ba8a1a9fb45d79287",
@@ -4767,7 +5296,8 @@
     "source": "Windows Central",
     "published": "Sun, 08 Mar 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858260+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "884d3c4463c5475ecb5e5e1c",
@@ -4776,7 +5306,8 @@
     "source": "tech-insider.org",
     "published": "Fri, 10 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858250+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f14af0860313fd9cd935773c",
@@ -4785,7 +5316,8 @@
     "source": "Notebookcheck",
     "published": "Mon, 31 Aug 2026 03:33:49 GMT",
     "discovered_at": "2026-09-04T09:26:47.858240+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "da7c5d324ae0513eb95941dc",
@@ -4794,7 +5326,8 @@
     "source": "PCMag Middle East",
     "published": "Sat, 18 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858229+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7a3dec4d67120a7ada43d6ed",
@@ -4803,7 +5336,8 @@
     "source": "9to5Google",
     "published": "Tue, 16 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858218+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "8db1259d89fd68a432886067",
@@ -4812,7 +5346,8 @@
     "source": "PCWorld",
     "published": "Thu, 23 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858206+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ab682aead3f6c5a42157e892",
@@ -4821,7 +5356,8 @@
     "source": "hothardware.com",
     "published": "Tue, 07 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858194+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6fddfcf44c0022cc87a30a09",
@@ -4830,7 +5366,8 @@
     "source": "Windows Central",
     "published": "Sat, 16 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858183+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7607d3826f1e11a5a1b50df4",
@@ -4839,7 +5376,8 @@
     "source": "tech-insider.org",
     "published": "Sun, 23 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:47.858169+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "970a768eea483e18ffce8e51",
@@ -4848,7 +5386,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:26:47.858157+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7bfd584840e651d3a76ad7e3",
@@ -4857,7 +5396,8 @@
     "source": "Notebookcheck",
     "published": "Tue, 01 Sep 2026 03:31:39 GMT",
     "discovered_at": "2026-09-04T09:26:47.858137+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "456a9232a402d54b92634d60",
@@ -4866,7 +5406,8 @@
     "source": "ETV Bharat",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844453+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "0d9f4260f181a151119bf239",
@@ -4875,7 +5416,8 @@
     "source": "Forbes",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844446+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6516021dab8c273b155866e6",
@@ -4884,7 +5426,8 @@
     "source": "Fstoppers",
     "published": "Wed, 26 Aug 2026 00:59:37 GMT",
     "discovered_at": "2026-09-04T09:26:46.844437+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e590880df59fa417c3176305",
@@ -4893,7 +5436,8 @@
     "source": "Popular Science",
     "published": "Tue, 25 Aug 2026 15:13:25 GMT",
     "discovered_at": "2026-09-04T09:26:46.844430+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "90dbd07bb926271cf7db2a5e",
@@ -4902,7 +5446,8 @@
     "source": "Tom's Hardware",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844421+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3eca81d328355bb4310f6e32",
@@ -4911,7 +5456,8 @@
     "source": "CG Channel",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844412+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "99f7286d2e059b38ced2a555",
@@ -4920,7 +5466,8 @@
     "source": "The Apple Post",
     "published": "Thu, 03 Sep 2026 19:20:50 GMT",
     "discovered_at": "2026-09-04T09:26:46.844404+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "e6957881a221d342b3a7737a",
@@ -4929,7 +5476,8 @@
     "source": "Hindustan Times",
     "published": "Tue, 25 Aug 2026 13:01:30 GMT",
     "discovered_at": "2026-09-04T09:26:46.844394+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "1c0e70099390c6cb26b66fa2",
@@ -4938,7 +5486,8 @@
     "source": "macdailynews.com",
     "published": "Thu, 03 Sep 2026 19:30:21 GMT",
     "discovered_at": "2026-09-04T09:26:46.844385+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fbe466f9038abe44b1594b4e",
@@ -4947,7 +5496,8 @@
     "source": "Mashable",
     "published": "Thu, 03 Sep 2026 23:36:27 GMT",
     "discovered_at": "2026-09-04T09:26:46.844376+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "aabfe6927392bf3093a944f5",
@@ -4956,7 +5506,8 @@
     "source": "9to5Mac",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844367+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "db0fcb0663a7d22fb03ed6bd",
@@ -4965,7 +5516,8 @@
     "source": "Apple",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.844351+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6e875007784aa8bbf810a109",
@@ -4974,7 +5526,8 @@
     "source": "Android Authority",
     "published": "Mon, 19 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165575+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "55f7df90883bd676f576718a",
@@ -4983,7 +5536,8 @@
     "source": "Gadget Hacks",
     "published": "Mon, 11 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165561+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cf298cada5bb72011b9ca4b4",
@@ -4992,7 +5546,8 @@
     "source": "techgenyz.com",
     "published": "Fri, 24 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165545+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c3dfed21a31adda608b23af0",
@@ -5001,7 +5556,8 @@
     "source": "true-tech.net",
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165531+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9c9b0eb51059d91d2326699f",
@@ -5010,7 +5566,8 @@
     "source": "AppleInsider",
     "published": "Fri, 07 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165519+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "12a7dfcbd6b76bb6fd013c72",
@@ -5019,7 +5576,8 @@
     "source": "finance.biggo.com",
     "published": "Thu, 23 Jul 2026 18:31:43 GMT",
     "discovered_at": "2026-09-04T09:26:46.165506+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "79a82d8561c4e2c2190b393c",
@@ -5028,7 +5586,8 @@
     "source": "Báo VietNamNet",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165493+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b9751609cc9aeea78390331c",
@@ -5037,7 +5596,8 @@
     "source": "9to5Mac",
     "published": "Mon, 20 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165477+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7eb4c343a24dca3ae332e69f",
@@ -5046,7 +5606,8 @@
     "source": "Analytics Insight",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165463+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c0beb1ca13939bcc3812db78",
@@ -5055,7 +5616,8 @@
     "source": "Nokiamob",
     "published": "Mon, 29 Jun 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165446+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "63445a8751976bcde797e11e",
@@ -5064,7 +5626,8 @@
     "source": "NDTV Profit",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165429+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "354a80adcda5d2960047bd78",
@@ -5073,7 +5636,8 @@
     "source": "My Mobile India",
     "published": "Tue, 21 Jul 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:46.165401+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "4701e28b35b71918b377acb1",
@@ -5082,7 +5646,8 @@
     "source": "Gizmochina",
     "published": "Tue, 27 Jan 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328994+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7448b0f01110dee90b94cc4b",
@@ -5091,7 +5656,8 @@
     "source": "Wccftech",
     "published": "Mon, 16 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328987+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a7dde65a5800369cc61202f9",
@@ -5100,7 +5666,8 @@
     "source": "Gadgets 360",
     "published": "Wed, 08 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328979+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b93c9ed3cbba719d78adec06",
@@ -5109,7 +5676,8 @@
     "source": "techpowerup.com",
     "published": "Thu, 03 Sep 2026 08:33:19 GMT",
     "discovered_at": "2026-09-04T09:26:45.328970+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f4167c1731c8a9968a47b230",
@@ -5118,7 +5686,8 @@
     "source": "Notebookcheck",
     "published": "Wed, 02 Sep 2026 22:14:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328961+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9b1b6d991900a3168dc38108",
@@ -5127,7 +5696,8 @@
     "source": "SammyGuru",
     "published": "Thu, 03 Sep 2026 07:49:27 GMT",
     "discovered_at": "2026-09-04T09:26:45.328951+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3f224d149fb8685767b57ab9",
@@ -5136,7 +5706,8 @@
     "source": "SamMobile",
     "published": "Thu, 03 Sep 2026 06:04:00 GMT",
     "discovered_at": "2026-09-04T09:26:45.328934+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d02e16614e1ec019e47b2e6e",
@@ -5145,7 +5716,8 @@
     "source": "Mezha",
     "published": "Thu, 12 Feb 2026 08:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696848+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "91f55469f5e0e2cb13590727",
@@ -5154,7 +5726,8 @@
     "source": "Huawei Central",
     "published": "Sat, 16 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696841+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "973cfb08c76d0205eba042b2",
@@ -5163,7 +5736,8 @@
     "source": "Notebookcheck",
     "published": "Wed, 19 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696834+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6777477156dff576f696c513",
@@ -5172,7 +5746,8 @@
     "source": "Root-Nation.com",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696826+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": "88f4ec678eb0051ac6907463"
   },
   {
     "id": "1ecec9a791e5f69d2433111d",
@@ -5181,7 +5756,8 @@
     "source": "91mobiles.com",
     "published": "Wed, 26 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696817+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cbb711f16991f3a203888594",
@@ -5190,7 +5766,8 @@
     "source": "Notebookcheck",
     "published": "Sat, 22 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696808+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f294d042d96d7cc80b55575a",
@@ -5199,7 +5776,8 @@
     "source": "Wccftech",
     "published": "Fri, 17 Apr 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696801+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "33361aa5662e1cfae4ef5077",
@@ -5208,7 +5786,8 @@
     "source": "Notebookcheck",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696792+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "6548ade8034556f613e4a18b",
@@ -5217,7 +5796,8 @@
     "source": "gizchina.com",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696784+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "643ecb6fc38c67a648475141",
@@ -5226,7 +5806,8 @@
     "source": "My Mobile India",
     "published": "Tue, 25 Aug 2026 05:16:38 GMT",
     "discovered_at": "2026-09-04T09:26:44.696777+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "cb0a41f628d12759e84e5676",
@@ -5235,7 +5816,8 @@
     "source": "Nokiamob",
     "published": "Fri, 29 May 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696768+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "474f5e705e7db7b68ce57682",
@@ -5244,7 +5826,8 @@
     "source": "Notebookcheck",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:44.696752+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a119fc7f58d191cd96d040e4",
@@ -5253,7 +5836,8 @@
     "source": "VideoCardz.com",
     "published": "Fri, 21 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970417+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3667ac7eb23413aa42e78bae",
@@ -5262,7 +5846,8 @@
     "source": "Huawei Central",
     "published": "Fri, 04 Sep 2026 06:56:42 GMT",
     "discovered_at": "2026-09-04T09:26:43.970406+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "2d00b7fc013cae9799e1224a",
@@ -5271,7 +5856,8 @@
     "source": "ETV Bharat",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970395+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7b13bd4a65240aa3d645bfc6",
@@ -5280,7 +5866,8 @@
     "source": "Memeburn",
     "published": "Wed, 19 Aug 2026 01:35:24 GMT",
     "discovered_at": "2026-09-04T09:26:43.970382+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "9fa06194ebd419c489863782",
@@ -5289,7 +5876,8 @@
     "source": "nokiapoweruser.com",
     "published": "Tue, 01 Sep 2026 16:40:33 GMT",
     "discovered_at": "2026-09-04T09:26:43.970371+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "fb45e2645fb4761cf90558bf",
@@ -5298,7 +5886,8 @@
     "source": "Gadget Hacks",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970356+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "3c3c5a364be987deb7ea19aa",
@@ -5307,7 +5896,8 @@
     "source": "Nokiamob",
     "published": "Thu, 20 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970345+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "425ac4c6db26f433ff895d67",
@@ -5316,7 +5906,8 @@
     "source": "91mobiles.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970334+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "97f92d24ab524918e0f5a1ba",
@@ -5325,7 +5916,8 @@
     "source": "Gadgets 360",
     "published": "Thu, 03 Sep 2026 08:07:34 GMT",
     "discovered_at": "2026-09-04T09:26:43.970322+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f5e62436d06e51f8b2de2699",
@@ -5334,7 +5926,8 @@
     "source": "Analytics Insight",
     "published": "Thu, 03 Sep 2026 14:14:58 GMT",
     "discovered_at": "2026-09-04T09:26:43.970308+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "ee3b77d96b60ee689473799c",
@@ -5343,7 +5936,8 @@
     "source": "GSMArena.com",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970293+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5eef29d1491f0da801d1f1fd",
@@ -5352,7 +5946,8 @@
     "source": "Android Authority",
     "published": "Wed, 02 Sep 2026 13:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.970269+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "544774584e2aac004baab704",
@@ -5361,7 +5956,8 @@
     "source": "smartprix.com",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350982+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "f108087780915e079a399095",
@@ -5370,7 +5966,8 @@
     "source": "Gizmochina",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350975+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "323056d2dad938025e7e1a10",
@@ -5379,7 +5976,8 @@
     "source": "tbreak.com",
     "published": "Mon, 24 Aug 2026 12:00:24 GMT",
     "discovered_at": "2026-09-04T09:26:43.350968+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "5e071f7ac2df17c2f85cb25c",
@@ -5388,7 +5986,8 @@
     "source": "ad-hoc-news.de",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350959+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "b2c735376680d96189a2489f",
@@ -5397,7 +5996,8 @@
     "source": "hothardware.com",
     "published": "Mon, 24 Aug 2026 14:27:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350951+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "c280f864445723846e53d5a7",
@@ -5406,7 +6006,8 @@
     "source": "varindia.com",
     "published": "Mon, 24 Aug 2026 11:19:34 GMT",
     "discovered_at": "2026-09-04T09:26:43.350944+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "087edaddf16670fc247497e1",
@@ -5415,7 +6016,8 @@
     "source": "South China Morning Post",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350936+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "d0d53b0d239e7214ec04fcad",
@@ -5424,7 +6026,8 @@
     "source": "ETV Bharat",
     "published": "Tue, 25 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350927+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "516b637eefc27cb674a93ec4",
@@ -5433,7 +6036,8 @@
     "source": "Analytics Insight",
     "published": "Sat, 29 Aug 2026 00:30:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350918+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "7e4b97e96c79b8c2379534ee",
@@ -5442,7 +6046,8 @@
     "source": "Nokiamob",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350908+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "554e14e1da642771022d09a5",
@@ -5451,7 +6056,8 @@
     "source": "The Times of India",
     "published": "Mon, 24 Aug 2026 07:00:00 GMT",
     "discovered_at": "2026-09-04T09:26:43.350899+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   },
   {
     "id": "a55ae31481b50d80cd514c66",
@@ -5460,6 +6066,7 @@
     "source": "Counterpoint Research",
     "published": "Tue, 01 Sep 2026 17:22:30 GMT",
     "discovered_at": "2026-09-04T09:26:43.350882+00:00",
-    "status": "Unreviewed discovery"
+    "status": "Unreviewed discovery",
+    "duplicate_of": ""
   }
 ]
