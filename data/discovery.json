@@ -1,5 +1,203 @@
 [
   {
+    "id": "c64810b83b6d3436bd2e3221",
+    "title": "Intel Accelerates Process and Packaging Innovations - intc.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTlYWklOMUdCVm1RUml2M25QQTllT2ttYjFadkNmMWlaNThTLUlxQXhNazdCSHRtdlFlRG14YldFYlVqNks5WFlqbndyZVp6UWdUYzJsb2tLQlpyeGRwczZqWjQ4dE9Oby1kZlF0dXpFYzc5TnZWdVFCTFJzLUtCZ3lOSlNIdE1JLWJtaTU5STNkbV8xZ01xbzdHY1NIaEY1YVZWUzFMeGZJVmZ3NFN0bA?oc=5",
+    "source": "intc.com",
+    "published": "Mon, 26 Jul 2021 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:17.004964+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9466543945d76e491bea7f75",
+    "title": "Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest — floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOODNRTFZ0TWpYNU1tbnVoTWRPS3A0SFdPaTQteWlpTWJRUnVTUDNFb01aRlNkUUdaemhHbGRGSXhUT0FzeG56d05KRW03NUpUSmNNNUNsNnZ5MWhSMHhac1RjLS1qX1FkaERmUmFOTzF4YklNMlpYNG44cnU1cHhucVBsUW1PVzZuZHM3a3pvanNBb3otUXVNYnpZcjktcWQ1UjJCcmNkaVdkM1hPNWZNMno1aU05b2o4eWRtUXZ4TWdMdERNNmp6SjhsUXpUV3ItaEtKRWRNMFpBd3YzS3ZSanB6RTNWb3FRanFDWkVBVGxwd2VxQVQ2OFhFWmVMbEpsc1Y2UmMtaTZwQVZ4NTUyeTJNZVhLSzd6RkxRRUFFc1FKSmRXQ1V2Z3Bld01vWlFoc1hYOGx4bldfa3JyZUFpVURGX1FCRjlhcncyZGZhc3hjakRIYU5jZElDSDc4YkZWUkZJaVZYSlZKdEJWNVp1dDkzLXpIdV84S2NmVzFLN0ktV0Qxa1lGZVhGSQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:17.004721+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "302fa3a3fc6578bdbf306034",
+    "title": "EDA Vendors Race to Align With TSMC's Angstrom-Era Roadmap at Technology Symposium - futurumgroup.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGZYTXAtcWk1YkhTLVo3WkxYakxSYkNhWTB5a2NyU2FfMVJVNm1tc3ZrQ056TzlMY0ZIRk5RWjZRMHlNVlJBc3cxbEtTODg0N0tFZDBHdFpuRlhPQm1LbkZxa1REUG84MEFrdWMxTXNJY21JazZsYmZuX2dXdjZvc1RPZkIyZzhsSVpLeTNKYTk2S0psaGdnME5Jd3p3Ujdfc0U0c1czTGtjZHhoa3cxMmExaU9TOEU?oc=5",
+    "source": "futurumgroup.com",
+    "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:17.004526+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "05a28e0f29e0b52d3c215b05",
+    "title": "Snapdragon 8 Elite Gen 6 Pro: Exclusive Die Size, LPDDR6 First, AI Frame Fusion Detailed - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDZXM1AzNlA2cW5oVy1HUGFhYlNfN1FFRHZfWXZ6X3pfUUs0VU1RQVFDUUx4U2pWV1ZTMnI4ZGdqT3l0LUU3djVxYkMyeTBQT2tuYlRkNFdsNFB0bjBZVUZ4OVRId3NJcXJuOFNrWDZoZUFQY1U3RXhadkZqcHltSUZTZUdNQW41TGFsTUNDVUZCaVJ2ekNCeWM2Zm00dHVvZUFWeG9OSW5FYzZHSV9yTUZUNWdfc09kZHRoSmRLeG43aUYwSU1fMzIzb3V2LXRDSEkxdUplUQ?oc=5",
+    "source": "Tech Times",
+    "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:16.422666+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "217ae71eab0353a61ef597f9",
+    "title": "More SpacemiT K3 & K1 Support Landing In Upstream Linux 7.2 - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMMDRyQVZtOVMzQ0lnRzhlMldLcFJ6U0JsXzY2YVdsNm00OEZ2YVg3eTc5dk9kU205RUQtRGppWDA1ZGFTR043N1A3dUVoWWF1YlZvblV1SVhhZkFNNFNNWFpvTGs?oc=5",
+    "source": "Phoronix",
+    "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.744653+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "235bd123e3d8d388cedfdb8a",
+    "title": "Waymo reveals a custom chip powering its robotaxi fleet - Automotive World",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmJzYURZXzEzUEhtQ0JUbVI3S25Td2hfdGptdlE4djd4NEkwUHVSSlV6LV9Hck52Q1Y3RHRGNEo5MVQ3aDRSY2lPTVJ6YTdpMjRxdzFGTTh5WnBoSmJhVWU5dkdIQUI5NjR5YjkxNnFVOUh4MnN6ckliZk5EM2ZBRVY2bkZORllyVkhrRnd6ZHBnUlhLa2I5aQ?oc=5",
+    "source": "Automotive World",
+    "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.173442+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "4c67a40c025b9db83dbb679f",
+    "title": "Nvidia starts working on robot taxi project - electrive.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRVI3MFhHeHVIT3J5anFCSzJDQ3IwaE94ZFhmUThMZVhPUVFJbENJOG9iMG9raDdldjlWVnRvYzR1ZmVpRzBaRmhBNU8xZGhTdWFPUTl6RnFJa3dSYmZmdjNKcmkwdnpna204aHZVb3ZNSWNuUzhEeURrYW8yQ1liUUtzMzFDRU94?oc=5",
+    "source": "electrive.com",
+    "published": "Fri, 24 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.173410+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "a1329bf425ee16368970a7a9",
+    "title": "NVIDIA Makes the World Robotaxi-Ready With Uber Partnership to Support Global Expansion - nvidianews.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pclVmbGNWRHZJTFFpcWY1S2stMGZDNERTb2xPZlVUUWp2b3J2a3JGSnQ3U1FWRUNfcmg1YmN5T09Tc18tdV9vWmFDVUQtT3ROSFlaMUpVRlFqaWxnalF5bDVMRTVTZw?oc=5",
+    "source": "nvidianews.nvidia.com",
+    "published": "Tue, 28 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.173381+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "148214a8bc1b0e8d9591e74c",
+    "title": "BYD, Geely, Isuzu and Nissan Adopt NVIDIA DRIVE Hyperion for Level 4 Vehicles - nvidianews.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92VUJlTElrSG14REhIaHJwRDB0MVVlNHhvZldrNmN4NmhDd1QtR3ZGZWhkRE9RWVRDU2NLdzNFS3ppMGNsUlJkQzB6d1pyRkN4UmtJZ19FMWtBYzh5M1BOeXhGWE9ZLUE?oc=5",
+    "source": "nvidianews.nvidia.com",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.173124+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "a13052846d84ed61de99a826",
+    "title": "TechCrunch Mobility: The custom chip driving Waymo’s robotaxi ambitions - techcrunch.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQS0REMkZkSk1McUoxWVR0NzlPZkk3RGVjZGNDVzhtVmFVc3N5aHhoOU5GS0RrMTZsenl4NGlzNjc0eU96TkJlT0JhUDFfQXdyTmJsWjFyRFNEeFZNRXJqUFcwd1doTlU3Z2U5QVpWcnlWejBHWHNpYm4zOHJxeFBnam9vbmlHTVpWWnJyZHhrN29KQUpvN1N4MGttbm1EZjkzN1ZIOEdoUQ?oc=5",
+    "source": "techcrunch.com",
+    "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:14.173038+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "496381cbea2501cadf1d9c63",
+    "title": "The best (and weirdest) future car tech at CES 2022 - techcrunch.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NTDUyUVBOMW5nVUUzbExRb3ZMRGNTbTE3c1lqZ0xRVkk3UXRCRTZXMnZibTltNFcyMXpTbTlXZmhCTkhCRmgwdHJPaDN6cWhkdXdUQkxOZFNsWFRxNUc5Y2JVdUxaNm9DSGFfUUlYdS15SDZD?oc=5",
+    "source": "techcrunch.com",
+    "published": "Fri, 07 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:13.785983+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "a770ba43928c3cf19a738b65",
+    "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI - nvidianews.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5",
+    "source": "nvidianews.nvidia.com",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:12.916354+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "88a25c5731578f49aa0574f9",
+    "title": "Nvidia stock in focus as earnings loom and GPU price hikes approach - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlhLRXM4bU1tVlByY1dEejFJVFFhZUZlaW44U3pTWnRhWk5IZDY2S3dlTzBUcnA1eTVOWEg0NExwSHZuWFdiVTFIU0hCTmloWWhQY3B3NUZhNE1RbDVYRzFJSEtFamp6UEFsS3V4bUMzS1AwNXRfaV9hVnBhVDFNQi16QmZiVVYwU2JPRkhHTTVfN3ZLNEd0bHBwNU9EVEk4M25VZ1cxSURsY25NazBaS29lbjVGaWh5am1pMEdiS0M?oc=5",
+    "source": "TradingView",
+    "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:12.504325+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "f20f3fde86da8a517753ceea",
+    "title": "AMD, Cisco, And HUMAIN Bring MI355X AI Systems Live In Saudi Arabia With Up To 1 GW Planned By 2030 - pulse2.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ0kyT2dsaXJCV3ZBN3QybWlwWlpXb3drWGk5OF9CdDJqYnJuWEJZQ2p2MTFnUkhfYVptaWhZTWtQUnZBS2FwMmdCMW5iVGN6bUtOZmpvUkdVeXJhLWNzSXhxQkctYVcwNFk1ZDJWOUpDX1laVHdiVlNBZUhKVlpMekt4a3VlWHFXQXFzblJkbWVIaVUyd1BfclA5QlR1ZW1FZGhJTjdkY04yMW9naWNQLVliWDZoRXAt0gG-AUFVX3lxTE1DRnA3RnFKa2UyZDRZenlCMGpsSXE3SDNZSTVVZ0dRWGlDNnVhTUZrWGRLWHVES1ppRHNmQXNGSC1JZDA3S0VTSmhXYTh6X2dKdV81X0ZsRHM5dnE1QWlUTEd6em84bllQc284U1paQzlfRzZHMFE1NzBNa3lkWVQtQmdScjhsMm9xTG15bDVhOElLYllkdm9fS29IeUtKYzNLNTNoc3NtZWhRc19MdDYyLTlObDd5N200Q2ROaGc?oc=5",
+    "source": "pulse2.com",
+    "published": "Tue, 01 Sep 2026 12:19:38 GMT",
+    "discovered_at": "2026-09-04T19:39:11.629920+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "4d54d7bbbe76308daae2ccae",
+    "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier - nvidianews.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPMC1CeF95eUx6ZVk0TGNTQVIzYXlUMzhVUHQ3VjRPcG5IR296SmtPd1lRSDJiS09XM0dSdjNndkgxQkQxQVJCVk1RUjQ1UnEwLVoxRGhXdkdmbFg1MEZnUlFCUDNJZF80NjFYeQ?oc=5",
+    "source": "nvidianews.nvidia.com",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:11.017304+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "df014602b927a2711477269b",
+    "title": "Intel Releases Arc GPU Graphics Drivers 101.8992 Beta - techpowerup.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLW1vWi1meE9BUVN3d1BmOFZZUUx6SG1aVC14T0diSTlHQzZrSEVQSi1JYlR0LVF5Z0k0NTVQUUhNTUVsd1ZpcVRTN2w1NE5mX3BGa3ZFdDRTOHptNDUzdnloNWRfVXAxRldKWmFyNkVYYXktMWV0QzdjNXc4clMteE5kbVlpMjBiS3VoLWV6Z0J1QlI0ZzUw0gGXAUFVX3lxTFAtbW9aLWZ4T0FRU3d3UGY4VllRTHpIbVpULXhPR2JJOUdDNmtIRVBKLUliVHQtUXlnSTQ1NVBRSE1NRWx3VmlxVFM3bDU0TmZfcEZrdkV0NFM4em00NTN2eWg1ZF9VcDFGV0paYXI2RVhheS0xZXRDN2M1dzhyUy14TmRtWWkyMGJLdWgtZXpnQnVCUjRnNTA?oc=5",
+    "source": "techpowerup.com",
+    "published": "Fri, 04 Sep 2026 09:44:16 GMT",
+    "discovered_at": "2026-09-04T19:39:10.373882+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "628125464f14d84d709c0c3c",
+    "title": "Geekbench benchmark leak reveals Zen 6 core performance - hwcooling.net",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDNsQjJUU19rNmt4SVVGblZGRmZKU3FtVmczQzBOU1NNc0tpbGV5Rm5QUndfVU5BTlV6cnZ2aDFzeHVsZ2tNNk0teVZ5RmdvMWVuYm5Sdk12bjhuRHdkb190Zm04XzlYNGxySTZiWFFaeGtuNDdhS0NyMU1NWW11Tm9JSVQ2bUJsMG9wYUlB?oc=5",
+    "source": "hwcooling.net",
+    "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:09.924695+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "e50db6fc481fcb51c20cddb5",
+    "title": "Smartphone SoC Market to Record Double-Digit Revenue Growth in 2026 - eetasia.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSGw5THpUT3hnNXZ1NUZTZl9Wd21zSlhiRXN1TmxKT0Y3M1R3TlM0UlkydnhYelo3X3k0Q1ozNTFUVmVHcF8ybkczSW5WWUY1d0oyQ2hLSkZVZmY3bjhrMndiSnhSUnlqekFIOHJ3a1dtTTZjOWdPS0RYYk05dzVnU2xZYzRXTk5NckZNcG02UXZjZGp1bDhv?oc=5",
+    "source": "eetasia.com",
+    "published": "Mon, 02 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:08.846626+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "bdfb259d22d22629088cfc71",
+    "title": "Intel 4-Core \"Panther Lake\" Xe3 iGPU Outperforms AMD Radeon 840M by 26% - techpowerup.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVRqTi1wdHNmekhCWmxId0FGSnJYRGFJU3lWSDBzdW4xSl9nZXl5TGY3WUVfenc4MUVmdDJXM3JyZG5NRW4yOUpmU2VOR3BNOXdsREl2Z2kzeld6OGFjY3dyblVWYVQtV1Q3MVVmV1Z3LVZ3bW43TnNxa3phQU5vSm5pU1NMNVJyNlNPNUllQTJCTTR3ZlVJR2tyTzJTZkMwV2xJS1VR0gGrAUFVX3lxTE0tdFJKY2Y1NEU1b3dQQXhFYWhlR25HTDdKaWJwR2dnd3dTd1ZxYzBvT2lCd256Q0Z1R29JZEN3OWh3MGV3VFlaOXd6NTNuSmxEeXVvQXFBT0pUTW9HN0dMOXVaOFY3ZUZNbWVNZEdsQmREMG1ueHBnU1B2Vm52eG5ZUnZSNWlLTFlOSmpCNHE5elc2eDUza3VRRlZ2Vy1OdHgwVTk5OVFjSnJ3NA?oc=5",
+    "source": "techpowerup.com",
+    "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:08.346494+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "30194969ca328499d9e08aa1",
+    "title": "AMD preparing Strix Halo refresh. Zen 6 successor not until 2028 - hwcooling.net",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRW1QdlZfWVpqYTl5WGphWTBYa2VYbktvaXJKeW5RMmxZeDZoRVNZUFdYZmtJMDk5ZmprR19XN0x4Y1I1QnBzUkdqYVpIM3ZMX09JTVk0Ry1KeFNGLTBCT2t3U0hyVVRzOFRubHBtb3ZLek1XZFFYOEV0OG9HeTRMM0xFVk5vb2VjZ1VJUVdSWlh5M29JWmMyTQ?oc=5",
+    "source": "hwcooling.net",
+    "published": "Wed, 04 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:06.464885+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "7daef72015e94c91b20192c5",
+    "title": "iPhone 18 Pro A20 Chip Rumors: What 2nm Means for Battery and AI - apple.gadgethacks.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGIzdEI5Q19rU1U4TkJWcm10dmV2WjctUkRiMmVVTVVkb1JLUUc2OFlSajBrTXVtUTJsQ2cxbkVpWlZFNk0yUFhMSTJpbVhwRHhQX0l0bTQyZ1FwUDgwQmlDTEtucjMwc1lKZ1BnVnlHUkJSdGEwX3VrNGZTeWE1eEVkeGdqM3p4cDktWTY2NzcwUktiNHVCUE1CVXJnTDQy?oc=5",
+    "source": "apple.gadgethacks.com",
+    "published": "Mon, 11 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:39:04.454612+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "8190db3d98d0a16455432543",
+    "title": "Galaxy S27 Ultra’s Possible Exynos 2700 Chip Just Leaked With Huge Upgrades - sammyguru.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TOXJJMWFDanFLQTQtZF9JU29aa3V5bkZya3NZaUlTZkZlbXlUd1BhUU11NTJxR3FPNEhwaExLWDgtWlBnOGhmQm5IVnl1OXB6UjFENVVnYmNIeHFRWXQ3amNWN3J5Mjg?oc=5",
+    "source": "sammyguru.com",
+    "published": "Thu, 03 Sep 2026 07:49:27 GMT",
+    "discovered_at": "2026-09-04T19:39:04.002775+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
     "id": "7d0687d5211dc4053100b277",
     "title": "Unisoc Modem Flaw Turns Video Call Into Android Kernel Takeover: No Patch, No CVE - techtimes.com",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMExsOExjdVFLdVpLVlAtLXBzY3llZGE1ZUNmM2RYZHhnZnp0aHU5cW55NkxCcmw2SGlRQUdsb0lRczk4UUdLMTB3cmsteGpkM0wtU3FjYzdmek5USnlJUUU0dVZCblRmQkgxem5PZnB5YjhzTlFiOWZsMEE1YzN5ZFkyMDl3dTRST2lqNmRfMkMwRUdyNnBuZ01oS1ZOdlBmUE96b2czN2dNVFRDZUFDQUtzX0ZzeEpoZDJWWndnY0FkVDdyaU50Rg?oc=5",
