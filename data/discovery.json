@@ -1,5 +1,77 @@
 [
   {
+    "id": "96a050581ffaf9e827a24266",
+    "title": "Huawei's Ascend 950PR debuts with nearly 3x H20 performance, targets China's AI compute gap - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVFJNUVlbl9feFZoeERFVUVjamZZNGxlVEU2OUY0UXJMV0hZV09Yb1ZMaUFqdXVQOC04SC04NThoZ0NIUXo0SHpmQ2tiNWhGN2NIam9JUVVhdlZrUjc0ZEFVQWJUckNEVGZSeFE1dC1URXRPeHBfc0E3enJabFJ3cGhKamZ6Y1k0?oc=5",
+    "source": "digitimes",
+    "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:19.581589+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "b4ffbdb46fc6ed3b83aa3333",
+    "title": "NVIDIA Kicks Off the Next Generation of AI With Rubin — Six New Chips, One Incredible AI Supercomputer - nvidianews.nvidia.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVTdNYW04bUY5N2s2cWlUR25KZzZ3ZlFxdUZ2MWgwZGFmSUJqNGQxV3E5M0ktZDAzOGFkMGtSaThmSnBrc09jN1ZYakpjWDlabmdJcDYxTjV1LXpmVW16MkJ1NDNFNE9sOUYxVUR0UUtWdzdE?oc=5",
+    "source": "nvidianews.nvidia.com",
+    "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009463+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "4533fb418258821a3964b23b",
+    "title": "NVIDIA Vera Rubin Driving Performance Per Watt, Lowest Token Cost for Partners Worldwide - NVIDIA Blog",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5odmdhWHF4alVmWF90RlBMMnEwVF8xVHBUZ2ZqakFXSE80S3hUaVJXNEtfME9tMXh2MThWVVJuMmRCYnpXSWJta1BqYWxvb2FwZURZ?oc=5",
+    "source": "NVIDIA Blog",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009437+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "2d26735005b0a91bd61c5dee",
+    "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCbmVqVGRCbVNSa24yODRDdU9YVWVLbFdiNWg2UWVPVE9hcHZwNlIxRlVSSS1JSWpkNlZsWS1GeDZRNEdXMndVUTIzNC1Ddy1oTElYdFpXcmIzVjlaaUlPWHdrSWczdU12NjZ6WkRvMUZ0WE3SAXhBVV95cUxOcGNtV3EzLXFWdmFQaFVQR1JDWlpXcWd5NHZ5U3BYUDg3RG1XbVlpRWVzQ0R2V3FBeVdsZXZQRWVIMUFvQjdxWHJFdEVOMXFqSWZnNGtuR2t3b05lOG9jV3lSUDlMSHh1TjhJb2dJWWltUnVCdjd6cFg?oc=5",
+    "source": "CNBC",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009415+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "730b6c64190e9441672c25a3",
+    "title": "Nvidia’s Scarcity Runs Out in Five Years: ‘A Chip Designed by OpenAI, by AI’ - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUZNVGJjamt4S2R0Y25tdWtnUV9HRDhtMjlpa3RTNUpRQVhCek9ucjJ1emVDZ0FrTTF1Qkc3VkN5WjNTYmxmTVItcU9oRkQzaGhlaW80Yzl5QU1UR3doc2hTN1R2SkcxV1EtclJHejBSWUZieDV5MkVYbmNXLTBhME43aGNhNGFLYnNzbWZ4YkJZeFlkaGVPZnhzVzNJNFJzdVNMSEFMVHFLMUtGek5UMnV2aktZZw?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "Mon, 31 Aug 2026 18:20:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009357+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "11a740e15791a1d7572ed5d6",
+    "title": "Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2tuS2JiVzBkNnplTHhnWjA4SmV3RTZVSmZpaXU2ek1sWWQ3ejZ0cHVyTF9nVUxnSkVVenFJbGZ0QTZvTWZGUG1uN1oyXzJYU1BTRURHRDd6eEUzbFVxVTd0c0hWemstOGtPdDZ1QnA1QmJ6b1VlRHFOZmgxQVJOc1FPcFV2NFNJYUZicmEza2ExZnBMbVZUMTJyRFZQbEVxRkRsUjh0VnFiQdIBrwFBVV95cUxOanZsNlJoZ01jZm9aYTU0cnBXY2I2YlZLaEw1WkpwZ054OXVoeHBzRGI5UU5vTWtwUEV5Z0gwNnpkTldVYTRVVFROMUwzR0pzVWNvcDFDWFRTUXRON0xmcW9YWUtBN25pRm9xY2MzRHRYTUszTnN5MFgyNHp2Ty1PRE8xb3JJT3lvUHFIbGhTd0NSWWZKbV9GTm5BSmlTZ1g5TDREYzl1V19HeGpsWDg0?oc=5",
+    "source": "CNBC",
+    "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009272+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "81cdce23842f1056cb573df6",
+    "title": "Nvidia Touts Progress Getting New Rubin Design to Customers - bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk9DR20yVlp0dThjRlo3SE1qc3FtTXpYODBRY2ZGRHlCUHBvY1ZpM2lCYkpyNmRfdFdXZzJ6ZmxSdXlnSlFDSGZiZkJSQ1FHX3F3UUtTV1RxT0hyWlkyNExqY250LVZkWXNGaEljWE9sbU9aekRQeGxwaUk2MEgzWEt4VkJKTFZZTE56MWlxWlRzRHNmaFpGcnBSbXZjcDF3QmlydHdVR3RTRUxaSHhF?oc=5",
+    "source": "bloomberg.com",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009223+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "48cedde2aef9588aac3cf6a8",
+    "title": "Nvidia's Rubin CPX Back From the Dead? Ming-Chi Kuo Says AI Chip Back With Major Redesign - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaXo2dzBneDl6X2ZoOW50S3Jidy14N01pSFRpRGRINzk3SEllUjZGdUVUYUVvZFBYNHJaOXhfRzQ5UFhyOXAxY2plUWEyZTJkOEhidDNXcEN5Q0lPV2FxMDNJcVlxWDhaR1ZJdmh1NWhBa3BiRFNpWVN4QzFZZ2ZNVVVBNzJOR3I1Qk0wek5lbGNnRFVXTUE?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Tue, 01 Sep 2026 04:24:00 GMT",
+    "discovered_at": "2026-09-04T19:47:15.009192+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
     "id": "680079c1bc332ec926cad327",
     "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More - newsletter.semianalysis.com",
     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Eb2VEVVJPN0xOVUJ3TVBFWGFJWVBTX1lCQnFBZnlwM0czTHItZnh2OWdZa25xRzc2OHJrSVB0VnNUTWwyVVFDalNNYVN4T0JhNHBWNldBYXhZdw?oc=5",
