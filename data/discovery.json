@@ -1,5 +1,126 @@
 [
   {
+    "id": "073796d503170daa54e0f682",
+    "title": "AWS makes Trainium3 UltraServers generally available - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVdoZXFZSzdfRjNXY3VpakwyLVprb2tVQUF2ZkQ4YjBqZTJZVHVwRkViU0F0a0oycTQ1VE5HeVRieTdHQzQzOEVnNlJHb3VDTEtXUGV0X3ZlR3ZaTDVyd0s4YXp2ZzNPanpJeGFxemhTVkhtc01HMGdWb3g3d3lEWG03eGNWd3gyalJZMTJ1TWQ5bWdRNk5QNmNWUWY?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:59.655330+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dde005ac561c4f956055f2eb",
+    "title": "AWS Brings the Trainium3 Chip to Market With New EC2 UltraServers - HPCwire",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOb3RRRHpzVHM5bDhEbkc5eDUtd2hHUXhnVFlqRGJ0SXpFXzB1OFgzcGJnMXY4OEgycjBCT2wxM1JpcnVIcHdvQUdMSXRDNDJFaFg5UUtpcUlOVnZma2wyOEZOWFNiRGEtTWp0RWJIYU9qaUU5ZjhFdUxxYXN6MDZZVnJ4dTVMTUswczJ5MEZnLU9RY290ZThVVkRmcnZ3WXlaSTN6SlE4VXlSNmcx?oc=5",
+    "source": "HPCwire",
+    "published": "Wed, 03 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:59.655134+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d5a0421e2733997ea191f184",
+    "title": "Data Center Processor From SiFive Does the AI Heavy Lifting - allaboutcircuits.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQjgtaW5vQ0FKN0hOM2hKMVFhZkRiX1luMHVjdmVEOTRMdmlHMWR6OFg5Zy1IYTU2S2JFYTRoQUthR2UxSmV6UVIybjFvVGg3S3F3c1psbWxuVVVNTWZreHA3NTZmWUZ5U0NzX2hPRVlITVlCOWNNNTdpSTdXYVE2QkNOT0djeUlfbFVCM2tEMmpzUmg2d2NfTUVB?oc=5",
+    "source": "allaboutcircuits.com",
+    "published": "Wed, 14 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:57.372024+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5ba668e224f0e29953f7073e",
+    "title": "SiFive intros new SiFive Performance P870-D, a new RISC-V processor with up to 256 cores - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzh6bUE2MnlsT3RWVWVIWm93QnRDRldUOEc5ODE0ZlJBelhQck5QYnhiRmtQRWczY01GUG1pZTRobk0ySVRqZ1JRMHZfcVJ4dVZ4a251ZUpxYUl5dzBLVDUxVzktc0V0R0l1NDcxc2U0dk92TlY4Mlc2dWxDN3g5b1hBbHBFWGZQRWNDV25JY2IxTGhmaE15eDB1OTRpekRQRzZSOGFsTEtCeW1LdW0tcXZqSFpNY3B0ZGc?oc=5",
+    "source": "TweakTown",
+    "published": "Thu, 15 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:57.371920+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9a6f8e2c40ec58256438af79",
+    "title": "Powering The Automotive Revolution: Advanced Packaging For Next-Generation Vehicle Computing - semiengineering.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN3lnX0pqY2IySGdqYVNycW5mTTQ1UGhOd3NuSnQyM3I5MGJtQUthbzBTaFdPTmpiR051QVJta1hwUTVINVZTMkx1cks2ZzAwQWFOYkVKdnlFRU5TQWNLaFhmV0Q3Y2F2ald3bkVHUUdsSC1DVkwxUERCbmZMTDJsM3VXc01NU0J2UzdXMDhLVk9QTGhSc1FnR0UzWjRkMzF5WGNNTS1mYjcwQk1oRGpZNUVVWXJOSWJTZUlOZQ?oc=5",
+    "source": "semiengineering.com",
+    "published": "Thu, 18 Apr 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:56.355053+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "52844fa51166c4e4109bc497",
+    "title": "Anbernic RG DS Plus Portable Console to Feature Rockchip RK3568 Processor and 1GB RAM - ixbt.games",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVTdPMWVwa0ZKQnh1RWREYnpCQkc0TFJfMXRFUXpfNU5GdlR3SkJwVHlINlItSGJaczZPeUxwdkoxUlA5dUF3Szg5OFBzaHk0RDNVUjdiYWl1eldpTGxNcXhOWlRPNDB6NDJJNXRfNGZuOVR3WFpZMTRlMXpIS0UwQlpOY3QzMG5YQkFLblJFN2VQSDAzQmdFbjhsQ1NhZHJKX1lmVTRVSVhrX29uMl9jUWpheEZCWklDcEVaelJEQmxWU1JWOEVEc2pSa9IBywFBVV95cUxQVTdPMWVwa0ZKQnh1RWREYnpCQkc0TFJfMXRFUXpfNU5GdlR3SkJwVHlINlItSGJaczZPeUxwdkoxUlA5dUF3Szg5OFBzaHk0RDNVUjdiYWl1eldpTGxNcXhOWlRPNDB6NDJJNXRfNGZuOVR3WFpZMTRlMXpIS0UwQlpOY3QzMG5YQkFLblJFN2VQSDAzQmdFbjhsQ1NhZHJKX1lmVTRVSVhrX29uMl9jUWpheEZCWklDcEVaelJEQmxWU1JWOEVEc2pSaw?oc=5",
+    "source": "ixbt.games",
+    "published": "Fri, 04 Sep 2026 05:38:57 GMT",
+    "discovered_at": "2026-09-04T20:06:52.620918+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4cfcd18fd2ccf155de6c4bd5",
+    "title": "Huawei unveils plans for 256-core Kunpeng CPU in 2028, but testing indicates progress is already advanced - techradar.com",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYUlGV2F6SGRmNUZBZFZMMHA3aFlFMDRXaHFSNDd6YlpGX0xHdnEtWFVpQVQtbWdxMUhYeGtOdXJjQmRLajRLTUJENjJJWDZCZkVsYlZsTDh0SGY1alhCNWZVdEt4c0RJY0dBM2thRS1lbHpYek1jajVHY3Vhb0tibDQzcUJTWTZ2VUhhR05iZ1BUQnV4T0FZa2tmQ25tbFZmSnZpVnlWbFBnNzVqcVU5Zlp5VVREYjUzSmxjcUdPUi1IcGNQek1nT2xJVFVhVnlXU2hYOEFaX01MSFVwUTAzQXB4d2E4WENpNHV1dkRVNnp2RTZDSTJZV1E0VURYYUMtTGNnSA?oc=5",
+    "source": "techradar.com",
+    "published": "Mon, 22 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:49.817427+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d9fbca5cc0525afda8257ca2",
+    "title": "Huawei Mate 80 Pro Max: Details und Benchmarks des neuen Kirin 9030 Pro - ComputerBase",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeDFRUGhPSWxTMjFXVjVOR2F4dmJkcFJ6U0tuLWVNOEJBRU14R1lubTlXTlJGVzRTX1RoSnJ2Ui1zTGM0bGNFbEszcUltQ1ZZTk1CdmJzUHBsZEt2Qi1EY3J0Z3JfTkFwOGlDN0tHTGlycWF5RTFsam1OeFZNMUFSYlFXVTE0c1hhVXV4UUc2TUw0T2N5NHRQdjViS21QMWF2b1FSeGFLLVUxLXNDc2REUllubzJfZHFWUGx2cHVWRQ?oc=5",
+    "source": "ComputerBase",
+    "published": "Thu, 27 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:46.139557+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f802ad1e9c31f5d56c998ed8",
+    "title": "SMIC N+3 Kirin chip offers 10% higher transistor density than Intel - Huawei Central",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGhJSkRwR2VmeEYxMWZEVXh0YVhOQ1BGaEZZckFTbUlnMElWZENNVG4zQmJtUGstRjVKNlo2N01sLUxiUXBWV3VfdU1iOW04UEZIMjRHdkFTZVRKaWhEa0RMN3N6MzVVRWpzTG54Z09PTWJOdVJLU25LTVJJbkw5ajBMZzYzTHMyQW40TklCT2ZaWmIzMGVHOUhKdC3SAaIBQVVfeXFMT0JEM2E3eVcwVXVRaEJDNV9xTGZyNmxHODY5UExFRlpFdG5mNVQyaUJzWUw2bkNpLUlCbklUVlRQVWRXMVg1SlVlZlpDcUQwZDJmN2pHMXREMXZPakQ1b01Fek5BSkpsbUxlNTRUSC1MeVZqWVo1OFRKWEpodjdBZUNkR01LYTlaU0pYRDlENHd6UjJqcHFpLUdKVG9ma1lwTUJ3?oc=5",
+    "source": "Huawei Central",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:46.139520+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fc5c0413f96a419d8920a40c",
+    "title": "Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory - Huawei Central",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWS1ZZWYxbXdUNlF2SjE3QWhNWi10aWFhcVNYZkNZVlgxUlJZNFhYU0g2VGZNWDd2aElMdS1oSjA0bC1XeW0xeHB3M2htRElLeDBzVENqdC1NVEF5V1IwYW5JRXd3UE41aWd5R3hWSlZoWUh1cVpHREVTaVpGSnRTekRLcms1NTFhb0FISFVR0gGTAUFVX3lxTE9rSzFTOGFsMjZlc250WnRlTE1RMHNGUXhsOTVNNlNFWHhwZkpCWTJfUm41OGtpMDhCUGFLR0RqTm5CR18xdy1FeU9Jc2hUcFlJMjlpcy1remNjeE9uM1lqd0UwTWxaSHlXcWZMMXZaT0xyNEIxVGl6YTFkcVFubVZma2FWaHdsSVl4MXl1X3ZPVEs4Yw?oc=5",
+    "source": "Huawei Central",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:06:46.139431+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7bcf58454626d4673c188469",
+    "title": "Qualcomm Makes MobileHistory: Upcoming Snapdragon 8 Elite Gen 6 Chip Officially Reaches 5GHz - Gizbot",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2xMOFVUVWVQZnhnQ1hienhaS2JaQ0FRYmg1eHk4dHNBdW1NMzlodjRDR0NBVjNfMFE4VFZzVlVNZG9mUEtrbWRIeF83NF9NMkFId083UmtFenJmVUlLeGRXNE5laHNNQm5kWE5zazRMZVAyeFRucVlNRVBPVDBFMV9MQWxQc3Itdy1zMzJjWVFmMnQxUUJ6UlFmVGIwNEsyeVNWWHNUeXd2OXRoYVN1ajFidnpVcnpWLXc?oc=5",
+    "source": "Gizbot",
+    "published": "Thu, 27 Aug 2026 06:23:52 GMT",
+    "discovered_at": "2026-09-04T20:06:41.957595+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ab26a3c2715b90c40203c4ee",
     "title": "AWS Releases Trainium3 ASIC to Ease Reliance on NVIDIA Hardware - TechPowerUp",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGRMZldBc3hKV040ZmlDSVpWZWY0V1FNcnJXNjdfNWNqMlVadklNQURCSG1EelFQSVE1Um9EVzFTZUViTTF6TExVRVJFTnBScmJMd09RN3FpZVNORWZwM2RYSDd3dk9WTHlycnZ2NXBtMG43NU91cmlYcFhad0N2XzhkZ3IyV0FTVmY2ZnJFa3ZmeEY2eno1c1FQNFNtZnPSAaQBQVVfeXFMUGtWbmh4Z2dJU3VSeFNNcExUa1l4Snd3Mk5pSG5RWlE3SlAwS0RROF9GWENzYjBxZFFHdUNlWXduNlptSng4WUZIdzd5SDdnTDZoS2Rsbzk5U25iT0dxYTNnb293SzNsVXlYeWJ5b3Z6LTlXaEp3dkpBbkM5WGROVlhVWGNkVkhJYURzSzlKdGczbGdSUS1WMmZUQVhHZW93bjlpT04?oc=5",
@@ -2362,7 +2483,7 @@
     "discovered_at": "2026-09-04T19:48:42.484478+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "5c6febc9420dd8c07de11cfc"
   },
   {
     "id": "1892c687eaaffa29b3c3e993",
@@ -6300,7 +6421,7 @@
     "discovered_at": "2026-09-04T09:45:34.852184+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "7adbaece0550d6afada92cf4"
+    "duplicate_of": ""
   },
   {
     "id": "a2fd4d081f63531617f28b6d",
