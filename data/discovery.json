@@ -1,5 +1,82 @@
 [
   {
+    "id": "f0be71a87ca0acb7dec089f8",
+    "title": "Intel \"Nova Lake-S\" Engineering Sample Runs 52 Cores at 4.8 GHz - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNkJ2NC1tNE0wcFJDYmFzdTZZVGlXV3VlSWpsZkVlZVJVejVYaFFFY2R1RG5XNzI4NVZUSGxqODI0OFNnR2w3blZhQU5rQVAybEM3aWY0RlJQREhFaGk3WVRBV2E3ZW1ycGpUbHZicVZQNjYwRm1uTHNKQkJ0Mi1haEZkdlBxS3YwMjBPRTBsd3BHcE5WekQzcWlsblXSAaIBQVVfeXFMUHEwUERMTXd6NnFpRUdtdmhXUUJtVlNQTElSRjFNUk5aS3J0dkx6UFNKWmpwT0NIVnhUaE1HcThiTFFQazYwTHBYQldkRHRJdW1CS0V1QllWc01DTG1fNjA2RmQ2MWpod0tLNEN4NElvdzlvc3hmMm4zMWw4UG12c0JBelVqSnpLVXpqdHI0SEZ3Z2g5aG5kM2ZHTW85ajVKY3pR?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 02 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113633+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "07adcee8ce9acf848d55d0dd",
+    "title": "AMD Zen 6 'Venice' ES chips break cover with up to 192 cores, 32 per CCD, in early stress test — Kenya, Congo, Nigeria platforms leaked - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQM3JwMW05T0dWMm5kUl9kQXRrZk0xLVJySmRFT21GQ0UwUHUtOG0xaFluWkVGaHhjZGt3Y2tBV0NoN3B4VmRzQ3FxN20zOUF6eFppWXBYejFMSWVYT2RzS2ZJajBTZ0xLazY4Ti1KVmgzSV9qd3E1WDNnYy04RXZ0em51MWlHUXJ2ZmpQYWYyY1pWSmc2bmhTRTlxZEN4c0stT1F0YURoY0xYc3daZ1Vva1F5REstbC00MXlwVTZ5dmNuMEJQVFdXYTVtUVk1NFhzbVBLMmVqZ3dWbzBiTnJJSTcyb0t0Z3BLOHZ6LWhPYzdYZFlVNUlabzAtRUtiem5xemY1ZEVB?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 30 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113585+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fc92181203054b93ca775870",
+    "title": "Intel Core i7-12700 trades blows with the AMD Ryzen 7 5800X on Geekbench - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeHdTT3NGSDJMTlpYTE5LTlh5bVZ3UE1jeXB5ZFpvcGdNY1Z3QnRnTEEwejVNZG1NQmp2RkJmVDdqLWQ0ODN5dTRzS3VSU2lpSDRsaFNyVXdrSFRudjJ4Rm9GaXIzR2R0bXB2T1kxUEFOTS10NGN1eFk1MUxZazRSTHdOUVhfOW1oaGhPR2F0UW40NkdER0pWMENtaTVJYW5IN2F3T00yNm1VQkxWVkYtdi1QdkF5THc?oc=5",
+    "source": "Notebookcheck",
+    "published": "Wed, 25 Aug 2021 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113541+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "855ffaaff269869c1eb1f805",
+    "title": "Unreleased Intel Core Ultra 100 desktop CPU spotted with 14 cores - club386.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSUdsams5VmsyZlk4YVNzdnh5Q3RmazgxdUtNM3JUaUxlS29QYXVjSXRMQkZyUm9wYVpFUHZfUS0zWFZwLVZQYjZaSV9JM2dqWjMxTkJpVzJ3T2ZwbU9TY1JfbmkwUkkxZjFMLVNMb0hzWlhISjZhZ0RqeF84SlE3SUZkcW42QVB0WDRaSHdldFpmM2NE?oc=5",
+    "source": "club386.com",
+    "published": "Thu, 27 Mar 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113505+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b39082f27f60bfe391dbd0bb",
+    "title": "Insider Says Intel Wants To Rival AMD With Future Sockets In Longevity, Also Planning New Raptor Lake Refresh For LGA 1700 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcm1kZFZQVVF6LXJ2U2xxcGVramdBNjVxWDJwZmVWRjdzTkxRVmhXVHR6aW45ZkNJV0NkYlU1c2pPZmRDR213bV9ONTcwRG9HRndadnVlNkZ0aDFmaVozRURHSzFIMDhwZjNwMWpmSjhXYVBwOFNkcThMUXdvMUtSODBpdFp3cnFTVVBRWWxjWWk3V0M4NGE3S1NSaDUtcXhuQVlmQmRoSWFmYmNE0gGyAUFVX3lxTE5EckxJVXdHRmJjWmxUTzFIVWk3eHB0UFQ3UzZHSFdZLVAtRHVjYnBVZWZoOVBLckZRNXptSFFfVGNCYmRNVFlaV2d0NHhTVTBYVE1WXzFvWko1Mlp6SG9RWTZ0ak9ZMVl5d2JocFRScXBLZmdhNzhTMFdYUHJieWdBVkdlYktjZ1BCRmg3bXdxbjFOTk1HdXdKbEpvWUhPbDd1V0dhaGhuRXQyMmJocGRVaEE?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113472+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c7e1cd540f631b69c09d158f",
+    "title": "Intel Has Reportedly Started Shipping Nova Lake CPUs, Expected To Bring Up To A Massive 2x Multi & 20% Single-Core Performance Gain - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFlmei1WSGZVWk42TlZENVpXTVNWMmt2VVgxc0VBb1FGRlprNWIyNWdnODljYnJUV0Nrd1RyNXJwLU4xNERoLXNZTDJLOTFFbjRTc0ZXbnJIaWR5cjdVSkR0VmxZZTNjUEhCV3lqX2p0X1ZlUi0zcXJteUVmd0o2ajBZQzRud0lsa0dCamZGSWV1cU9kNDk4YkZYTGlDT2JtaE9waGpuNlNyR19uVk1pb2FR0gG3AUFVX3lxTE5XQVF1QkctT3NVaGtKT2g0MnJfWENiLVVITnZnRmdlcjlaZGFIVk9abGU3RVdYSmF3MVB5M3ZNRHRYYktFX0ZtT0pzRzRvYU5JOFd3NmRXY0FnbEpHN1lvcWJiTTMyN0ZkWDVyNTN5YUxsamdScWRkYlIxYWNBdnhqZzFoYkE4X3J6RGkxV3Qtb0pEblNjSkNVU2VXUGo1bFp3VHBMZENreDNiUEFzRUIteFlad0JxOA?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 18 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:26.113420+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "be11b777121bd53250271361",
+    "title": "Asus Zenbook A14 review (UX3407NA 2026 model, Snapdragon X2 Elite) - Ultrabookreview.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBROUloSF9HZW9ZRWRuR2NqdWRxYXZzZTdIRy1oSGQtQmo3M0VoWm5PSjFzdW9BZ2M1Nl9CeU5ISzBNdlIzRlA4TlJwZ1JfeGRfUVVQQUlvcnVpYlg1UmNpYld5bDJXVGlZcy1wMWFwdW96Y3NTVzNkQWVn?oc=5",
+    "source": "Ultrabookreview.com",
+    "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:02:20.827784+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "7a30f6449c9b7ab9f2977018",
     "title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - Intelligent Living",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NbUd1d05YUDRNRVZZYzhUSTNXUzBlbXZ3c2tSRDAzYXlZaE51aU9OaGpXSmp0UkZBUG01VXc5SXN2YkIyVW1nZV9SdzVqbE1mWUlLR3pwcmhEMUJIaU9YVjhMbmdPVmRPbGFEbFp1cTRHQXdJdVJhcw?oc=5",
