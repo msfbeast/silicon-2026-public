@@ -1,5 +1,291 @@
 [
   {
+    "id": "ab26a3c2715b90c40203c4ee",
+    "title": "AWS Releases Trainium3 ASIC to Ease Reliance on NVIDIA Hardware - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGRMZldBc3hKV040ZmlDSVpWZWY0V1FNcnJXNjdfNWNqMlVadklNQURCSG1EelFQSVE1Um9EVzFTZUViTTF6TExVRVJFTnBScmJMd09RN3FpZVNORWZwM2RYSDd3dk9WTHlycnZ2NXBtMG43NU91cmlYcFhad0N2XzhkZ3IyV0FTVmY2ZnJFa3ZmeEY2eno1c1FQNFNtZnPSAaQBQVVfeXFMUGtWbmh4Z2dJU3VSeFNNcExUa1l4Snd3Mk5pSG5RWlE3SlAwS0RROF9GWENzYjBxZFFHdUNlWXduNlptSng4WUZIdzd5SDdnTDZoS2Rsbzk5U25iT0dxYTNnb293SzNsVXlYeWJ5b3Z6LTlXaEp3dkpBbkM5WGROVlhVWGNkVkhJYURzSzlKdGczbGdSUS1WMmZUQVhHZW93bjlpT04?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:40.091264+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "88efe428b976075a61ce4a70",
+    "title": "AWS Launches Trainium3 Chip to Challenge Nvidia’s AI Dominance - datacenterknowledge.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2ZsT3kxOWFtOTdfWUd4WFhQcVBPc0xJZGNIVnRjb0hjaF9Cc1kwRjdTbmN5bjJsLUhqTmNEWFRMQ0ZFWkM0RjhhUnVDbFg4N2lrUTJ0am1jSVRGakY2MU5jMVFKMzBJQXByVXM2UkJKd1FTU2ZkMHhsVEM4b1NPUjVYMmxQVnVwYlNSSGFsRWtMQXpLTEZCRE5tdUluRWZMTF9EOTU0R0hwdUpSN1V0dHVBRQ?oc=5",
+    "source": "datacenterknowledge.com",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:40.091178+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7209fc5e3312d946e0b3d29d",
+    "title": "AWS Trainium3 Deep Dive | A Potential Challenger Approaching - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41NGlqQzRNazBQYS1ZclgzVjZHZEdFdHdsTmx6TFdKOW1pQUppUjVFakNzTW4xQXc3MWtORjB1UFREcVlTU292b3otcVJOdXFZdjVibUltVV85b1piX24tQVZsZ3FWRW1CWGxkajg4eUt2eVFHQ0tjdXB4aUktZw?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:40.090963+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5bbc9f0a48d95f2e975a6fc5",
+    "title": "Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era - Arm Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ZZ0dXNEhjUjJYMVVDd2l3U1J6bUdRSmxubjBLcUpoM1lHYk8xU3FzSkN3dEZzSWVMM3dUb2Z3Nm9XZFNsNzF4aGc3WWZOLVhiRlBDcktqVmJEVzJDVkV0M2JyOA?oc=5",
+    "source": "Arm Newsroom",
+    "published": "Tue, 24 Mar 2026 16:57:11 GMT",
+    "discovered_at": "2026-09-04T20:05:39.318344+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d4cbf03dc72730c26785fd71",
+    "title": "Intel Is Up 8% Today: Here’s Why - 247wallst.com",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzMURUQmxCVGs4Q0UwTE5fWVBIblpsZV9Vc0N6aTkzNXdQdUtndHNpZUhJWDNNNlJlVExmZFhmX2U5WnhhYlNuOWZzczYxRllMZ1RxTHk5ZXROWER2WXJ2MGc2YlFvSzU2UWs4S0prSjQ3YjdBRW1yZEdtNV9qUQ?oc=5",
+    "source": "247wallst.com",
+    "published": "Wed, 20 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.909175+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e5fd0165b4884e402d6ef909",
+    "title": "The First RISC-V Shot Across The Datacenter Bow - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNakdVOVJyRUpJMGRwUDhJNk1MUGNNOEVCZHE3WlRDaGlmYmVESjJHcEw4d3VyM2V5N3Z4aWhTMGFYMUlMU0NkTmpvUWVoOElwV0taZFZsQjlRSW15NktTbXlfYVcxRDVBYjUwRDZYZ1cwSlRadjFjQ0Y2c0pGbktPdjhWQXJ4QzRWa1ZSN2xfV2dWdWxzejBSYzhhekZzTDZrdy1mQ2ZR?oc=5",
+    "source": "nextplatform.com",
+    "published": "Thu, 02 Feb 2023 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.577146+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d77bf94e949f5b235dc80bdf",
+    "title": "Ventana RISC-V CPUs Beating Next Generation Intel Sapphire Rapids! – Overview of 13 RISC-V Companies, CPUs, and Ecosystem - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zTWVxcXIwb1RFbElfeEpfR2VVTFpGOVhubDJlM0VzUGg3MEdCdXlPelZSQVZycDdfOHV0bFMwQy1yVXk5WmdRVXplLXhnNjlqYTNXUHlFZ0pIZnk4ZExEQ3VORnpadzlRa2hMaXB6eVBDcWFXbjY4dVBB?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Mon, 26 Dec 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.577041+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b3f5874eb6f2e8d777c71b25",
+    "title": "Ventana Launches Veyron V2 RISC-V Into The Datacenter - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnRpWlJXUlI3SjI5QlVNYXFvTnNsemphU2o3TkMtalN1aWxERzdibGdUeE1sMW1wajJMb2VXMUFZOVd5cWFUcjFlSl94MlVLNU9KY3JyeU44ZzhuaUc5VGstSWstcHhvWktvMW5wR2lCS0t1aWVaVWVLdWx6RWVZNEkxTy12THhyeDBFZEc2VlJ2Sy15UVZwTTRrTnNvNDFEN0hDSFdnbDVtejM3UlE?oc=5",
+    "source": "nextplatform.com",
+    "published": "Tue, 07 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.576987+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6e62e913bbf274c6ddb796de",
+    "title": "Server-class RISC-V Core Unveiled by Ventana at RISC-V Summit - allaboutcircuits.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUW1PRWxlVFRfLWx3M0Zob3RPNW90T0VFTzBZWVdKeEpRaFhlN1lBZXowOGZIQTE2bHZicHJIOG02RHV5NE9BVDFhVjI0SDRhdmVGTnplTUVVU2x4LVFadUJEOEpkaW9MVW1GMW03dW0wUUppOFgxc1B5cUM2NzdsOTFMQU0zVnRyX29aeWZaT3ZiU0JIbER1UTRkZU5Zb0xNb1E?oc=5",
+    "source": "allaboutcircuits.com",
+    "published": "Mon, 19 Dec 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.576956+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "db6e3f2fc3771e2c995df485",
+    "title": "Qualcomm leans into server market with Ventana acquisition - mugglehead.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNk5WSE5KZFA1X183Q1RlbHlzR2ZpRFFIMWZkSXpEakpPbmVXWlZTd21FTlFwMGJHY1NoTERaLTVUYl9XcjJ0SHVZZVhqLVFKdURvalB4UVhuUkEwM3dJdEQtRDNwajF4STlLRnpSc1FRU1MwNnVScTk5dnZnUXZ6QTNPUUpPdmNZTkE?oc=5",
+    "source": "mugglehead.com",
+    "published": "Mon, 15 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.576914+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b0ea366b8247eb60204802ca",
+    "title": "4 Highlights From the RISC-V Summit North America - allaboutcircuits.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3M2ejZXOGU4RU1HNi1pTFpmcFhpR1djd1lxS3ZNa1hYckZfUlcxY09SeVA1REEyN3JPcURqWGJLdzJCT05nR1NJOGw0OWZyUDBidnU4cVZmQUNGY3h4SmM3WUlpOUlxckRWZ1Z3eW5MWm5WX2V1SHRodWFoWHdZd2pIOFZfWjJJMElXMA?oc=5",
+    "source": "allaboutcircuits.com",
+    "published": "Mon, 28 Oct 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:38.298337+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "62281b38df16a137f4ac16db",
+    "title": "Arm and NVIDIA Enabling Intelligent Solutions For Roads and Robots - Arm Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hbVIwNTlrbzJVc1Z5elp5TmZQX3VPQjRmaEJLaEdMMjhkcHFEYUk4S1BwRTFsLUpsR25vTFZaUXJiZ1dwUEhSTWtuZWN1X1J2UnZHN3AzZ1ZZcWtvZ19seHBPcHh5d3EwMWM4dGpWUVJkb3NvLVh3QVpoYw?oc=5",
+    "source": "Arm Newsroom",
+    "published": "Mon, 25 Aug 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:37.962165+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ac8df3c16a569e7e2e533008",
+    "title": "New Mobileye EyeQ Ultra will Enable Consumer AVs - mobileye.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MTjJIOVMteW5aNS1xWG1UMW5OSTA3ODdKRTJ6b0pfc29ZRkMtSzJtU0xqQkJkcl93Ml9fRF9nR3NEeDFqMFRrVmduTFhkeXM3UnRVTndfZ0xGWE5iT1hzV0NsamhTYkE3cWc?oc=5",
+    "source": "mobileye.com",
+    "published": "Tue, 04 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:37.170717+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a3ba7a5ab640633561934109",
+    "title": "AMD Positions Instinct MI400 Against NVIDIA Vera Rubin, MI500 Coming in 2027 - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVZUZ2M2Q2NLajZHRjJkZ2t4dmw4T0FlSG9GYmhERnN3RWdKcnNIdG4yUmdjVEYzQlZSd2w0b2l4Wk0yT0h4OU5ZRVhid3lUS0M2TDNXT2dCOFRacV94M0NvRUVuNkIzYlp6alJvMkJRcFZiWXZmdkd5MmJfZnp5a2Q4Vmp5MVNhT0NyY1Z1VkFNeTdDNENKb0ZiY1RnSjF3UmhZVjN4czl5aHBUZllZ0gG0AUFVX3lxTE1IQTFYckJKVzB2QVpqU1lVUWcxZkI0dER1Y19GSnhucHVPODhfbFdLeFhOYzdLM25ERHJmNmsyNk5QQVBxQjNUR0NwbjluQTA1TFdtQ1BmXzZXdmxxZHlCNlRjQlMxVExNM3l0d2N1UG5uSjlCc211UW9EQ2JMd0ZfTV85TjFOMWUzSFdMUTN3eG16YjdRRTV1Nk05QUtUMWNMQU1XYTRKeW43U3hzOVY0T2pYOQ?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 11 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:36.890386+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "80e8d072f3de37dac3b32f1e",
+    "title": "AMD Officially Confirms 2 nm Process for Instinct MI450 Accelerator - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPc01WbkZTdjlfOHBobmFwQnRCeUw4YlN2SGJJd3Q3aEU4bHB3djR0WVBtckVMbnJQUkd0VWZTbFVxUHVJcjZiS042ZjBaZTBsUjdwSks5bEFrU21aR0xGeU54UkJtSXV0RDZsdkhRRW90djM5c1ljcnRRNFJwYzRjbkgyVHA4UGxWeEpiVlY1TWZDZWN6dEs5SXBkV01tWUc3a3FuetIBqgFBVV95cUxOUEI4djliM1gxbHE0akNSdFVDbEo2MUlnRm16T2s1c1hxQU5MZnV1QXB0cjhnbmEwM0tfV3BMcG5CWTVIa2QtOW9GRi1PeE5iY2N6YXNWdl9SdDRHYS1JVS14aVZqSjgyYVhhX0lzT3BOWjlmRUdrQWpLMjlDQmI3cmxudE1ibVFDY3FjQXNjSnY3MlZqbTE2bjM2emVxSnVTMzRQMnBRX25kdw?oc=5",
+    "source": "TechPowerUp",
+    "published": "Thu, 09 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:36.890213+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8b40ef2584ae8d19d8bcae9c",
+    "title": "Nvidia’s Vera-Rubin Platform Obsoletes Current AI Iron Six Months Ahead Of Launch - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUVMMVQwZ25xdUFwYVRDbzBOOUxCZTJyWmlnX3FDaHlUSkxKbEEwZ2pSOHoyMGp4dXZQYWNQd3U3Yl95ejlxLXVZT2R1NTNmYTJ2V1E4NDJPNUpHeGp0VU10X2pKc0VYMlVZcmptblRkMDlaenpBNUZ0eUpsQTZ2dHdEX1p4RTU3TEMwOERCeHVydmlHem9NM0FsNGd3WlNUR1U2QWJCYnVKWWRScFhFRDZRX2Ffa25lcXlRRTZRLUtlb0dEVGF2dGgxOA?oc=5",
+    "source": "nextplatform.com",
+    "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:36.474142+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e1b6794f57086b4ffea04f43",
+    "title": "Vera Rubin – Extreme Co-Design: An Evolution from Grace Blackwell Oberon - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3JKMXhKSFV2Rk9hTWl1UG0tNWRNUE5mcGJPSHNfaHBNeUVDMy13YVlwRGtaLVo5NTdraEZ2bjNoQV9VXzdzbzBScnd1VjZTUWp6MFI4cjI3VXN2b3kzYktrLXROWXBvdzl4dlZBdzRjald3SEk2bzhVVk1vb08tdkRJTW94QQ?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:36.474107+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5c5794828ba6a8f9ccd8649a",
+    "title": "Intel’s “Clearwater Forest” Xeon 7 E-Core CPU Will Be A Beast - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPclYtY1NuY0JUcmd3RzhFV3A1MkFHSFhzWm5Bd0hHQng4b2o1ajY3YlBmMWloVzFwYUh5Zk94RE1RZklRbnR3UGRUemhWaXlSQmhzY1NZQzh2Mm4yanJNT3lhaWVJYUZNbGVXNGNCWDZrdkp6VzRkMUpiYWJrSjRvOGZ5N3Z2X29zOVI3TGZrVjltcUVFdFFMS25SVjFfMnBoNEprUDRtMFVvZFV2UmFaUWhUSQ?oc=5",
+    "source": "nextplatform.com",
+    "published": "Tue, 26 Aug 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:35.895872+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e6c9a10804786bc50305919a",
+    "title": "Arm’s $15 Billion CPU Opportunity Hinges on Agentic Data Center Design - The Futurum Group",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanE0SEt3TUlRLWh4aGs2aWhnb09GbG5ETHVueEdxYUtZcDNwMEh4enVqY2JqZGxVTGRHeGhIbWdyUlYwbmpJN3ZGamF4dHFRZHkwOWRiSXQ2TDhaT3dpUWl4bGhpLU9IdUIyOXBVRkJtMVowbzlQN0IzRVllTEtIUVo4OUJpdFV1NG5GSHRWVjYtZmtKeUs4MFQ0NUVBVzUwekZmOWxn?oc=5",
+    "source": "The Futurum Group",
+    "published": "Thu, 26 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:35.576735+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2b13d4abc44aaad189ff1dc0",
+    "title": "Huawei to Debut New Ascend 950DT AI Chip in August - WinBuzzer",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYjNERlNDcWw1TXFpdHNvRHd1VlFCTFM5ZTJTYkxWdnc5LXJJNVAxNXBSeVA4UWZMVExiakM1TDU3Y180aTRDbEtZdTBQd21MM3pCdGtOMEtIY2hrQkdmd3p0X19nTTd6WVZmaTZNRGxUekJwYnp2amVRLUlPUlJYdVgxdjFCSThfNWV6YnpQa0c5RWNIaGZyaVczUQ?oc=5",
+    "source": "WinBuzzer",
+    "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:30.878879+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3ba9ab16ec8c63582e86e8f7",
+    "title": "Huawei’s Atlas 350 promises serious AI muscle with FP4 compute dominance - techradar.com",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMm1MZFVnajk1ZFBXR0lkMmZwR0JfdFRuR0hiWTctand3dnpqMEVRUGI4UlZZOXZHREM1R2ZpWjlJTktXdHlkc213U1B0RmNBQmxpcnlTR1BRRS1NQ3dpQUFpLUJ4SnNEU3lmY0xKVGtfZFpMakJPa2ZXRDhhNEc5dFBfTmRFV1ZrSGVJclozajlfTENFNEtwSGd3eDF4UER1OWg2cGJoaWtQY1M4MWxXWVlWbTFXS2V2VEtBUW5fVUl5Slh6LWlZVVRFS1NiY2ZMcWFtU2p3dUh0OXRCYnh5WjZENjNqLUk?oc=5",
+    "source": "techradar.com",
+    "published": "Sat, 28 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:30.878854+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4ac0b2037af193888a31c134",
+    "title": "Huawei's Atlas 350 Surpasses NVIDIA H20 in Chinese AI Market - chosun.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZ2d6MlhxYUoxbzlGU045ZjZSVUdlbmNDaGtOUFN1WVdkM2JHSzd3eGJKLS1UcDlaZVZVbzdWRm5Bc1hjbWNHM0pXLU05Sl9jUjRoTDRwSzM3Rk5RZDVpQzUwX0xzd25XREZHaUt0QkFBaVkzU0ZYYWtsaTRKVXBLNG1ZOGh4cmRM?oc=5",
+    "source": "chosun.com",
+    "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:30.878822+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "42b2571e94e290c41f5c586b",
+    "title": "Intel CPUs To Get Hyper‑Threading Back in Two Years - hwcooling.net",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQzlBM21wUlptMmhnVzhOVHFCQ0E3YTZXaF9vbERpUlBIOEVUS2pnc0JLN0xwMzlnRFA5b091anVaRVpKcGRoLVZMUGVVMGFId2RrdzlfaXJyekh0NlhoamVGTkZpekU0X3EtVjlqSHVZLW1KNUo4Rlk3VTFURlVWT3FnVkQwZ1E2MUZxQy1yZFR5Vzg?oc=5",
+    "source": "hwcooling.net",
+    "published": "Tue, 11 Aug 2026 11:16:28 GMT",
+    "discovered_at": "2026-09-04T20:05:26.432115+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "457b6881d8ed263b7ce6fedb",
+    "title": "AMD Ryzen AI 9 HX 470 Gorgon Point APUs Seen Flexing 12 Cores At 5.25GHz - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1OdzRwYm9ralMzcHVqY0pOeTM0ZDFSS19QdWVEdDR3SkNIWWs5NHI5T1BmUmJacFRtZHZSRnJHS21hUEhhMko1OGdvQXdPVHR3MWJfbEpydUZSZlgxVmVzRWxjRVQ2N0p6NHRDQTB4bw?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:21.481396+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "da54e5480f8a16993634fbfd",
+    "title": "AMD's next-gen Ryzen AI 400 laptops could launch on January 22, five days ahead of Panther Lake — Gorgon Point release date leaks through early Asus listing in China - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNUWFYekFEenBaMklZUHpjeVlOWnhFZzNOaFo4UVZWYTRCN284OGhWVXBMRmpqbEc0R2NOdGk1ZVVZZFlodnVjdjlHWWNqanBMR3lZZzZ5Tjg5dlJsUVVsNy05UjNjcFdzdEZSR0ZKc2FEWUdyMXMwSmwtVEdaaG5lWUg3aWhfWVNMZVBQQ0swMm1laS1EMHBDMkVUeHU0YWhGX05OT2dEMmVkR05IcTV2YzVyMTNlTk55UlpvOW9qLXI2TGpBcXVHMVkyclcwejlrTnFLNUpXdkw4d2M3eDRCTm4yZ1pXVjltMU9TSDZQcDQ0T1hTeUgxZUNVRFpqMHl3bXh5a0llY2dlSGx5eG9SSW8yRzR3cUxOOHotZkRyTEtfS2JPOVlOaTlzdGdTN2trYTRJ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T20:05:21.481373+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ab0a82f357ec33bff7baa2be",
+    "title": "Samsung Exynos 2700 die shot gives first look at Galaxy S27 Ultra chip - sammyfans.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUsxZTBmQl8tdWExNG1qVTdsWUlLckxPYnpaMF9STTdKdmZNUEd1U29RTzhJX2lfOEFzWGVYZXZDUnA2TlhiOWRMSzFvTlJldTcxZmUxNHYwLWZiQS0yQXUxZFB0WnJweFBRUm9vb0Zxbm81R25GUlJCY1ZmNndxNzY3dE8yaWVQdWpYNHNlVVRvd3JGdlUzemY5dVg4NElNNGlyc1hQTnNTUTJm0gGyAUFVX3lxTE1aOU16UF9iRm5sc2taVFMxMUNNbEMtdWNwSXEyWG5Kbmc1TjFHZnhucEM5dDZKTUc1aU5CZGlPaU9BUFRsLVFPalg4Q214TEx2Yjh2ajl2b0tRVWZjSXdpT3YzbXhKVm13ZC02aTJEMWVWTll6NkpJaG52UFA3S0FYVlRWWW40UVRnRkdPc2Z0TUJYRVhxSWlfckpVdEhZZE1OS2FGWkZ1QjJUMllyQVpFVUE?oc=5",
+    "source": "sammyfans.com",
+    "published": "Wed, 02 Sep 2026 18:43:15 GMT",
+    "discovered_at": "2026-09-04T20:05:19.281123+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f6fa6c5471aa6c89da3ebb59",
     "title": "AWS Unveils Trainium3 AI Chip, Promising 50% Cost Savings to Challenge Nvidia's Dominance - finance.biggo.com",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTnJWUVRXVDRNeGswaG50anQwYUhSRTJpd0N4cm9lY0VqYmlIUEk4ajRneUQ1NmplZlVhVnlQMENCdk5paklXVTNwemxrSmV2RFBIX0R6WW5HWW1oQk1ONzM3SmlLLWdCelRsXzk0dTdnbjRxc1BiQ0pBeHNmenNpcUszZnQwUQ?oc=5",
@@ -2703,7 +2989,7 @@
     "discovered_at": "2026-09-04T19:39:06.464885+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "7e6b6de70774ad80e7dea72f"
   },
   {
     "id": "7daef72015e94c91b20192c5",
@@ -4265,7 +4551,7 @@
     "discovered_at": "2026-09-04T18:18:43.527374+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "42b2571e94e290c41f5c586b"
   },
   {
     "id": "86f36f01e00505071fe4259f",
@@ -7466,7 +7752,7 @@
     "discovered_at": "2026-09-04T09:26:49.295525+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "30194969ca328499d9e08aa1"
+    "duplicate_of": ""
   },
   {
     "id": "c34d30ddbfbdb2c1578ca36e",
