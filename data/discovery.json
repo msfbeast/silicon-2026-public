@@ -1,5 +1,41 @@
 [
   {
+    "id": "ce21175a9629f828bc80a875",
+    "title": "AWS to deploy 2 million additional Nvidia GPUs by 2028 - enterpriseai.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbFozenBvcHJmdjJ1bGpiZUI3UF9vUGVDNGpVMkQ3VFozU0dwUXlRSmhFTnFnMkNpRGR5LXRSOHNSUUo0QVJxM2o0OFVUMnZ5VEZWeDJyd0JGVkhRM3o5aFJxSk02R3FJWFJna0ZGMGdaSzc3bDlFYXM3WkdqMm1LVWJTbHRJZkRJYS1nLS1QV3doZDM2ZE5HUXdRRHM2Y2dVem9oaC14Z0ZWTFAwZjNSMFNWSXRHRFNhVDM3WWZ1Tmc5UFFoS0Zj0gHMAUFVX3lxTE1IOWRBNGdDSnVkUGlKYTBCNll2aWJPQkFaR2xzTDA5eno4dDc3WXh5bGhmc1d5RnlnbWdvV2I4bTM0TFFzUHF3dlNiLWFKLVE3UkVnOWVxMlZMRWlWZkVxMnE2YUJxbjAxU3hJbHBDcHQ4NmxTYmYybU1OWnU4bzJYcGEwSG5ZRzMzdlJVaVJCTEhSd1NUN0hKbnFkOUl2Q19Zc09UMkYwS1VmTnFLaHBGa3dRSEVIM3FFOERwSnJ5dmR5SWVQTTBKZGhmVQ?oc=5",
+    "source": "enterpriseai.economictimes.indiatimes.com",
+    "published": "Thu, 27 Aug 2026 08:05:37 GMT",
+    "discovered_at": "2026-09-04T19:48:43.795309+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "7adbaece0550d6afada92cf4",
+    "title": "AMD Instinct MI350P: Enterprise PCIe AI Inference Returns to Standard Servers - storagereview.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVZFN0M3dGFaUThiMUhCc1h5MlhOcWI0aV9JdndhWWswcndpckJpbGtvOHJpa3RHUHRaUjJrb3hwYm01eTJRR0IxRWY4b2NoVUhGWWV5Z2M3dUc4ckRIb19GTDN2TzhBUnFaNWR3bTBfNC1oVXNvVTFTa1ZYd1lUY1VHLUxCT1RYRXgyWUhGdURqQlE1RFhxZjNJWTRGaWRqQjRGQmxIQzhVQlpmdkRXUNIBtgFBVV95cUxPRGxtMG5GSUJoNER0bURHUTcyMERlTDNVTUZqa1RsN3ktLURkWURzOUNSR2huTTRja0Fpb0FXRzQycGJZd2pxbDgtNVVncFBJQkpOUVRLZ0FCR0RCOElubGw1aEZrQm1UandWNnZMZnIxVEczWkk3cE5IdWxEazRIWXBlSF83MTJ3S2d3bGRNbzNpT2p2c21uSWdwYkpWNzFqZGY4U1F6RXZwcHFFX2VlZ1FzU1FtUQ?oc=5",
+    "source": "storagereview.com",
+    "published": "Thu, 07 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:48:42.484478+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "1892c687eaaffa29b3c3e993",
+    "title": "OpenAI says its Jalapeño chip beats Nvidia Blackwell in AI inference tests - livemint.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNGM5UmhYcmhsYWhuVjNOeXZrUWVJTEx0bEhER29PQnhWUWZ0X0lJT1dyOXNUM2VOa2tYTExRRDhuM3VGZEl6UlQ0eEtLTFFud1lENkhHbHNua0x6MVhlTXpnLW5vbHN6Rkh6dFlDN0NlNG5SMzJXQUV4UVVTZ1Q5ei0waHBzdE51NUNWZjU5bDJLN0x4d2FydWF3SUVFWV8wWHQ4Tjc0MXRqVFo2VDV2UzVXT1kyWGVYWTZJUFJ0dXFqaEthQkh6WnF3WVktaUJEakpmdWtHWdIB3AFBVV95cUxPaEdQUDNrWDRYb1liLUxUaGNkUEJMQWpBaGthZXRZcDZVWDVpTnJsa0E2RE41U0hKcXlReTA1Ni13LUxuUmVyaS10SGVpa05PTTQxNkpFMkNtTHJKY3dhSkw0bzJGeEVRSlBBck5oWkpyRm1TZW9iZVVFeXZfVkQ5eFBUeGxUNmphcnR6dnpaTFBFNHVfNXJzV1N4Rkc4dHZmYzRGcUd6OS11VnJVck12NmZrcFdtd3NQbDlNcUc1UGdWVnBpU3h1SHZ2bkh6QmNjSFk2dGxaM1BEci1o?oc=5",
+    "source": "livemint.com",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:48:41.986456+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "7c12cbe0d55df06ff713190d",
+    "title": "Exynos 2700 Leak: Samsung Drops Efficiency Cores for a 10-Core Design - androidpure.com",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03VDc5ajkyc2xrd0pjNlZPeHEyNmxMWTRnTVdCN2ExN3R1UmJfdDRkZEdLelMwR21RZndUenYxMnRjZXRVaXVNaGc2dDNNcjl6UG96WUI3eV81QVJENHF2eC1ibWM?oc=5",
+    "source": "androidpure.com",
+    "published": "Thu, 03 Sep 2026 06:55:50 GMT",
+    "discovered_at": "2026-09-04T19:48:35.934257+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
     "id": "96a050581ffaf9e827a24266",
     "title": "Huawei's Ascend 950PR debuts with nearly 3x H20 performance, targets China's AI compute gap - digitimes",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVFJNUVlbl9feFZoeERFVUVjamZZNGxlVEU2OUY0UXJMV0hZV09Yb1ZMaUFqdXVQOC04SC04NThoZ0NIUXo0SHpmQ2tiNWhGN2NIam9JUVVhdlZrUjc0ZEFVQWJUckNEVGZSeFE1dC1URXRPeHBfc0E3enJabFJ3cGhKamZ6Y1k0?oc=5",
