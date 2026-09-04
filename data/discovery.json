@@ -1,5 +1,248 @@
 [
   {
+    "id": "680079c1bc332ec926cad327",
+    "title": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Eb2VEVVJPN0xOVUJ3TVBFWGFJWVBTX1lCQnFBZnlwM0czTHItZnh2OWdZa25xRzc2OHJrSVB0VnNUTWwyVVFDalNNYVN4T0JhNHBWNldBYXhZdw?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:47.323729+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9a5fd1f27b6f9dd7aaf505d5",
+    "title": "TSMC Tech Symposium 2026, By The Numbers - semiengineering.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YbnVoN0RXUFBEUG5IYl9oenhVWVpTbVVFbzJCN2lFeTl0QjRFQ0I1M3FrNTNnWWNlQ1JSSktFREoyVnFzNVBUeDV1eDRGQmZUaDQ4YU1FMWpaT0JoWFFuM0gxWTZaMjBORjh3MjVNM2w4eW5NMXpJ?oc=5",
+    "source": "semiengineering.com",
+    "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:47.323619+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "1428dffc202727de19880c69",
+    "title": "Banana Pi introduces a tiny RISC-V computer with up to 60 TOPS of AI performance - liliputing.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTFhPN1lveGEwOEhFalRpOW1pNXJoYVEtT0x2cXlaTENseVoyYXJKeUptYWVEMW14aTZtYUtLSjhHcnpELUhlQzd5RDEyWnpXaDBZM0hSNVU5S1puTE9SSlRUYm1DWG11N1RCdklLWXA3VHFwUjR1RVpWU0lvaXdEV2RtZ0QwU1hDNkpPd2VNbEk4b2doZzByTUpsNkxJYUtDdFhVYXpxOENDRXdKWVdmLXBB?oc=5",
+    "source": "liliputing.com",
+    "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:45.046707+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "0a58bf14f749eb58934639e1",
+    "title": "Now you can put a SpacemiT K3 RISC-V processor in a Framework Laptop 13 - liliputing.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0ZIWWNuRlVKNTY5X3ppeWFRQlBCQ3lJTUxFZGhWLWF1ZllGZ1lxX0ppVHN5bFZxQk9BQzdsbTA0WWZXdFFrQnVqZUxpVHUwTk5nUVBlUlBKM2t6MFdIZWgzU1M5d0VSaUllYjFreExnYnd0d1ZNT3J1aWE3QmxNb2F4U05JV1hGZmx5TG05TUN3dkljVnpONlV3aw?oc=5",
+    "source": "liliputing.com",
+    "published": "Wed, 13 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:45.046570+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "52a410a8c9bf1ae5ea8a22c2",
+    "title": "Microsoft Unveils Maia 200 AI Chip as Big Tech Accelerates Shift From NVIDIA - chosun.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTdvZk5CanhqSWhFZ0ttZ3hjLTNhR2VEUUxWemJYT3M5RnJ6Q1N3b3c0dzBrcDFhU1ExckRLOG15a1FBYVk1WWxHSGFZZlFGNHdpb1VFR2pUb1g4MEZWMVB2QjI3N24zV2JDdEdXNjhIVE9rOW5nbmo5Vm43aThpcGVkWkhwS2tL?oc=5",
+    "source": "chosun.com",
+    "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:42.969235+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "a2bec299e0b98bbd8119fc58",
+    "title": "1.15 Million Wafers to Determine 2026 \"Chip War\": Apple, MediaTek, and OpenAI Rush to Join - 36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53bzdxXzNXZ1ppSUpoVWdLSnNybFUydG0tdFc0MWdTMm1GWExvRTk0aVN3SUJOVUJJYVppSllibll5Q0NGOXctcjBFMkpUSE5PX0Rv?oc=5",
+    "source": "36 Kr",
+    "published": "Fri, 09 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:42.969212+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "fdb5c520454e8151514b6e02",
+    "title": "OpenAI and Broadcom’s AI chip has a name: Jalapeño - fortune.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAyUEkxVzZyVVJYeFFNR2o3bXZfaHhBR29CWm5wTlVNV0FIQm1IT1FvMEwxSkxHaUFwRXEzY1l0UEZuZ3BUZmZwdGpVR0NGemNlT3daT0NTV3g5amgwRm96bXc5RlVKODZhSlo3MzRWOXFZOFNudmlVYQ?oc=5",
+    "source": "fortune.com",
+    "published": "Thu, 25 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:42.969142+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9f10f6774d3ed319615e0318",
+    "title": "The Road Ahead For Datacenter Compute Engines: The CPUs - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWpJNVlZZEZGeEU4di1OSGZSZmlzMWR6SXJKYzlOWU1USWdUZk56QU92enNLaEkydDc1Z01nR0NKRGhvY1pnb1hPUVFyeVRLTExaa3JCbnlseFl1ZkJJbHBXTGJCd0lxSzM1TE5QTFA5MnZaazd0WXh2YjFEaEE5Ul80UENWMVZMSmFkR25UaEM4Z2gtalUxcVNxbDVqT1QzYVliYUduSFpYd0JiZlRZ?oc=5",
+    "source": "nextplatform.com",
+    "published": "Thu, 30 Jan 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:42.413425+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "51b8b17c59ada1a1c2461964",
+    "title": "CPUs are Back: The Datacenter CPU Landscape in 2026 - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3Ymg3QXR4WnZhWEE0N19DOW55aEZ1eEI0Wk1wUG5XR3BJN2JNdXpOUXRFd2ZSRDhEQy00blZrUFE5MmV6dWhBaXhra2lMbE5UdzFJR2tkWl9hWklLbEIzOGtqeFlMNXJkVTg1MkM4Q1lMa3dITzhiQlBR?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:42.413364+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "fd3517c36336da4c0c66a0b0",
+    "title": "OpenAI Jalapeño: Better Than Nvidia Blackwell - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wUWNzQzNua3BlcVlyRkQ3cVAza2pXdjNZLWZVVWFyakZqWmhXVnlYYXFvbzA5d2VmNVpyeTdlY29SSEFJZ3VQWVl1YmtGcERjS01MR1ljM1ZiN3d0UWFhVDNsQUZLUmIyaUNlT1Vya3N6SV8wZjRrMzhLR2c?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:41.407627+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "2917e4c823ef0358776c35fc",
+    "title": "Huawei Mate 80 Pro Max Teardown Confirms Kirin 9030 Pro on SMIC N+3 - techinsights.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUFVzb0hnUEZ3NlczNDRYX0NyRzR0dU5lNkExRjRPcG1pcjVwQkpURFh3bWZnUk5GTWhIWVdaZVJPMzg0MDQ3YVcxWkM2U3VJc0NDMWhLaHRCaXQ1WW12NkdlMmdtQXRDRU9DWXNvTGUyNEdUNFZMa3lrWE1xTnRPRjhoc1RwNEQ0YmVpTXE3NWIteHBoTFRSZWhYQnVCZw?oc=5",
+    "source": "techinsights.com",
+    "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:38.099318+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "f3bc1f4b5721a0437d396dde",
+    "title": "SMIC N+3 Confirmed: Kirin 9030 Analysis Reveals How Close SMIC Is to 5nm - techinsights.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlVJV1ladVkzMWF1ZTZDbmJaQVBrSHltR1NsUHVYN3UwbU8tQzRObTV0clozUDRQUnhKWWhiVG1hNDZ6MjVzRGVFYlFuSmMwOHE2dDliWXh2dXVGeEwzZkt1MXduRjM3dGlmYjNLcFRoV0VTZXRzemxUMXc5NnY0bHN0MnhjOGxuSlljN0ZsMTFsVGp0ejBtM1J1LU55WnM?oc=5",
+    "source": "techinsights.com",
+    "published": "Thu, 11 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:38.099055+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9bc2d7936d88dd714da3a513",
+    "title": "Is SMIC N+3’s Metal Pitch Smaller than Intel 18A’s? - newsletter.semianalysis.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JQUQzMkxVU3lWcVhHMHRBSDZBUUx0UUZpeUlYa2ZVTnhoNW5pSW03aXhYeG12Wk83eWlDcnB4c1ZjMGVrVlc5SnZqOEc0N3I5OC1TQ2tfQ0U3blVsQXhoc1dLdGpTcGJUdWVraQ?oc=5",
+    "source": "newsletter.semianalysis.com",
+    "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:38.098982+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "236ac00a46f50740ef4cdf99",
+    "title": "Tensor G6 vs Snapdragon 8 Elite Gen 5: Which Mobile Chip is Better? - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbDBtUzJldUxjOVNwazMxSm1zTXFWYVRTY09XQUszeDBKQXhjbHgzT005eVRXQWtSZHlqR21Xdlo4cERhTnowUnViSGkzZ0JPV1BTN2V5azVHLU5DOUtjanFxY3hEVmpmOW9MTFpzVWIta0xIZTJ1NTVGVzRDX0oxLUkxa0hXcFRvNmJlOUNva1g1aW9qeWg2c2NyRnRJVFpFbGc?oc=5",
+    "source": "nokiamob.net",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:37.638762+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "2b44d9016182054629ab4ade",
+    "title": "Intel Launches 6 New 'Wildcat Lake' Core Series 3 Chips for Budget Laptops - pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeUdSWGRyRi10QkRKenVQSHNTX1pod1pPei1iZGR6aTVCZS0zLXgtWlpYZ2RpWnFSVGhFWUpmNFpTbkpUMGtaU1hRVU9BUzVMUkd1RDhMQmhrejktSFJCZjRmMFhZMDlFS3NCWFN0M3VVclVJZWxCcGxjcGtiaEZFQ0h0OFFhVjFSaGRIZ1ZxaUxWblJFYzdTYjdGQVR2TkNR?oc=5",
+    "source": "pcmag.com",
+    "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:36.213549+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9354a9effba21f5e1af05e14",
+    "title": "Apple launches refreshed Mac Mini and Mac Studio with M6 and M5 Pro silicon in India - Business Today",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUHkwZU5SR3AxUDdPTHNYWGJ0bS04eHF5Ti15YnJSNmM0aUVZeXpRRjhzQnlpOVV3Vnh4RzgtOW82QmxRMjRrTTcwd3Y1Rm1HeDhBcUZsR2FRR3pUS3Jlbk1ZYnZWV3NSUEkyLUZEOFY5d3FUeXdJRGItSUVsWmFqODlMOEhUTjY3dmZOTVFWdXRqOUU1ZjQ0NGJmLVNEVGhlZE9hRXkySEVrWjU3WGt2Ni1waVFVbnU2TGc3QmhncFZKRndZaTZobm56clRNOFNhcXhpbWwzTkVGWE1DZmU3c0dzSWp3ZVps0gHuAUFVX3lxTE9kbXpKMVA2MGVEVHJaSzZZZWhIdm9aRl9UV2NmdW5ISFhKVHd3VjFacXFYOGJyaHNhalVXNERWRFlyQk12QVlRbmFFdnd6Q3hjN2k1cW9Mc3lhSGFlU3F1bUxwWEI5OERKRDVLbnVRYkR0MUVKQnhDME5lSWY5Q1VoMFdRaFNUOXBRcUUtTFVQeTd2UUlfaGVxV0FWV3ZEVnZheG9hYjBIZHpFZWNJVTcwVWJtQTQ3M19Vbmgyemd3aHpfMGRjVlltMFpaWEFyQ25NQkhXcG1wUTUzT0JJaUFlbFIxVHl6Ti1iTk93eXc?oc=5",
+    "source": "Business Today",
+    "published": "Tue, 25 Aug 2026 17:00:33 GMT",
+    "discovered_at": "2026-09-04T19:45:35.272748+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "2b0b50110ab90056c2e8b161",
+    "title": "Apple M5 Ultra and M6 Silicon Explained: 2nm Tech, Quad-Die Chips Promise Macs Massive AI Muscle - pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14MFA1TGdWa0NlekZtMkluSkMwdGdjOUhtMHdnYjhrN3Z0Q3hCQUxMbnp5M05mVnQ4YUdnVERDR3NYQl83UDEyUVhrWVM1NmNLemRhQmJXMmlPb0RmVWdxTmdzbFZ2TzYxVDhMZjNWQl81MFRU?oc=5",
+    "source": "pcmag.com",
+    "published": "Tue, 25 Aug 2026 21:37:55 GMT",
+    "discovered_at": "2026-09-04T19:45:35.272491+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "e658dee83c9da5f79a4db2aa",
+    "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - apple.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZxQ3lxQ1NUai1ZSFpUZldZS002TWl2d3JKSTNrRHRGdml1SnBjZVlzZ3d1NDctbzhGNVJNZWpQelh1WUZseWFKQ3hYMnNlLV9JWVpXaG9lcVJfUXMybmhNNlBhc1R5X2lJTTZUdVNqbXdOczBWNkMzQm11T0dwcVdtcWE2R1pmcVk1YTRkLUpHLTJORVBtZTVDZXE?oc=5",
+    "source": "apple.com",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:35.272468+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "54d5c6b0d01d447dcaf513a5",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - apple.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaFNZWnlDMmx2VlBtaFlBWTAyS1g1cWk2SF8wM2phRU95eWpJT2hoM1RtMGVDOUJmNmI0N1RNQzBnblhQVjdFcHl4RVZNVzg1YVZEbTMycVpxdkpTcmNGODIzcmxxRzRnOEJ5Qkg0OG1QVDZaYy1sdUoxLTJJbWUzbEZFcmhzMVlQUXB4OEJBWGhrY2d5aWhXYzNaOElRdlZzdktUdGc1ZTJvcGRUWVc0X2RJTk5GUi1x?oc=5",
+    "source": "apple.com",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:35.272374+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "f656861947adec9f3182638e",
+    "title": "Apple A20 Pro leak suggests major iPhone chip redesign - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVYwSTBweWZPV0tETHZ5ajRTSTNNOUlVZlFaTkJpTGl0SGluZ2lOQWNEYTloQm13cEVQdFpfanNINUtDclN3VkhpdzVIU1NMOUtPQ243WXJTWUhMc0xWckdqYnRRWEsydmNnSDZ2bUQtZVhOMFk0R2taaUtORXpIX2JiVzFfRWt3VUM2TFdYQVh1MmRkdDZNOWtGeURpbHNZbzlMNVVRQm1vaVZmYTJr?oc=5",
+    "source": "nokiamob.net",
+    "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:34.898353+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "6df9fddf8d5829cb5928953d",
+    "title": "Samsung Exynos 2700 Chip Reportedly Surfaces on Geekbench With 10-Core CPU, Xclipse 970 GPU - gadgets360.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWndlQm1Pa1lCRlc5aXROTXVKXzYzQ3ZaTS1KckZYRUNnblhReWUyNGN2OVZoOU43aUlqTl91X092bF9RbFdVS09jMDFGNDR5ejExQnU0dmJrOEZfb3NidFA3X1pmSDRYUElMeE00OGxONXNOSDhhQXpxWEZoSlQwZkFiTWh1Ym40bzVFMTNQc2VHaGZoUk96cmtTVUJ6Z3YwYWZBMmFQRW3SAa4BQVVfeXFMT3N6M2xlV19tXzhiWjEzUEZndkpSOW0wWlFWVXNWejdoa1FTTjl0UHM0NFZWLVVaU3dCQkJfeVJMU2tqUEZMVVduZGxfZUJVeTlPaUpZckdBVFF3YXY1R2xQVU5ZUmJnMk1mM3o5OFFFX2s4bUxQdUlfMDM4dmFPTGlCTTVVbXBBbGhSMEd5RjVOb1JjVlpNYk15ZkUtY0xIWm1Ya3RIYm8yTGZLUFh3?oc=5",
+    "source": "gadgets360.com",
+    "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:34.407180+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9d0371a0a6facca20a6b7b95",
+    "title": "Samsung Exynos 2700 Leak Reveals a Major CPU Redesign, Bigger GPU and LPDDR6 Support - gadgets360.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcU82VFNDNDlCYzQyZ0llbXVJZ29FSDduTEtEeWdGMVh1R3NGUE94eVNzdnhLeFZqd3FLWmFsY2xnUjhQTzFpZW9kZ3ZmOUJQUnJRc0VTd2JHQmtnSEtZekNRVXA0VklMdTAwdW9sNWMxUFNnYnM0c0NoY3czUGxKY0drX1Z5UmdITkIyVFJUMTRFVzdpbnpFLWpGd1V0b1hFTURlQTd6bEN5UXZNMm5JOTRR0gGyAUFVX3lxTE1xTzZUU0M0OUJjNDJnSWVtdUlnb0VIN25MS0R5Z0YxWHVHc0ZQT3h5U3N2eEt4Vmp3cUtaYWxjbGdSOFBPMWllb2RndmY5QlBSclFzRVN3YkdCa2dIS1l6Q1FVcDRWSUx1MDB1b2w1YzFQU2diczRzQ2hjdzNQbEpjR2tfVnlSZ0hOQjJUUlQxNEVXN2luekUtakZ3VXRvWEVNRGVBN3psQ3lRdk0ybkk5NFE?oc=5",
+    "source": "gadgets360.com",
+    "published": "Thu, 03 Sep 2026 11:41:09 GMT",
+    "discovered_at": "2026-09-04T19:45:34.407140+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "e24ec877535cc17e5be3024e",
+    "title": "MediaTek Dimensity 9600 Pro: Full Specs of the 2nm Chip Targeting Apple - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbmItWjRWdDVXd1lJamY0dm8xc2FMeU40cEg3YzNHTW5sRkVseGM2TGgwVlNJbHlfY1RZRW96ZnJRdXJsclJ5MzQwNEhsU0o1WUs4bnlEQlYzdG9vbXM3MDZ5Wl8wbHRJZEtnVjR3czBWbFhGb21PQ0lUTzZxVFp4Q2dxTE5GN2p0LVZVNGx3X19adHk3RzlJRC13RlI1TzViMmdGcHJn?oc=5",
+    "source": "nokiamob.net",
+    "published": "Fri, 29 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:34.102200+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "a285b45dcfb40d98c9c81b8c",
+    "title": "Qualcomm’s Next-Gen Snapdragon Chip to Feature New Adreno GPU With Matrix Cores, Neural Fusion - gadgets360.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMDhGVG1ILXJ4Mjlqakl2X3RfTjBsNTFSUlJBa3ZIZGZra1RVbjlpLXVnbWRlS0VJSU9CLUZNTjJuMHRKMmZiSlRyNm9JNGVPc2Nua1FtakVkdk9iZTAtT25iVG5nNkNxY2I5ME1HMjFfcGV6QmNPYWpSXzVfTVNyREhWamtTZ0pWYlN0Z2FmQTdadjRoMzZKRkpJQjRwLUV3T2lKcXhfVUFBWmFDRkRySNIBtgFBVV95cUxONVRtMVQycm5NdkQ1NThkQlRpRTVBendIUnZ5Q082ZjdSQTJNaE8zeDNZTGM3Z2JNbTllblppb2tTb1ZiZmY1NmdRcmdoMVBfUHRpZGtVa0xwTzEyZndxNkZuN2N0ajZreE50dlJTU1p6S3BWdGtqWE5wMVE1bjh0OGRqZ3RGOHlzNlc1Qk5Ec0NYeGN6OXItVHhpZGxROGsxbVhIYUs5WGc0RkZCZURxMWVWUVJTUQ?oc=5",
+    "source": "gadgets360.com",
+    "published": "Thu, 03 Sep 2026 08:07:34 GMT",
+    "discovered_at": "2026-09-04T19:45:33.800539+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "9fd450a2f05691075f614aa0",
+    "title": "OnePlus Ace 7 Revealed: A 200MP Gaming Beast Arriving This October? - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaVZkT01qc0F2N1Q5bGR1MXpiUkxESFgzQWJvOGpSOGlOZ3FrT2JVV3lJakhGTGR6N1N0NWZmYUtZa0tjbmpBNjNXempBY3pwelJ2N19zc1BTSWtOWFlMaWFPMkdnWWJkV0dfUTNhbTRHeEgwMlUxQVJPbXozUDFFbS1CU1N4enhwWGszLW9Ub1MzZ3dMSFNHOUpTUTNGR0RFZVVxOGFEQ256VkVmWVE?oc=5",
+    "source": "nokiamob.net",
+    "published": "Fri, 04 Sep 2026 07:09:25 GMT",
+    "discovered_at": "2026-09-04T19:45:33.800493+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "bd14d70ad893d1e4a5555194",
+    "title": "Weekly Recap: Revenue surge, $60–$64B capex and Xiaomi 3nm/6nm chip production - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOVpSN0w5NFZFQUJQT0YzMS0tVjM2Mmo2WkhCREZiYWptVEdLWlNicmFHTVk5V1VISEtSN0RHdEJWSDFzNFVuUGpGOEdHdXJqQTdGSEF5NVRVNjVsX3Z1ekpqX3k3T0taYnZqaExTTGtZYWI3N01HR3dhbVNOLTF3OWthT0Q1TVh5SjBRWUVESXBHQmd5V0o4RWZpWkRPVlJlSDEyLTlMWmtjN0dwYTNBUkQwM3RzZXpJQTZkeGljTlpRaTFFSzExRGdGZjdKaWpGanc?oc=5",
+    "source": "TradingView",
+    "published": "Sun, 30 Aug 2026 23:14:02 GMT",
+    "discovered_at": "2026-09-04T19:45:33.187395+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
+    "id": "72bdd0117c0277ce6ab1c03e",
+    "title": "Xiaomi Unveils Xring O3, O100 and D100 Chips for Phones, AI and Smart Cars - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSThiR1NvcXUxeGRXX1VmVHVWeURyeXpnQ0FFbnNkWmpJTEJWTG9zaWlhUDV3aWg0Z3dtMFdJLXc4bkthTTNDSkc2cjFTX3BvQVJNVlNYMnRPekp5bWJPNzFWX0ZnN1RGMDBzeTdoaXV5dlRSX1BycW5HRWhCVVdvMlkxWGFDbVdXTm11QnRWTEM2RDdZWGF0eHlZS0F2VERwNXNrYzNqM0t3SUlxc3c?oc=5",
+    "source": "nokiamob.net",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-04T19:45:33.187143+00:00",
+    "status": "Unreviewed discovery"
+  },
+  {
     "id": "c64810b83b6d3436bd2e3221",
     "title": "Intel Accelerates Process and Packaging Innovations - intc.com",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbTlYWklOMUdCVm1RUml2M25QQTllT2ttYjFadkNmMWlaNThTLUlxQXhNazdCSHRtdlFlRG14YldFYlVqNks5WFlqbndyZVp6UWdUYzJsb2tLQlpyeGRwczZqWjQ4dE9Oby1kZlF0dXpFYzc5TnZWdVFCTFJzLUtCZ3lOSlNIdE1JLWJtaTU5STNkbV8xZ01xbzdHY1NIaEY1YVZWUzFMeGZJVmZ3NFN0bA?oc=5",
