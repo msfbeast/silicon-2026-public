@@ -1,5 +1,346 @@
 [
   {
+    "id": "0e278e892bf2e4096efa7ffa",
+    "title": "Reports: Google partnering with AMD for next-gen hybrid TPU - networkworld.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREJOb3BBMldGNzRldllNdll6cHZWMGMzajhUMUttUU1obHFjNV9FUV9RVU4yQnYwTWpFamMtUDVZeGZNanV3Sk9WbGVrSGlUeTNiNzVpU2Nkd1phOFRZQU5UOUFmd2dQRUFkUTVUaUxKODJvU2Rna3FxR0gzdXdWa29HV19pQ095Z3psdUptYkNjX1RtU0J0bjRxX0ZfMnhFLTB3dlllbkxKUUVj?oc=5",
+    "source": "networkworld.com",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:47.122617+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3aa45f1a1fb1ba5f5ee71434",
+    "title": "Intel’s AI processor strategy—custom or acquisition? - jonpeddie.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLW9vckE5X0pzRkFVZWtYU0RtS0xyWm5BODZHQlpMMWhMcFV2elpjMDRYMjVGQUVnTXRici1vaFlzUGtBYzk5MG1FOHVSZnA0RFJuVWV0eWtCcVR4azZBTHZSTEZqQVp3VVBrbjhWdlMzRzhOM3dVb283SHQxR21FTWNzR3ZNMlAwNmc?oc=5",
+    "source": "jonpeddie.com",
+    "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:46.615001+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5babbf01210901d28ea4a127",
+    "title": "Tenstorrent Productizes RISC-V CPU And AI IP - eetimes.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tX01pWWhkNUVUOG9BdHJNN214UGxkWVNTMUdfVnJzZG8wSUZFM0Z5MVJ4YVhsRTNPNGw5dm9MZUhjWWZ3WTJGdy1uSjVzcldMQ2tfblhKX0JNZHBxREtxNkttVjYybDVyS1FwWGxreGY5T3FwZWVpSw?oc=5",
+    "source": "eetimes.com",
+    "published": "Thu, 25 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:46.166743+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c63689ae8a4d328cb0e26501",
+    "title": "The Open Chip Revolution Has Reached the Real World - hackernoon.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY0ZDc2Z3cGh2a29lc3oyMThCTFNKV3BaR0Z4Qi1XRGhYNTZ0X29GZWp1YVFIaTVfUGRaalNQS29CeGtNTG0xZ3RaSE5obXcyLVBodGxER1FGV3N2Y1NFV3hVMHdIUVdYSUg3QUNmdk81b0xybEVlVElSclNsdkE?oc=5",
+    "source": "hackernoon.com",
+    "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:46.166628+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5bc3dd8ce42d70f7704a615a",
+    "title": "Qualcomm Acquiring RISC-V Chip Start-Up Tenstorrent? - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYkFQLVlCUXl2TTg4UVhFVndIOUFiQTBtRWJ2NzBjVjZwUnBFaGp5SjREODB6SG1uNU14YjZqLTZ5UmZpUF9ab3QtYnYwTUZPZFRIWHVHQUtWV2o5UDNaZVczMElvWFhRZ2tCWlE3V0JtenBoRm1jbF9UMmVZS2FwSU5ORQ?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Tue, 23 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:46.166273+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5e9c768de2529be1fc93fb81",
+    "title": "Ventana Micro Systems Veyron V1 RISC-V Processors Launched - storagereview.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnBaYm1fdmxyY2hkXzN2MFhORkc1bGtxTWlybVhsTGYyWmhtdEFuVzFrNVUxSGt1ZVRuRllHamVKZE9IU2NZY09TRUI1emZ4bmJyS3ZWUC15OWlySG40WGxVcW94VUxMaFJSUkFYUHNlQTY5VlJBbWxuQ0NRcmRNcWVJTDl0Nno4OWdUcU5HWHV1ajBoRnA4VtIBngFBVV95cUxPeTZzLXVYc0pZeUVZS0VRR3Rkd3dScEpTRTdJZU1OenpmaFRZcmNBLXdPdzFUWUNqMzkxNndzQ1JBWjFZVzlFZEtZQXJWQmNINTZyZDhoTnZlV2ozMV9Ed1ZyWWt0V2VkLXVhcXBENmU3MDRMMDhka0xZWDBJY3htandlQjhyS080bWRFS3p0a1NHYXhJbEpMYzAtWHUwZw?oc=5",
+    "source": "storagereview.com",
+    "published": "Mon, 12 Dec 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:45.590703+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "3a326936efd24d76a76111bf"
+  },
+  {
+    "id": "fb16c6ff16496e358325a31e",
+    "title": "Nvidia Drives Automotive Industry Through AI - eetimes.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oSDMyWjhmNkxUNGxhQzRlT09LdDVnaGRabDZiYkdYRzFlR2FUQlM4ZGJTZ2xTZ0RiYmpRWGhMUURMRDdHUk9QU2RfWGI4UzlaZTZuNVhDbkNKZjg4bDZVWDgxNk5XUzZfa2RJ?oc=5",
+    "source": "eetimes.com",
+    "published": "Thu, 13 Jun 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:44.976354+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "10d52720934f6d5be3d090ea",
+    "title": "AMD Accelerates Pace of Data Center AI Innovation and Leadership with Expanded AMD Instinct GPU Roadmap - amd.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnRORWsyVUJXcFVZblNSUnF4Sk1fNGg1ZmF1ZjJnXzh3VVp4WC1SZGtOM1lCc3hNWVZuNDEzUW9TVVJaS2FIcVFRUE05T0JZZVpjWWZ1bFJuQ2FzeTdSMENwYVVLMDlVSk5QX0U0QVNuWlp4VjU3SHc4a01PYWJ2NFpKWDdMdUpIV2ZTNXI0c1ljODNYS2ZqOTl4OXpRYVk2cldoSnJxN081NTB3WDR2Vw?oc=5",
+    "source": "amd.com",
+    "published": "Sun, 02 Jun 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:43.847112+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "173a875e79184e01115f0da8",
+    "title": "AMD’s EPYC Venice is the first server chip on 2nm — 256 cores and 1.6 TB/s of memory bandwidth - martincid.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRVFJRZ2ZKdzVTcnVZak1XUk5EbTMwZHAyVGVOZGZQbkR5YS01Z0thMm50enh2QzhMZVpUSDExWHlRbE0xeGw0UnBCRlhkRnoyTGM4ZWlrQUtLM3RZaXBvOXV5Z3k2RXl6SDJiMVlzX0RZekJyT21Oc0lB?oc=5",
+    "source": "martincid.com",
+    "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:42.740203+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "63d795b97e368dc286c93d7c",
+    "title": "TSMC Releases New Roadmap, Rolls Out A13 Process - marklapedus.substack.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MNE4yOGxBRWFrVGhoaXhlN1AxVGpuX2V5MUVjWGF3UFFqR0tKZlRGUjlHU25nQVNPa1Y3UUpfZDRwb2l0RWJRUk9iRmRHeXRreVktTlpzbWpUNlA2TF93RmY5T2lmY0RFU3R5d3h0ajUxUVhBSklzLWhn?oc=5",
+    "source": "marklapedus.substack.com",
+    "published": "Thu, 23 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:42.372329+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ddbfeaa306ab2bd8eccc32f1",
+    "title": "How M5 Pro and M5 Max push MacBook Pro into high-bandwidth AI era - AppleInsider",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWHNUMzVLXy1wTE5nT1hVUFJWbVBtMHQ0cjZjaWtBNWVIenQ0U3RfbjBKSFlhQnJCMlQ5MmpVcVJuMDBUQmlBSHNEelVpU19hUUVIOG9ueGI1eTNJTkYzMUtRR3cyMGkxOVRPc2R3ME1pZk4zMmk5MEYtRHlqNEJ0R3M5Z3YzcWtMZ0ZCY0k2SUNxS0U3NER4TFlIeXNmQWUyYVpEOHpvNU8zYm1T?oc=5",
+    "source": "AppleInsider",
+    "published": "Tue, 03 Mar 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:41.906863+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "47a093a06a47640306e902d9",
+    "title": "Huawei's Ascend 950PR debuts with nearly 3x H20 performance, targets China's AI compute gap - digitimes.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaVFJNUVlbl9feFZoeERFVUVjamZZNGxlVEU2OUY0UXJMV0hZV09Yb1ZMaUFqdXVQOC04SC04NThoZ0NIUXo0SHpmQ2tiNWhGN2NIam9JUVVhdlZrUjc0ZEFVQWJUckNEVGZSeFE1dC1URXRPeHBfc0E3enJabFJ3cGhKamZ6Y1k0?oc=5",
+    "source": "digitimes.com",
+    "published": "Tue, 24 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:41.224190+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2724e9d3c13c4cd24cd60221",
+    "title": "NVIDIA Advances Frontier of Level 4 Autonomous Driving With DRIVE AGX Hyperion 10, Robotaxi Play - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSkZPRUYwbGFDZjhTTXR1NXZkdG5TcEtlVTVYalJrWWNlVDNaZnVPQURtYnhBSWVIMzRkXzAtNEFZUmNyVjY1MG56VU1sY3paaTByUmJ6cnBEbVJlSzk4U09NRmZUbHUwU0p5X2xPSXFubU5iUTYwdmFoU0JacVVMYnlkZ2hIVWVTRDhxdzc0NFVwQWFYcG5TOGxIV0ZyQjFwLTUzbWRBR3NScVd1UEFwUDhoNjZkN3NoNzVLT3lXLVQzUVN0YWEzV0thdWRjdUhkOWp0dENrMA?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:36.289522+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4b4ab844ee7a9d6eb9406e4c",
+    "title": "Key Autonomous Driving Trends at Auto China 2026 - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVUIxZjR5a0ZaZWc1LUxFcTUwNzR1RS1RM3laTXhoSFRfMkV6eGw3VkFtOUdaUU1MRTdaTktldmZGaWh1ejZjVnYwVnpacldJUU92ZGJaT2JVOVBnZWtJN1RKbDZsOTg3YTlxbEFJLXEtRlExa3dvYkdEWHRfbUdjSUFiaFZsWVhDbWRMTW81QzRBY0swRGItVA?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Fri, 08 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:36.289295+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "839239a703636692d40db23c",
+    "title": "AWS and NVIDIA plan 2 Million-GPU AI expansion ... - eenewseurope.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNWZiblUtVmJmazRoc0x3dEpNVjV2cDM2VGhoQzFIb2NsbjlLeFJvWE1kUG9YM2dva0hHOVhDbmIwQkhWbVB2WURyUUxhQUVkeXVtLVZVTGZRekRyYVhwYzZvd1FwdmlzWVQ0R3JKQjNhazBzVk1wV2NwSFpyVnkxUk5DbE5PQQ?oc=5",
+    "source": "eenewseurope.com",
+    "published": "Thu, 27 Aug 2026 10:50:33 GMT",
+    "discovered_at": "2026-09-05T01:51:35.065974+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "047f45127f3104def7a2ad48",
+    "title": "Nvidia's Unspoken Problem: 40% of Revenue Comes From Companies Developing Their Own AI Chips - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTzc5Z2g1V0NkdHJ3R3NfQUczU1JUNDJQVXNfNnRyUjBaVl9sbVc4aTRsQm1WX1M0THVsRUxYMXhJQ3FkRmF2YW1DZ3poR1RDOHhleGcwb203MC1GZVlQZEpaNzFqZTdheFdCdWJVbGJQS19aYkN6cExwMDJReml6ZE9zWkxrYjdtNGFHNUZXeVFBWjNVTWd3djdWX1MyOS1CY2hLNXROQU0zQWcxMXFIU24xX1diS1NBYXl1RDRJc3RwUVlwYmRJc0pQcnJfQQ?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:34.655960+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5bc4688be798f8b920279f07",
+    "title": "Microsoft Unveils Maia 200 AI Chip as Big Tech Accelerates Shift From NVIDIA - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTdvZk5CanhqSWhFZ0ttZ3hjLTNhR2VEUUxWemJYT3M5RnJ6Q1N3b3c0dzBrcDFhU1ExckRLOG15a1FBYVk1WWxHSGFZZlFGNHdpb1VFR2pUb1g4MEZWMVB2QjI3N24zV2JDdEdXNjhIVE9rOW5nbmo5Vm43aThpcGVkWkhwS2tL?oc=5",
+    "source": "조선일보",
+    "published": "Wed, 28 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:34.655921+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "51cbc2cac3322fa3c541658c",
+    "title": "AI Server Compute ASIC Shipments to Triple by 2027 as Custom Silicon Enters Hyper-Growth Phase - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMW1RTnFaVXp2aDhEVXVBcVh3cl9oR2x1eWF6dC1yQ2lZSTgzZTVWeE5QZ3JybUJzTXZCeFVmVGpmdEJWOGVUWVN0SU9FZ0FlV3NjeVlwcFhFclFHLTREaER5THZWLU9Tak45LUgwclQtOWdnUzhlWUFCR1FyZ09XUUNkck1ZR3lxWTVxaW5hbUdvR3dYUlBSVkxLNA?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Sun, 25 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:34.655716+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2e87e74c5febfc2b5208af5f",
+    "title": "AMD Instinct MI350P PCIe GPUs: Run Enterprise AI on Your Existing Infrastructure - amd.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2RaUkpYbW5Ld2JDUVZmTUc0MUdBelFMNUxYSGdNRVJEYUlJWHJTVGFqczlQUUhXak03aS03bWtkR0pjMmgzcXlNR3NzZGl6Rl9nNHJBR0g2cE1LeHptNkozaEQwVG5rMElYYXFYX0pXbGxGby1VRHJ5YVprTXlHTVhtOC1IQUdJZUxoUnd3ZTljWC1CWjBfeDVn?oc=5",
+    "source": "amd.com",
+    "published": "Thu, 07 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:33.720472+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bdcc3d1d0f4ee4fe85e10d35",
+    "title": "Part II: The long, windy trail of Intel GPUs - jonpeddie.com",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWXBPU2l5MU5uNlhqUVVPMG5HMk5jemtQS1ZXVndyenhhMkNCcjdTUGRqV1JKNnF3U0xWVXJiSF93SzlReXdaTFVfZW1GNVU5aWJ3M2JwLXdQR0dIVW4xTmFLRVZGQW1pWnBhejRUSlJLdXo3RFFmSEpMbmZaam8?oc=5",
+    "source": "jonpeddie.com",
+    "published": "Tue, 05 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:32.606325+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b3a3972a4f84d3121e8da7f9",
+    "title": "Leaked AMD Zen 6 CPU benchmarks show impressive results - overclock3d.net",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkxFeU05eXBydFZpZnlnbVpseWpyTTRza08wUURzcUcyWHV5emRMT1VleGlYLXlLWFJBOWpnUy1XRkE3ZnJKSmo5NWRhRUFLTkc0Yl8xS3I2a3JBWjFOdzhCODIzM0xuRXA3S0pTSmpadFBqRWlLX1JiRGVVTFR0Wnhzc2VTVU1NZ19BYWJ5WGJ5a0RWdkxaSy1veFl6R28x?oc=5",
+    "source": "overclock3d.net",
+    "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:32.069748+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "661f7908b7bf4451b174a586",
+    "title": "AMD Medusa Point laptop CPU with Zen 6 cores makes Geekbench debut - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMVlvM1ZTN1dBYlNWa3ZuT0Y5SVA5LVRwdjhaOFJDcEQzRk9hclQwV2s5RkhKS2lvMGotWXE2UUFlUVpVaXZVUW1EY2NheUE4U0oxaFI3U1RCUnFDX3lXVHBhZFUza2cyLU1vVHhMUlhTdjVsRFpyc1dBNzdfaGNoQ19aNWRpUFlpdkVtbnZ3UkJFM19EaVpCRXZQUlF0ZkVvY2xzNFREMzZIemVhRGZ1bw?oc=5",
+    "source": "Notebookcheck",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.449508+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6be43480094bf86c67a9bb25",
+    "title": "New PC era: Lenovo laptop leak unveils first Nvidia N1X notebooks and high prices - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObGpGdkVSOVNFOGpkYWMzZEhMeldWT3g5UVFrTVdkV0VfYnZWRWhpQ0FldWZyYkp1M2JncHVhaUZidW9acU05a1c3Z0Z1cmtTZEpHSUo1OXlqdXVlRjJsNWI1UmRmSXhTZXE2NmdzbHQtOHRnTTZtdmVhVzUyTVpkY3psT3pQb0wzVTdidW43S3ZnQUotejdHMlhodTRWbHoyWG5rejctLXM5aTdIUkRJdkJ1dnYwOC15eUswV3RlNW04RmM?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sun, 31 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.449472+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "36c13a9aa67548658aefb2ec",
+    "title": "Asus Introduces AI-Ready Vivobook 15 (2026) in India Featuring Intel Core 5 Series 3 Processor - IT Voice Media Pvt. Ltd.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa09pSVllVHhhMHY5UkJ6djhwSllVclB0QTU1U2JHSUF5XzFib3BhWnVUNWItMFF3eWZKc3d0Q05YZm1aUEt4VVNpQ29SNjdKbGFWWU5LVXV3eUEybzE0MnE2dy1ZbngyWDlucURPcUFkck9mYi1xVEFHSlRuUDJXdnRvRVZzbUROTDNLLWVtajNPeU5sMlAtaDBIcm03Wk15V05GWVNaSXVIQ0Y4NU1pTnk3SkE2QQ?oc=5",
+    "source": "IT Voice Media Pvt. Ltd.",
+    "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.449249+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fced3a17ce1bb9690594cca5",
+    "title": "Intel's powerful 2026 Nova Lake chip could render discrete graphics obsolete, and it was just spotted in high-performance laptops. - Laptop Mag",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEJYSlFSZkxMZnFoUEdnbkI4cHZPakFDS29TRlMzV3ZNZzkxYXdySVhxZW9iajVrbkdhYU1SaTFIU250RVJxSlFQdllaMVpxZG1NOXhGLWswbUtCRTloSFo3WnlVZ3Z4TWtxRDZ0ZzB3Q2lqellVcHU4bVBKcWVZVWRTbW9IQlBGQ2s4elJNS0xyWWM?oc=5",
+    "source": "Laptop Mag",
+    "published": "Mon, 23 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.449212+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5564ae8b9c681a553b10b7e9",
+    "title": "Intel’s Flagship Core Ultra 9 290HX Plus Laptop CPU Performs Nearly Similar To The Core Ultra 9 285K Desktop Chip - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmtVazQ4dnNzZmxOaE1xcEp0WlJIVGdZMFdJeGVyOVFyR2Y5MHNIMGlhemJ4NHhLLWlkWnN1ZVg4RnFYVE1MeHVuYmJpSC16N1B4dEphbHRVTzR1VnFTVzJ1WEhnYjJaYkRNYmFKMVVFNEhfbHFfSW5KazdIUjMzVW9xcUsxTUxibFpybXB3SG93a2tmZGlWMUU0TUR2eTREdlZGYUczTDZQZEhI0gGyAUFVX3lxTE92YzhrSzRzdzRBREdYV2xNa05RV1dON1NybVp2eTBWcTY0MUxRU0VnN3RUVVJwZUJsal91RmhQWXdyc2dxdWdqMHdUcmdSNUhLQV9Zd0NERXV0WHpUVC1aR1JDdVVFVzhfaF9rUkw0VGFaQzdfa3lBWDJRSXBUM0hSWmJNNWZybC15Q2ZlVkpNdzk2UlJaUVBXN2hsSWlYSUltVl9MVUxBTjMybXRiN3BncWc?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.449177+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7aa751c3da215c3c775ba56f",
+    "title": "Apple, Qualcomm, MediaTek align on 2nm chips in 2026 as specs lose consumer appeal - digitimes.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR1Vzd2hfN3RaZjdOS2VEUWp3dU16cHROWUNGWnp4RjdyZkdiZllsZUNCOEVvelFUUXN2am02YzY2UVlMVklyakxUMWtyQnZhYV9aM2oweEZCSF9rZkd2Sl9qT0plejJ6RHRBTTlaSWlmN2FUTGVJXzJ3S3Jqck9NMEtWRTBiTm52MW1pNnJCQlNoR2xBZm9pLUtB?oc=5",
+    "source": "digitimes.com",
+    "published": "Tue, 20 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.053928+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "be64bb698e9216f2ba7f3153",
+    "title": "Reshuffling the BoM - Component Cost Dynamics Amid Memory Price Spikes - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT2Z1TXRxY0hRZklRWnBHMDgxNHBaaXZuV2otRC00dmlBMVh5bW5WOWJfLWVES2dtU3RrN1hEMFpkV0VmSzVnankweEZmbkh4U1MxMjJwVFB1UWVGLXd2eEt3TGN0ZnhsWU9OZHJsM1I2Nk5XUVRHWktJNkVBcXFSNTMzYjdiZHZpWnhjWGlGSWNBXzEyWHNEbDhYcGU1VFhEejJQTG5WMDBUT3dnRW12dVN3?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Tue, 28 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.053696+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a862bd317d3f1c518803b8d0",
+    "title": "Advanced Nodes Shipments to Capture 60% Share in 2026 as 3nm Leads, 2nm Adoption Rises - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRmJ4cUpuenVyN3Bjek8yNGYxc3JyTGNRd3JCRXRtdTRNNzlfZlNEWjBqTVlKTXZxZ1RQQS1xWklQT25RS0d0NG5KU29QR2JCcTR2M05MUGozWlVGOFdEV21LOTZGWHhaWVZUX3JRZzJDUUh2bUNhQmJ0bHhBQnlad3VPcm9XX1hkN2JReHd3NGJEVFoycExlamQyTGNDOVk?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:31.053438+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "038e21490d0128e052107780",
+    "title": "Asus Zenbook A14 review (UX3407NA 2026 model, Snapdragon X2 Elite) - ultrabookreview.com",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBROUloSF9HZW9ZRWRuR2NqdWRxYXZzZTdIRy1oSGQtQmo3M0VoWm5PSjFzdW9BZ2M1Nl9CeU5ISzBNdlIzRlA4TlJwZ1JfeGRfUVVQQUlvcnVpYlg1UmNpYld5bDJXVGlZcy1wMWFwdW96Y3NTVzNkQWVn?oc=5",
+    "source": "ultrabookreview.com",
+    "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:51:28.107143+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1e487937f9c38c7a317923d4",
+    "title": "From Smartphone to AI: Xiaomi’s Shift Toward a Multi-domain AI Chip Ecosystem - counterpointresearch.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWxDcnoyZVpieFIzNk5RTThqWHhjcnlzU2EyWWNxcVB6cFFJYTNQcy04VXkybWtaZGY5Y213eG9IcVdyekhrSkpnblN5dGl4dlpMcDFRdjBFb2JfWEpSUTFDLVlFZkV4QWx3Ul80Y21JMlZhTlRpeHZFaVZFaURwb3VTX3NKR3NORzVkc3J4MnZPWVg5T1lxcVMtSUVRV1c5RjUwNHdGaVlobEdzbXBfT3BRME9CYkJIczlmbQ?oc=5",
+    "source": "counterpointresearch.com",
+    "published": "Tue, 01 Sep 2026 17:22:30 GMT",
+    "discovered_at": "2026-09-05T01:51:25.467012+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "596790d0d0bd938e9e6eedbe",
     "title": "Google reportedly taps AMD to design next-generation TPU — hybrid AI ASIC could integrate on-package CPU cores for reinforcement learning - tomshardware.com",
     "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxORzRsRUFrejFFTjlqQnVzY1lqdkV4dHFMYnNrTUlPb3ItckJSWFgtVlBpTDFXTnJzSnhqY21xeThLOU1KNmZpaEdRM0VEQlNwTXZtMjFWdTh6Ymp1d05lTndsbkZOb0twT1hCMEZVaDQxeS0wWnk4WjNOOXFJdW11ZHo0aTIzaWp5bl9uWkoxSDJ6MGNXOEZQQmJxX0p1VUZSOHh6T1RsTkhwYW5jQVNsSXBMem1adWRuUFRaYjcyLUdLbmhVbzVueXRDNG53QXNPazIwQXQ3LUExVll5TFllZzlSajlFVFgweHExU21OQlRlY0FScklwVEFhbHJNRU9zdm9fdUV4bEVJU1k4OGpQTnFOVDJUZ3EzQnpnbTJ1WGZMTVRmSERiLV9n?oc=5",
@@ -1603,7 +1944,7 @@
     "discovered_at": "2026-09-04T20:05:26.432115+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "f43c3d7c33bb609198176a40"
   },
   {
     "id": "457b6881d8ed263b7ce6fedb",
@@ -3297,7 +3638,7 @@
     "discovered_at": "2026-09-04T20:02:20.827784+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "038e21490d0128e052107780"
   },
   {
     "id": "7a30f6449c9b7ab9f2977018",
@@ -5904,7 +6245,7 @@
     "discovered_at": "2026-09-04T18:18:43.527374+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "42b2571e94e290c41f5c586b"
+    "duplicate_of": ""
   },
   {
     "id": "86f36f01e00505071fe4259f",
