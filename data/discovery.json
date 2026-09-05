@@ -1,5 +1,38 @@
 [
   {
+    "id": "566a2d9b28b8b87504c1c8ae",
+    "title": "Qualcomm Drives the Future of Mobility with Strong Snapdragon Digital Chassis Momentum and Agentic AI for Major Global Automakers Worldwide - qualcomm.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanhYVlRyWmFSQlAzRERmS282bFluLVNmdHNuTWZpR2drRFVSNzhkcHNuNFl0b3Ryc2o4UmJnVEV2dHNJOXp5SjlvckNaY2pfUlZhUUdXbTh0UTF6UW5OdW80YXd6SFpFaUhYN2U2cGRsa21mYjBjR2o3Z2xNMnl4dExtSHlUOTh6cjBaUnVNRURrcWEtOVMtaXJFaUFpSFFvQktqZjVNT1RDc1ZHNzZkMg?oc=5",
+    "source": "qualcomm.com",
+    "published": "Mon, 05 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:14:40.859853+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4be1b6254dc22b3976e4aede",
+    "title": "Snapdragon Ride Flex SoC: The central compute solution that’s bringing the SDV vision to reality - qualcomm.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcGVHc1hfWnRrTXYxOW16MEtvTTVQUWlodUxHZXYxNGhfZUo0QjhSejk3aXVxX0Z6QmZmRHJCT21EaUVPTTdfTFMxb09VTXF4QjA5NXVXbVc1bUc2Tm91dkUwT1paYmxreUJHak1vZFVzSzgxTTlmMDFlZTEtdTZZUUVaQ2NqaDFIcVJ3bzNkNWV5TEc3dkNqREgzc1BmX185YWJvMjMyNnVROWNneWlpdDBZZEZrYTFScF80MTZPYmJ2TlU0Nm5RMkxQQ2MtS0RTUUR3VjZEandyc00?oc=5",
+    "source": "qualcomm.com",
+    "published": "Wed, 04 Jan 2023 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:14:40.859741+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ac2f2d49a254359ccddba2b9",
+    "title": "NVIDIA Confirms RTX Spark N1X Laptop Specifications as Partners Prepare to Begin Launching Products Next Month - thefpsreview.com",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS0JWX01qMlJvZ1lQVndwQTB3bk1qS2M3RVhXa3hWdHc4TnNOWVk1Um1GcWxnWEpuYV9oSmNSbk4zYnkwSXhVUlM0V0dhVlpsOUNPTkExSEd0SEJaQVZaVnIzbXQ0RXpGNXVpXzQ4WHNXV1pnUUt5a2dWTm1JbzhDYWQ1RHlDbzZyTUlidTNuelRndklqaVk5TWIxUmF5RUt0V1Z6SjE4d1dsWlJTUy1uQzNOZDlNMlVoV0NWX3pJQjlRa2d4REJZb2ZhOUhnTE5DT052SkhaanJicUlMNEt3Vy1WZUhVUQ?oc=5",
+    "source": "thefpsreview.com",
+    "published": "Fri, 04 Sep 2026 12:28:42 GMT",
+    "discovered_at": "2026-09-05T02:14:30.685532+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "0c31e33b95c4bdb3308b6c7e",
     "title": "Maia 200: The AI accelerator built for inference - blogs.microsoft.com",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
@@ -932,7 +965,7 @@
     "discovered_at": "2026-09-05T01:43:01.282898+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "71a1064b78193f8676555692"
   },
   {
     "id": "aa4e8e0fb18ea2c8768a3ada",
@@ -9248,7 +9281,7 @@
     "discovered_at": "2026-09-04T09:26:51.685963+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "f7eeb236185a7a5c8820fb86"
+    "duplicate_of": ""
   },
   {
     "id": "7ae5b9cfaf374eaab3f746a7",
