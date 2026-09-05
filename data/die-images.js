@@ -33,6 +33,14 @@ window.SILICON_DIE_IMAGES = [
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Intel%40130nm%40P6%40Tualatin%40Pentium_III%40SL5CG_DSCx1_polysilicon_microscope_stitched%405x_%2838002693566%29.jpg/1280px-Intel%40130nm%40P6%40Tualatin%40Pentium_III%40SL5CG_DSCx1_polysilicon_microscope_stitched%405x_%2838002693566%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
     "author": "Fritzchens Fritz", "license": "CC0 1.0", "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
     "note": "Historical reference. Polysilicon layer; dimensions reported by the photographer."
+  },
+  {
+    "id": "navi48-rx9070xt-board-photo", "chip_id": "rx-9070-xt",
+    "name": "AMD Radeon RX 9070 XT · exposed Navi 48 package", "vendor": "AMD",
+    "url": "https://commons.wikimedia.org/wiki/File:AMD_RX9070XT%E6%98%BE%E5%8D%A1%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%9A%B4%E6%89%9350%E7%B3%BB%EF%BC%8CA%E5%8D%A1%E6%94%AF%E6%A3%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%EF%BC%81_(2160p_60fps_VP9-128kbit_AAC)-00.01.16.273.png",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/AMD_RX9070XT%E6%98%BE%E5%8D%A1%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%9A%B4%E6%89%9350%E7%B3%BB%EF%BC%8CA%E5%8D%A1%E6%94%AF%E6%A3%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%EF%BC%81_%282160p_60fps_VP9-128kbit_AAC%29-00.01.16.273.png/1280px-AMD_RX9070XT%E6%98%BE%E5%8D%A1%E8%AF%84%E6%B5%8B%EF%BC%9A%E6%9A%B4%E6%89%9350%E7%B3%BB%EF%BC%8CA%E5%8D%A1%E6%94%AF%E6%A3%B1%E8%B5%B7%E6%9D%A5%E4%BA%86%EF%BC%81_%282160p_60fps_VP9-128kbit_AAC%29-00.01.16.273.png",
+    "author": "极客湾Geekerwan", "license": "CC BY 3.0", "license_url": "https://creativecommons.org/licenses/by/3.0/",
+    "note": "Board-level video frame showing the exposed Navi 48 package and visible silicon. It is a real photograph, not a clean bare-die macro, and is displayed unscaled."
   }
 ];
 

@@ -1,5 +1,511 @@
 [
   {
+    "id": "64509ab29654247d82f583a0",
+    "title": "AWS Makes Trainium3 and Trainium3 UltraServers Generally Available - theaieconomy.substack.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObGgwUE5MVnIyNllQQ1h4RTNzbnBxOTBvRzliVW9EVl9JRTR5NHJkaXZpR1ZZS2xoMlJuOElLTTlITzJBVE5UeVVWdHRqX2dDQWlRbWJmaWQwZzFhMEotTUkxN1A4UjJXVmVvX3BpX01aa2psd3Q3Slk4SUV1RkRTc0JXeDFXeG8?oc=5",
+    "source": "theaieconomy.substack.com",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:53.240318+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0bf399170eb284341d20e38d",
+    "title": "Frontier agents, Trainium chips, and Amazon Nova: key announcements from AWS re:Invent 2025 - About Amazon",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44MjlOYVluZ0ZoaElJa1luVkVESnZzTExyZDVIT1BWbUN6RkF6bmtWMWdkcE5CUHNQOU42bmxDOVRvTG9mUnlZOFlRTDlaOEVrYUJobkJEUjB5Xzc4eWJBalJGLUMySkQ1OE82dUtZTHMzSkZKeXIyLWc3dw?oc=5",
+    "source": "About Amazon",
+    "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:53.240288+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "24a58ee39e2f3a12694dde92",
+    "title": "Amazon stock jumps as AWS unveils new AI chip: Amazon claims Trainium 3 is 50% cheaper and 4.4× faster for - economictimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWnRCaEZWamxwQUI5Y2M2MlRseTZhb3NyX190WFhiUWExWXlMMGprdjk4ZWVreDZYcTN1R3BuamxTb0ZtenU0Q3Y5dlZ4YXRMU0pXUENkaU1BMEdHQ0FtakpnTjR3ckxPeURadVZTd1JUZks1eHRxZWQ0VXlZYXQ3Z25HbXNqS3ZwV2JRTy14ak53SEdDOTIydXZDMVdUMXJMb0FQVVhnWDVKWVVPa2JScUZON0ZIcDNBdERRWFkzLVU2U1RYdXZSMFhBQ3VQenRKVmNxYTRfdzhmS2ItRmlRRlZYcHJDbHlZSmhIV3VXUktpcGptb3lQeFJwN0dNZVgwWm5tTGtPZFNUZkJ1cExVakRjWTZOTkV4Z0pWbWhsWFhXR2I1aF9CMWxNc0xfQkVKbEo2NzZVa01LRU9sckUtSXNvUE1RM1JVdk5QT203OWc3RC1DSlVEMjZ5OWpqc2ZE0gHmAkFVX3lxTE5mZkd0cU9vaFhiWVZhQURwNzRmaWozRXV6eHFYR19JLVBHWE5YR0IxbDlCX3RHLThMVjR2VlBPc3NDYU51R1VTZ1Z0Z3dXZ2FsbFVfSE9pckFINmhmUlRJQUYwbEFGekh5emNtZktoZ2tzMk92Z1FuOWRqSXNtTXNtSXNESlNYc1hCYXB6aDFWbDNOcTR1eTZpQmN5UlpsN0Z2VTJTZE5uMTNEUmNxRUthVkQ0bl9RV29kdjhkTkVnZjF0b2NCWmhBVVFiMHVOWFdWNFBPUHlOUmpGWGg4NHlLNjdZOEEtMzdmZFpKWGp2WWxvY3FUSUVPbVlkcGFWcDg1Vk5ITTBFNWZ6ZVhzN1BZZURKSTJmWHBRQnVNeHB4U3hFVWRYU09sY19kczVBUmROa1BfcXBOR01UZVZrc0QzdkpaZ2xyakdSOUdvU3Mwb2JlUDV5ak1KTVdkT0NxaXVGeGNtWmc?oc=5",
+    "source": "economictimes.com",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:53.240073+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a0926adeafd6f707c9a32964",
+    "title": "SemiAnalysis Cuts Google TPU Shipment Forecast; MediaTek Shares Plunge 4% Intraday - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QU2ExdE9VWGZaalI3c2M5RTd0bVVfWGV1d0w0dVpWdVdTSXhvVEItYnVPbUE0OEtMYURFRm5kMWE0N3h4U1RvTl9lYkE2Y2tmZEZLT2MzRVBjWmtldTVsX1IyYmhBOC01QUxDWlJmcTV2QUtzanc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Sun, 16 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:52.779676+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7eb9defdc2a8b0c0a4012ddf",
+    "title": "AI workload optimization startup Callosum raises $100M - siliconangle.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONUxJSDByTXpVNDRDeHltcm5VMUhLdEQ2TVRzLURBUWd1Rzh1dGFCRWF2dVBmZzZQV29acW16RUt3QlhuT3BZaVRJaFBnOTgxWm03aWE2bjgzTkJWdE8zYWhiMDJ0YkZlTFUxdkVfWmlzcDh3Tlh6U3hsTGFZT0NvX18xRjQzdXhOcm4yVlgzMHdjQ0ZS?oc=5",
+    "source": "siliconangle.com",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:52.296287+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f00d5be165f1b13f91391ad3",
+    "title": "Foxconn picked by Nvidia as exclusive rack-scale supplier for Groq accelerator: report - SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbDkxMktVS25TZlBCMXN0c255enNGcFB4ZjdubkV4S1l0aEFURW9ubzFMdHAzTHliTFFfLXJvSG5DdmdNWE11a0tWS0lyUHZSUU9pYk94NFBhaWpNRmJLU01abnZKRUF5Qk5HR0prbm1tLTROZjNlVzhOU05ma2syZzRKYm5aVkkxSVYtR1VBRWFDQWhjSmZuaW9WTVBzYkxJZXRpYjZyc1RtaWNhVUJiVFlKdi1BckFOeEE?oc=5",
+    "source": "SDxCentral",
+    "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:52.296256+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3b3c280d974ca42eacaaf149",
+    "title": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents - siliconangle.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWXV4ZXF5UkdETHVnUnh3R2hMVTROWkRyYXVyWkNVNVZNdTJFVVR5YXBLSVVGY1ZscWJtMFktemFNWkJua21KU0wyUnItbzFXTS1VcEVNVU1OclFjMU9va3pZaFk2MG4ybmdKTGRKZk5qN0ctLU1FUnhWU0dYVVRjbzFyQ3k0dDBZSFpIeE5Ra3VrMWhpYTNzLWhFc1BXVzdVMGllbXNtdDdsUmIwUkppZHdOSVd3TndDTlF5MC1LQkd4OTE1TkZTMC0wcW00TG5N?oc=5",
+    "source": "siliconangle.com",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:52.296019+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3a326936efd24d76a76111bf",
+    "title": "Ventana Micro Systems Veyron V1 RISC-V Processors Launched - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnBaYm1fdmxyY2hkXzN2MFhORkc1bGtxTWlybVhsTGYyWmhtdEFuVzFrNVUxSGt1ZVRuRllHamVKZE9IU2NZY09TRUI1emZ4bmJyS3ZWUC15OWlySG40WGxVcW94VUxMaFJSUkFYUHNlQTY5VlJBbWxuQ0NRcmRNcWVJTDl0Nno4OWdUcU5HWHV1ajBoRnA4VtIBngFBVV95cUxPeTZzLXVYc0pZeUVZS0VRR3Rkd3dScEpTRTdJZU1OenpmaFRZcmNBLXdPdzFUWUNqMzkxNndzQ1JBWjFZVzlFZEtZQXJWQmNINTZyZDhoTnZlV2ozMV9Ed1ZyWWt0V2VkLXVhcXBENmU3MDRMMDhka0xZWDBJY3htandlQjhyS080bWRFS3p0a1NHYXhJbEpMYzAtWHUwZw?oc=5",
+    "source": "StorageReview.com",
+    "published": "Mon, 12 Dec 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:51.465807+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e582d7bf6bdbc1d8a32fb9c3",
+    "title": "General Motors And Nvidia Team Up To Build Self-Driving Cars - InsideEVs",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4bXdGcXlKUWN1bHRTZmFhQzhCckdJQldrZDlpU3JoeHFTTWMwNVhlRG9nc24zbThmaXJ6T0l1Qlp2cTRIYW9UR2EyRTItSlB5eEN5Y3dPdzlpUm05QWhLa3NuMFR2U0lIMXFMTWZsUlljd1hBY0FYZDBR?oc=5",
+    "source": "InsideEVs",
+    "published": "Tue, 18 Mar 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.823892+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "068c432a3433ef6eb56e4a4e",
+    "title": "Press Release - lgcorp.com",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uMjNYZnk0cEZMUWtjdUhmWTBZY09hSW5QZDZQLUtpYklpa3RSQkw2TWpSQ2dENmhVMW1LOEtmd21oYUF5VTdxUHdYUDhsc3cxbjRvZw?oc=5",
+    "source": "lgcorp.com",
+    "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.531376+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "529ad8dea040ad52655d6486",
+    "title": "Qualcomm and Valeo Accelerate Global Shift to Software-Defined Vehicles with Scalable ADAS and Safety-Centric Systems for Automakers Worldwide - valeo.com",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPTF9JeUdtWEt2YnNtZG1fOXZRNkozZnVfTFdkVzA4b3ZCaWUtME5yd09uZ1BjZkJhQzhQNFpKVmU3Z2xFRklzYkxfb2dENFRnY19LYTRsSTRabHJKQXlyVVhpdlhReDdhX1FuM3Btb3p0cTRveTRIQW1qTlNIYVBOX0lhNXltclJVekNoRzNCR19SRWZIdFVqYTd4ZzV2UGN1YWFWUmdZYW1lb0FFNlk3cWRqTWlETlN5MWhnWnlqZlNTU3Z6MGpXcFQzYTZsVnlITXkyNk5FT2pTdDlhcXdDWHk3amQ2TGhoVjVBSjhtYlB1R2VqRVRzUDRkNk4?oc=5",
+    "source": "valeo.com",
+    "published": "Mon, 08 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.531240+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b967a088d5be6513a52fb941",
+    "title": "Hyundai Mobis and Qualcomm Sign Comprehensive Agreement to Collaborate on SDV architecture for ADAS - pressreleasehub.pa.media",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQS14dFIwNllIa25XUGwwSHRlYTFnVnpURldfdkF0M3VWZzRYdnp1b25nR2hDcUs3ekcxckNPT1hZcDRoeUJKV0hod1hpOGxYdjVRdUViX2c3OTUzU1JmYWl4ZEpaRy0tem1kU2xabjVkMUdfRFU1RVNWZzM4SUdJQWtZa0ZwNU84TVhub3E5MUFpNWZHam4zeFQtdXFyWldhSzFMbnlXeHhsYkZneFVPUHNpdkVkS21HWC0wcjVqNXAtenZLeVBPTVllVjhFWUNDcFJfeEYwNVB3MU80b0drUFZrQ0t2dw?oc=5",
+    "source": "pressreleasehub.pa.media",
+    "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.531108+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fa5ac5f451907979889862f3",
+    "title": "Mobileye unveils ‘super-computer’ chip to power fully autonomous driving - The Times of Israel",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWnpCNVM5ZWRVdUtMV2RYS0JJV3lJUV9KN2dpUl9mVF9vQ1hjWWNtc3dSRENCWENYVWkycTVFZHYwbHZwYzNicFMyZXFqSzJDMmZ1NWllSU52U3lKdWhjeV9JRFRnOHBSSGV3cTh3dkFqNFJvVlplSkowaHVEOFQwdldWajlTQzd2czJNTHZjTGt6Z1R6ZkxweWxSSENVTDJhd1dZ0gGoAUFVX3lxTE1leW8yUUNRRi1UUHVDaHNXRGx6dlJDb2VYUHRVbW1Va21GYXh3Y0ppNV82blhORWJwanBWckgtYTk0Q1lzdUFaUDE5UU1tSmstM2w1VF9fMFdjMVdQeHZZbTdwbkxrMXJvdlJLdzlFMUtpU0xIRkRtOC1nOUVQc1Rxbkk2R3lwbXdmQ0FjSFdxNTZzakdiR3BjRnZ4dFd2T3k0Z3hqYnZmTw?oc=5",
+    "source": "The Times of Israel",
+    "published": "Thu, 06 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.139397+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "03481c7f3c289fcf78a05e04",
+    "title": "With Intel Mobileye’s newest chip, automakers can bring automated driving to cars - techcrunch.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTGQ5dEZ5MURVQnNDXzF3c0FHSmZ0bnRpdTBfSlVJTnZPb0JBWkJBMGxXQ3NpWnRUQ2Y3N3h0cDZmLUIxMlhYYUdFYUZ3WW9ZdVlBcUJ0YWQ1a2FmUmVGSXc5WkJoWmkzaTA1dmR0QldscDJOaVBha1RkMzBsb2FTMVZ6bzVVR21NUWJzNUNZSnFfLU9aOHJudmo4Ymo?oc=5",
+    "source": "techcrunch.com",
+    "published": "Tue, 04 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.139272+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "351093007dc0ed0a2d06f58c",
+    "title": "Mobileye Unveils EyeQ Ultra SoC for Autonomous Driving - EE Times Asia",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWWlCSFpIUlJCeVdWeFZuSnBJQU84VjJ4SDB6ZGhwdV9JVWpHVE53bWd2TmZJQW5INVByVFF0V1ByMGwzc1RMYWhLQkEyU282LTdwbjk4STBmRU83NkotNDhTRUxhZzVEMWVkNXl4VExiaFNtdE1DZWF5bUVLVWV2SEp6bDB1UQ?oc=5",
+    "source": "EE Times Asia",
+    "published": "Tue, 18 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:50.139235+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a67d085fca3fb3765636f8cb",
+    "title": "AMD Says Report Of Delayed Instinct MI455X AI Accelerator Launch Is Total BS - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5scWhZRmhJUmFYa3l6VnRvd0VGclMtaG1sMHQyRnlBYnhEMEZnRWZXeWVaSHhpdkVwblNJLXMxZWd2Q3dIbEZNOG9aaVl3WnN5V0NQbm1NeTRIQTVoVEN6cmxB?oc=5",
+    "source": "hothardware.com",
+    "published": "Wed, 18 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:49.858690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8afc99af38dcd8d771760f7f",
+    "title": "AMD Instinct MI450 Is Coming In 2026 To Challenge NVIDIA's Vera Rubin, MI500 Arrives 2027 - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16ZHZhbGpfTGdIdW1sUEp4bkN3TXE2MS1NQTZDOGdkNXllZV9MMWpUMDVsWWJHSjRmYnFnTVVhMXpkVGNuQkQ3TkNkcjZXd2NnMHlZeDFxZlJwZUNEazNJVzE5c1BUMFJHcHZpX1hDZ2NkQQ?oc=5",
+    "source": "hothardware.com",
+    "published": "Wed, 12 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:49.858474+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "61a9c867c1d750e015d25ec9",
+    "title": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTTBZTTBNS2Z5Zno4a0VBSWN6SXRYUW8wV29jSndlSmhhNzlLVXBvVlU3Vng4R3AyLUFzc29mNkdzVy1PQ3Q0ZWNSTW01TWtFZmxJSVZkMmlmOW8?oc=5",
+    "source": "tech-insider.org",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:49.471766+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2139a1298c184c6c4182cfd9",
+    "title": "NVIDIA Vera CPU Performance Claims And Olympus Core Architecture Revealed - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORFlBMnpqZWFzd1NnR1MzTUNsazVZUHJTTWpxdFBHTWFUcWhQZ2FPTGhDaTU1aVFSLVNVMTNiMkF6Vy1TYmxtRUhDbW5mNDUxTTgtYjNicXpsOUtFaTA0ZVNDQXlsZnhWSWNqYzhyek9UdXJUT2xTU1NfN09ZenlyMUljLWVfVGJ5WXZzU0lkdw?oc=5",
+    "source": "hothardware.com",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:49.471709+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8af11c1cd846fe0c622df0cd",
+    "title": "AMD Ramps 2nm EPYC Venice CPUs on TSMC as Intel Teases 10A and Beyond - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONWxJR29LSk01cGVwSkMxN0dPMUlLM1VzQVNHTnBJSUY4TDhlR3pRYWFsQXl6X1h3Y1hTcGk2Z0ItbHc3UUdvaWxPTUdwSHdKTEJDVlNtMWF1N0dUbzRFbERIenZNOEM2MTNOX3BlelVmN3NfdTd1NGpBR3VSMUZrMXljNjVwZw?oc=5",
+    "source": "hothardware.com",
+    "published": "Thu, 21 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:48.735479+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fd8fd1c5033e0aa6244e13b1",
+    "title": "NextSilicon’s Dataflow Chip Could Disrupt The Processor Landscape - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0hVVERXeFRSVXJScXNuRzdjQzZKNmtrZXZOT1BKSTJieERQM2ZFclduM2ZFU3Q1UEQwQVNaaURveWFRU1pMX01oZWkyeHJRWmpVVTBpZ0dqekdyYjJLQUx0cWl6MXppbTVyMG1ENHZhMm5xNThPSDZQZzlKT2dJVlo3Q01CNWFkQ2Vva2tUMzNOZmliUWtnYnBFY3NZaWtSX2RoeDZlZjFudVRMTGktUGVmWlpFVkhock5NTQ?oc=5",
+    "source": "Forbes",
+    "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:47.860593+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "222ad13d8007e7bc53fbb4f5",
+    "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute - Apple",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFFqckpDN3hYbzRwR043eHVPb3hqUEF6WmJ3TEpmTUVsdDVFTjZSaExEaEpOdllIWjgzcGh1UF9idm1tXzlybHVwZ0NSY0VmU0lwQWNzRDZJRzlld05ZWGptSUJCSGZDMTRfa3NMNHhNeVMxMVNBZGs0dHRFdXhwdHF3Tl9CR2NIRDJDaEYxUWRvOHdkUVZ0NTdjWHBSVHJEeFlaRFdOSTVVVU01Qm5jMjVreUNqckJyczYtcg?oc=5",
+    "source": "Apple",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:47.860449+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7adfb8bdc55839bd87c2c8df",
+    "title": "Huawei unveils Atlas 350 accelerator with high-performance AI compute capabilities - Tech Edition",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQi1fWFpDNjZ1dW5yLVFvMXhEdjNrQTJIQnFpSTVSb1hYUVZCUTZ5cWVZM20wbWlNcklTRGtTcUw2VUpKLWMwZmdwWFAteXNCR1JteWUyMS00SE41OE0wRHFkaDh2cU9VckNpM2FRcVBYNE5mVG0tY3hieGl5Zy1MLXJFc2o3Rk5UUXpCeUM0Y3Izc1gwUkdHSnZ3QUd0Q0FLRFYxSTJaVjVaQQ?oc=5",
+    "source": "Tech Edition",
+    "published": "Sun, 29 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:47.357425+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "817ab43d9d33834606de8ee4",
+    "title": "#FrontPageLIVE 🔴 An Indian Institute of Technology, Madras startup just did something India has never done before. Mindgrove Technologies has launched what is being called India's first high-performance Secure IoT chip, built on the open-source RISC-V ar - LinkedIn",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVFNnN3M3Tk91NzhDTnFZSW4zUXVBeXowVDhncnczTEZMMUZYdndPSDgyYkdnc2ozRGdmZ3hXR0xPbUs0dlJ6aWhoQUJOUVl1aFVvTXBoSGZaLTViTHRYVmxJNFg3NjNYN0tXNWxfU253X2c1aFIxX2d5WHYycWNBaUE2UUwyMXFRazh6ZW5mdmctalBwUVFoQV8zbHZYVWlUREh5Vk0zcUwtakhHSlZxZGNPc01SSnozaFR2VmE1VV8wUQ?oc=5",
+    "source": "LinkedIn",
+    "published": "Tue, 12 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:45.382915+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "184bb6d4394052aa855b4562",
+    "title": "Design of a low-power RISC-V based intelligent endoscopy detection processor: EndoRISC-V - Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VnI4ZjNOTDRuS0ZzdjZHTmVIMS13bUZNY2FYYm5oY0ZhVmVIRlJLQXFySEtqRGRfNnF4bmpmVjVsVWExa0hVX1M2VTBiSFZLMGNJNnFWdnExWjBOSS1R?oc=5",
+    "source": "Nature",
+    "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:45.382732+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "051135440121f6ed62b343c2",
+    "title": "Breaking the GPU stronghold: emerging competition in AI infrastructure - kearney.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONVQ3amJsTkxCWGg4Z2hkN3hLcFJWSnJ2aHBrZU9vOHZlNW9aRG5oUzhHSGtRb253Tzg5X3ZEbDdRaHdHRjAtZzJzejhycEhNU1BrbjA5dFdMaTE1cWV6V2VyTkRzSE1mN3o1SEhQeEt0bkVhZ0FDd3pmaGcwUDdSTk9jeFktTFpQeWZvSWxXWTVaeU1GekRDWGQzR1hjTHY2NzhMVTZMb2hlVG5rVjlDcVozWE1UM1RPblRuaWN3?oc=5",
+    "source": "kearney.com",
+    "published": "Thu, 02 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:44.331986+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9b51a8ad8f24cd34b8580821",
+    "title": "OneQode to Deploy AMD Instinct GPUs and Plans for AMD Helios Rack-Scale Solution for Global AI Infrastructure - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOVjlSNGQwd3JyRlhwOWRKTjU2YUpoc1pPTVpyamhUMmNRaHM1N2xqM1ltaDgxc3FvNUcybUh3Q0dBV3RFZkVqNUVVckhFREdrdzFDWDBQV3plYkw2Zno4T0hHUWJ3Z3d2R1FxQ3lIRXdfYS1ZellObnl1cDI4SVh1elM3WkxUVDkteG5xNlFsR1JQVlpZOEZkalozNDQ4WTVpS29wUVVJTTZfNjF4ZVh4ay16Q2tMMFhyRDZpLUxNZG9aMlVRV18xX192Si1jNEpWOWtEYlJJb1VQTWVERVUxRnkxNXRaRTVtY2wweW1rcG5JY2daZTFpUg?oc=5",
+    "source": "PR Newswire",
+    "published": "Tue, 26 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:43.440515+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "70954c8b674fdc6105216155",
+    "title": "Intel lists Xe3p GPU architecture for \"Next Gen PC\" - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZjFqZUpLM0ltSkNNQUxWQXphdXVJTlFZYkE2RFBVc3h3NkRneFNqY0JSLW8wM3Q3djl5UkJNZG11SEJDZ2xWSjg2UXVxYVJkaHZMSEZPa3JOR1ljNTFEcUtUSjhRTm84T1VPT3dNa0N2OU41N3Q1cUlLUXlTZS1XVzRwMA?oc=5",
+    "source": "videocardz.com",
+    "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:42.305864+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c8b2d60fad60e96fe6310b7b",
+    "title": "Intel suggests it was snubbed by Crimson Desert dev after reaching out \"many times\" about Arc GPUs – company says it provided \"early hardware, drivers, and engineering resources\" to studio - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPM2N6N0RmV2Iwb3p2RnRoWWdzanpzZmExX3hiQnRkMndQUmllX1ZQMGhvc3c0MEtuU0loN0ZrS09QZHFpM3JMR3ZCNmF1QTVzOWtFYlI1M3hHZG9samlLUDVJT0hMUUZvQnUtX1g5MWlGb3ZqLXNzUGFMdzdrSGVDaFNsU1ZYcDJydmhRUHlxR2lfYU5XMDVLLTk1RGlMOVZTc0pXYXQ2NkRLWDNSUTlYYW5kOGxNRUdVbU5BbUcyaHlrcXJ1RmJyMGswYnFmZTlCUWNyTGtBUFU5cEFmS0FsbTZfYUVoRUFTV01zeUNTX2VLTjBxdEpnTG03eGNldlI1ZzFidHgyNUF5amV2QnZvZE16Ynhid2JEVEl2Nm56VDR0WnJKRDNYTmNSNE5zN2xJaFdhd0xIMHdJY3IxTFFKWHlCN3FWd05maDBVNg?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:42.305833+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "926072f265948ec94588a586",
+    "title": "Intel Core Ultra 300 “Panther Lake” engineering samples tested and listed for sale - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLW16UEgyOHh1eUp3ZU0wWFVXRWVIYldLbFhDTkNmcC1pdW1EMHlrRlVpbVEtZUw0UW9NSkU5YjdkRDNKR2pmenlMd2pxVzgzWnRZSmc2aE5Nc29lbUVfRVQ5SEVCemlXRHhpc2dhWG1GUTQtS005RkVRd29PczBrLXkzX01tNGF5YVRKVERDa0hvN0dEd0IxN0U2ZXZQR0RmUTRsTEFWMzFvdFct?oc=5",
+    "source": "videocardz.com",
+    "published": "Sat, 22 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:41.665374+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b85c23dfee62e7f52d0ef18e",
+    "title": "Google's Tensor G6 CPU Detailed: Performance, New Features & Capabilities - knowyourmobile.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxON3RUX1Q5eWdYNWRsc1owaXhEazhXa2ZyU1o2MFNoOXB4a2Q5ME8tVHVZT2hOVkhOaGpFZEx3QWNyVW9oRTFxc1ZfdV9ndDRGY2I1bnZFc0ZJSjBFdnhQblNfNkNrZk5MRDBpb2lXeTBzcEdzUEg1R20xVlEwN3pRN0NBNUJud3BZOWdjRkxNTHN4aW8?oc=5",
+    "source": "knowyourmobile.com",
+    "published": "Tue, 18 Aug 2026 18:09:41 GMT",
+    "discovered_at": "2026-09-05T01:39:39.243839+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cc0443987d3a0f215fd73599",
+    "title": "Google Pixel 11 Pro XL review: The competition, our verdict, pros and cons - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iaHZfa1U5WGd1MFc5ZDFKMTRYU2RXQmlpcEdUV01DNEp4ZlFma3NCbTdyU2JMVDdGenZydHlQamUtNkZTdHVzVmhJc3JZSlJwMWt2UHhyQ3dDUXgzb2J4M2VaX2tWRVVmeVNFMVBQRW5KNmM?oc=5",
+    "source": "GSMArena.com",
+    "published": "Fri, 04 Sep 2026 18:56:47 GMT",
+    "discovered_at": "2026-09-05T01:39:39.243585+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c050a6c2387822624563c77a",
+    "title": "ASUS confirms AMD Ryzen AI 400 \"Gorgon Point\" laptops are set to launch January 22nd - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNWFyT2QzT3otWVN5S3B4T1czR3hfVzI1dEdfcjd4OWF5Vk9fMHI1clJXS3lOQU1hMFlfRDlBVEdOVXZBZzlIRDFaNHZqZUJ3UzZNOW95eDd6TnU4dDREcXRxa0piUHN4enNsUFk3SEF6R3cxV29MOWJnYWdiMHN3YWUzRElSR3E5WUlQMUpvYTIwVG43X1hkemEyOUZFbWN2dm1lUEdIdm1BTTNGZktj?oc=5",
+    "source": "videocardz.com",
+    "published": "Tue, 13 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:38.300720+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "716f08d807435c70d012dc02",
+    "title": "AMD Ryzen AI 7 450, Ryzen AI 9 465 leak confirm Gorgon Point as Strix/Krackan refresh - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSW5lVm9UTDlIMHVzN2RPejNVTnBFNFRNaFVieFJNX1JMT3J3MkFvYlRuVDZUNGhDY0k4NWxORnZfVzNHeGVRYlhyTjFtZ01KallnMjJiNkJoUTliQXBucVhhcFdKdC1BZlVUZ29OREpjR2NBSFdtSEVZWlNpeWpkeUkwVXlzaXIzVlM0dkJPMkxYbm1CeTdWelMzSkZLVEVKNDgzWldPRTBfcVVBTUFySnJB?oc=5",
+    "source": "videocardz.com",
+    "published": "Thu, 20 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:38.300601+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f9cec21813cdee5b8e9866d1",
+    "title": "Intel Core Ultra 300 \"Panther Lake\" series CPU series with Xe3 Arc graphics launch on January 27 - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnB0bmlOX2FBckZVdmdaZGZENTdYdml3QU5XRU91b2ZjYnl1OGpBaTVpaTZOakFqbVRGMzFYa2dMbk5uclNvVlNlNmlYUDNEWTcxUjhLZXNYUTdPdVhXa19VOVktV2NNeFJOa2FPRUF1S09xTjJNdlZCXzZxNHd5bUhNcVFiRDR4b2QxVWR1NTI4RWgxdG1qcmdscl8zTUYzc2xSWlVYcGFyajVzSllLd21XQncwUkVrRGpuZlJKQQ?oc=5",
+    "source": "videocardz.com",
+    "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:38.004132+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "88b1fb2424a60248aa2df8b5",
+    "title": "Intel reportedly cancels 6-core Nova Lake mobile chip as Wildcat Lake Refresh takes its place - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzRpczgtWTdsTWUtLWlMTVpUR3BKdVRpSzZIa1JnYU1qdjYtZ2kzR3RNckJGS2xXbmNPR3FVbFpMdXJzc2x1ZHRHYWdkYVQ0LUltQVk4REdfc2UxT1BCNGRzSXVXOUdaWFRrdTc2TWtIRXFfU29fZGV5cm5pdFI3NXZVR2ZVbHEtaTNIRFc4Q2VuWXptZ2Jpa3c3TFQyQk1NUWJaWkVOa2h2YkJ6Ujc1cnk2R3Y0Ym1yNlZCUERn?oc=5",
+    "source": "videocardz.com",
+    "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:38.003715+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c858c66719139f15f39d9a2b",
+    "title": "Qualcomm Adreno X2-90 - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREpVcjZtSlR6WUtGbEZrZjFLZmdhaWQ4RTVmcnpUZTZra0NaRTEwQ0FGTGJGX2Y2WlFqZWpkQXZ0SERzR3Mzb0RZVXNLWloxc0MzZzVYV2hpOHB1M2RwaHp3a19QR1hEd1JMcTlUclJ3N1ltY2FWQWMzaVo0WExJRDJQQU1nMzVQdjdKUVFGU1U?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 01 Sep 2026 03:33:03 GMT",
+    "discovered_at": "2026-09-05T01:39:37.587338+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c08763bf83e34552c7a4f349",
+    "title": "Apple Unveils M6, Its First 2nm Chipset Alongside Powerful M5 Ultra - etvbharat.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZWZoV0RHRnRyVGRvOTQ4V3I0MVBfSTBJQW11UVliVTlsX0RjdXJvd2hWSkNLZjQyaFIzTFZmMXdUNG5rQ1p3Ym5VMk1CR1ZVUENweWk5RC11V2VZZU8wZDEtMnNabnVmdzdSMDdpbU43VEpvNE5rZ0RscUVCTEtFckhGMzVYeWhtREY5TFowRlcyTFdPZmtYX3EyZ1QtZmMySVlna2RnWHJYWUU?oc=5",
+    "source": "etvbharat.com",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:37.097102+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a2774d7e17af55b0c7eb92af",
+    "title": "Apple M6 and M5 Ultra: 2026 Performance Gains Explained - fstoppers.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ3dmVGlDNGUxWTJEY3ZRM2FLV2hOaDFDV0JVQThLT3VnWjFVTVFoY1BNYjRyakNrNzQwNlhEdkpZeEF3MVZHS3pHMFdka3k0U2xEOUphbWlUNEliM0hIVFlLX3B4LXlGcTktTWhMMjIwQ2FaTnJKd2ZwS2NpXzNWbHlKMi1tVUVFTlZBZ1Znc1RjTmFoYXQzNlA4VGpCdw?oc=5",
+    "source": "fstoppers.com",
+    "published": "Wed, 26 Aug 2026 11:52:23 GMT",
+    "discovered_at": "2026-09-05T01:39:37.096994+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ceaf796a9e45a52476475584",
+    "title": "Apple announces new $899 M6 Mac mini and $5,499 M5 Ultra Mac Studio - Mashable SEA",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYjhqZXFGbTN1bzhFN210WTBtWktNa1hKcDlhX1k3X3c3b3ozQWltWkxkZ2ZMMXN1T0ctNUpkRnp5QU12UHQ4aFJlRWRrRHVBSDRTcGp0OVhGRHlMVkVMVjRwcmlwM0ZaOTRCUzRORGZWdUZoY2l6Tk16SEtvUlJmN1FhcjZSQW9aY01ycjRkTEl6bXNUTVE?oc=5",
+    "source": "Mashable SEA",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:37.096961+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2852d52e2edcbf350ff78478",
+    "title": "Galaxy S27's Exynos 2700 could outpace Snapdragon in speed and efficiency - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOejJwY0FpbFhlMmY4Um5RQjlLaUxMQ3R3UWg0aTV3YVlmZXVOTTVNTTlQWXZ4aFUwcVRNUGpGVlBhV09SdHNEUklHUWwycTVHNW9fMEp4TUZpYXh5SWRGZVhWREtSQ3p5bmVhbE9RU2phQzlGakI3VElTUC1Qcmo0RkFxQzZMQklqUjJrd054Q1JoU01q?oc=5",
+    "source": "SamMobile",
+    "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:36.040983+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4b84286e94a09530ea449639",
+    "title": "Exynos 2700 Benchmark Leak: What the New Deca-Core CPU Architecture Reveals - Nokiamob",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNY2FYN04tWXRDNGhYdjRfb3htZTdiN3dJWDEzc2xyempEN0FySHdDWmUweUQ0WUFwN2xTUDdqaG4tS2RYcWdmRV9QNTdyX3RuVm1Sb2FxcDVKdzU1alRKaFhHRDdfMjM1T3NPcnk1UVZiN2p0N0VQRkF1WWdPY3ZsbUIyR3EycmY0OENhWVV1cjE2aGlrVHc1Sk02a19mT19zY0g3aTFPVFhYb3M?oc=5",
+    "source": "Nokiamob",
+    "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:36.040952+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "69243dba2c16073ed99de367",
+    "title": "Exynos 2700 Details Leak With Dual Prime Cores and a Beefed-Up GPU - Android Headlines",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEV3QVQ5Wi1sUGVHRWRwUmVKdE1LU1VWTV9LNTlSQzlOZ19qMll4Z2NhMkVEYmpNWlpqSTQ4NkVYOC1ncEpSS2NtaEFhWE1ZSGloTVJiS05lc1FldEcwVEk1RndwaWM3TmF1bG1iVEMycGFmbTg1YkF6amlPSDNyTHNXMHZnTXRpeGdLNlJwTkFqUnFHSDBrRDU3ZTZrYkdPLTZVVUdLRVpsd1hsd29oU3pn?oc=5",
+    "source": "Android Headlines",
+    "published": "Thu, 03 Sep 2026 11:25:09 GMT",
+    "discovered_at": "2026-09-05T01:39:36.040919+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "af2796fc6474bd911e6b70a1",
+    "title": "Vivo X500 Pro Max Appears on Geekbench, Dimensity 9600 Pro is Said to Have Two Cores up to 4.55 GHz - VOI.ID",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03TkxWOU9qckxWRml4N29uQkRJNGJPSTg4cTN5Mmp5bUJCYkRqdXdkZ2owT0doc3ZsMnZNRXBTeHJZbjRhbzVSRHZKVdIBQkFVX3lxTFBPNDhZRGRHQjBkXzVnUUFWbjdBSGtsRzhJMEEtSjJnZVRUWWhEZWk3QU9nbFlrMEJGLW8xLU80WndzQQ?oc=5",
+    "source": "VOI.ID",
+    "published": "Tue, 25 Aug 2026 01:07:42 GMT",
+    "discovered_at": "2026-09-05T01:39:35.638707+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "55887eb3d2e266d68ab5b446",
+    "title": "Snapdragon 8 Elite Gen 6: Dual Chips, 5GHz Oryon CPU [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Z2RxcDA0VGp0NWRSVTE1cWxSY254MmdnTUc5ZzY2WlFUWkgyUkEyM3hQWnFZb2luTXhsTUdWZURBTmR1T3VzaU13dEYtdHp2bWZLQXRsUUVsYjdTVHpTbW92eTBQTjIxWEk5SnlUb3pENmVVREVsNlJ4bE9oOUE?oc=5",
+    "source": "tech-insider.org",
+    "published": "Fri, 04 Sep 2026 20:44:23 GMT",
+    "discovered_at": "2026-09-05T01:39:35.312878+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3dff42205d7ee9ef238050ff",
+    "title": "Xiaomi Xring O3 Tops 5M AnTuTu With All-Big-Core CPU and First LPDDR6 Mobile Chip - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFhENGdfaHM4SDRFOTBLSUJSeWtUa3lqbjM5WGp4NnY2WEJCRmZNWUFWcnI1U0Q1MGctcGx4bERwZUJ6cW4zRDl2RFNxYzRuYjRuMUVzel9JUkdoS3FxY3JsVnR0ckFqZ3dqbU80VFFjSHlQLXl6MFd2RHc1UldIYkVMbVRSbm9uU3p0VEVmSHdDNWJZSy1DUk5Ub2hhYW9CUnNuaFdtbmZuM1lEeVJKdjdIU2p4YTl2N1RuMWNjVnRDN19kNEE?oc=5",
+    "source": "Tech Times",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:39:34.683436+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "2b7a8e0174ecee5766b1ab09",
     "title": "The Open Chip Revolution Has Reached the Real World - HackerNoon",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hY0ZDc2Z3cGh2a29lc3oyMThCTFNKV3BaR0Z4Qi1XRGhYNTZ0X29GZWp1YVFIaTVfUGRaalNQS29CeGtNTG0xZ3RaSE5obXcyLVBodGxER1FGV3N2Y1NFV3hVMHdIUVdYSUg3QUNmdk81b0xybEVlVElSclNsdkE?oc=5",
@@ -5299,7 +5805,7 @@
     "discovered_at": "2026-09-04T18:18:34.493492+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "c050a6c2387822624563c77a"
   },
   {
     "id": "41dab17cd5ff8220dcd3b05e",
@@ -5343,7 +5849,7 @@
     "discovered_at": "2026-09-04T18:18:34.103651+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "f9cec21813cdee5b8e9866d1"
   },
   {
     "id": "fcd92ee49d3d64ec21114168",
@@ -7004,7 +7510,7 @@
     "discovered_at": "2026-09-04T09:45:32.823080+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "70954c8b674fdc6105216155"
   },
   {
     "id": "d0e102d4ffccfe48c4d17c16",
@@ -7103,7 +7609,7 @@
     "discovered_at": "2026-09-04T09:45:31.878476+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "926072f265948ec94588a586"
   },
   {
     "id": "91d0607a8a2a598447f9c8f9",
@@ -8159,7 +8665,7 @@
     "discovered_at": "2026-09-04T09:26:49.295516+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "716f08d807435c70d012dc02"
   },
   {
     "id": "daee20201ac73f2fa3428455",
@@ -8368,7 +8874,7 @@
     "discovered_at": "2026-09-04T09:26:48.634154+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "88b1fb2424a60248aa2df8b5"
   },
   {
     "id": "662cc3afe350dbc5da29b27b",
