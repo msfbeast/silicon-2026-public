@@ -1,5 +1,27 @@
 [
   {
+    "id": "ded5f8c041867f33ccf5be3a",
+    "title": "Intel Sapphire Rapids-SP Xeon ES CPU Benchmarked Against AMD’s EPYC 7773X Milan-X Chips In Cache & Memory Tests - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnd2RmcwOTVvQXRGaWRudlZyNkxqN2J0TENZX3ZpQ1FsTEN2MUp0UzhhYVhSb2lXUThHS0lTdlN2ZVdlMk5WTGh2ZFNKRnFaY0QwRVFJbmxOcmp5aWdaZkx3dmdnVU0yTjI3NWtiOHNZNXdVa2pzMk5VTnRSeDRhSFV4XzFmc2JHTzNNcUEwRi1oQ2E4WngwUU5PcHE1RF9zcnowdjRNNURGUGvSAbABQVVfeXFMT2ZoeFBVcXFIV0xQSmp4T3QxeHRHTF9Md1lQS25HekdNNVJ2YlN0Ul9BaVZyOXlfVjEtZGVfX2xvNjVLQXFJVG5UeFNGVmdQSE9fSXN3WWlnc2FZa25uTWtxT0F5YVVGYnRhWURSOElrMmxqaEdFV1UwdlpyT0hjUWZTQmsxZzEycFpsN2E5bjl1SHp4TDVCOW5jOHZzdmdicWh6TWEwVWlydm9tdks3NEo?oc=5",
+    "source": "Wccftech",
+    "published": "Sat, 12 Feb 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T01:56:13.739752+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3fde819a13281502a23115d1",
+    "title": "Intel 4th Gen Xeon Sapphire Rapids-SP CPUs To Feature Up To 56 Cores on 10nm Enhanced SuperFin Process & 350W TDP - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcFdoY19xNHBlQWVQT21CbkljaTNzNXpURUp2Vmw2NHVRTHV5bmVqRFVfZXRrb3NOZlc5MUc4T3l6bDd2NzBkNnpfWE5yOGdtOEduS3VIdVdicUhFeVYzSDNqUTJJQzJtdmRlc3BMX0hEbzhRZExDRzhLdFkzX3JsYzh5dzlaalR1c050TTI2dGRBdHRFNWfSAZsBQVVfeXFMTW51eGtRU2RlcjNRSlB0RkNVYzFWVG9kWlJJRV9wa2pXUzVuQ1piU1Z6UWJxMzlSQW5VcVNRYTUyWTNmWlM1dHpxTWt1SVR2NjhreFNEakdrMW1oWmpENWdiLXBKNFRpYWltakFTWU1GdjEwNnRWTDFjeDIyczZ0WVB3c19BaGpoZWxiTElDdEFRQ0tuSlM5NTBLbFE?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 07 Apr 2021 07:00:00 GMT",
+    "discovered_at": "2026-09-05T01:56:13.739697+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "0e278e892bf2e4096efa7ffa",
     "title": "Reports: Google partnering with AMD for next-gen hybrid TPU - networkworld.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQREJOb3BBMldGNzRldllNdll6cHZWMGMzajhUMUttUU1obHFjNV9FUV9RVU4yQnYwTWpFamMtUDVZeGZNanV3Sk9WbGVrSGlUeTNiNzVpU2Nkd1phOFRZQU5UOUFmd2dQRUFkUTVUaUxKODJvU2Rna3FxR0gzdXdWa29HV19pQ095Z3psdUptYkNjX1RtU0J0bjRxX0ZfMnhFLTB3dlllbkxKUUVj?oc=5",
@@ -1427,7 +1449,7 @@
     "discovered_at": "2026-09-04T20:31:46.853051+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "c944baa64299782b42e84b01"
   },
   {
     "id": "d776de3fb9384be5527184c2",
@@ -1482,7 +1504,7 @@
     "discovered_at": "2026-09-04T20:31:44.482443+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "560183fecbd9063eca166183"
   },
   {
     "id": "acb92639c76d4983d4c223b7",
@@ -1493,7 +1515,7 @@
     "discovered_at": "2026-09-04T20:31:43.980779+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "b32fdd1308556332affe4111"
   },
   {
     "id": "da1ec8f8ab9bc25a182a0497",
@@ -1515,7 +1537,7 @@
     "discovered_at": "2026-09-04T20:31:39.171138+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "61572eb3317472dfb4c2f3b8"
   },
   {
     "id": "b76040490aa83dc69eb2bc35",
@@ -1526,7 +1548,7 @@
     "discovered_at": "2026-09-04T20:31:38.830919+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "9cc3878a730ba9c8597ae198"
   },
   {
     "id": "ad11a741381c6b2491b3f5db",
@@ -3242,7 +3264,7 @@
     "discovered_at": "2026-09-04T20:03:33.197799+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "41fbc91fad2ba7b194b904b2"
+    "duplicate_of": ""
   },
   {
     "id": "bcb57a7e79bd19dbb5f39ba7",
@@ -5937,7 +5959,7 @@
     "discovered_at": "2026-09-04T18:18:47.537974+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "acb92639c76d4983d4c223b7"
+    "duplicate_of": ""
   },
   {
     "id": "8662ce0e81f3888103485916",
@@ -7345,7 +7367,7 @@
     "discovered_at": "2026-09-04T09:45:41.475533+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "7ae964d55b5c3a5a432a6973"
+    "duplicate_of": ""
   },
   {
     "id": "7057b57820bc98ab880c41e1",
@@ -8874,7 +8896,7 @@
     "discovered_at": "2026-09-04T09:26:52.672785+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "3ca29cd903121821ca986c75"
+    "duplicate_of": ""
   },
   {
     "id": "f08960f75e939f56ec211e0b",
@@ -8918,7 +8940,7 @@
     "discovered_at": "2026-09-04T09:26:52.019620+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "b76040490aa83dc69eb2bc35"
+    "duplicate_of": ""
   },
   {
     "id": "ac0136860438879f68cd6801",
