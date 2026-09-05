@@ -1,5 +1,126 @@
 [
   {
+    "id": "0c31e33b95c4bdb3308b6c7e",
+    "title": "Maia 200: The AI accelerator built for inference - blogs.microsoft.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmpHZ054Y1Z4ZDRsZzh0QjBtSlhVaFJRTnFCSnhzbjlGSWNVVXhwb1E1S0ZOVTBzRXNpNzQ4QlVvY19UcnJrZDBTRVU3YWI5aXZmNXFYeHFIa01seUJfS0hjQVR4ZmMzOUcycFZYcVg4dVMxcWVyYUlrM3NjdWxFVjFkRXRGZGVaeVhQY2pYNFkycmpRNkNJ?oc=5",
+    "source": "blogs.microsoft.com",
+    "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:56.761673+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2eebbd88150e5f7cd93aa570",
+    "title": "Nvidia GTC 2024 Live Blog: The Future of AI, Self-Driving Cars, and Software-Defined Vehicles - motortrend.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTW9GMXpNc0hYZmd1Q05TQXNQMDBCYzUyeWdhaWNzbWc3ZkZTclFxVDBzcnU0RHpOZmdRZnJBUjJHUnZYY0xWQXNTdFpXbEVDNkRHUFlMSk95d25jdGlaNk03aHdLS0ZaTWV0RC1SMW1SeWp2LVl1SWRWTHR6R0VzblEtdjJuazZ4Z0JlaWxNTUg4VXRlUjBaYg?oc=5",
+    "source": "motortrend.com",
+    "published": "Tue, 19 Mar 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:54.725473+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1dd1362f59f6b532ce6d7191",
+    "title": "TSMC vs Intel vs Samsung: Solving Advanced CoWoS Bottleneck for Next-Gen AI Accelerators - intelligentliving.co",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NbUd1d05YUDRNRVZZYzhUSTNXUzBlbXZ3c2tSRDAzYXlZaE51aU9OaGpXSmp0UkZBUG01VXc5SXN2YkIyVW1nZV9SdzVqbE1mWUlLR3pwcmhEMUJIaU9YVjhMbmdPVmRPbGFEbFp1cTRHQXdJdVJhcw?oc=5",
+    "source": "intelligentliving.co",
+    "published": "Sun, 15 Mar 2026 08:51:06 GMT",
+    "discovered_at": "2026-09-05T02:10:51.841166+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "471ea3a678b12d163cf24aaa",
+    "title": "Intel displays tech to build extreme multi-chiplet packages 12 times the size of the largest AI processors, beating TSMC's biggest — floorplan the size of a cellphone, armed with HBM5, 14A compute tiles and 18A SRAM - tomshardware.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxOODNRTFZ0TWpYNU1tbnVoTWRPS3A0SFdPaTQteWlpTWJRUnVTUDNFb01aRlNkUUdaemhHbGRGSXhUT0FzeG56d05KRW03NUpUSmNNNUNsNnZ5MWhSMHhac1RjLS1qX1FkaERmUmFOTzF4YklNMlpYNG44cnU1cHhucVBsUW1PVzZuZHM3a3pvanNBb3otUXVNYnpZcjktcWQ1UjJCcmNkaVdkM1hPNWZNMno1aU05b2o4eWRtUXZ4TWdMdERNNmp6SjhsUXpUV3ItaEtKRWRNMFpBd3YzS3ZSanB6RTNWb3FRanFDWkVBVGxwd2VxQVQ2OFhFWmVMbEpsc1Y2UmMtaTZwQVZ4NTUyeTJNZVhLSzd6RkxRRUFFc1FKSmRXQ1V2Z3Bld01vWlFoc1hYOGx4bldfa3JyZUFpVURGX1FCRjlhcncyZGZhc3hjakRIYU5jZElDSDc4YkZWUkZJaVZYSlZKdEJWNVp1dDkzLXpIdV84S2NmVzFLN0ktV0Qxa1lGZVhGSQ?oc=5",
+    "source": "tomshardware.com",
+    "published": "Fri, 26 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:51.840977+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d33221b98530a4008565ea5b",
+    "title": "Design of a low-power RISC-V based intelligent endoscopy detection processor: EndoRISC-V - nature.com",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50VnI4ZjNOTDRuS0ZzdjZHTmVIMS13bUZNY2FYYm5oY0ZhVmVIRlJLQXFySEtqRGRfNnF4bmpmVjVsVWExa0hVX1M2VTBiSFZLMGNJNnFWdnExWjBOSS1R?oc=5",
+    "source": "nature.com",
+    "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:48.671216+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "16f805d1e4f00d97df4fe90f",
+    "title": "What Laptops Have the Nvidia RTX Spark chip? Confirmed Models and What the Chip Does for AI - Gadget Review",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd3JNREZJcElBNnBxNllyYWw5M3dqbmlOQjRmckZuM090QTJPMkQwanVZcDdYcThsWGFGSjNmbGh1RTJUQVpJVTQyOE85dkxWNWJjMzE5R3ZRbTFVN0N3OGQwcU4zcmRsU2VkSHhvVUlSYnBRN29OSGdzREdLNXlxNUJzVGJkUHlmNTJ1cVhUT3VRR2xkRnBhZ1AzamlPdl96bDFlOWhKRHlvd011WUliVDk1ZV95dlh3Qm5r?oc=5",
+    "source": "Gadget Review",
+    "published": "Tue, 01 Sep 2026 14:58:29 GMT",
+    "discovered_at": "2026-09-05T02:10:46.120811+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "15dbdcff00fd5716518f44f0",
+    "title": "Nvidia Touts Progress Getting New Rubin Design to Customers - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk9DR20yVlp0dThjRlo3SE1qc3FtTXpYODBRY2ZGRHlCUHBvY1ZpM2lCYkpyNmRfdFdXZzJ6ZmxSdXlnSlFDSGZiZkJSQ1FHX3F3UUtTV1RxT0hyWlkyNExqY250LVZkWXNGaEljWE9sbU9aekRQeGxwaUk2MEgzWEt4VkJKTFZZTE56MWlxWlRzRHNmaFpGcnBSbXZjcDF3QmlydHdVR3RTRUxaSHhF?oc=5",
+    "source": "Bloomberg.com",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:46.120611+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2e13b841115ebaf51b177929",
+    "title": "AMD details Ryzen AI 400 desktop with up to 8 cores, Radeon 860M graphics — APUs won’t be available as boxed units, only in OEM systems - tomshardware.com",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOeFNsM1NVMDdJM2d6R2h2WDVvTU5mTEt0SXByNk5ON0UtdFpLbkdVR3kyc3gtUjcyUFM3Mno5YnJOQ0diaGY0NXpnNVBiX0oyTW50Z0V3SWtVS19vd2MtR2ZGNnk0a0JUVlFUTDFWcERYODItT1lDOUpJNWRuTktzV3BIVkdCd001cVpBZzhRdEFKVjRMSWZOMXVnZU9lOUd2dkhWUEQxckdpTWgwMExVeU0yd2JlbllLd3ZOQVdQUTdfaWF3LWtpYndhM2JJT1BGb2RiYXBfOUtsZE1nV2wzb2RFc0V2Z1RkZ2JMZEIxMlN5V1NIZmdFQld0MmRSN0hCYTVIN212RWktQQ?oc=5",
+    "source": "tomshardware.com",
+    "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:41.759107+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f8f78ae6c06e812c2475a627",
+    "title": "Qualcomm's fastest Snapdragon PC chip apparently crushes Intel's best - windowscentral.com",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWDk3YjRxOFhjNkphMUYxYVVubmlrak9uVXZjVmtuMTl6aDI4Z3VfckYzMnVibXpGdjFzLWRrUlpwNmJFQkZxb3Z4NXlJeVB2VnI0RGZpWGdQNEZwc2JkWVctYTg2cTRSTzA1WHVEYS1mQ1k3NU95cFVNZk9ETmZjckphal8zOEJVdFZjcFpIRWdqVElLdk8yaWlDeHh3RFNfa0J6V1dRT2RRNHFaenZRT0JzNzVHVWRreTYzNEU0cXpzZ3BEQ25Ud0NNN1lhekd6anZ3ZjlCM0pLNlpaX19R?oc=5",
+    "source": "windowscentral.com",
+    "published": "Sun, 08 Mar 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:40.883666+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ea9b5a653e270c3049fca04",
+    "title": "I spent a month with a Snapdragon X2 laptop — My first full-time experience went way better than I ever imagined - windowscentral.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSGJfLVQwRUpScHFoUG9RVmpzQy0zc2lpVmVRVW5kMUZhVGswbGRYNVhCQWpjakxXTTI1OVpNR01tY1hYWkNvLUc1dHp4UXpOVHIxZ3M2MlVmNTVIRmFwVVNCYmk2dzExWHVYZDE3SG90RnFiNFB5RXJDdkhKbHhfNXRSVl9kMDFwU2ln?oc=5",
+    "source": "windowscentral.com",
+    "published": "Sat, 16 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T02:10:40.883455+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5455e47d8d3646c04a10a476",
+    "title": "Vivo X500 Pro Max Appears on Geekbench, Dimensity 9600 Pro is Said to Have Two Cores up to 4.55 GHz - voi.id",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03TkxWOU9qckxWRml4N29uQkRJNGJPSTg4cTN5Mmp5bUJCYkRqdXdkZ2owT0doc3ZsMnZNRXBTeHJZbjRhbzVSRHZKVdIBQkFVX3lxTFBPNDhZRGRHQjBkXzVnUUFWbjdBSGtsRzhJMEEtSjJnZVRUWWhEZWk3QU9nbFlrMEJGLW8xLU80WndzQQ?oc=5",
+    "source": "voi.id",
+    "published": "Tue, 25 Aug 2026 01:07:42 GMT",
+    "discovered_at": "2026-09-05T02:10:38.988611+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "66562494444566b17ae97363",
     "title": "Global Smartphone SoC Shipments Fall 15% YoY in H1 2026 Amid Rising Memory Costs - counterpointresearch.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmJoS0lmWTlqdzFoSFU0SlJmYnZJMkx2R1Fnb3ozd2ZWOGh4dHczZjZKU3V4T0FBaWtEV3VZWGdqbkxFZEZtNHNVOEJVT0V6d0RxbkgzYmFvcU1fanJLTHN5dWh3R0dKd2l1MncyRFFZZTdDNTE2aHk1ZlVpMkxxb1dmTmpHcFBKMkEzaEtlM0xqbWd4d21QMWoxVlNlQ3otWVY4ODJGTXk?oc=5",
@@ -800,7 +921,7 @@
     "discovered_at": "2026-09-05T01:43:02.116080+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "f08960f75e939f56ec211e0b"
   },
   {
     "id": "f7eeb236185a7a5c8820fb86",
@@ -822,7 +943,7 @@
     "discovered_at": "2026-09-05T01:43:00.871231+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "cc0443987d3a0f215fd73599"
   },
   {
     "id": "a282c20ed2372e7a33d15438",
@@ -844,7 +965,7 @@
     "discovered_at": "2026-09-05T01:42:56.869275+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "ee3b77d96b60ee689473799c"
   },
   {
     "id": "60a2fa318a53c4ac99488cf7",
@@ -1163,7 +1284,7 @@
     "discovered_at": "2026-09-05T01:39:42.305864+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "8694cb37e69f5b0af604e535"
   },
   {
     "id": "c8b2d60fad60e96fe6310b7b",
@@ -1185,7 +1306,7 @@
     "discovered_at": "2026-09-05T01:39:41.665374+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "a18370a8600ec8034c4b0b60"
   },
   {
     "id": "b85c23dfee62e7f52d0ef18e",
@@ -1207,7 +1328,7 @@
     "discovered_at": "2026-09-05T01:39:39.243585+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "aa4e8e0fb18ea2c8768a3ada"
+    "duplicate_of": ""
   },
   {
     "id": "c050a6c2387822624563c77a",
@@ -1218,7 +1339,7 @@
     "discovered_at": "2026-09-05T01:39:38.300720+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "9800235cbedc66043dc68801"
   },
   {
     "id": "716f08d807435c70d012dc02",
@@ -1240,7 +1361,7 @@
     "discovered_at": "2026-09-05T01:39:38.004132+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "9bfdb7a0956b3aa4305c8753"
   },
   {
     "id": "88b1fb2424a60248aa2df8b5",
@@ -1339,7 +1460,7 @@
     "discovered_at": "2026-09-05T01:39:35.638707+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "5455e47d8d3646c04a10a476"
   },
   {
     "id": "55887eb3d2e266d68ab5b446",
@@ -4221,7 +4342,7 @@
     "discovered_at": "2026-09-04T19:47:15.009223+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "15dbdcff00fd5716518f44f0"
   },
   {
     "id": "48cedde2aef9588aac3cf6a8",
@@ -6663,7 +6784,7 @@
     "discovered_at": "2026-09-04T18:18:34.493492+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "c050a6c2387822624563c77a"
+    "duplicate_of": ""
   },
   {
     "id": "41dab17cd5ff8220dcd3b05e",
@@ -6707,7 +6828,7 @@
     "discovered_at": "2026-09-04T18:18:34.103651+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "f9cec21813cdee5b8e9866d1"
+    "duplicate_of": ""
   },
   {
     "id": "fcd92ee49d3d64ec21114168",
@@ -8368,7 +8489,7 @@
     "discovered_at": "2026-09-04T09:45:32.823080+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "70954c8b674fdc6105216155"
+    "duplicate_of": ""
   },
   {
     "id": "d0e102d4ffccfe48c4d17c16",
@@ -8467,7 +8588,7 @@
     "discovered_at": "2026-09-04T09:45:31.878476+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "926072f265948ec94588a586"
+    "duplicate_of": ""
   },
   {
     "id": "91d0607a8a2a598447f9c8f9",
@@ -8951,7 +9072,7 @@
     "discovered_at": "2026-09-04T09:26:52.672776+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "21fdeda3b8d5675368621eb3"
+    "duplicate_of": ""
   },
   {
     "id": "917b9dc466134540f23d47dd",
@@ -10458,7 +10579,7 @@
     "discovered_at": "2026-09-04T09:26:43.970293+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "30bfe2c550be4f552d041a80"
+    "duplicate_of": ""
   },
   {
     "id": "5eef29d1491f0da801d1f1fd",

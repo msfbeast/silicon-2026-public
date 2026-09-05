@@ -6,3 +6,4 @@
 .die-visual.photo.unscaled{border-style:dashed}
 .inspector-tabs{display:grid;grid-template-columns:1fr 1fr;border:1px solid var(--line);margin:0 0 1.25rem}.inspector-tabs button{border:0;background:transparent;color:var(--muted);padding:.55rem;cursor:pointer;font:10px ui-monospace,monospace;text-transform:uppercase;letter-spacing:.08em}.inspector-tabs button[aria-pressed="true"]{background:#292c25;color:var(--ink)}.photo-fact{color:var(--brass);font-weight:600}
 .die-visual.no-photo{display:grid;place-items:center;background:#20221d}.die-visual.no-photo>span:first-child{color:var(--faint);font:10px ui-monospace,monospace;letter-spacing:.12em}
+.segmented button:disabled{cursor:not-allowed;opacity:.38;background:transparent;color:var(--muted)}
