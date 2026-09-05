@@ -1,5 +1,137 @@
 [
   {
+    "id": "40ef47a74c6f3c932037fcdc",
+    "title": "Ventana Introduces Veyron V2 -- World's Highest Performance Data Center-Class RISC-V Processor and Platform - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUlNTWVdvZ1VfLTJpTU5WUW5lZ3ZLWnRpaWtyOW1lRzdNRnhWUS04YjVIdG45RWIycnZhT3REUXdlb2ZJUTVsNm9kZDVxcVkwYTlSZ0t4ZXRjQU5kRlh2Q3NiMUk3Qm9KOHlQQmpZdjRYbkd3eF9JSjlkb1RxWHNjN05oc2VNZDJLMFN6SWtnQURydHFheE1rOHJJVVlzRjVmQ0dIZDhSZ2NVZ09la1h5QjNfUUVpd1dBcXZNY2hOYzRhSFNrQzJMX1lRSDFVMWVOOTJFbktQTWZjZWRsQmhkVnRiYnduMVVreXpsVURnQngwZw?oc=5",
+    "source": "PR Newswire",
+    "published": "Tue, 07 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:36.298502+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c842522818fc6fe45b08ee60",
+    "title": "CES 2022: Intel Achieves Major Milestones Across Automotive, PCs and Graphics - intc.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTEVnYlBCeGFsTnhJMzBhMW1KVWNwaEZBTm1IN2F6cDRHS1BDT1lEUmhKTmU1bEZ1SDk2a1oyeU9mWm5xZktnYndna0dzR28zX1h4b3ZubjcxcWxzemdtdHM0am9mTXdBY2VBaEhoUUc4cF9nMm9pYTlSYVNvSUtrOG16eWUyUThWR0pTY294bEp0M0RyaVhTRGxHdC1nMzB5dFRJblNoY0lYcEU?oc=5",
+    "source": "intc.com",
+    "published": "Tue, 04 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:34.995639+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b9acda28f47ccc90c7f68555",
+    "title": "Intel Mobileye EyeQ Ultra RISC-V processor targets Level 4 autonomous driving - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPelBMM0I3akZDb3hYelN6Y2FvRGF2bW5pQ1dwRHJGWnFMR3dBeElDdVE4dWdvVXF6QllXMUpvSDZtUWpNZ1lSNzN2RGM3WWxYcnp3akhWRWkyTFRUelBVMXNiSFBRR1pvVlQ0ZXBVbENQcDRnSV9peE1oc21FMEtGUFNHT2Jyc0NWOE1zS2RWQjV5SlhOa2plNUZnX0RYeXoyelJaWTJoc2tBNV9wX19xWFZHTmhOR2xGTVHSAcIBQVVfeXFMT1FULVlxYVZmYVRWU0ptUUtCalcwOHRVU19JdlB2TGo2M3M5RmtZdnNoR3k1Q214d0JiS0pwcHAxaTdoTFRLRGZYRElEa1hyazU5RzcyeHBkZG9HR2FlSmU5X05QRXoydk1JSXViUklDbDBCYklLRjIwa2VGaFhvOFNLYkdGb2hydW5BdWlxSmQ2VmRsUi00cXo0VHloenBXRHQ1U1hmZ1M2RnljRDJjcEkxVzlaemxrd1l4VU5BUTVPRFE?oc=5",
+    "source": "CNX Software",
+    "published": "Wed, 05 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:34.995605+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9f8824fa9f4a85b5bf7e0c8d",
+    "title": "CES: Mobileye’s 5nm SoC for autonomous driving - electronicsweekly.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNTd3UWo0eDlkMjdTd0lVdUdBeUNJemFrZERtN0RGZDVxT3FobFBUbFJMVjFSUzFRdkZHdXAzR2VFSWUwN3ZjTmJwN1RHQVJsMndlSXlIVE1aVlkyRzhyMHUwVi1jbjQ4bGpLSktQSHVjSWhlWGhIZFJwaFd5UmZObF9paTF5TVBhbXh2cElMcWJvYmQ1S3FMRDhMWGtqVzBuRWRZOWh3OHlrMC1hRkl5Q0hEcEFnTUpTUHhOWA?oc=5",
+    "source": "electronicsweekly.com",
+    "published": "Wed, 05 Jan 2022 08:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:34.995482+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dcbdd22e76991fba76945356",
+    "title": "Nvidia Pitches Arm-Based Vera CPUs to Chinese Clients, Targets August Shipments - MLQ.ai",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcThFb0dYNDZWT0tFTV9rUl9PeVFobEZyWjRPYmdHWVdPVDFuamF4WHFUa2cydjJkeFRmeWFvTkgxZ09JSmUxRFJWWDhtZlRlNlZwcFNtRlhZQ0JqUHRpWDluS3pIWGhYMkZPZC1sSGpCV1NDTUphXzZaWm5XckxPajlPaHRfNlBnRUhWb3g1bUpzUGsyNk1Dcm4tdzFxOWNF?oc=5",
+    "source": "MLQ.ai",
+    "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:34.403814+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cd109624c4b9f68b38ba8bb6",
+    "title": "AWS & NVIDIA to deploy 2 million GPUs as AI infrastructure push accelerates - Indian Television Dot Com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVo0RXBpNzBFUmY1YURYNEQ4YW93RzNxbEJIaDd3Y1dzSjR2U25OcW95bzdIeXo5bDFMR2NZWDV0WkhLQ2hPQVlyandDcVozQ0VnSmUzcmtmTWNzYmZVLWpuM2RqbmlaSEt1bFdaNm44MFJiazRWelIwc1pQVV96eFRsMzB2QjlVS0xpR2QxUTN5T2s5WGc4bkxLWGNMeENncVp4bjJEekFxTGM?oc=5",
+    "source": "Indian Television Dot Com",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:29.700324+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "60291280683f6343a0d712c9",
+    "title": "AI chip race shifts to memory, boosting Samsung, SK hynix - theinvestor.co.kr",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTmNjdUhyWEhmb3NDVGgzYjJEMFg2REtNZ3RvRWNwR1Vmam1OczlGRTRTejdkYmtaZC1JRGN3MVlILVJfRHh2TXE2dFJIT0hhNXc2bHV4Rkg5dw?oc=5",
+    "source": "theinvestor.co.kr",
+    "published": "Thu, 05 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:29.285076+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "17ae1c72727b371425a630dc",
+    "title": "In an unusual weekend announcement, US tells companies to stop passage of Nvidia's Blackwell AI chips to - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPc2ZJMmx1QnhBSm1tOTBaTmYybjVXU3NiRFp5anFvZzgzcHhRM081RlN1emFrc3VNRlk2RjZZOFRqcjRWUnFQWHhyZWJWcVJ4WmY5ejYtUHo1UFV3dHgwcUVtVDVxeVo2RHVvYkpIQy03RjNoN0YzaWtsQWRSVGdGRDB5NGFaZ3BXWXQ2TTBlMG0yZ0F4UnkwQTJOUTRuWVBpT3RjdzRVdTgzblJFTmtxeGx3VjVZU0F0YnlrZVMtUnh5aEhreVBIUzlJMHJ0enk1cnFJbnk1cWdsX3k4VjdPWnRDYnplQTZadnJtSWFTUzE2azh0WlhtVGk5UFRnNDF0YnpRYjZXbE5EU1lEc1d6UHZYa1FTOGp6c3k2X2tJMjd0Y00wYmRR0gGsAkFVX3lxTE5OaTJWZ3lpekkxYzJvaHFlT1FUT0tNSExIeW9ib1FPSUx6NTZTbjBoSlR4ZXZNckx0a0ptaDdrTWJBSDY1NENCa3Z5S0JmZndqOWlMZDJIcDFsUll3VkZxYTFJWURIMURWWDJSeWhscGhaNFhtOFo3dDVqcFo3c19WTlQ1WU0tTk5aTkdHRmthNEpBYms5NV9ZUGhuZlMxQ0l1eVd2SXVwZzB6NkJ6dkZDTFNMUFB0MmVtNVJPR2ZzT2JUWW5vencwNTBBdmpxZXVnUDdlN1BFTEFFSjJtLUFfRUR3ZlZaY1llT2FxMl90UTNzR2hKWHFZM1hKZjJuZEdYeUcwVndpdHBlMHZHQVNybXhjUE9pZFBjTGY0OERqYURPb2tZLWppOVVSNg?oc=5",
+    "source": "The Times of India",
+    "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:27.941304+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f23a6e89ab8e585d653f0560",
+    "title": "GPU price tracking 2026 — Lowest price on every graphics card from Nvidia, AMD, and Intel today - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTEV0WktCaVlybTNSQk83V2RiQ05UUG4ySzNuWVRHSE5hYTBTMUVMaUFUTXJ3dDkxWUVFYXJZeWQ1bTZVS0ZDS1NXTF9MTzM0andZT0xfcElyTFpob3laRDV6QkJvU3RILXR6WG9hMUswQUd2dlpjUmJycHJ1QXM?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 03 Sep 2026 13:14:09 GMT",
+    "discovered_at": "2026-09-05T20:28:27.339294+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a609445c29dc0b328b84d8bc",
+    "title": "NVIDIA and Microsoft Reinvent Windows PCs for the Age of Personal AI - NVIDIA Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ2syWGhmZU10YXdaWk9vWlpoaWlsOXp3SGg3TXZFdEFyQm9waHZfOUFIOVAtenNFM1RJTk84cXFEOU1ZNzNMZ0VVNm5vX1pPSE0zMlU4bTZRcTNtNmNTZERHR1hCbVNFM2tFNC01Z2ZTeF9qVmppa2p0clNWRUV4b1ZWck9wMUE?oc=5",
+    "source": "NVIDIA Newsroom",
+    "published": "Sun, 31 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:24.299720+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "10a5aebde4924e2cab574fe8",
+    "title": "MediaTek Dimensity 9600 Pro Leak Shows 25% Lead Over Rivals, But Thermal Throttling Looms - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPS0pjOFdwU0FiWEdDWU4tWHZqZUFMVWRvNk4zdEtMbEdvdlJ3VWM3ZmRzcDRxV3pJZHRaWXVPbmh1M2sxczN1MllzV3JQZDVyNkJtSWo4cm96bHJvQnY3VldwVzRZdWZXQnVSTnRyWURpcmgzcGV3aDJhSnRRc1BCOFBpcjI0UTI1VXdhaUlaakVDX1pkdnF6OU5SbTNFSWRWRDNn?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Sat, 18 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T20:28:21.290448+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c090065d5b3d02c8b179853f",
+    "title": "Snapdragon 8 Elite Gen 6 Pro Live Chipset Die Leak Shows A Massive SoC Thanks To The New Heatsink Implementation That’s Meant To Cool The DRAM Effectively - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX3R3V2VwRnBFNEN6Z0NZY1QtUUpwdDNDaXl4cGEteVpwTHlKQU56ai1FUG1qUHlsUV9lTXZyMmJIXzZVYnE5cU96REZTM0RTNXpiLVRSTEQzVmd6Q0ppVFFxYmM4VWFDVktqanFDTk5Ba1lRYk9NbVVfbUJldUFiQ25YVWx0aW9l0gGOAUFVX3lxTE84YXZ2Q0F1S2VreUdOMFZBVTZCNmt3bmo0anAtcGJNdTR6RzV6N21CSVk0aGRQNWV4SDVhZkE3c2RHQ0h5ZVJHMlpIUklEVDEtSThRaExoTTRwNVBwZHNLajJrdFRtc3MyTkJqeEJ5X3hyTHpGSU1yWDVucGkxN3RkRkFuZGtqZjU4alMzamc?oc=5",
+    "source": "Wccftech",
+    "published": "Sat, 05 Sep 2026 19:47:54 GMT",
+    "discovered_at": "2026-09-05T20:28:20.977546+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "aafe8554dee7defd2b36fb25",
     "title": "CPUs, GPUs, and accelerators: The chips powering AI - About Amazon",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlFaMlhRTVlfWU5EUkFnSmFGWkF5Z0YtS1lkOEhSTTNiSTJZbEJIRW9VX0M5NVhUQzdZVklCX0ZuUndOZ2lNR2hKaXA4ZnNYSFhmRENYVHZDZHdHV216UkQ5ZHhzWG9xQTJqdDNkY3M1cTRuUTNWZk5sOEhzTkt4WHpKWQ?oc=5",
@@ -195,7 +327,7 @@
     "discovered_at": "2026-09-05T15:20:02.583394+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "08a99e9de1566d6fdd197d52"
   },
   {
     "id": "3932870ff01c396bc357f881",
@@ -9919,7 +10051,7 @@
     "discovered_at": "2026-09-04T09:45:30.278609+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "a690deb74f4aecdd1bd6a43a"
+    "duplicate_of": ""
   },
   {
     "id": "d71774ad8438ad723d8d73db",
