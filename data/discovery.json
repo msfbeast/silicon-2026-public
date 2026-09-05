@@ -1,5 +1,38 @@
 [
   {
+    "id": "17bd8e472776c0f32d1566a2",
+    "title": "Rivian Replaces Nvidia with Own AI Chip - EE Times",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JZ09VTzc2LWRacXRvWnpqYTYybHlLOFNkUHFDQ095Y3pWT2NoRFlYdHNpenoyWEhKZU13WjN1cW1IUDZDRkZGN0dyYklWTGtKc0lBX2ZHRk1yd2tZazFJWkZ0N2gxeXlSVVFVZ0x1R280UQ?oc=5",
+    "source": "EE Times",
+    "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-05T02:21:46.292325+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7e00b7f6d5d71c9f07722d5c",
+    "title": "Automotive Chip Market Size, Share & Growth Report | MRFR - Market Research Future",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhZlVHWEFRRndHY3VZWTNKRTEtNlBUSUhGdVZMZmtSTEhPZHJSOG90XzBmRVo2VkU3ZURKSXJiTjJ0ZzNfNkdyTVFXZTg3cVhicjVhaFZ5a19iRENtRkxmRzk1QTkwSXFldkZRbTYyblNHa3lwRDZTWmhqbV8?oc=5",
+    "source": "Market Research Future",
+    "published": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-05T02:21:46.292263+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ae3b5b903a685b4790a98d14",
+    "title": "NVIDIA (NVDA) at $205: Why Jensen Huang’s $1 Trillion Blackwell-Rubin Vision Matters More Than the Pullback - TradingKey",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQ0l0Z1U0RWwtZmFTdVlhZngtdU5OejFYU05Kd0lCejVFWlpWN2hrWElyUjFEWU1MdVhWVGNXUnFBU3VRTE9fUFNpSm5nVURIczhsa3dmWV8tazdtcnhGQ29jM01sMU9UclkzbkV1U09uQVhLeUU4UVd5bHpzZXJRYW02S3F3ODIzSzRCU1FrNUJsTHdBNC1sdW12aUZ1VVQwakwzdF83dVp3cko4MEhsREphaHNGTEhHbGNMSHZKa0g?oc=5",
+    "source": "TradingKey",
+    "published": "Fri, 04 Sep 2026 12:05:53 GMT",
+    "discovered_at": "2026-09-05T02:21:37.732091+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "d6d9a8b82eed8cb7bee384ea",
     "title": "Poco F9 Ultra: Snapdragon 8 Elite Gen 5 flagship with 6.9″ 185Hz display, 200MP camera - Newswav",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmh3OHNEc2FPdUtDZU5pVkdDMVpJN0kyZGIxcVFZMjJ0UW9lMGw5cUI0LTB3TDRlaVNjOFFsRGg0SHY1UjU5Q1lQQXFHY2Z2R01fZXlheVMwUlZxZE5BRW1YOGoxakNZNE13Nm5WTEducVlTZHRQR0R6VUdvY205SWtaM1o2eUtETWlXWC00M0VVRXZuNXdyNnVDdGh3WjZhZHdMX1JMeTdpOEdHaks4clV2X3g5M2M?oc=5",
@@ -118,7 +151,7 @@
     "discovered_at": "2026-09-05T02:10:46.120611+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "81cdce23842f1056cb573df6"
   },
   {
     "id": "2e13b841115ebaf51b177929",
@@ -162,7 +195,7 @@
     "discovered_at": "2026-09-05T02:10:38.988611+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": ""
+    "duplicate_of": "af2796fc6474bd911e6b70a1"
   },
   {
     "id": "66562494444566b17ae97363",
@@ -1504,7 +1537,7 @@
     "discovered_at": "2026-09-05T01:39:35.638707+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "5455e47d8d3646c04a10a476"
+    "duplicate_of": ""
   },
   {
     "id": "55887eb3d2e266d68ab5b446",
@@ -4386,7 +4419,7 @@
     "discovered_at": "2026-09-04T19:47:15.009223+00:00",
     "status": "Unreviewed discovery",
     "source_tier": "E",
-    "duplicate_of": "15dbdcff00fd5716518f44f0"
+    "duplicate_of": ""
   },
   {
     "id": "48cedde2aef9588aac3cf6a8",
