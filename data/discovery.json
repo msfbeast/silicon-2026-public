@@ -1,5 +1,115 @@
 [
   {
+    "id": "82909d56754999be905e9da4",
+    "title": "How Nvidia's $20 billion Groq 3 LPU deal reshapes the Nvidia Vera Rubin Platform — Samsung 4nm process serves as bedrock for SRAM-based AI accelerator chip - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXFkY0lBSnFmSUtvZzNXS21oUHpPQmpHaDdxVTVlN2w0eHlkeldDUVE3SndkcW84cmVfVUhhdFZ2VjRrSjZndmxTQ2hHY2JDT2tRMVo0bkZscHg3aDViQ2ZIczhFOGhmZ2FtanNHQmtCSnBpdWVEVW9hVndHNk1EVnRUb2lEUHQtMFhkNUhaYmZUelp6LTdKLUROc3R1QjNVb2NMU0JXRkpKeEpBck9J?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 19 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T16:30:59.968119+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "de1cf96bdbe5054a8fc90cc9",
+    "title": "AMD: Our Next Server Chips Will Trounce Nvidia's Vera - me.pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDNlbEpfcG9MaWgwVWlGa0Z4dDVvT3RWUkdDMEU0ODBwUUxSeV9GNWdyeWtXbVYzeTg2MmlWSUtsT1VXWExQcmhyQnNtbHprNFN5dWpKRWxiSjZDNGxSZW9TbnNubldTUzF1MjlDMThib2pRMDVmOFlXcUV1dmFOeExSaF9XZzdLQjNzaE10d1NwS1N4aDdz?oc=5",
+    "source": "me.pcmag.com",
+    "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T16:30:56.386552+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ac4a165517331fae8516346",
+    "title": "Intel Foundry Gathers Customers and Partners, Outlines Priorities - Intel",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzg4eFRqV2M0VkdNLWFDNm1PbllraGVMdGtzRjJORERLM1FHMV8zZy12akxCMVdXR2xIX2Vpa20tSHVCdTdHRlZ4MWZMQ3JiOWZlSDVOekg0MC1tajZ1UTBWXy0wck1NLWpHa01Xa0ZIdEJZdnZSREd2aGkybkczckhnQVhKcWRXNnJaY202VzNPRlgyemc4TlpBbW93VExFbEhsaUJkQ3dyQXZZVkVMSzByV3QyWF9SSWRVY0NkODFmNGs3M1dLaQ?oc=5",
+    "source": "Intel",
+    "published": "Tue, 29 Apr 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-10T16:30:55.955221+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8420eba29a08db55ca0a6afc",
+    "title": "Huawei Prepares 160,000 Ascend 950DT Accelerators for DeepSeek Data Center - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZmpucThHWHM4bG11YWI1NGo3SWdzT1RXX2F4dlRsOWtqRm1MNXJySkstMElJMW1yQ3dxNDJrZUlqODI0cmMyZjRXZ0ZpWW54bFR5dkRqa3F2c3NhWm9SVDlNc0dSbEFnclRQVVk1YWUxbWtpN1otUWJjZExuMHBrTWFxaEhMVnM0WWlPYW9rOGVSNS1WMkN2NDIxLV9tdmRhdFBSX2k4aUo4SUtXYUHSAbMBQVVfeXFMUDUxMkRMc01hWkhmVFhSY1VvUWdBTFU5Q3dJV1I4aS1PYkdBWHU5bWhPdDhYNWlxQWozTjVYV1otckd0QWhZNTJldVVzUjJPR1F1ZXl0OU5jYnlEckNXc01jd2VUZ1k1X0ZnNkZuQVZkYV9pMmtwV1JEMXkzbmU3cW0wcTRPZkFjeGRkV2RMY2JuU2VwaUk4T1dOLTVTMVVCazJ3N3ZnUUhSUXByUGs2bk8tU1U?oc=5",
+    "source": "TechPowerUp",
+    "published": "Sun, 06 Sep 2026 18:53:13 GMT",
+    "discovered_at": "2026-09-10T16:30:54.835415+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "be76d382aa55cb4627e96f23",
+    "title": "In 2021, only Google held custom chips, power, and AI models. Five of six AI players now do. - voronoiapp.com",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPY3JvODdqdTZCV2ZOa3dDd0NhY05haV9aYWJyUUR4aVRTRGN4Q1RSZDBFX0dCRHFMaHhlM29uMjY3aU05czJKVG1rbzFVN3Y0blpaYWFyLXBpVzNsNUk0cVhoMmhRYkdwU2tGNnV5THNBNWZWUWw3MG9Hb09WRnRJX251UEtYVTQzb3kyRnF1TGZqU3VDV2VYRnBCdmY3UTVRRlduX0pOOVB4dDA1eFVPT3Q1cFRSdV9tVF9LU2JtRW1lSkhKY25IaFJ3?oc=5",
+    "source": "voronoiapp.com",
+    "published": "Fri, 04 Sep 2026 02:32:00 GMT",
+    "discovered_at": "2026-09-10T16:30:51.631073+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ad3a64ea1cd9beb9a526c992",
+    "title": "ASUS has unveiled its first computers based on NVIDIA RTX Spark: the ProArt P16 and P14 laptops and the GR1X - mezha.ua",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSzdmck9UN042SHY4cTdxTDlyankxQWFkemtyQTJWaE94VGRRU20zNkxjMzhELUJNRHBNMFdFQzNKV3A3dWhlREhtUDNVa2VnWnhBR0tlbmpWM1F5b2xYWDZrWlJUZmYyZXpEY25TWm9wSWJVSXhRQnUybHhsUVFlTTBYemFrdkJaX1RsbkxTdFXSAZABQVVfeXFMT0s3ZnJPVDdONkh2OHE3cUw5cmp5MUFhZHprckEyVmhPeFRkUVNtMzZMYzM4RC1CTURwTTBXRUMzSldwN3VoZURIbVAzVWtlZ1p4QUdLZW5qVjNReW9sWFg2a1pSVGZmMmV6RGNuU1pvcEliVUl4UUJ1Mmx4bFFRZU0wWHpha3ZCWl9UbG5MU3RV?oc=5",
+    "source": "mezha.ua",
+    "published": "Wed, 09 Sep 2026 12:00:00 GMT",
+    "discovered_at": "2026-09-10T16:30:45.638649+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "448f3864bc581b9a83872ded",
+    "title": "Forget Foldables: Apple's 2nm M6 and Quad-Die Monster Just Reset the AI Race - me.pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZFphSkxEZFZnSDdtZGFsa1VrcWRsZVNVUUloUDVfbjltOU9QV3FwYVBMeWEwZS1ZekpnMExyeFJzQzh3SEZ5ZE9GdHRkX0dGTGl4a0FURzJMel9DQ2g1OTZzWEdFWHYwWERfU1p6VXZVbWJKUXdBSy14OVVCdlFSSWpCUHpyMnREWERmUEg3ZTc5UE00VFMxSVdhOHpQVGtzSFItRlg0dHl3N0lCRkRkQzBnQWMzQQ?oc=5",
+    "source": "me.pcmag.com",
+    "published": "Thu, 10 Sep 2026 05:05:23 GMT",
+    "discovered_at": "2026-09-10T16:30:43.538787+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f7d871d08fd694110799951a",
+    "title": "A20 Pro Is The iPhone’s First 2nm SoC, New GPU Offers 40% Faster Graphics & 2x FP8 Performance, 20% Faster CPU, Combining Neural Engine Delivers 50% Bandwidth Increase - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtZMVFkNzFxYVVoWTIySFBCTzZhaDJTZlpmeGxTWDRwNzZqNTQ0ajZzTV9sb3ZpLW9OVGRuSmhKVWE2NUJodWpSTG5ielBCakZPOWM0RWkxSGZCNEp4NDUtbnNQMUxNX3ZmaDIxUEFjZEMyOS1zcTR5aDlWZFF3czBnWnDSAYoBQVVfeXFMTkFFYWh0eHhYTlR5S2JYbW9oYTVJLUhXVXZIR1YxRFVrRy1nbnJhSzBKelZCejZnLTBNeU1oVWdBR0hSMUxBb1c0RWxOYW9HMS1qS0tnRUJ6UF80dGdzdng5eWlKVlhmRnFvcWpNc2NlcVZBV1N0aklOT2pYTlp4SUFVX1dSSlUwY3Bn?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 09 Sep 2026 19:39:18 GMT",
+    "discovered_at": "2026-09-10T16:30:42.978177+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a82295392d49f34f9fec9300",
+    "title": "A20 Pro vs A19 Pro: What will actually change? - WION",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkgydGJfaW0zMFFLWFAwRGgzZjAzUXZRWkdSaHFaNElUQ2hHS0JkN0hNR29xVTc5UHp2bzlYQzM4ZUljeGRzLVpEWEo2YzZNZnVuUVhNMjMyWHRDVzF3WDJtbDRhYU9SQWVaWE1OUWtwQnpSV3lTM3lXOUxkYWtYTGJfRnBvemdXdjE2eFd5XzR5UEE?oc=5",
+    "source": "WION",
+    "published": "Tue, 08 Sep 2026 11:47:16 GMT",
+    "discovered_at": "2026-09-10T16:30:42.978076+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "61fee66bfd5fa9badc2e104e",
+    "title": "Qualcomm's next Snapdragon flagship chip wants your AI agents to stay on-device - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmNVeFlCYjVJdVVQTk1yejd2OHYtUUhXTW1RWUNJS25pVk1saDJYWTJyV3FvcHc4MEt3QTgwWVpFeTR4NkplQ1NxZDdmTkdiLUxEVHBxRUdEMEVtZklQODJ4NHZZckxzWGNaWDdFbVpMOHlROEpZOFRBYks0MFUydHBqeDhNdjhmNkk3MHl4TTZ4YlQt?oc=5",
+    "source": "Android Authority",
+    "published": "Thu, 10 Sep 2026 13:00:00 GMT",
+    "discovered_at": "2026-09-10T16:30:41.836032+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "8748efe59049165e806152fa",
     "title": "AWS Brings the Trainium3 Chip to Market With New EC2 UltraServers - hpcwire.com",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQME9rVTM4OGxQaDJDNTVIa190WjVRaVE4QlNnRlJ6R1htM2tuWUV5M05VNGRLOGJvQ2V1SE5QVUV1eXdYMElVUUlmZTRaeWRBRjVHWEcxaU5hbS1lZHhqMEVKR0U4OFRQWUhTa01KMEJERjJfQ0w2RTFnRm9wOHhaTHBnZ1dzSUc5TWJqclNJUFZXdGt5YkVDa1dYNHltMEdmdkNZ?oc=5",
