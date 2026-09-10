@@ -1,5 +1,137 @@
 [
   {
+    "id": "95a33970d078a14cce5d1372",
+    "title": "SiFive Performance P870 and the SiFive Intelligence X390 - Jon Peddie Research",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXZqYlVIOWtzS1RJUTJUenAwYkxJSV92THVZLUhPdW1Iel9UYUp2YUt0NE1iNlZnUW1qQWo5MWo4VERkYmdvdWtScEw5a2gwSE5BR29JTHdCWmpGdmkzMk4tejJfal9naXZrZy1FbmtOcjVPb1ZJVEllaVI3SXNVUEJwUWxYYVdQVDhXX1kxX2xpUQ?oc=5",
+    "source": "Jon Peddie Research",
+    "published": "Fri, 13 Oct 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:39.281207+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3be20feffeb23cfe160d06ad",
+    "title": "Nvidia Pitches Arm-Based Vera CPUs to Chinese Clients, Targets August Shipments - mlq.ai",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcThFb0dYNDZWT0tFTV9rUl9PeVFobEZyWjRPYmdHWVdPVDFuamF4WHFUa2cydjJkeFRmeWFvTkgxZ09JSmUxRFJWWDhtZlRlNlZwcFNtRlhZQ0JqUHRpWDluS3pIWGhYMkZPZC1sSGpCV1NDTUphXzZaWm5XckxPajlPaHRfNlBnRUhWb3g1bUpzUGsyNk1Dcm4tdzFxOWNF?oc=5",
+    "source": "mlq.ai",
+    "published": "Sun, 14 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:37.662522+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "dcbdd22e76991fba76945356"
+  },
+  {
+    "id": "3f9336cb1a4e14d0eae5452d",
+    "title": "Intel Reveals New 288-Core Sierra Forest CPU, Core Ultra Processors at Intel Innovation 2023 - techrepublic.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcnV4OHVpQllid3A0RERkR2JyNXhpUkRpWENjRmZ3WXhzU2w3cGdrMGFfV0hsV0x1YVBkc0dQdmQwZ2F6YlhtaTlOQUNrLXJWcFNwb0ZrVlFaVWp0c3AyeUVnVnNHaFQ3VkMtaFpkUG03RVUtWkVXd3FkZmYtNUV2bzdSZXdTQXRsMk5N?oc=5",
+    "source": "techrepublic.com",
+    "published": "Wed, 20 Sep 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:37.299810+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c7d7eef99f3170fc2571a173",
+    "title": "AMD: Our Next Server Chips Will Trounce Nvidia's Vera - PCMag Middle East",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcDNlbEpfcG9MaWgwVWlGa0Z4dDVvT3RWUkdDMEU0ODBwUUxSeV9GNWdyeWtXbVYzeTg2MmlWSUtsT1VXWExQcmhyQnNtbHprNFN5dWpKRWxiSjZDNGxSZW9TbnNubldTUzF1MjlDMThib2pRMDVmOFlXcUV1dmFOeExSaF9XZzdLQjNzaE10d1NwS1N4aDdz?oc=5",
+    "source": "PCMag Middle East",
+    "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:37.023933+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "607de56448f54b115403cef3",
+    "title": "MacBook Pro M5 vs. M4: The Ultimate Apple Silicon Showdown - pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcHVrVW5uM21nWDVtbWxkTnVQNmdYUUxfUWtGaHZUbmIwblY4bG50cGNDd2NBQkJEMmlQc0NNdnZFbjcyck1JbjNtOGg1NHY4ZGp5OXpFTXd3ZTRiSVpUU1FQR3Z1anJENHBtU2lCQXpUVWFuR2pJRllJWjNHbWNOMEZMbkJIUk5ERWV5VUpKNA?oc=5",
+    "source": "pcmag.com",
+    "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:36.237555+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "424191faf4291313b13ca2f8",
+    "title": "Vivo launches T5e budget segment phone with Unisoc chip - thehindu.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOV3N4ZG9lN25vbm1LLVhxV0gxelNTVGpFSVRXd0F2YmF5bEhkaFNlcmoxQXZlVzNsX1FSdUNKaDROa3VqejhrTDZ3bU9BTnRMZ3FrXzlESlZ2eExnVUhRUmRhcTNkVWR0V3ZEWkpiQWpUd184UlpPNldNRVpQU3dCUW5naFpQNS1peTJCMFB1ZnNQbGd5YTFWSjU4X2w0SE9TRWZ2T0p3NXE5NkRMcUVVbk1odlp0WnJCeEpvLTNmTW9qLW51cjU00gHOAUFVX3lxTE8xQnNtUWNreUdLWXZZaEE5VVBXcjJjZXJrcE5kU1JJd25Dd2dsNlFKRGY4dzJ2bGM4ZnFNdEsybTE0b2o4QVdobXd0N1EtUEpYQ0tLWlVKTTVSQlpLQVVQcEtGOFhmQmtYTUQ5WjJJWnJiYUVUek5UcHlJUVR5ZlFjblNNVFplN1hwYzZYbmVtdG5jbXZFVVhlU1Y0bzF6TU95VUFHWDBvUUJvQ1NWODlmTXRxRGlEa3NGTy1OV1FRcGxwS2ZFbGJMTnprb1dB?oc=5",
+    "source": "thehindu.com",
+    "published": "Mon, 27 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:35.111316+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "67fc7187dc3d6d1c5b93dbb1",
+    "title": "Are You Safe? These Budget Android Phones Could Be Hacked With A Simple Video Call - Ubergizmo",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQczVUUVVFX3FYaHdYaDlkTzg3bzdJSmdDSkpxNFZXVExWTDcxQVNndDdtcmlYbXR2RTFEaVFwUFJIS3VRMUtKNUhobXRPYkxOaFRuTENRY3RxTk5PcUVuQ0U1by1SNk1kblQ0STNCRmF6VHU4WXVDWTJxcnpIemZqYXd6OTlBOGNnc1pnV0g0Y2cydEJfdHFEVUl3aUI3NmNnUHV0OWdEb0VvMml1M3NFREpJUFQ4OFE?oc=5",
+    "source": "Ubergizmo",
+    "published": "Fri, 21 Aug 2026 15:00:59 GMT",
+    "discovered_at": "2026-09-10T04:52:35.111128+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b400297967589012077561d9",
+    "title": "Realme C100x With 120Hz LCD Display, Unisoc T7250 SoC, 8,000mAh Battery Launched In India - etvbharat.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQanZzVWdNY0FKeHBuNDIxenZtczNyVFAtYkhucFFHSjIzV3dzSDNtRmxXZ0VlSFdUUlV0SjRaOTg4UlNBamd2SXE3MVk5MXRTR1pVcDAxNmVCQlJleVY1Tnpsd1VxNW9zeFMwc2dIS2FQRkprWkFPMXRHbTZhNVFYME1iN01Yc3RsaEh0NVYtWmZrUVNWMXMtcmpic0ZyTktlSnBnaDVVZi1RMzM4ZUpyQ1Z5ONIBuAFBVV95cUxQRkQzbWVQWDRkNGRoNzQ1cFR4NFRzX3ZydVU3S2pXVzNpc1k3SVJpcVJTYk9CY2ZDV1VMMS13UHZTT1ZhM29ZUXV6bVRRQW0wNzItaFpTRzlPbHhnRnNVbWRjSmFCd1IzTmFvbjlIVmY0RldiUVZjV3YxVDEzTDlPQVRsYnhRaFlieFpIV2Z5VzlFRFFhcjZmYWdDTnpCSTZPVHoycjhwZ2NtZ0U2RHY2bE5fUmNWTjFB?oc=5",
+    "source": "etvbharat.com",
+    "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:35.111092+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7baf26d23e2f165b3daac334",
+    "title": "Intel Releases Arc GPU Graphics Drivers 101.8974 WHQL - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUlQQmU5RW0xOHBDUXFqSDBMSENyWXJHQUMtbi1ubXBSNUo1WXBlSkpYeFZNU0F3clNCdkVfN0E1NTRwWjdJSFI3ekxQT1JnNElGd1p2X3pxSG03YmlZZ0ZZRi1uVk42aGlnTXhrUHc0LU9leTV6XzN5bFNiWmFjV1Y3WU5BZ0V2bUlNZmZPRmlGUdIBlwFBVV95cUxNU1ZtSFA5dVYyc0dKTHFmd0RLTnR3RzkxNzdCVU5ibl9qbVlxcXBtV3lPelRPazZvcXcwcDh0OF9YVG8wMll0VWdTMGw1bGp6QU9pQ2lkT1JseG5uR2JNYlhDSkJfd2JkUWxtV0JfNk5tRmtOaE4xdV9jeFNxUk56YmpXREczcVVta0tIVUJDd1AzU3N2MHhJ?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:31.068285+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0a031ca6bde909f68d38dac3",
+    "title": "Apple Unveils A20 Pro as First 2nm Smartphone Chip - MacRumors",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ3RPR244ekR6XzVxZEpxbFJGQmVLc0YyWTlqOG9VZTZBclozX2hfSXpkLWN1UmhnVFgwZWNZbjZNUmhEMWNjQ3p4Q2lOSUk2azd3TkRmVUNGTEVmR3ZiVGJDczhmYXlCaDJyeTk5WTZsai1FckdHdWZiSXA5TVFVMWg2TjNKUXZpbXVnem1JX0NDUQ?oc=5",
+    "source": "MacRumors",
+    "published": "Wed, 09 Sep 2026 17:22:46 GMT",
+    "discovered_at": "2026-09-10T04:52:29.378707+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6b11fd6227222a4223f5d0c5",
+    "title": "Galaxy S27’s alleged Exynos 2700 spotted with 4-cluster CPU, Xclipse 970 GPU - sammyfans.com",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOThtUnBoZ3hJbHE3cm45THZ4eXpoaUpmcWpXSmFUX29wVXZnWUJwYVVaYkR1Qk43X3c5eFRjQUZlNlpobVRsNFdHSTJpTmk4NUZqakN6QUYwVnM0eWdleGlaQ1pKc0lRMFFoendBLUJhVDd4NEV4amFjMmw2VDhvVi0yWdIBiAFBVV95cUxNdDRqeVdwOExuMmpmR3paVDJ6SnpfM0pIZWlCMnFwZVYtQ2ZlemdITTZGWTZqalp5MWkwcTlKd0VDMmJUaVFNaVZYcDU1Y3V5Q1Y5QnUtOG9mSl9QMl9qNzJVbldmNEdOQjJQU3VtRUVYcGdGNXg3ZThfb2p3NzFtLTZES3Y5YlZh?oc=5",
+    "source": "sammyfans.com",
+    "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-10T04:52:25.001102+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "99f0bbe4d1fa7b44f9735cbd",
+    "title": "Xiaomi XRing O3 Enters Mass Production as MiMo Goes On-Device and O100/D100 Target 2027 - Pandaily",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdl85Tkl3bXg1eXBKeHVidlVJR2NHcUVpWlg1ak5YMzZuZHA1dzZwUks3WnVZTTBXcndqdWNuRlZTbDNscjRlRFc4YzZRTVN4Yl9JNElNWmdBZV96QjFWZlZEWjYxbmFGUVlRMGdIdFhYcWdzdlEzOGF6Wk5vSWxtYg?oc=5",
+    "source": "Pandaily",
+    "published": "Wed, 09 Sep 2026 15:18:17 GMT",
+    "discovered_at": "2026-09-10T04:52:23.872971+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "05aebf4e2dd67c6cf78c345e",
     "title": "Qualcomm Considers Tenstorrent Acquisition for $10 Billion - igorslab.de",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1hTjRhWTZ2cFhpT21xM05ybEpldjUyNVF1YlNUSVNydmt5T3duRTNPbGZZU1RpNHNRblZGUUxLVXVuSWhHWTFIZzcwSkI?oc=5",
