@@ -1,5 +1,82 @@
 [
   {
+    "id": "d0ad0cbbcaeac20413e8d7b0",
+    "title": "Rivian Replaces Nvidia with Own AI Chip - eetimes.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JZ09VTzc2LWRacXRvWnpqYTYybHlLOFNkUHFDQ095Y3pWT2NoRFlYdHNpenoyWEhKZU13WjN1cW1IUDZDRkZGN0dyYklWTGtKc0lBX2ZHRk1yd2tZazFJWkZ0N2gxeXlSVVFVZ0x1R280UQ?oc=5",
+    "source": "eetimes.com",
+    "published": "Thu, 18 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-11T04:49:13.680217+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "188fb0e7b6bd7eb600454654",
+    "title": "Intel Launches 18A Mass Production — Panther Lake and Nova Lake CPUs Are Coming - en.gamegpu.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUEJtczFOUy1VeUhsSkFweldFTkVlb0MxTlZuV19YcnZZQ1p5akFkVjVHZ2VrZ2tuYjZlMzJiMDhfalJYaFpXWHpqTUtucTZuYTREYzZXYUI5OXBEX28tSjNHRndJbTZrYkpSMDlMZUVyUHprQVNldXRBYmdVOG5oWW4zQ1RZV3NxYzFEWmxnUk8xNzBvX0xnWVE4ckVnU0xaSG5nblZYM0hLMXVZSTNEUU9uVk9ZVkMxZGpsT2dVTmFiT29L?oc=5",
+    "source": "en.gamegpu.com",
+    "published": "Sat, 29 Mar 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-11T04:49:11.947711+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cc4bd8f8aa29d193afc09cab",
+    "title": "Sensors are key to Nvidia tie-up with Uber for 100k robotaxis - fiercesensors.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXczMHJ3bS03bkcxV2taMEpJZ0lBMlE1TWlCTzJycTVkVUhVWElhaHRNRDZHSkszcHE0VFFWbzIya2F1Q3ZxRGtJcXh0WjQ0QUF5VUJpd3pwRDAySXN2RnFVaER3VmduMUllQmJGN2M1TGxLamNQTU5JNW84UW9VTlBub3JRWmhWeXgxbg?oc=5",
+    "source": "fiercesensors.com",
+    "published": "Tue, 28 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-11T04:49:09.052592+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c50fd7ca80973f2762e2d1eb",
+    "title": "NVIDIA (NASDAQ:NVDA) Stock Falls 2.47% to $223.67 on September 10: Oil Surge Hits AI Chipmaker - The Eastern Herald",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Wa21rWHRuYm5XT3NVMEV4TVdmOUx3cGYwV29fMmdaQW5KcFNEOC1fWl82X1Q0cnBrM1BMMzhqUXJqZ19GVnFhX1BOVkIwbmFKTUdLd3NKNEpPT29HbksyYVo1aUI5S1dtSFlyRVk3MTBWbDU3dlJmQw?oc=5",
+    "source": "The Eastern Herald",
+    "published": "Thu, 10 Sep 2026 20:38:05 GMT",
+    "discovered_at": "2026-09-11T04:49:06.128071+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "12ab81df79c9ef58b201e866",
+    "title": "The Apple A20 Pro processor significantly outperformed its rivals in tests - Mezha",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51VzdnZnBYUG53c0pCUXQtQlhIMDN2TmtfMzR6YnBnQ2dLRHIwZ1ZhYVlicWUxQjFNSnJJTUNMR2N2alFHZXNkWmtDVjZCRUktcS15T2xHMlh6UDVGMXRWZndJSTJ5V3NILUpJ?oc=5",
+    "source": "Mezha",
+    "published": "Thu, 10 Sep 2026 14:25:00 GMT",
+    "discovered_at": "2026-09-11T04:48:59.140720+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5cc966754f870f5395dc3c94",
+    "title": "Qualcomm Targets On-Device AI With Its Snapdragon 8 Elite Gen 6 - Android Headlines",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONEVmWmRHX3NuRnc3RVRVRHI0ZDlSd3RfcE9SbDVoNkVCWDhtemFKM2ZNSEdJRnkyVXlKYVN5R1FWdFRlbU9maWxSeHlRcmdrMW40d0FNT3R4MHRLbFAzQ3VZLWxIbjk5QjlxNUg0blhDZWJXdnZvemlacC1IZE1QcEpiSkZFNHk4UGx2WjFOWGlQU1JMUVBvY3p5OHVkYVhLMTRTWDVJdXVMZlo3T0E?oc=5",
+    "source": "Android Headlines",
+    "published": "Thu, 10 Sep 2026 19:37:56 GMT",
+    "discovered_at": "2026-09-11T04:48:59.140536+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1bcfcfeae4b15f6b2c1e1cb0",
+    "title": "Qualcomm outlines the improvements in the Snapdragon 8 Elite Gen 6 Pro's new NPU - GSMArena.com news - gsmarena.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDg1TE1QYnpvOTRUQnlpSUlsR1RxZUJlVWZDTjZjS1ZFQklRVGk0VXZfMlc2NDVSc1MycjJwUHZrTTRPREl4YUdVNkF1Q1BQYmdqZXNfMjBBanU5cXNqQTNYQjZPc29RNWgta19yRHpVSmdxVmdQRElERGZMdk5HQXlneGdsWUhnbVJ2Y0pMMkVWY1pPSXpQLXE4ZWdabWU0N2lHdlpMWFVHMXVOQ0hwNUt1VVVoZlBOSDk00gG3AUFVX3lxTFBEc2J5c3Q3VklQSXdVc1A1ZlBPdUZvODJGY284LTFEMU12TGhsenZkeWhhZTYwWTEyZnVPeEtHalUwaVQxOEtCaFNKYlpLeTJvbkRlMk9HSmZsazZrVXZSNFZCRTVlbGd6WlRvaUVaWDVYUHZlcTQ2a3B4ZGFwR3ZLVmFLVmYyOTF6dXJuUW9DcTRweE9JSHBXbU1hVkotb1J1eVhZM2dQcFI4NUtTakgxbkdwZzRNOA?oc=5",
+    "source": "gsmarena.com",
+    "published": "Fri, 11 Sep 2026 01:23:02 GMT",
+    "discovered_at": "2026-09-11T04:48:59.140428+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f5fc38620174189366b894a4",
     "title": "Trainium3 UltraServers now available: Enabling customers to train and deploy AI models faster at lower cost - Amazon News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQb1hhbjNrRVdxNmlsb3l1WG91dmJlZzV2aU9fQTJxVDJ3V0dHbEZsLTJyWm1Ha1R2OXRuNzUtaHNiYVhZeW80ZlJTdnhMUmtRTnJVUEl3SWdQVVA0Y1hxRkQzRzEyMkV5S1hKcXlzOXptY3p1OENpb2luczhlU3M2SThtd3VVd1BWOGdWY1JETGdiMGs?oc=5",
