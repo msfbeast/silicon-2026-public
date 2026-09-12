@@ -1,5 +1,104 @@
 [
   {
+    "id": "63074eecf6da047dccb6ed83",
+    "title": "Huawei Ascend 950DT: HBM shortage drives the price of the AI accelerator significantly higher - igorslab.de",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1pHQ0hGejBlSE5vdmtzeFo5ZFpXOHFCREhZSGFYNmNqc2pWN2JfVi1jNEJiRmp3eUk4MUZnakdXYnJ0U3FuWE1MeWhxT2h4aTJtLVRBS2s0aENfRjRKQVFYN3QwblZCTndzMnMtOE9mS0ZSQjJVelVmTzYwbHVjdWw3ZzZublRFUDlva1F4bXZ3eXYya25nX1Ytbw?oc=5",
+    "source": "igorslab.de",
+    "published": "Sat, 12 Sep 2026 04:00:00 GMT",
+    "discovered_at": "2026-09-12T20:39:05.195073+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "47bbbda71fcf841f5cd1e243",
+    "title": "NVIDIA and AWS Plan 2 Million More GPUs as AI Infrastructure Partnership Expands - konsulteer.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMFdQN0t1bkt2Z2NpT2RxWUJHVGRyZ1J3ekdiRHBLUEkteVNRazZvYlNfU0FkQVJkdTJYcXltLV9RYzdQYUF3TFpqdjJwMUdaeEVxV1ZjWlFhVkRLTWtfbG9PNzNNek5LWVVYZzNDU2x5TTN0MDBkSEpkZURvaFpIbll3dVZndUVMZTRuVHNZTGVuQXRPS3ZacXMtVkZEZER5dDFCOUNVTUZzeXFWalVYSmc1SGRmdw?oc=5",
+    "source": "konsulteer.com",
+    "published": "Sat, 29 Aug 2026 11:42:38 GMT",
+    "discovered_at": "2026-09-12T20:39:02.224719+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "25edf8a0a9ead51df5582523",
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’ - techcrunch.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUIzOFhKU3hRak1pVFZwVUVmU2NxSVRIQnZtb3dJZVBCYm5hRi0wQUdpYUVhS0YyVFMzUUxHNGJDdFV0Rzc4bThXOG9LaFRyX2dhYmxqbFZHWG4zWnJDa1U2Y3A0Uk82bDBLX1lieXY0MHhDV0NtYXhPdjl6VFdUSXhRNVhOTFR2MWlWZEF0bllMQ3NITjRqeFU1WTVoQktQTUE?oc=5",
+    "source": "techcrunch.com",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T20:39:02.224681+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "247a2e98e54d36fe40b9b872",
+    "title": "Microsoft Maya 200 - nextbigfuture.com",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hdzV5LXJNamtab2VKbG13RTRhZEhLdUM4d3BOR0RJdVBiYnNydTRfcHo5UHBoTHpZMHFGUTZ0bWVoNTRqSkU4dkgwMzFQMnZFS1VDRnpqd3JCdjdMY3d6aFAweUNzLUpPRGMwQUFB?oc=5",
+    "source": "nextbigfuture.com",
+    "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-12T20:39:01.773994+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "77ee1076e8ca9f62ca7e0f7d"
+  },
+  {
+    "id": "515ae249cab56f7691aba51d",
+    "title": "Nvidia chip export loophole clouds US-China AI summit talks - asiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWmpaYnpQZkdMZjZHd2swZGJSQ0JhV2lqcGJIVmhTNWkydVIyWVpSQWhIVC05NEktRHZzam9Oa0ZaRVl5cjhNNWY1dG1UWExZVzhQaFlxemZ6QzdRVzBiX2FpaktrNkF6RFBqRXE5RkViMER6MFMzZVVSUzlscDRfY282QjQyeEJNOHNpZnUtaG9OaVl2?oc=5",
+    "source": "asiatimes.com",
+    "published": "Mon, 07 Sep 2026 22:38:08 GMT",
+    "discovered_at": "2026-09-12T20:39:00.033309+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4fdf644081fd8dc6d90da504",
+    "title": "HiSilicon Kirin 9030 Pro Process Flow Analysis - TechInsights",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HaGVTUmI5dHJKZ1JuOHZMQmZQd0lIeEZ5ajFwbi1KbmhtQnR1VlU2bjRFUmoxZkMtcXFESVR3aFhVSXZPU2pTNFcwSnNkX0NZNWV3eG5LekplX0N5MmVrc0FCMTlvbVdiYnkxWnRGaTBUYjIzYmpLeTNvWXlQb0k?oc=5",
+    "source": "TechInsights",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T20:38:56.718086+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0d5fa078bcf73daf1f002889",
+    "title": "AMD Ryzen AI 400 Medusa Point laptop chips rumoured to stick with an RDNA 3-based GPU - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdWdWc09nTUMzaEtJYklZSUxwNDZCSGtjTmNHcWljVXQyVC1NWHQxSER1RHd1LVFyS1BzOU5VdktlWUpaTnpmUUI0VFVGQUthb01LYTEzU3hQZVducVBPNWo5Y28wcXZSc3VKMDE1MGpqT0lTbGt1OXd2ektNQnVWVGE1dWlCOFlMVEJxV25sZnZLS0ptc0lFb2NKd3dFaThOa3praXJaR3dlVWdsQjVNNUpjMlo3c0d6MGU4NjlmSC1CejZQeWpmdg?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sun, 02 Mar 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-12T20:38:55.234945+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5a4f0dc6d8b96f8ae86061fe",
+    "title": "Intel Wildcat Lake Benchmarks Reveal Potential Rival To $599 MacBook Neo - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3IwZ1JvVHFoMWVRLThiTVMzVUhRVS1oalNGVkQ2cm9JY2Q1NlViY2Yyd1FLUHY1cXh0aUZROTY4Unp3ekRYcjVkMjVXYi1ZLXBMT19WYUNHeGhkeGNqU3lYX2pWUDl3bFZ5NUNPYTVuQ1hROHNfYnNpVVlCRFRrc29ab2QzdUNYNzRMMjYxS0FvRzVv?oc=5",
+    "source": "HotHardware",
+    "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T20:38:54.887682+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c443f002cf59f7242df7c622",
+    "title": "BlueStacks vs WSABuilds on ARM Laptops: 18.4K Stars [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VQzZockJQX3VhQ19qSGhObFRsVi0ydVhqNEVZeTYteEFseVZPUDdTbUhFT1Q3ZEtQUUowcFBTM0NPNy1vQ1ZycjBfQS14dk9fM1A1aWRITXBRY0NtQkk5bkg4eFV2T0pBT3ByaXJUQ2d5V3Ez?oc=5",
+    "source": "tech-insider.org",
+    "published": "Sat, 12 Sep 2026 16:01:22 GMT",
+    "discovered_at": "2026-09-12T20:38:54.290692+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "b2c03066d16c50d4f928f024",
     "title": "Nvidia Stock: Data Centers To Deploy Vera Rubin GPUs in $12 Billion Expansion - watcher.guru",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWUFTSGQ5clhuaXhfYy1tYjM1RXdOalJFbENoS29SUmM2ZlVVRjVrdUlhaFBiWG1hZjQ3LUFHOTM0d1A4Q3U4UFN5dUpySnFqMGFTR0xSX0VXTzBvTU53XzgxZzh4NjJuQ1ExU0VIM3lFbTNCSklRa1JlcTU3dnZTb0Z4RHZ5cDA1Q1RSQ2ZPa3A0UzdGLUN4YUpGMUZfZ0FKY0hv?oc=5",
