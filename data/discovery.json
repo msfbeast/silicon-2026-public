@@ -1,5 +1,104 @@
 [
   {
+    "id": "9b71c6f1135a58d6c306a255",
+    "title": "AWS unveils Trainium3 and Graviton4 in India, highlights AI chip strategy at Bengaluru Summit - Techcircle",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW5aakNWZFlXSTk2c2h5emM2QXo4UDFtZThJNXFZQndJNzBJVk1mcTNNSkZkOFVBT1RGQmU2TWw2RXpuN2liOVBUX2xPRmM0ODUxaEhtLU5MT0RjeWtla1lIMjgyNEZqSEpnQlNTSEc5ejgtazYzNGx1N0F4V0dQS0MzaDFfU25MYjJpWmlFMkhiS2lfR29WOHZzbjRKY2h2Z0d1UjFoclg1ZkREdGhEa2djVnpnOTNJcGR6OXFhWC1aVngxaU15VXl3?oc=5",
+    "source": "Techcircle",
+    "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:54.083513+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ff6ff189c199ea00aa59773e",
+    "title": "Malaysia weighs on Huawei Ascend chips to push AI despite US curbs - huaweicentral.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRFZpNHZybS1qemdJdkc4cHBVdGZja0ZUVGsweS1ITUthQ0pHdjZxcGZrSklIcmxWSEdKNGN4T3FkUlNyMl9QYW9FV0cxVnhIaXU4ZDVDM2VUY0drcXNBZ1UyZjVRQl83STZZQmpNdVNWelllcmR2UER2d1pGYWVWSDhVeXR2bEdCeXdVWnVCcEduUF9XMm5QWGJldjdxQdIBowFBVV95cUxQN0UxTXlkVi1xNHlZMVNfcjc4SWppaXBjMXVqUFlPWXF3TlZOU05BYlVhQ2tTT2V0dkZsNkFDNlNqYmxYT0RiTUxlZEs1TW1NVlloNHZHeVR5X2JCcEs4cEsydHRwMmdKMElVODdzWHdUZHlMYkRHc3pxRU9QZWxydV83dW1HaUdLcE5pellVRWdBMGRBYmNaQ3h3WUR3dU1JUlk4?oc=5",
+    "source": "huaweicentral.com",
+    "published": "Tue, 08 Sep 2026 11:41:38 GMT",
+    "discovered_at": "2026-09-12T10:55:48.704824+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3d6ed0bdae6665c56fe0cc2c",
+    "title": "Thor SoC Ups Processing Power for Future AVs - Electronic Design",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRVk3bEF5WnhyN09ZSmxjSkR4TXhYS2NBdEdXcjB1dTlidDZ2T0x0dklrWDBxYzNUVVpEVmJoc2JCM0w2U0NwQVBNLW1wMk93NW5SRF9LOUs1Z2QzWkZPUXZYM0tKd2p2blpkbVpoXzQzNjJEanVzR3FYck5QUFp0SElvOUY3WXdpbEhYZUJiYjBvWERmSDFhaVk0MFhmSzBEem1OV05ORF90bG43QjBXeExBM1dxRW9lUGl3T0VjY0xkMU0yNzFJaXpHVQ?oc=5",
+    "source": "Electronic Design",
+    "published": "Wed, 21 Sep 2022 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:47.168889+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bec8127bd9aa8cecb5ff9525",
+    "title": "Alibaba’s RISC-V Chip Runs 27B AI Model Without a GPU - intelligentliving.co",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xMWY2S3p4ZFEzN3lRQjN4WVJ6MEVXMkFTOFVCN2YybTFJVzk1M2hNWGJBd28yY2R0ZklicUc3cWlwSFNrWXZnNzNkWmlEdlV2dTRHWXFCTDJLT2kwZ3dLLTRMem0xRXcyaXNvMUFDR1dVWDFm?oc=5",
+    "source": "intelligentliving.co",
+    "published": "Sat, 29 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:46.866146+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8cb557922a1b4658666d4ae1",
+    "title": "Gujarat startup, semtech join hands for LoRa-enabled RISC-V chip - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbm9xTVJRVEpsUDZ2dlJZaHZWd0N5TWdvNmF6cG1vb2MzZzNSemw4U2ljRUM5bXNfRVpLaG83dTNqTmFxTGFhdkljS0RmN2I3QlRpSjVVcGwxaTE2WkhMUHgzMUdLVE42T25mN21RaHJkQ3BKRkYwZENQYTN2YzdZdFdYMTM0ZUhrUDJHbkh0ZlVKbnhNdGlfazFuSm5JdDR2WUdLWjRQZ05VcU9DZEpxNS11R2ZaN0Z1VGJOOGw2aWVxcHAwU2RQOWdBVVRtZFlFMWVoQURxMNIB3AFBVV95cUxOb0pXR0x3bkJ3YkJqTkZMVHNjbU9vMXJPUkJaNXhNR0FScEo4amFscWJwUUhSVm0wb2RhMTlFeVRJVE1FS0pOaWhnNHRuM0hoRHl6RUNkVWxRZTV2SFJPSGxJc1hnNzVjYmhsYmhoRzdQNXhfNnpiQzc3bXNlVXFmTEZsSDV4OEZod3NaUmVjYlBic1ZUeGFIX2dHbXZlT0F4NWs4dlBPNkVHeEF3ZVEtbkYzNXUyRzVLcDVXV3psTzEwM3VpQmJWM1plUW53R20td0hKZjBCWnc4WGdp?oc=5",
+    "source": "The Times of India",
+    "published": "Sun, 26 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:46.866016+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d5458ec5732b40c45be0333c",
+    "title": "AWS & NVIDIA to deploy 2 million GPUs as AI infrastructure push accelerates - indiantelevision.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVo0RXBpNzBFUmY1YURYNEQ4YW93RzNxbEJIaDd3Y1dzSjR2U25OcW95bzdIeXo5bDFMR2NZWDV0WkhLQ2hPQVlyandDcVozQ0VnSmUzcmtmTWNzYmZVLWpuM2RqbmlaSEt1bFdaNm44MFJiazRWelIwc1pQVV96eFRsMzB2QjlVS0xpR2QxUTN5T2s5WGc4bkxLWGNMeENncVp4bjJEekFxTGPSAbABQVVfeXFMTTA2T0ZsNlppQmZsc01ucTFZeXlIZzFVT2ZOa0ZqbF9NQUhic3FBVWJvS0VVMTBIdlNYaW50V0xEeXMxMEQydlJSNjgxaTBPZ3BhQ1Fra2pRSHM3S3diWV9na1pkSlh0UWhWbXpOQnRWc2Y4SWdIUTFqWDBqSEFnOGt2c1ZXc2xnU3lOdXRsUWdyMFVacnNHalYya1BCN0p3bG4zNXRZczZuOVZDSDg3MzA?oc=5",
+    "source": "indiantelevision.com",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:46.331679+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0e797dfcdb01bb785639ad71",
+    "title": "AMD working on Ryzen 9000G \"Gorgon Point\" for AM5 socket, \"Medusa Point\" Zen 6 CPUs for FP10 - TechSpot",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNb2IwanVYcVVaX0Yxa1A5LVdKUmpxbFZ4VFRVR1AwY3NzMTRZTnRvc1ZkNDhOd25XUVdKaEhtd3huV0taN0VzWDRrT1VteDJHckpLUS1qM2xNYU9Ta3FaV1VsdHZpN1drYV8xVkx5T0ZMdDFvV3kzbVFPOXdmdl9TcWtWNG1ZYmdWLVZ6RlJ5ckhqcjg?oc=5",
+    "source": "TechSpot",
+    "published": "Thu, 01 May 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-12T10:55:40.375977+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c2e74659331ee3c6586b7662",
+    "title": "The end of cloud AI? Qualcomm’s new Snapdragon chip brings AI agents to your phone - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNzLUR2VGhtanNXaTRYOTZFSEFyLTVScFdMTUE0dmUxTG1XY3V5cVFvbmJUT09hYU5YckQ2YngtQkxud0FCY05PZEMzZWVYM0xVWE1LMm1ObWFiVnZxcUdmSmpyMUtmNFdlWU1Pc2JrWlhDUU5RdnQ2UTJ6NUpVTXNPLWNMVXVyZHhqOW9XUGpBbzdjZ0RjYXpDRnlsdzNPTW1R?oc=5",
+    "source": "PhoneArena",
+    "published": "Sat, 12 Sep 2026 10:42:59 GMT",
+    "discovered_at": "2026-09-12T10:55:37.407863+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "203b3cb0178a5d8b5745356b",
+    "title": "Qualcomm outlines the improvements in the Snapdragon 8 Elite Gen 6 Pro's new NPU - gsmarena.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDg1TE1QYnpvOTRUQnlpSUlsR1RxZUJlVWZDTjZjS1ZFQklRVGk0VXZfMlc2NDVSc1MycjJwUHZrTTRPREl4YUdVNkF1Q1BQYmdqZXNfMjBBanU5cXNqQTNYQjZPc29RNWgta19yRHpVSmdxVmdQRElERGZMdk5HQXlneGdsWUhnbVJ2Y0pMMkVWY1pPSXpQLXE4ZWdabWU0N2lHdlpMWFVHMXVOQ0hwNUt1VVVoZlBOSDk0?oc=5",
+    "source": "gsmarena.com",
+    "published": "Fri, 11 Sep 2026 01:23:02 GMT",
+    "discovered_at": "2026-09-12T10:55:37.407539+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "0b25526a33425b408f48f23e",
     "title": "Huawei Ascend 950DT: HBM shortage drives the price of the AI accelerator significantly higher - igor´sLAB",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc1pHQ0hGejBlSE5vdmtzeFo5ZFpXOHFCREhZSGFYNmNqc2pWN2JfVi1jNEJiRmp3eUk4MUZnakdXYnJ0U3FuWE1MeWhxT2h4aTJtLVRBS2s0aENfRjRKQVFYN3QwblZCTndzMnMtOE9mS0ZSQjJVelVmTzYwbHVjdWw3ZzZublRFUDlva1F4bXZ3eXYya25nX1Ytbw?oc=5",
