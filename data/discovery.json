@@ -1,5 +1,137 @@
 [
   {
+    "id": "b2c03066d16c50d4f928f024",
+    "title": "Nvidia Stock: Data Centers To Deploy Vera Rubin GPUs in $12 Billion Expansion - watcher.guru",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWUFTSGQ5clhuaXhfYy1tYjM1RXdOalJFbENoS29SUmM2ZlVVRjVrdUlhaFBiWG1hZjQ3LUFHOTM0d1A4Q3U4UFN5dUpySnFqMGFTR0xSX0VXTzBvTU53XzgxZzh4NjJuQ1ExU0VIM3lFbTNCSklRa1JlcTU3dnZTb0Z4RHZ5cDA1Q1RSQ2ZPa3A0UzdGLUN4YUpGMUZfZ0FKY0hv?oc=5",
+    "source": "watcher.guru",
+    "published": "Fri, 11 Sep 2026 14:05:06 GMT",
+    "discovered_at": "2026-09-12T15:37:11.788256+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e5403c1b0887fca4aa24fdd8",
+    "title": "2nm mobile SoC era begins with Xiaomi 18 flagship launch - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaTduN0hDbDVvTm1wcEt0MS1qOG1NRWdxTUpKZzNkM191TFNVSkdYbjMySnZNRU9LSk5EYUZ1aHNTYkk1R1QxeDd6Z3cxUWVFWVdHNFpNMmZQSUxWS19pTHlONmktbW1TTWROZURTQnNpLURnT09NMGhiaWRIY2lKUW1DWGhyMkE4UFE?oc=5",
+    "source": "digitimes",
+    "published": "Wed, 21 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-12T15:37:09.420160+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f24c8f7e9ce2725fa4946bfd",
+    "title": "Apple’s A20 Pro Is the First 2nm Chip in a Smartphone - gadgetreview.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNGpIQTJIc29OaXlzQlhnSVNmUUdqTzE4UUFpOGRaRGlSTFlqcnh1V0laN00xZGVQSDZBWnEyUldXZDBlQk90Z25tMjVuNE1OQWFzTFRXNVBULVdxc2drQUtMd2VuY3I3MnJWaVZYR2M3MWhvZ2drQm5Zdzh0aERvclFqLUd3V1dx?oc=5",
+    "source": "gadgetreview.com",
+    "published": "Wed, 09 Sep 2026 17:49:58 GMT",
+    "discovered_at": "2026-09-12T15:37:09.419683+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7226215ae5549d05e9ee87b1",
+    "title": "Early-stage laptop motherboard pops up, confirms new Nvidia-powered laptops are closer than ever - notebookcheck.net",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNczBRb1JwQzlEUnNvRHpXUlF1Tl9QUXRUQlZfbWVocUlmeHNHX1hRZFJPWGdwd0NrblE0OU1ncW12OXRxc0VqaUkwbXcxN0VUWGc5MTFFOWZOb2dTV0tPTE1nN1REdllVTFpmSkNRQm01WlR0a0dkaVRTa0V3T1dWaXhyZzZUQnA3bXlndVFVNU1xVGJCWFlVdGpsWnlLWnFEX2pfaXI2NjJxNE0taGYwUzJKSmkwYXloVzRDV0dHUEluMTJiUHBlclEyNExlaDUwRGtJMG1ITQ?oc=5",
+    "source": "notebookcheck.net",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-12T15:37:08.947248+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0c2d02f424ee6f925e29b0ad",
+    "title": "Huawei Kirin 9050 Pro Launches: LogicFolding Moves From Roadmap to Silicon - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMFZNSUp1akJrSENVSi1xX0o0QUxkc2NqSnpJb3RqbHdycjFwZ25KZmc0RGlpdDRRY0RtUEdsSFBfaGlQQXlHQnVOcld5Tk5KeWlFZjB5WlNBR09EUGNPczU3a1A3bVF3TldLNF9TVnlaMXFEVjIzSktINmIwbnFuampNVWNfRFRmRGtWS1VOQUZURG5fOC1DTXU2aWpYc2UzQllDWDB0cEZieGFXb0xCTmlKZXVaV0FaM2oyTg?oc=5",
+    "source": "techtimes.com",
+    "published": "Mon, 07 Sep 2026 14:48:35 GMT",
+    "discovered_at": "2026-09-12T15:37:08.556076+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "242dca4edd21fb230dd58fad",
+    "title": "Google Tensor G6 vs Tensor G5: Benchmarks Tested and Compared - gizbot.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzlRTTZKMktnUkhPLWttVkJWemtlUTVGbENYNkphb0djbTVOVGRheXNyT0l5b202MDZBMFpXQmxDaWVEMkNKWWNzSkg0V204czVhVzVhTk5XVTRhemZUREpuWUdkNXpZUG8yMUpoMUNkYlNXTzJXbEhfZnFZN1g1UWF2TmctcExmQ3FQZUhhbENHNHROZEFwamRtdGtSVHVMTl91WFZUYw?oc=5",
+    "source": "gizbot.com",
+    "published": "Sat, 22 Aug 2026 03:45:24 GMT",
+    "discovered_at": "2026-09-12T15:37:08.113994+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e72f2ddd85f837b364177461",
+    "title": "ASUS has unveiled its first computers based on NVIDIA RTX Spark: the ProArt P16 and P14 laptops and the GR1X - mezha.ua",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHZ4c3c3RkdLeWtkOERxSXQ2TS1TTzIxWW5GTHRMN1JyX1hNeG1zc2I3VU1xVmxEcHlORWlrTmZUUmQ0OWhmZjFWYmRzdV90Vm1CQnR0cjFrX0VSMFJxSC0wakVuTjlyVGtpNVh2b1ZFWUowVG1LZFlQZGg5SHNhcDE1MXlQLWw5RTdJ0gGQAUFVX3lxTE9LN2ZyT1Q3TjZIdjhxN3FMOXJqeTFBYWR6a3JBMlZoT3hUZFFTbTM2TGMzOEQtQk1EcE0wV0VDM0pXcDd1aGVESG1QM1VrZWdaeEFHS2VualYzUXlvbFhYNmtaUlRmZjJlekRjblNab3BJYlVJeFFCdTJseGxRUWVNMFh6YWt2QlpfVGxuTFN0VQ?oc=5",
+    "source": "mezha.ua",
+    "published": "Wed, 09 Sep 2026 12:00:00 GMT",
+    "discovered_at": "2026-09-12T15:37:07.670736+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4c93a4741307925eea6bb7b3",
+    "title": "Qualcomm Snapdragon X2 Elite X2E-78-100 Processor - Benchmarks and Specs - notebookcheck.net",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOW5NdVhkTS11bm9lSVpwVWxCcHNkeWktR1AtWEQ4UjYzZlFNemhfeUdfYy1BNWJQSW51NXJpRVYzWWtCbTg3elVORXBGSkU1ek9mUy1YczNvcHloem1MZlJQTVV0WmlVaG5xWFdtUWtNb295WF9TajhkX2NlZ1Rad2Y0cGtJM3N1aUZsQ0M5SVRONDd6ODI5VDlVOVdWaVVqT0hDTHhxRHlGZ1pEakZsMUVjcHJDQQ?oc=5",
+    "source": "notebookcheck.net",
+    "published": "Mon, 07 Sep 2026 03:33:44 GMT",
+    "discovered_at": "2026-09-12T15:37:06.402259+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6cae8697e7cffced15d82083",
+    "title": "New data on the Xiaomi 18 series: processors, memory, cameras and release window - mezha.ua",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Uanl6Z2dDLTVMekdlUFhrdmREblVqMjBfZVo5NHU5bm9LX19UUERfQk1LUG83V2FjUW1ocXZRRjNtWVlUZnlsLV9LLXd6eXA5MWUyVWk3NDRJZTE5MHfSAWNBVV95cUxOUVE1VVNld2l0VlItRkdUS2FGREVJN1dqMl91VDNFeUg5TnY2QmFuaFpTT0FKN3RqRFRiWWptcTBEMWpPYmZsV2xzUEU4cTc0Q2dMS2JfOTRES3ZqLXdHQUxEZTg?oc=5",
+    "source": "mezha.ua",
+    "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-12T15:37:04.494553+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c67972c90a32b2430a911a51",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 Hits 5.11 GHz in Geekbench 7 Before Qualcomm Reveal - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOelVMR0RfZ2ZISTk5SnMyTWF6Y1FpQkxzWVd3Y3laQ3lKRnZMalQ1aVpFRk0xdkZhU2FXRTBFb0xWZU04bVpPTDU4QTVHSmxzYnZPOXplT0Z0ZFJtTXozUXE3TnJIbHEzSU9GaFFGOVdiNW5EYWdUTmIweTFlTkFuemJUQzdTTjlVaVJ4WW9MV1lValZENUdaRzVYbWJKcXF2aGZVUmNja0ZLSnkta18xZjVPQmRUeVJYTy1vRW45NkpZOWtuR3dNSldrdGJERVpy?oc=5",
+    "source": "techtimes.com",
+    "published": "Thu, 10 Sep 2026 20:14:50 GMT",
+    "discovered_at": "2026-09-12T15:37:04.064946+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5d5d5b10f9e3584f6f38a4d8",
+    "title": "The end of cloud AI? Qualcomm’s new Snapdragon chip brings AI agents to your phone - phonearena.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTDNzLUR2VGhtanNXaTRYOTZFSEFyLTVScFdMTUE0dmUxTG1XY3V5cVFvbmJUT09hYU5YckQ2YngtQkxud0FCY05PZEMzZWVYM0xVWE1LMm1ObWFiVnZxcUdmSmpyMUtmNFdlWU1Pc2JrWlhDUU5RdnQ2UTJ6NUpVTXNPLWNMVXVyZHhqOW9XUGpBbzdjZ0RjYXpDRnlsdzNPTW1R?oc=5",
+    "source": "phonearena.com",
+    "published": "Sat, 12 Sep 2026 10:42:59 GMT",
+    "discovered_at": "2026-09-12T15:37:04.064871+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cfe4643589bd3acc6ee47f12",
+    "title": "Xiaomi’s answer to the iPhone 18 Pro Max surfaces on Geekbench with a 5.11GHz Snapdragon 8 Elite Gen 6 Pro - notebookcheck.net",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXJnMGg4M1o2X3ZVd3MwZ19ZbHNJYW8yR1p1WjU2bzdwcHM4ZjR0SmRITVBuVVlabkFNaVRDa1l0eldjb3ExSk9Qc1h6a0x5eTNRS1hRSEVaVEdYUng1RTNZNnpGcDNjbjhHb0F1bWNyb3JjQWpDcTI3OV9HY0U1RGhQeTFEYnNCdXZET3pvbzF3VHB6ZzgtcExfc2w3aVFzamkxNDVaNnpVUjE5bWJfU0JKUWRUdHIwaV9SU2M1RU93VkQ1bTRwd2VtcU5MZUFDNy1yQzVXcS14d0ZqWVNyM0M4Z0RvUQ?oc=5",
+    "source": "notebookcheck.net",
+    "published": "Thu, 10 Sep 2026 09:03:00 GMT",
+    "discovered_at": "2026-09-12T15:37:04.064834+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "9b71c6f1135a58d6c306a255",
     "title": "AWS unveils Trainium3 and Graviton4 in India, highlights AI chip strategy at Bengaluru Summit - Techcircle",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW5aakNWZFlXSTk2c2h5emM2QXo4UDFtZThJNXFZQndJNzBJVk1mcTNNSkZkOFVBT1RGQmU2TWw2RXpuN2liOVBUX2xPRmM0ODUxaEhtLU5MT0RjeWtla1lIMjgyNEZqSEpnQlNTSEc5ejgtazYzNGx1N0F4V0dQS0MzaDFfU25MYjJpWmlFMkhiS2lfR29WOHZzbjRKY2h2Z0d1UjFoclg1ZkREdGhEa2djVnpnOTNJcGR6OXFhWC1aVngxaU15VXl3?oc=5",
