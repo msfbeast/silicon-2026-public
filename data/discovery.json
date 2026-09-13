@@ -1,5 +1,93 @@
 [
   {
+    "id": "85f7e3dbe3b72ab3b74926da",
+    "title": "New Google Networks Tuned Up For GenAI Inference And Training - nextplatform.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYThyTEpZWVJxMUZJMlN2eHFjUl9mdzZfWmpma1hQeG9yWDNaQlJoV19laUloVzVsWXFOdUhPVkJCWmZHVjFvaXRLR2hyQndBekozLVYyMFdLbEw4dVBBT3pqaVhwckN6SXZQMlNsd3F5SXFmcmhTcXJPU1NtRndpZkxPSnl0allaMVZUeFdiUFQyZGVPLXJWcHRyVHNQSzUtTF96ZGxGVUV2STBGVS1feFZTZzlSeVhx?oc=5",
+    "source": "nextplatform.com",
+    "published": "Tue, 28 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:01:04.448730+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "01f02c27a2029d5e0d74d765",
+    "title": "Tenstorrent TT-QuietBox 2 Launched: A RISC-V Powered AI Workstation With 128 GB GDDR6 Memory, Liquid-Cooling & $9999 Starting Price - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzY2X3EteF9XNm5VTGdfZkI5eHE5WVlyeXBrSzFXX0xCVm01OFBJc3NuWGJxcjloZzhVbFFEa1ZrSzhuWXA2WHF4N3VrRnk3Qk93ZFR2dEMzXzI2ZzFQZXRQaENIemx0R044bmZtOVRUeEI0WFEtd1lkbGJkcFBTRFZXX2pyWEN2WnFySE5kM1pPTnNUZkJGMHRoRUpNQkRmZ1VBUWlaMUJGeTTSAbABQVVfeXFMUF9WZnl6NFdQRVE3b0N2NFNvZjRCdWFtUU5yaTM2YnRER0E1WWVYMERGa2paTU9uMUlOMmZURFllYTMwYW1GczZkT3Zlbi1Qa3UyTDZkWHY4RWp2ZHNWQV9Kb0NhMFcyMjQ2bU12WWh2TFJ2ZjRGZFZyQjEtRnhuZjVDLURlcDFMckltVkdiUnBiX2tUNnFMODBaVEotUDVpcGNBbXY3RXJJdzdQWWhsM1I?oc=5",
+    "source": "wccftech.com",
+    "published": "Wed, 11 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:01:03.504329+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "754406368efee235dec0fc31",
+    "title": "Intel Xeon Roadmap Update Teases 144-Core Sierra Forest CPU Built On A Cutting-Edge Node - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1PRVU5MF84d3c3NkFxcXNXUFZjSV9iekZzcVBqYlZnUFY5dm5uNnVIdDVYRnVtb3NXeWRuNWV6SWxBRjVxU1lwR21zdUhNUVJuY2d5Y3V4OUp3WTd2ZkVlQVh1UGlwV3JHS2RCWDIyWnFnYzVpbS00?oc=5",
+    "source": "hothardware.com",
+    "published": "Thu, 30 Mar 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:01:00.726586+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "68d1929a0ccc8ca1c8cc6344",
+    "title": "Intel Foundry Gathers Customers and Partners, Outlines Priorities - intel.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdzg4eFRqV2M0VkdNLWFDNm1PbllraGVMdGtzRjJORERLM1FHMV8zZy12akxCMVdXR2xIX2Vpa20tSHVCdTdHRlZ4MWZMQ3JiOWZlSDVOekg0MC1tajZ1UTBWXy0wck1NLWpHa01Xa0ZIdEJZdnZSREd2aGkybkczckhnQVhKcWRXNnJaY202VzNPRlgyemc4TlpBbW93VExFbEhsaUJkQ3dyQXZZVkVMSzByV3QyWF9SSWRVY0NkODFmNGs3M1dLaQ?oc=5",
+    "source": "intel.com",
+    "published": "Tue, 29 Apr 2025 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:01:00.049690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c3204685e0d1c29ac4c283c2",
+    "title": "AMD Medusa Point 10-Core “Zen 6” CPU Beats Strix Point 10-Core “Zen 5” By Nearly 35% While Operating at 5.4 GHz - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2l5bFF6aHdOT2tSYnRVUGRra0VwaVhndjhQSEFTVzhnQVlQQTBWTkJ5enRla3hKZkFMR2JUZFk5c0txaDJWWnczb1hKNVRFRWtLelFSOVdYUi1uaVhMSzZmSVVqQVlDaFZ6dWFteEdIM3F0MC1EYXZXYS1jb0N4S0VrYjJCZ2trU0g4SHV0UXNrckNoWkdfeWxyTWHSAaIBQVVfeXFMTTVVaTJKWUYzR083THpidzhIOW9abzUwZ05WSDFmbXNMcE1yNEsydVg3Vzc3cUx3VDVsTmxzNUxNaUU0RkFXVjlycUdreTlONzdwV05Id3FhSkt5N2wtWUJRM09MSVI4Q2E4cWgxTm85aHJuN25uTkowMDNpWmx2aFh5QU1LaTFhUFZCQlF4eGxscUhuSVVlVl9tbzVCaUpzVkln?oc=5",
+    "source": "wccftech.com",
+    "published": "Sat, 18 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:00:53.487360+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c1d1ee371d1916e78c2d12d1",
+    "title": "Intel Wildcat Lake Benchmarks Reveal Potential Rival To $599 MacBook Neo - hothardware.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS3IwZ1JvVHFoMWVRLThiTVMzVUhRVS1oalNGVkQ2cm9JY2Q1NlViY2Yyd1FLUHY1cXh0aUZROTY4Unp3ekRYcjVkMjVXYi1ZLXBMT19WYUNHeGhkeGNqU3lYX2pWUDl3bFZ5NUNPYTVuQ1hROHNfYnNpVVlCRFRrc29ab2QzdUNYNzRMMjYxS0FvRzVv?oc=5",
+    "source": "hothardware.com",
+    "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:00:49.987307+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ccb43c26a3afb5476131d0aa",
+    "title": "I knew the Snapdragon X2 Elite Extreme was fast, but not this fast — new lab tests show the chip beating Apple and AMD in nearly every category - windowscentral.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWmM4NGZHOFpFM2xPUXhYMENDR3NTY1B1TnE4YjQtVi1IQ0hkZncweHFUaHJEeHl5RDlRVUlJalpNQk83djJrR29UMTFiVXhIYUNXYW5HbzF6UW0wc2NibXNTRzJnQU9wOFhxWHI4Sm5JR29rcU9BcmZBTjZJUnd5Mk1PekZ2NzhneDNpVjViTHQyeTlZckNYSDR1US1CbGVUcVJV?oc=5",
+    "source": "windowscentral.com",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-13T12:00:49.446506+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ce9ccd6b049c2bac9d232e02",
+    "title": "A20 Pro Is The iPhone’s First 2nm SoC, New GPU Offers 40% Faster Graphics & 2x FP8 Performance, 20% Faster CPU, Combining Neural Engine Delivers 50% Bandwidth Increase - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObGtZMVFkNzFxYVVoWTIySFBCTzZhaDJTZlpmeGxTWDRwNzZqNTQ0ajZzTV9sb3ZpLW9OVGRuSmhKVWE2NUJodWpSTG5ielBCakZPOWM0RWkxSGZCNEp4NDUtbnNQMUxNX3ZmaDIxUEFjZEMyOS1zcTR5aDlWZFF3czBnWnDSAYoBQVVfeXFMTkFFYWh0eHhYTlR5S2JYbW9oYTVJLUhXVXZIR1YxRFVrRy1nbnJhSzBKelZCejZnLTBNeU1oVWdBR0hSMUxBb1c0RWxOYW9HMS1qS0tnRUJ6UF80dGdzdng5eWlKVlhmRnFvcWpNc2NlcVZBV1N0aklOT2pYTlp4SUFVX1dSSlUwY3Bn?oc=5",
+    "source": "wccftech.com",
+    "published": "Wed, 09 Sep 2026 19:39:18 GMT",
+    "discovered_at": "2026-09-13T12:00:48.408543+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "d74bbf14ef1000d66729a58a",
     "title": "Intel’s Mobileye announces new EyeQ Ultra system-on-a-chip for autonomous driving - theverge.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWnpOaE1waDF5UmFiNDI0SjVKY1VxNUx6VW9BNjVjZEhHX2poa1JuV3RQZXo1SVA5bDhsME1hYXFCd0hEdHRxLTVVSmZvbXRiQXUtcS1vSDRXM3lmQUhpM3pEb2hVNGk0RzJtTEJ3YVpRd3FqZ0tGUFFyLUFoRml2Ymcxb3VzXzVSRUttQURIZno2RUpyYnc?oc=5",
