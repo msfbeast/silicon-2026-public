@@ -1,5 +1,126 @@
 [
   {
+    "id": "f9148149df4ff902d72500ea",
+    "title": "Amazon introduces new Trainium3 chip offering 4x AI performance - interestingengineering.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1vZjZOMTVsRWJDb2xHN3MwZUl3aXNwbVM0T0RuS1hGdHlzdXdCY3dpWmxrclY2ZWFJMThTVWxOQ3Njanh3ZWU3bHdaS0xaVVhSY2NCSElrb0VBcEd5RG1ydmhRSnpXekRma3c4TDRpQ19FRUNzMVBCeHBncw?oc=5",
+    "source": "interestingengineering.com",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-15T21:28:20.629468+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "df0e33df190e925008a03b21",
+    "title": "Broadcom Custom AI Chip Revenue Surges 221% to $16.7B, Q4 Guidance Disappoints - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObFFDTWpoXzJPMHV0c3ViWVNkNEJkM1pic1FMVXJvTGNaSzFHVktjeE4wcDFmRFhVR1pkVHZ2SjRmakVMWUxsMmZEbGx6Z3RlOU1UNkhoMWZHbVBHTlZLQ0xxZGpRUzA2eVgyWURLTk9IUXZja0FQWThWQmtwRUhvT19fR0QxT212S0J2MjZtM1BIOUNGcV9LU3Z4NjdGdGNtdFl2Tm15UVVhUXNFVUxyTVpTSlJFUzdwWHZZWVg0SnU2d25E?oc=5",
+    "source": "Tech Times",
+    "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-15T21:28:20.190794+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "90c0ee1523a0be56036273e1",
+    "title": "Microsoft says its newest AI chip Maia 200 is 3 times more powerful than Google's TPU and Amazon's Trainium processor - Live Science",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeEZZZUlCLUdIVUNQSEZCeFJHOVcyckRCTlh6N2hOb0RXbEZPZFEydGp1bzdEYkV1alF4bENhcG1vUnNLYVFTdFQ0dE5aTjhlNjNtSVowQUFhcFRSelljc196T2VQS0VERUdzbW9iYldHY0lYcGNVR04xSFJ1dHZzLXNZb29LZHdNLWRjSFh4aVVmWDVoT056YU1PZmNYZ0Q3Rnl3SnhlZW1qTGdSbEx1TWRmTGc0ZG9XNU1LbERmQnhXVThNOFdPUG5VcWlpY2kyVjhxZjJ5UmMzbFNPTFBVUWdUUkhxd25JTUNIb1Y3OE5sTHpfYW8tTzZsaUFXWWNCRW1XdXNZVHVWdw?oc=5",
+    "source": "Live Science",
+    "published": "Mon, 26 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-15T21:28:20.190768+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b6a6dab6354825848e397cfb",
+    "title": "Unisoc Tiger T7200 (T606) Processor - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZjQ1S1FfTW5PM1paa1k3ZFVYOVc0UmdCZFhaYXhub3hOOGVNSGRibG1UNHk3WmYyS21GTEJuNlMtWDB6LWhoWER3cmdKaGs5SXpFdnpWc3lmNWJCdXdRNTh2OTdDS0xUWGJOUmdjNzFXUUFKN09ldGNDUHBoUEF6RzBkeENOZXRhaDNJNjVUZEJkRGlGSnBhVEg1emxiLUE?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sun, 13 Sep 2026 03:33:35 GMT",
+    "discovered_at": "2026-09-15T21:28:12.838168+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "db68ae1bf24c329e565955b9",
+    "title": "AWS, NVIDIA to Deploy 2M GPUs, Build Federal AI Factories in Expanded Partnership - ExecutiveBiz",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYThjLVQ4WnpoV0wtb2NxNVZfak9iQ1Y0MV9IX1dXX09XOXJHLUJMYmp3RTFlMWJQMkY4SWlJbnpUaUZoTjVMeUROSGt1SVR2Um85dm9raVNlb3ZhV3ZGM25weXhRY1FuVy1MekdLbWRqZjRHUkh4Rk9TUkRSYXJvbWNYZERMQ2xSQ2NfdA?oc=5",
+    "source": "ExecutiveBiz",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-15T21:28:10.392046+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "62a8b5c6f6416a1d7e560b73",
+    "title": "Intel Xeon 654: Leak shows 18-core workstation CPU with 4.80 GHz, Granite Rapids gets rolling - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzRyVnk1OXNmeklIc3RFaUFrYnJuYkEwQzBnLVRpc2IzODJ3VEdOVEt1VUJrRTFCTVBBS3FnWTI2NFhzdktNRjdQQV9SZ0J0M2VOZjhSYkc0ekJZN3BIQmFkVlBxRm5RRGJWeEJjZDZVejlVcTVXQVJsZGRvaWdibDhNMDBvVkxxdDUzRElaNVhSd2xXdS0yS3FTRWZSX2pKZFJfVTBkMjJiTWR6RDVydmNGdHFLdU9WQ1E?oc=5",
+    "source": "igor´sLAB",
+    "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-15T21:28:09.312023+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "81d18669fd67a827eed551b3",
+    "title": "Euclyd Raises €200M; Samsung Funds and Builds Its Rival Chip for Nvidia Inference - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZW9WY3ZBMXpPdHVUandHTnBRVFNCRkhYTWxlX0F2UEpURmpXaFVBUGNsODJ2cEJITTMtem96THRPUDdpSW1xNlpqQlBOWVMweDlIZ1pzZE9wZGNrZ29EdGVWak5WLWNtMGFqYkVrVmNQUGFkbzNadjJQSGcxbG41dmhpSGU4NDVTSWRnWUVBYnRsQmZhVm1pSmRaeVZMV0FPa19nR1pxMzlDOFMyYVlaUUpCN0twM0p3MTczTm5xMEcyM2JB?oc=5",
+    "source": "Tech Times",
+    "published": "Tue, 15 Sep 2026 19:02:15 GMT",
+    "discovered_at": "2026-09-15T21:28:08.105478+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "130f0b9a64d0feaed2ee4806",
+    "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qTWdtQWY4WmpkSDdCU2steHZqVERqUDFoemJWN1luMXplOS1ELWR1SWNfNi14WWpwTEEzSnNtQVRZN2Y1endOcFMzYWRwd3JGcTVSTHdKdjV5V285MkVUbjNkWWFDdXdT?oc=5",
+    "source": "TradingView",
+    "published": "Tue, 15 Sep 2026 18:23:45 GMT",
+    "discovered_at": "2026-09-15T21:28:08.105338+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c3b09147ea9b669e2ba520b9",
+    "title": "MediaTek Unveils 2Nm Dimensity 9600 Pro With 61% Lower Multi-Core Power - unite.ai",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYnZhYkNIek9yUzRtNlRHTFE2UEdIcHhTejhhWTZBdUpCdUNsR3lHLXktSXlxaTQxRzJZMUp0ODBBMXptRVdTVjBYTWhTd3puRkwxU1ZkLVpmR1JmRXJvb1JCQXAyMzFCY3NMeG5HM3B4QjVOZlEwMFcteWtiZ2tqU1VkSEVMQTliSGpEakptZGhxVXNEWlln?oc=5",
+    "source": "unite.ai",
+    "published": "Tue, 15 Sep 2026 09:04:03 GMT",
+    "discovered_at": "2026-09-15T21:28:05.334992+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "7cb8fedf0fee4dd53c3fcc10"
+  },
+  {
+    "id": "39fc7846df9a7976f47268a3",
+    "title": "Samsung Has the Chance to Produce Qualcomm's Snapdragon 8 Elite Gen 6 Chip - VOI.id",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBXZm8zVmNnV3R6NDVMOXhYLUQzbERnZmxTVFpkLXdmb1U1czZJX05mOTFtcVg0TmswQXcwRzl0UzVyaS1nZTM5QlA4Z9IBQkFVX3lxTE9rYUk1Vzg2N3d3VHVNMzVHdmlVbklVN0hoVDNDVlhvUmIwYnltLUx1SzNqTnRWcnJXZ2t2TzV0X0tTdw?oc=5",
+    "source": "VOI.id",
+    "published": "Tue, 15 Sep 2026 21:05:00 GMT",
+    "discovered_at": "2026-09-15T21:27:59.102579+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4b7c8a95ad5d56a805cd036d",
+    "title": "Snapdragon 8 Elite Gen 6 may send Qualcomm crawling back to Samsung, and the iPhone is why - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSElORHRqc2FhcEt1ZnRoeFQ0dHByM2VSdGFveGdyd3F6VEhOenMtQm1TbHhJOGVfcENiQWkxajlMaDRyN2ZJUGtBX2NnNm1zVG4yVXU2aHA1UUZUQWJXMjMtMk9XUGNGMFl4WHNpZ1ZnRDRrcTJrcHVybURqV1lJdE5EUHVCZUtDSlpXWkx0NmVUVDYyV0FKekY2X3BueXFPMDJibUV2Y0NUQ0thVC1oMUhnU2VqT1dmeDFFSlNQbllzWENPS1FMeVVn?oc=5",
+    "source": "PhoneArena",
+    "published": "Tue, 15 Sep 2026 16:35:24 GMT",
+    "discovered_at": "2026-09-15T21:27:59.102510+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ca15e26844840d196bada3b0",
     "title": "Trainium3: New AWS Chip Promises 4x Performance Boost - Technology Magazine",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZng0eGNCd0xQMVo2U1Q2OXpPUHdyX0ZCMWlhd3RiT0VGSGFlTXdELTZhV1lGcWI3aDFUZmJZSVZKTzZkd1pQVWNOdERKQ1FJcDNSYnFyZF8yb0NKNnZmbzRHQjFlRE9hWjBXc3dvVUxMMm5pQ18tdG9oV2J1eFg3TDlmd0VTZ2hBODBtQXlOa0p5dw?oc=5",
