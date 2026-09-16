@@ -1,5 +1,137 @@
 [
   {
+    "id": "481ba7ccb4500d71c23e3d71",
+    "title": "Tensordyne Napier AI Processor Announced with Logarithmic Math - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPck5UWmtUUU1KVnNWbXQyTzk4RDZsbnA0eDBYVlJRU2J2Y3dSMDlQR3pOLWdMcEdvYm9LQVRkbnJSazdxMFBfRW9wOUlON3puR0dQWEJnN3dvWGpqOUFHeHAzUnEwRFVuRm93ZFV1RlY0NmFrcjlxTjVyRjRzMDhQQ0VlZThOTjh1YV8xTXdqeTJROXlkT2NV?oc=5",
+    "source": "ServeTheHome",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:59.508558+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bbec8073e9b49a27598e7489",
+    "title": "Stealthium and Tenstorrent Partner to Deliver Runtime Observability for AI Infrastructure - manilatimes.net",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORVZfd09BOXgtUENSaF82OGsyTV91RXJvZU1MWHE2OS1zVXFHSzlRUDZrQjlMdmhqWEJ1VkdGcDRBTmV6am8wakxsWVh2QTA2eXRlVUJmaTNjNU5sLVBjVkhmeFE5Rmw4aDYyeHJWZXczcGQyRGdWYzh6bkFzVFJlQS0yVlpRdUVrODc2OVVkYW43UUd0WHNPZlFxR0djSTVxQUlUYmJJdWZKdGxZS3JWcEJPVGsxWnlmbF9NNTltNzIzdnFiZC12RGRUZDhqUDVjX2FLSUtackJzZllaaWI0aXNFZ0xBbDRzTHZnRm11b3hyay00V0HSAfsBQVVfeXFMTUJnQWtIVlVtOFUzQVZaVldvMmhoOEdhd1ZfemRZQ0tLWjNWZmZzYWlFd2RNRndjcTBvRzFaT0ZZOTdtY3dCLW4wVUdydmFLTHVILW5sMHFNRFVQRHNiV0ZzRmt1OUFTQ2tUajM4MWdpZ08yLXJzOVh0enpsUnNYQzNGTG8zWm9STDhYX252al9vNDVLV1dSLWVZbjRDaWdDOHhJUWhzdUtDR3MtUkNmQ0YwbjlEUnd0VTZrcXVteGxvMVY0eHFsUUR4WWQtT2dvUFJHM2tWeUZPR0FmbkVmdzIxeERtamVkeF9Ld1cxZzBWTTZhX3diVjVmTUU?oc=5",
+    "source": "manilatimes.net",
+    "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:59.004108+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bc0f3090c58ccb68d7261e59",
+    "title": "AMD \"Zen 7\" IP to Use TSMC A14 Node and More Advanced Packaging - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbnRpYVZ1OTlKb2RZUU1fUDFrVXhjUmJVUG0yT0Z0a0lHTkFBdmtlUjFqdlVoZzZDR1N6M0dTblFxV3lHRmtUZW9MODhkaV9kcjZCUXFYeGdjTHY3dVVxdExuUFY3cVd2T21mVDN3OFV6Zm1kNHpqdDh2eDdRWWU4aE9tekQ2YzNnQjIzT2JYdjFaUVJWV1pST0JpZmsxcF9RcW1r0gGiAUFVX3lxTE16T200LXNROWZvYzZvdXpVZzNRYlc0THF2M1dpX2RwYmFZc0VzMGM3MXU3M1hQNEgyT0lBX1BHRHVITGNaS2ExNWlWWXFPNW5yQUJ6X3AzWFVHeWFzMk42Y3hoWUE3QVNZbGRqbUZiWTdSNUFZSHluVmthb0pEOXdiQVA5bUxMNUN6NkNXem1aZE1qYmZWN1JETXJRNHlCcXJyUQ?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 25 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:55.722452+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4f018f86f474adc006d606f6",
+    "title": "How Chiplet Integration Powers AI Infrastructure - Kings Research",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8xUUhsc1kwMVZIWkVwMDM4Y2pPUngxU0hQdnVJakZkcDVHRDV1U25Ma0J6cE00UUpxNnUwbFRGaTRlVWlPZ2hvWllIeV9yc3dZNDYyUVZfUDM5NnNERTBsSEtxbFAyQmRONVNwY3I3OGdab0VNR2c?oc=5",
+    "source": "Kings Research",
+    "published": "Tue, 15 Sep 2026 11:08:31 GMT",
+    "discovered_at": "2026-09-16T17:06:54.820441+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb8ca37008e78732aab6321e",
+    "title": "Oppo Launches K14 Lite In India With Unisoc T7250 SoC, 7,000mAh Battery, 120Hz LCD Display - ETV Bharat",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTXZWUjhheEw2Z1VnRWZZbmRUaW5kSVdTNlY2bWVRN04wVHhrWGtCbXJ1dVVPSmVrQjRCTEZlQ05vcXNJYnJsWWVfQUkwRFFWX0NOeE9GeE1YTzJvR1RIcW5hemxadlZrQkRwbWp4alJYLWN1b1Npdzd3S00xRS01UTRRbnhtUFNUZDBsWGlmMnZ4VVhDVzZxV1djZlU2d3Q1MFhGQkJic1VaM1ZIX3hnRTBURjVWX1hzZnZuZXpnX29KN21SOXfSAcsBQVVfeXFMT2lhQ2tMMjJEQkFhQmd2c2dOWUhDU2lrY1NZdVF5dzlCY0Y4VVZ2Um16RzVPRHg1bFk0TlVJZ2tIaUVEVDQ0N3RmamJaNVpUbG90b29FV0xBdHZTVGwtbTY1M0RhOWNabi0yRTYyTTZJTEpETTlKd0pZeFRNb3RsTXQ1QjhEMC0wbWFwTmd2OXlqb1l1dmthWWxoUV9rdGJ1TjlldDB3ckxERWFjRzhtQVdubkZlSXJMMGlqZWtXeHBPaENrS3d2d3M5U3c?oc=5",
+    "source": "ETV Bharat",
+    "published": "Wed, 16 Sep 2026 10:22:02 GMT",
+    "discovered_at": "2026-09-16T17:06:53.672762+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e53b92bf7a937b6cbd0e55f7",
+    "title": "Taiwan RISC-V Market Size, Share,Trends, Growth Analysis Report, 2031 - marketsandmarkets.com",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaGJreGZhRWtzWUJmVXZjUy14ZTVpZllfS0hBcjh0eUU3WlRaZ2lxbDhlYzN6dTh6bnZfZ0JNTVB3clViVWp6SXNZdmZnOV9hb2JVY0dzQUltZGxpQ2haa2hlakFMRDk3Nkxvc19JWk1XXzE3QzFfLTdFekZuSU5nVHFjdC1zUQ?oc=5",
+    "source": "marketsandmarkets.com",
+    "published": "Sun, 02 Aug 2026 21:10:15 GMT",
+    "discovered_at": "2026-09-16T17:06:52.131584+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "619ba36fe78f0d69175493a0",
+    "title": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5",
+    "source": "Tech Times",
+    "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:50.962335+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "daff7d1cd2a0b5dc4bfdd8fd",
+    "title": "Intel Xeon \"Sapphire Rapids\" LGA4677-X Processor Sample Pictured - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTzJpTTZKVzNfU2xLdmM4Tl9pVjU3b3RLVTZ3eU5pdnc5bHByMDV5b2lnUjk5YWpLeUxzbURnbkx2S0JSWlFKOVU4eGM0WmlVZGpTU3FWVkZKaXZYM1Rjc3YtTHdBZ0NBUWk3djRKTGtUZFZCaGxtME1GYW9DVS1jZXZ2RmdYdnVzY2l5TjdULUhOYjZhTW5GLTdNTC1KQdIBowFBVV95cUxNTERkNE04NEJqV3M3NVBVMXR0TjBjWkNXNjdYSDJGVlpiQ1Q2dkYxc2t2elNiN204STBDYXVaTkN0VGFVWFhlclhpNjI5OHh3X3dXdnlWZlNkMTZ1RFAxVG5vcFgwZVpkcTA5Qk5RSENmRnFkcVhobkdSN3BWOElNM1Nvd0lHVEdnc0xUeGV6N2xCbkxXZjlwNWc1VHhSZVFGUlBr?oc=5",
+    "source": "TechPowerUp",
+    "published": "Thu, 04 Feb 2021 08:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:50.462996+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "917d1675694b9c345098bad8",
+    "title": "Intel Xeon 654: Leak shows 18-core workstation CPU with 4.80 GHz, Granite Rapids gets rolling - igorslab.de",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZzRyVnk1OXNmeklIc3RFaUFrYnJuYkEwQzBnLVRpc2IzODJ3VEdOVEt1VUJrRTFCTVBBS3FnWTI2NFhzdktNRjdQQV9SZ0J0M2VOZjhSYkc0ekJZN3BIQmFkVlBxRm5RRGJWeEJjZDZVejlVcTVXQVJsZGRvaWdibDhNMDBvVkxxdDUzRElaNVhSd2xXdS0yS3FTRWZSX2pKZFJfVTBkMjJiTWR6RDVydmNGdHFLdU9WQ1E?oc=5",
+    "source": "igorslab.de",
+    "published": "Tue, 18 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:50.462876+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "350f74f15537ca81cc1fa704",
+    "title": "MLPerf Inference v6.1: 5.7x Per-Accelerator Gains, a 512-GPU Run, and Vera Rubin’s First Peer-Reviewe... - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPckdIb0hlcHBHak12dVRtS3piYW5QSnJGdTREd3dzUDlPVnBWV3pvTXNfSXpHU0ROOTNFNU51emI5aUt4c0gwb3Z4U3BhVGJlcVJrTHJEY0R4cGNjLXlFRjV0MnNUbTBZVWVKNGRGN0xYUm9zbFhqelZiZjlZbDJXeXUzaUxXSzQ1TDdrLW1RdHNocnlBZU5waVFKdVFadTNYVGVEOUI0VUYyLTlNSDVzdWRKVEZCbWRKV2l1SW1UVHhVMHFNZ1RpTHIzUG5yUVZUOGgydExxcm7SAd4BQVVfeXFMTjkzMFhaSnVjel92XzFGOTU0bTN0cm9YY3ljNktNZGh3RGVTUnlTdGFmUllibnVJTWFHV2JfNGNpWjkwaDVSbUxsVmNOU1NrUU01dF9PZ0kyOWc1bWdMcXloSmNWZzhHc01yUTVpTXRxdVJJRVFIWUtBQk9aMUNzQmoyVVlxbUZtZmFLaFpJaG9sUnhtS2w2UFB4dnJTdTJGcVNod3NRZXR6OW9NYTQydXg4N3I4dklRY2NLbkxwWklJRTZncTlmSXRERzRoNnNPd2VONFB4RFN6RDdyMWlB?oc=5",
+    "source": "StorageReview.com",
+    "published": "Wed, 16 Sep 2026 14:59:43 GMT",
+    "discovered_at": "2026-09-16T17:06:49.341791+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6fe9f63b2b2176c4682af7e3",
+    "title": "I Tested Qualcomm's Snapdragon X2 Elite Extreme: This 18-Core Power CPU Hits Hard Against AMD, Apple, Intel - me.pcmag.com",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbjNvVFdjejJJbWtITmhFVnNtUHFnNjFLQ3B0elJfd2hMUnJWbm5kNzFEdmhPOW55Q1llanl6V1VvWEttaDVkLTdYUlBCYmJOdHdNdWZmcnpxcmhBVDdyb3BSektmTm1mQl9MT2xzbU9CTEtsSTBfYzFtUVhkQmtNRU92OUlmYjlCR2VKUjlMR0FFcjBpZ3U4OVphaXBSMk90RUJrQ2lPclpXMC1CZ19hTXR0QW45QXZ1UWNQcjhKYk1MY0F5WkNyaTB1ZXQ?oc=5",
+    "source": "me.pcmag.com",
+    "published": "Sat, 18 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-16T17:06:43.846383+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a9a2a2cf872182e423028242",
+    "title": "Benchmark results for the M6 and M5 Ultra have appeared on Geekbench, showing the M5 Ultra's multi-core score is six times higher than the M1. - GIGAZINE",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PcUNheG12VG9ZS0lkbXVtQkNXa2NlTFEwSFZPSFN4Z1pwWEtZVmhndHRmXzJ1LW5IeW1McjRCc01SNEZxZlNraFFFRXJGRmI0M3MzMzhQdmJMZWsxSlpnTWZYTFc3Yl9vcXhtbGIySGk?oc=5",
+    "source": "GIGAZINE",
+    "published": "Wed, 16 Sep 2026 01:56:00 GMT",
+    "discovered_at": "2026-09-16T17:06:43.241897+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "71757c0c9caefcbaab29f9a3",
     "title": "The chip made for the AI inference era – the Google TPU - uncoveralpha.com",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTV0swbkN3Y2NVR0liNkJtdHVaTTFCWldzMGR5ekNKTlJLcEdBWWJVOVY2MjcxeURaZVN1YW5LN3Z3QTQ5TGlaR180ZDhaNGllTnpQZkpUanFIbzkweUNaMk1zVzZqWWdlaGFmaVNrX3N6WnM?oc=5",
