@@ -1,5 +1,93 @@
 [
   {
+    "id": "b3562b8dc8047026f57b4d67",
+    "title": "Why AI’s Inference Boom Is Forcing a Rethink Of Chips and Memory - spectrum.ieee.org",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sZkl4SF95TDVhWHlKWV91VWFOX01IakF4clJUWkxKNDZUel9xMnZ5bEZTZmNPRDFDU3JWSmlWdFRoaW1jcFBibWZ4eksyRXFaNDJXaXZJSkJSYUptZUxKMm1NU2tOZw?oc=5",
+    "source": "spectrum.ieee.org",
+    "published": "Tue, 15 Sep 2026 13:02:37 GMT",
+    "discovered_at": "2026-09-18T20:59:13.232370+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a9d1b014de5fd4df8f658680",
+    "title": "Key facts: Nvidia AWS & Groq pacts; beats/caution; Vera CPU & cloud - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVENrN2FrdG9rWlpodUNDbTlJaUZzZzlxcHBoOS1nTThXVFBhZENNazdfa2VpMFMzTlp4MXAxbHJoNllrNDhjaVVuaHNxLTlGQVVTY3FGT09hTVpXeUd3b3BlWU1jVHZnT2ItbDBSUUh4WTdUbGN4dXB4T0tTeXlNc3o5cHVwNjB1WmkxQnE2eVYycE9TeVJoZ3NwN0NST3Y5N1JneklkckpqZEh5SlE1QmpZY3JKRWFHd3lIQjJkdw?oc=5",
+    "source": "TradingView",
+    "published": "Fri, 20 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-18T20:59:04.932892+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6eb7c20e1273a3f9e4b842ea",
+    "title": "2nm Flagship Chips Pivot to AI-Native Architectures, Reshaping Smartphone SoC Competition - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1tN3Q1TUY5ZkdXZ0NISk13U0FYUGptb09iMDJra2l0N0xKUlhfc2xqOUt0eElRb09MQ29VUWxXc1pmeEk1ZlhfalRrM01UWnE1dUJPdlN5TFBhTzNqdUFKOXVGaTFlVDR3SEhTZjliMVNMbXVyVGc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Fri, 18 Sep 2026 05:05:00 GMT",
+    "discovered_at": "2026-09-18T20:59:00.308339+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0e85e7097be5e368f1d6a1fe",
+    "title": "Huawei Mate 80’s Kirin 9030 uses Chinese + Samsung memory - huaweicentral.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWS1ZZWYxbXdUNlF2SjE3QWhNWi10aWFhcVNYZkNZVlgxUlJZNFhYU0g2VGZNWDd2aElMdS1oSjA0bC1XeW0xeHB3M2htRElLeDBzVENqdC1NVEF5V1IwYW5JRXd3UE41aWd5R3hWSlZoWUh1cVpHREVTaVpGSnRTekRLcms1NTFhb0FISFVR0gGTAUFVX3lxTE9rSzFTOGFsMjZlc250WnRlTE1RMHNGUXhsOTVNNlNFWHhwZkpCWTJfUm41OGtpMDhCUGFLR0RqTm5CR18xdy1FeU9Jc2hUcFlJMjlpcy1remNjeE9uM1lqd0UwTWxaSHlXcWZMMXZaT0xyNEIxVGl6YTFkcVFubVZma2FWaHdsSVl4MXl1X3ZPVEs4Yw?oc=5",
+    "source": "huaweicentral.com",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-18T20:58:59.436101+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ade4f4c90f9b0679530a023b",
+    "title": "An analyst has revealed the prices of NVIDIA RTX Spark laptops - mezha.ua",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjS21sY0tSQ2JtRVFzQkhzdEdvVHM0SmZ3andUeFo2Z2N4M2c0aW1uaGU3MFF5SWNjeTVRTlpFQjQzN0JxX3pWMGEtNUtLR1JfWlczZGZKVUNISk83aTFLYmF4YmdkUk3SAWxBVV95cUxOblJ5UzgzeW1UNmx1bEJKSEFLNHpRLUhyZ2JwaG5OVHdOTmRyTU5JVEtzaFotYkZQUkxuWGd5SnNEUDdjUHpOTXJKcHVfN19IUFdvdTFIUXltdWQyZGdHOGw3SjZ2RUQxU3gzMFM?oc=5",
+    "source": "mezha.ua",
+    "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-18T20:58:58.556826+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "98db72654a76e848b109010c",
+    "title": "ASUS Ascent QN10 Review: 80 TOPS and 18 Oryon Cores in a 0.7-Liter Mini PC - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE93TUtYc3lqaVU0U2JiSjBndXlXdnUwNmtMMlJ2YWItd3QxdXhvLURDSEM3bFlOLXFlc0hsUm0xV3p4NkRXLU94VElELXRXVFRSWjdKZU5fTlBCN1ZzNTA5TnR5SEFaT1UxRDktONIBckFVX3lxTE4xanllV2FTSmN6NlBqalNCc3BjdUNyb1pmZlh6U2docjRsMEt0amJRVHdyUGhRVzJ5VEY5czU0QTdxcHVNb0JMS21TTi0wcFR1Y1k1VzFPTU9BR2lRMERYdnRNaHNra3Nob1VVdkdaOGltQQ?oc=5",
+    "source": "StorageReview.com",
+    "published": "Fri, 18 Sep 2026 19:00:19 GMT",
+    "discovered_at": "2026-09-18T20:58:57.062547+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "26d4a2018b874e93c0f3ebf6",
+    "title": "The Apple A20 Pro processor significantly outperformed the Snapdragon 8 Elite Extreme Gen 6 and the Dimensity - mezha.ua",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51VzdnZnBYUG53c0pCUXQtQlhIMDN2TmtfMzR6YnBnQ2dLRHIwZ1ZhYVlicWUxQjFNSnJJTUNMR2N2alFHZXNkWmtDVjZCRUktcS15T2xHMlh6UDVGMXRWZndJSTJ5V3NILUpJ0gFwQVVfeXFMUEVlYU5HUngxbkZhampObllGUHlvamhrTjZPQi1LRE5MUmdZVHJlN3BqenY0N2J0OXA0QWt0VGlPUWlEMkJleFNOT2lFVzBNVmlncXA1V05rR2lWNldIWkpGd2V2NkRSS0U2ZGhhbUZkdQ?oc=5",
+    "source": "mezha.ua",
+    "published": "Thu, 10 Sep 2026 14:25:00 GMT",
+    "discovered_at": "2026-09-18T20:58:54.703379+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0e13d33dd89460fa4dcb4250",
+    "title": "OnePlus 16 Specifications Leak: 9,000mAh Battery, 200MP Camera, Snapdragon 8 Elite Gen 6 Pro and new ColorOS 17 - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWFKMGRyeHY3Y3NsSDNuanhIVDZmMWltZ1lkM0ZaMW5Ic3pNQ25DRUl3WXd1YkJHakFuUkdiX2tUOWROS0hSSGhXdjl2enh1dDNXNmNpM1hUM0ZJV1c0T1hSMW54QS0yQ1lTR0haWXdGRHEtaW5hS0x6eHIzZF9rU190VW1ZTldmM2duWmhVZ2tsdlc3c1JiM0RqbVZ1djlGcEozcVRRY1ZVUEdlTWRENkE3eDN6Z3JyZmF1djNNN0JpVmttdHgyWElORGlQWTY4OExrQQ?oc=5",
+    "source": "My Mobile India",
+    "published": "Fri, 18 Sep 2026 11:50:00 GMT",
+    "discovered_at": "2026-09-18T20:58:54.703242+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "777490a1a208a62d3aac0130",
     "title": "Why AI’s Inference Boom Is Forcing a Rethink Of Chips and Memory - IEEE Spectrum",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sZkl4SF95TDVhWHlKWV91VWFOX01IakF4clJUWkxKNDZUel9xMnZ5bEZTZmNPRDFDU3JWSmlWdFRoaW1jcFBibWZ4eksyRXFaNDJXaXZJSkJSYUptZUxKMm1NU2tOZw?oc=5",
