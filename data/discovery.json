@@ -1,5 +1,104 @@
 [
   {
+    "id": "3a42a0d0d3a3d564d41b0360",
+    "title": "Huawei New AI Chip, Ascend60, Launches in Q1 2027 To Challenge NVIDIA - Ventureburn",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hWnpaVVVtYzFhWkMxaHNkNWR5MVIwWG9McVdKSzlRTFBVc3QzUDg0VVh0QVFwUWFPY2tWd1ZGdXRQQ3BsMlREY1A0eV8yWWh5VlYtdWo1b1hIMndscXZ4dS1PYUZqTzV4VVoyc0hHcmozUdIBckFVX3lxTE1hWnpaVVVtYzFhWkMxaHNkNWR5MVIwWG9McVdKSzlRTFBVc3QzUDg0VVh0QVFwUWFPY2tWd1ZGdXRQQ3BsMlREY1A0eV8yWWh5VlYtdWo1b1hIMndscXZ4dS1PYUZqTzV4VVoyc0hHcmozUQ?oc=5",
+    "source": "Ventureburn",
+    "published": "Thu, 17 Sep 2026 21:39:14 GMT",
+    "discovered_at": "2026-09-18T04:52:21.177272+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "586d0f0b02588d8360c9128a",
+    "title": "OPPO K14 Lite: 7,000mAh battery, UNISOC T7250 CPU, 120Hz HD+ display - NoypiGeeks",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5ZXZNZWlzUFVEYVIxTmJBYlkwa0ZlUVJ2Y0hvMHBYel9aamliYlVZeV82UDZ3U28tSW5xUDRHWWRxbDI4dVAxZF9MZ09yYk9iTC1UNnE0dFczZkZmR3c?oc=5",
+    "source": "NoypiGeeks",
+    "published": "Thu, 17 Sep 2026 14:29:40 GMT",
+    "discovered_at": "2026-09-18T04:52:20.589690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9880cb181d14059d91352ef2",
+    "title": "AWS and Nvidia to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI - StorageNewsletter",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUi1nclB0bW9VUlgyNTBKbXY3MnM0MW1uS3BJY3F1UnV3bTMzSHRqa29tVUFfM2ZndzdoRlpnR2F2dVBRZzRyODN1QVdZV0wtV0gzV3V3cEdNckRsUDJmaDUtYXdBTjNNNGIxS1dhMTFIRjJlZkQ4VmlQbXNWMFQtYjhnVVZrTk1IaEViYUN5dzl2Y2Z4eDE1QmdlbkpYWnB6cnJ5VGh2RHd4Yjczcm5KLUgybm9iN2EweVlLTmctOEVGcHZ1bnQxUmpCNWI2cFp5Z1I4OXRTR0VocmhrSG5ZR2luVHJqbzQ2REtnWFBtamljQQ?oc=5",
+    "source": "StorageNewsletter",
+    "published": "Thu, 17 Sep 2026 17:16:36 GMT",
+    "discovered_at": "2026-09-18T04:52:18.476687+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8cf6472ed62f0a4a1d9e8ea1",
+    "title": "China's Homegrown AI Chip Push Just Got Faster. Is This a Real Threat to Nvidia? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQSjZmaDR3eVNlSlpWOWRvc0s4NHI2Y0lfNms5MkpxRXpCWUN2emNTLU9rNXdCMnVYYjdDT2RWY0psT2d6UGpQdEk5RHdjMVhyU1JGNllPSDZXRkV4QXZfMS05NkxZaUpabjk4MWZVN0s3Ym90THBLX0Z3Qi1EMFZ0NV9QXzFKLU1ySVIxY2VRdkpkYlZ5V0txWHctOXF4NU1HUWc0bmlESzlKN0FPdzVvUHdiTEdfQU81NWU5QWRacTZOMnhTZTJjeVFWNjhzamp5V2tPTkpMQllvZjdmSkktU28zZ2I3N1p3RkR1NDRpMHlhUHA5TUpV?oc=5",
+    "source": "The Globe and Mail",
+    "published": "Thu, 17 Sep 2026 23:21:02 GMT",
+    "discovered_at": "2026-09-18T04:52:16.511074+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4d8f8db882f50bf1953b2dd5",
+    "title": "Nvidia Gains 2.54% Despite Huawei’s Accelerated Ascend AI Chip Timeline - NAI500",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbmt3R1h3eGw1SXc1eG9iUDRsbnFaQ0hFNDlaWXpkVFIzcS1GZXFlX3ZFaFZKU1Bqb3pGcFJNZ3VTMXBVS3VCUm91aHMxSjFIamx1azhnVGpqY3Q3emwxOVdqa3B0bFAyazlqXzVpa3VNTzdYd0JoMnZUVHM3R3d3SXFjSFRjbkx1UmpVSGhlUTZlaWV3cEZaRkJPa0lJM2JVRVF3Qg?oc=5",
+    "source": "NAI500",
+    "published": "Fri, 18 Sep 2026 01:06:54 GMT",
+    "discovered_at": "2026-09-18T04:52:16.511054+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f73a8bdf53eec5641afbd050",
+    "title": "SK Hynix Is Shipping 16-Layer HBM4 for Nvidia Rubin: Where Do Micron And Samsung Stand? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc0Jjc3plaUpZZ3JSRVZPRS1TNkFYa3ZWR1E3RElxOXRPemlXLWdmRHR3UU5rWkRvREZKZFg5d185WXhyeFhfekUxRGxXUW9qeTR3YlhWVkZLc1Y4SlZZcE5ISjljZzBiVnhaZjZKQ0t2TXV5SXB3bFp6YTRMNEY0WktscFA3bHQ4dFc0N1BRTGJnUnQ1MXVlM2Q5bmZkdV9UR0NDczFhYkRtcDd5bkFLeU5jUFhyWFNGdjI5OUd6dTRMR2dYOFNuTzJvR21LbFdkS1JkRnl6UzZsU28?oc=5",
+    "source": "TradingView",
+    "published": "Tue, 15 Sep 2026 18:23:45 GMT",
+    "discovered_at": "2026-09-18T04:52:16.510940+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e83945719bb3af032d1a294e",
+    "title": "Kools Develops Bonding Technology for Nvidia Rubin Ultra-Class Packages - thelec.net",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hb0dnR0RxWTFXN2xvZHhFQkNhcFprY0stSkJqVWI1WS1wX0NwN2tQZ0g0ZW9sWnJkblVYbWpnMDN4YWZrakU3M0p2dEk1dFVvUmFhSVZRelpjemVVOUp2OTQtYUZDRWM?oc=5",
+    "source": "thelec.net",
+    "published": "Thu, 17 Sep 2026 22:55:30 GMT",
+    "discovered_at": "2026-09-18T04:52:16.510889+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "53158e4e4878d08680b9c8ef",
+    "title": "Intel Just Launched Its MacBook Neo Competitor: Wildcat Lake For Everyday PCs - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ2xhM29MbGxQOS1JcERtaDhnSWNhUEFZV3NVWlBvenQ4MTlDQmtVU0pkVnJZbW9NWlpEMFlPOEpFYTRZS3BpN1A5MXUyaHBiUEp5Z1JMX1c3N2lwM1JWZmhqYkk0RTZKMFBCckxlNDV4cnBsbThRWXN1MUItaWh6M2VBSUNnY08wS3FPX0xhVVR6NUR0RkVROdIBngFBVV95cUxOZjRyQXJaSnREb0NtUEU3c2dqUWV5em55WFZNVkktZkVPY21Hc2lPZGp1akMxc0wwZ2dwcUYyWUk3Q1JIaDhMNGZQVEs0dkp4cFM4VWQtMV96VWdpMEJNWmVPYk9JV0ZIbTVqSEt1bllBY0NsdFBaTVV2d0liNlF1S0lmeG1walhwY0xpZ0NfaDF2OEN1UDBnZmtSaGEzdw?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 16 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-18T04:52:11.750962+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "524e88013c4617a36bfb1094",
+    "title": "Apple's M5 Ultra Posts 360,019 Metal Score, a 41% Leap Over M3 Ultra - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBINnNrSlNvZk85ampKcmliNngyUnNxTHlWMkd6WEpKT3JralF6cWoyLVdJckplcExPUEUweENhd1o3TmNhMlM0b2FLMjFKczlKenhVY1NfTWpXejJfYXhUSFNoRkxvZjY4dkJiS24zU241SzRjVGc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Thu, 17 Sep 2026 18:32:00 GMT",
+    "discovered_at": "2026-09-18T04:52:10.805967+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f2a42a1b54e677180e6cc5a9",
     "title": "SiFive Performance P870 and the SiFive Intelligence X390 - jonpeddie.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXZqYlVIOWtzS1RJUTJUenAwYkxJSV92THVZLUhPdW1Iel9UYUp2YUt0NE1iNlZnUW1qQWo5MWo4VERkYmdvdWtScEw5a2gwSE5BR29JTHdCWmpGdmkzMk4tejJfal9naXZrZy1FbmtOcjVPb1ZJVEllaVI3SXNVUEJwUWxYYVdQVDhXX1kxX2xpUQ?oc=5",
