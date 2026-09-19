@@ -1,5 +1,115 @@
 [
   {
+    "id": "e1f2f2c2ac69778c661c1b33",
+    "title": "Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s - cnx-software.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanJYMDFrQ2JzcVhqRHVvYXFwMFRaNXV6bTNNT3BYd1BTV25udXRTZWk0UUJHbUtzOHlvOWxSanl6N19ZdWlIT2ppTlkzYjUtalZIcmtGc0ZFandIXzJ3NldxRzZSLTF5WG9mSFVOZnNQTE9yNmRsQnpzbWJiNVpxZkdoQ0dGOThIWkc0LXE1UEVxT0FxQ0RWZGtCSktsTDQtX2hfTTRiVHZXTURrVzBIbG9hakdWaU8yQ1Yw0gHDAUFVX3lxTE9FYlM5V0phYktlQldNa0ZuX3daY2pjaWVIb0lsSDRDQTN1QXNUdjFZN3FQZ2dUUHh4bk0yc2N5cWVaM3l3TkNZRlJQTHdkaFpaQUNGTEV1cDV5WUw4MjhuYXRQbUE2Q2pTMWNaWEdWb3lWWG90YWVtcEs3UUd0bkdrZVNQbU1wNmh3S0pvY2hsU21kNWpiU1huckVJMHYzYl9NclM0V0VZZktOQm1sam9PY19tWTgxZzJUeF82WDlwMlhvRQ?oc=5",
+    "source": "cnx-software.com",
+    "published": "Sun, 22 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:49.814533+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "87616db53b9fec1b8864884c",
+    "title": "Blackhole QuietBox, Tenstorrent's AI workstation reviewed - theregister.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTTRveHVvTnM1ZkFVQ3lNaXJRT0g1TWg5THlnRmE0SFZKdk1yQUxib3RxTGx5dWF6ZzRXd2Eta0drVlNQVG91aEE0bDg2VXdtWk45Tk56NWVWZzEzOTNPLUtIWU1uT2RyNmdaRDBPQ2pqTFNzZ0JQU1NKUU4xelRLMmNXMlRSUUIySFVfZy1EckVVQkNCMEhMcGw2Y0VyYTM0cHVXSEtBcFY0S1d3ZUlN?oc=5",
+    "source": "theregister.com",
+    "published": "Thu, 27 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:49.381050+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fce155f8cfbcc4b74e1bd00d",
+    "title": "Qualcomm Considers Tenstorrent Acquisition for $10 Billion - igorslab.de",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YSDJEUHpGeHJEa3NWZDJDeHRoZ2J3c0ZoeU8ycFNVQTBGM29CSVZuY2RqU0NvNmdxaDhtWmplSDgxTndJckd2ZWVCYUdiT1p4Z2EwM0NnUVRyOWdlbmZuTWhLam51T2hXNFNrNw?oc=5",
+    "source": "igorslab.de",
+    "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:49.380772+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e332844823f630e1988f6089",
+    "title": "Ventana Demonstrates its Veyron V2 at the RISC-V Summit - Embedded Computing Design",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYlBVVWhLRTFVT0wtU1NoZHlGd21FaU81SHJKcmFDaU13eXBsUmxRSzNWaDNMSy1mOUxrOWFlNTBXMDN0STg0Y0ttc2tpZHFnRkpNTVZkRy1jTDlDRXhpN1RWbXUxa2xiaWM4cld4RXhJSmFWUmw1cUtFWUNzaVRaYWtjaC1NVW9tdEgtbzBWa1BoeE11TmtFMlI2OTd4bVp6WXZmeFZpUnMzcTB3TFQwLWN2ZmpiZ0h2N2dQQmdBNkM?oc=5",
+    "source": "Embedded Computing Design",
+    "published": "Wed, 08 Nov 2023 19:49:44 GMT",
+    "discovered_at": "2026-09-19T20:49:49.032073+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "13d2f7434f57c6940c677528",
+    "title": "SiFive unveils P870 high-performance core, discusses future of RISC-V - cnx-software.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaHZNOFZiTmJySFoxNDFoMWdKaGJ6QXlSOWc1eGRVLVA4bDhZU3pvNkhTckFlb0p1SGFscnZHTmIweElFMjZHSlRLbGE1MEFyaVNwdExMa2FSVkdKOHR0RGZYbVRGbEdGWnNVUmdidzVzdGtlNU1vRW9ubFlJSE81Q1VsOW01YUhuU1psaVo0dnVMRUZrY2tuYlJTT2JHZ0NKQjBmS0lkVzUzck1xN0HSAbYBQVVfeXFMTkplak9lOUJWa2NxX2xiNnN3VVBDX0dhdjA5ZW9zNGdMWno3bndxRDdvTWxpb3htUU1UWHpTZkxvNTJNMXVvakZ4THJ6QWFZM1BHNndnLUpSWTBvM3JreTRxR0M1SHJ4anF2WWkzNkFzanhrX1Ffa2h1TzNoWFMtYndGX1ZPVFJNR2otWkFaUFNqMEU0cUJQWHdJNGZzdVZGcXBKaWZITHZaWDNCQjJHZ0FwUnR2OUE?oc=5",
+    "source": "cnx-software.com",
+    "published": "Wed, 30 Aug 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:48.746843+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e0fe91a170b01bc9231e791d",
+    "title": "Huawei AI chips: Ascend takes on Nvidia in clusters - neoteo.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmZDbEM5c1c2Vk56OHRvVlZhYm95SEZxdHU4TmRfUTlqSjY0QzJRamwwcXpyWFBXejZXSkxzMmNYTE90eng4ZkVZN3NCRldobUJXUE9VakxKcVlPRHVwTVhHQlBaZ0R6MU8wUGtRSVpOcHlMUHZRT1F3LUpCR3BhWTVrdjJpNEs4dHZnTWZGV0Z0QWJ2V0dXOGpsQ19wdw?oc=5",
+    "source": "neoteo.com",
+    "published": "Sat, 19 Sep 2026 10:02:12 GMT",
+    "discovered_at": "2026-09-19T20:49:44.916491+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c503e2edf7b30533897e7989",
+    "title": "Boltt EVO 4G Leak Reveals Unisoc Tiger T615 Chip - techgenyz.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wcGtsTXhOaGEtUW5pcERVRU5LaVBWNS1jYlJSdFJMOWUydkJIZ3FQdndzZ3JUbGx4c1FzZXdTLURZRVFieE15Vk9pMmpIZ2w1cTgybzlhYTRjdjZmUEZRbldGRDh6eks1bmtyUlVLXzRWQQ?oc=5",
+    "source": "techgenyz.com",
+    "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:44.386760+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f057e609dd941ee92f68efda",
+    "title": "Huawei shows how Kirin 2026 chip can differ from Kirin 9030 Pro - huaweicentral.com",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPM05DUXBZTXV6Z2tlV19ZcHJBQ1l6TGt0UVRkQW1ZR0VnNGFxQ3RSeUlKQ2JCN1pWaUlBdy13OE8tVWdEXzZoc3dhRUxqMlJHWkxlVE9KcVc4bFEwNy1WWV9IRlNxMG5zZTAxV25LU2xaaTZDZ2F1LWxiTUN1LVYyUnNvdm5vaEpyaF9FVmd3R3ltLXRpQXdDeEFn0gGfAUFVX3lxTFBybmNkM3hBckFDR1lpZjNkSUJmZThnMWljR0JzUFhsVjdUZjMyUGRFaEJKcExvV0F2Um1Db1p6WVZIS2dQblp3bTFhX002RkpwV19ob19fRzhmbktCV0pGSW8tRDliLXY3d0hsN2h2STcyWTRyNVVULUw2dVRwQnZtYlNLbWtQc21ydG9pNXFjX1A3eVdWbnpwOEZnRkMxRQ?oc=5",
+    "source": "huaweicentral.com",
+    "published": "Sat, 04 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T20:49:36.848176+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7b6bdda8b07168bd82fc522c",
+    "title": "Qualcomm Adreno X2-90 - Benchmarks and Specs - notebookcheck.net",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNREpVcjZtSlR6WUtGbEZrZjFLZmdhaWQ4RTVmcnpUZTZra0NaRTEwQ0FGTGJGX2Y2WlFqZWpkQXZ0SERzR3Mzb0RZVXNLWloxc0MzZzVYV2hpOHB1M2RwaHp3a19QR1hEd1JMcTlUclJ3N1ltY2FWQWMzaVo0WExJRDJQQU1nMzVQdjdKUVFGU1U?oc=5",
+    "source": "notebookcheck.net",
+    "published": "Wed, 16 Sep 2026 03:37:23 GMT",
+    "discovered_at": "2026-09-19T20:49:34.799954+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3c740cb81934f7b3ecfb6ec4",
+    "title": "Dimensity 9600 Pro now official: MediaTek’s first 2nm chip - yugatech.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tc2x1YTYxZi1kRmZYZTk5eDZhc1R6eVVGZFRPV044dTAzU0FnYURYRlVIN01INkllekR2bHpJZEx3RHItVWpacG11NkIyTWdQUnRTclZwNzZXOC1KYi1WdUNsZTZGWFZlVjdSVlctVWI3VHZBbkk3Q2lzdw?oc=5",
+    "source": "yugatech.com",
+    "published": "Wed, 16 Sep 2026 07:35:25 GMT",
+    "discovered_at": "2026-09-19T20:49:33.019125+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f6fbc34a5b29990e1b0a483b",
     "title": "Vadzo Imaging Validates Bolt-1335CRA 13MP AR1335 Autofocus MIPI Camera with RV1126 Rockchip Processor - financialcontent.com",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUDFTQzNybXFBQm1uQmFvTUZyMGNDaHB2YUhxWWVEYk9kUTl5dUNVWmJ5a3hwN0R0MmxoR2RYZGVVaTBKZjVqbl9DSGtCend0bmVpbFRTSDQxM1FZREtUUkFVelU3LW5ORDNzcVppb1NGbXFnbEhjY29TUzdwN0gzMUF0OUhOZXk0V3JmVEZoT0JBeElSZTdNVlNocjJZMHMxSm82R0xBT0lpU2ZtV1ZVVG9SbFJGMVJ1c0tkWHBNaTk5X0E0NURVcVNweVFDVF9GdGd2djhvMDdtVGU5RXR4NmlTb2JFdVVrTG5IcXdMUGRfU0RD?oc=5",
