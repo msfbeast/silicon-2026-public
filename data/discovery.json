@@ -1,5 +1,71 @@
 [
   {
+    "id": "f3e56f7884c8f8068e77ec1d",
+    "title": "Socionext Broadens SoC Roadmap with Intel 18A-P Process Technology - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkNpR1FQMFRELWdOVGxEbExXU01OS21mVmdYUTZOa1NuamZzS2FvUlVNT2lCTlB5QkkzMkZIeXJqRXdvUFVaOUpjUUZLLTNkeEhORkEzVlZ4QVpLU3N3RXBLU2w2X3RPbVQ0SU9OWlJrcXVlbURpc0FMWmx0TXFUVUFuWVF3UWllQmVzbXlRZWZiZUZFMnVrMW1hb3Babmc2S2Uw0gGoAUFVX3lxTE1SYU83bHBPM0J1M1BYYk51ZEVCM2NhRlpBa2NWR29rU1RERl9MbkMxUVpWc25LNklDUHNhWGwwdk1PNHlxTDlNVGdXY0pBMWM0Y3M3bW8xMV9yZ1N1aThBVTJobnFkc0M0Z0hSLXdzYWFBeWdEWXVYNDFrazM1N3Nzb3dvaXM5dVktcVJmT2RyTUs1d1hHWFhDLXBXSTgzc2ZLbXEwel9VSg?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T11:10:05.278611+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "81a94027a839a00c1d9c5bd6",
+    "title": "Huawei AI chips: Ascend takes on Nvidia in clusters - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQmZDbEM5c1c2Vk56OHRvVlZhYm95SEZxdHU4TmRfUTlqSjY0QzJRamwwcXpyWFBXejZXSkxzMmNYTE90eng4ZkVZN3NCRldobUJXUE9VakxKcVlPRHVwTVhHQlBaZ0R6MU8wUGtRSVpOcHlMUHZRT1F3LUpCR3BhWTVrdjJpNEs4dHZnTWZGV0Z0QWJ2V0dXOGpsQ19wdw?oc=5",
+    "source": "NeoTeo",
+    "published": "Sat, 19 Sep 2026 10:02:50 GMT",
+    "discovered_at": "2026-09-19T11:10:04.310744+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9b75a94e26bc0d4be6170ba6",
+    "title": "NextSilicon to Productize Arbel RISC-V Core Into 64-Core Enterprise Processor for AI and HPC - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeERGc25mYUxfdFhjdHNHazV6Y0g2OWM4a21YX0RXX1ktLUFWWnB3RzM4N2FkakI3RjNrUTFFN19XalRDckRqaEhIUXFrck95NHhvR0JHRUp0VUJwcm9RM29kUWRaWlgyeGhNVjFDQmJtQVdjbzVnRVkxYUtCQ0lHZEJHdEtYai11NkNWU29mdGhLWHRSZFZXdllCbmQxVHJLcjVEOWEyNERPNmhlazlYZkNGaFVzdlF2R2FWWFRDSWFXRUpERTBYdFhLdkRqT05nY2NwbjYwZk9WR2NDSmpDZzFzOA?oc=5",
+    "source": "Business Wire",
+    "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T11:10:02.232879+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9144d45369a640b55de89531",
+    "title": "Intel Core Ultra 9 4950K Benchmark Leak Shows Massive Nova Lake Gains - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqZGhLVEJDWDVCTENKc0dIc0F2S1VxakZIME1LSHZSQ1ByeEVUN2RDNzVJaHN0WHlVU1RTOHlLWUlhQ2djV3BfVVVXTUhVOFp0bGJRODNBNHh4YUxNbGtrZ3RvSnZFOElIMG0wSW84WGNOekRScWNz?oc=5",
+    "source": "HotHardware",
+    "published": "Wed, 19 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T11:09:58.708601+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "aecce49cf43ba1f0b7cbdfcd",
+    "title": "Samsung Exynos 2700 emerges in early Geekbench listings - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMW90Z2oxMERqVUtheDV2ZFpERWt1Rm9xTi1YdHQ2V0dzQ0FwZElOcGYzZFk1RWZQemNnR2FPYlVHWkMtMjZKcWRJNUQ1Q1ozQzdxYnlneGpzN3laZU9RZWdqQnppT1lJVC0yRUl6MkkyRlozazU1emo4dFRyMEplWFBsa1daQUU2UzJPTVlibmlpdVpCVWlGbVE0UQ?oc=5",
+    "source": "GSMArena.com",
+    "published": "Wed, 08 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-19T11:09:57.276149+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "1969442de3af57a5418f8c6e"
+  },
+  {
+    "id": "ca5699db8711263c41a5ecdb",
+    "title": "Apple's A20 Pro Outperforms Xiaomi's LPDDR6 Chip in Memory Bandwidth Using Older RAM Standard - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uNkUyNzlrTE04bGdldDEtbDFfODZHVVFVdHZVeHpiWC1pSDltN3VUZ3NoaWNEVVZ3M202VXgtNWpmamNiQmRIcWt0NVNvNzdJY2NIZ2hIUXRiSDlmVGRqZWpqcHFKbVNLeVpiLWdnZGtWT1JoQlE?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Fri, 11 Sep 2026 18:35:00 GMT",
+    "discovered_at": "2026-09-19T11:09:53.769626+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "3e36dfe9e4693abb3f45285e",
     "title": "Apple M5 Pro Package Analysis: TSMC SoIC-X F2F Hybrid Bonding Enters Consumer Computing - TechInsights",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVpjTUczTG1LTzRjZDE2a2hhOTVSbHRZS0M0UUNOQlFkcHAzeTlVWE5sT0VNY090MG52eU1PSERCc3d2RmsySG1WMnMwZWcxYXVIc2ZQSWF6Y0RxeFFDYmRreTZLTGlOUGNSUWlXTFl6V2txcmo4cXlrWllwZndoOVk5S1BCX3dkNW9n?oc=5",
