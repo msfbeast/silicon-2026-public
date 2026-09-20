@@ -1,5 +1,71 @@
 [
   {
+    "id": "215bf69c2a2e8451544314d2",
+    "title": "Intel 20 Core & 40 Thread Sapphire Rapids Xeon CPU Spotted & Tested, Dual Socket Config With Up To 75 MB Cache & Up To 4.7 GHz Clocks - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlp6ak13LXl3MUhuMlBuWjFYdEhhVEJTTERZYXA0b0c0OWRHa2c4OTJtUFRRSi1VbE00bHRJVnNTRWc5LThWNmhBd0dsNUk3dHUyS2t1NWw3WjR3cjNEOXNENnh0VnVlM3A2dTFtQWlJWWpZcFZLbWNHdzVjSk9YdjZxTkY2dENwZ2MxZlpn0gGTAUFVX3lxTE95YWlQZWpQYWRJaVZPVWI1WkpXYnZmZ3BjdkxtT2lhc0Q0MG5PcXBaQUZpZzJOczUxVGZVYTVJWng1c3hxYjdlVXRnT2o3Y29rWUt1N1VoOVBFcmNaUGR4OF9XQ09GN3pNeW9OY2p2eXpYZzBkdE03X1QyVmt1d3Nmd092N2pDQkpxam03SmtsNDF1SQ?oc=5",
+    "source": "wccftech.com",
+    "published": "Tue, 06 Jul 2021 07:00:00 GMT",
+    "discovered_at": "2026-09-20T20:54:53.816198+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "83d048bec8aa0d4b19ac6a3c",
+    "title": "Chip Industry Week in Review - Semiconductor Engineering",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqVTlJZk9zckxKWUpGV1BXdjBNWlcwRDNLNWJuMWJVeE9MaTBkd0puUDQ1TEp3dVRsOF9NQkhhUGRLM1psRDRhQnI1U2FFYW9GYUwyTGQ2bjY2T1dEdk1Xb09xaGlxblFMc3dMSlh3?oc=5",
+    "source": "Semiconductor Engineering",
+    "published": "Fri, 14 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-20T20:54:52.533400+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dce65ac089fc9b1a00f2e480",
+    "title": "AMD Instinct MI350P: PCIe Add-In Card For High Performance Open-Source AI/Compute Review - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ZHhXdFBBWFJjcEZfZjI4amFuZWkyU0RfTmF0RWQ4WU11NllBNXVvWk5QbnBaZm9WVkd3d1l0WTJ1ZkVjenZWeGFaYmtHQUFhSmdpTDBydkg3S0hYQUQwUg?oc=5",
+    "source": "Phoronix",
+    "published": "Thu, 07 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-20T20:54:47.934113+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fd978055ed952d6cce93afc0",
+    "title": "AMD unveils AI GPU to challenge Nvidia’s Rubin - networkworld.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUHkzTVR1SjMweFhleTBMX3NEU0RBUFkyZk1lWXY3YzdKZjJOOXI0TFc0cEJpQ19PWVFidUtZOWpYblExWWhCV05fZWRUZ2p4WTVRTjFiZXFHZTNLVWEwR2NnUlhsd01QME8yVTFjUXJOSXJuZjMxSC1mR0EzcGpKM0hDX0NhWTg4ZnREU29aSUxFVFh0bldocFlBbw?oc=5",
+    "source": "networkworld.com",
+    "published": "Mon, 03 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-20T20:54:47.934035+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "429dc9038890cd4c438cc59a",
+    "title": "M5 Ultra vs M3 Ultra: 59% Geekbench Score Jump [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TT1BNeDlSYURSWXRSOXRGVmR4RS1fQ09PZzV5M0tQQXY2YlpLQ3lNaENLbHljalR2V00wWENGZk5ObHJqVVM0NVVCaFE0blhpVzRCczF6ZGlTeTRCWFJZZUNMakJKRkNzVnc?oc=5",
+    "source": "shattered.io",
+    "published": "Sun, 20 Sep 2026 07:13:23 GMT",
+    "discovered_at": "2026-09-20T20:54:41.105346+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4f4d1dc8e9c49d43f903368d",
+    "title": "Xiaomi 18 Pro Series Confirmed for Sept 23: Featuring Dual 200MP Cameras, 2nm Chip & AI Rear Screen - nokiapoweruser.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT1VYcmVtZ09VNjhULTNndjZGMm95TDh0Wm1EUTBwUm93MUpMcjNxQVNaTXgwYkRoNUxGdk9NbHBTM01wSXlxTEFtdGU3ZlRLQ0dUeFIwanpMbVlKa2lia1d6alBDVFJ5amV4alBpLV9RTVhBVW03MlEtZ1Z6X0VpWVpfcGdWLU01QjhRaWRqc0tMamc?oc=5",
+    "source": "nokiapoweruser.com",
+    "published": "Sun, 20 Sep 2026 11:14:03 GMT",
+    "discovered_at": "2026-09-20T20:54:39.309117+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "562f886e3e653e967fb04b27",
     "title": "Hugging Face's Microduck Robot Surpasses 10,000 Sales, Powered by Chinese Rockchip Processor - Surprise Factor Analysis - careplusvn.com",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOThMM2tOYVJKTnpiWXotLUkzY092b0ctcVVES21tTVNNcUlvUVhEaWJ5NDNqV2U0T2pFTi1sWm43OFJqRUNQdUR1d0FpNS1YRGdMbVVUVTB6WGpzZ3hjUlRwQnM0S1RhdkFOTE1VbnlsMFdEa3h0Mi1lb2ZkR2lGNld1bVJhdFdhQXNqQWhfaXVsMG92R3R3SXlCWjZiZUVTam5tb3FtdGdaX3RIdE9hTXEtOG5EUE4ycUhRTUJVQlk3dVJSQnFjRzVvQ29ya1NSanc?oc=5",
