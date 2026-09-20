@@ -1,5 +1,60 @@
 [
   {
+    "id": "48c898f66117b017905db38a",
+    "title": "Apple M5 Pro Package Analysis: TSMC SoIC-X F2F Hybrid Bonding Enters Consumer Computing - techinsights.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSVpjTUczTG1LTzRjZDE2a2hhOTVSbHRZS0M0UUNOQlFkcHAzeTlVWE5sT0VNY090MG52eU1PSERCc3d2RmsySG1WMnMwZWcxYXVIc2ZQSWF6Y0RxeFFDYmRreTZLTGlOUGNSUWlXTFl6V2txcmo4cXlrWllwZndoOVk5S1BCX3dkNW9n?oc=5",
+    "source": "techinsights.com",
+    "published": "Tue, 30 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-20T05:00:49.700221+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6a7ea99f7e8bac8e61b4397e",
+    "title": "IBM’s 2nm Dual-Architecture Mainframe Processor Runs Arm and IBM Z Instructions in the Same Cores - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd1dWZ0ZNTklFODU1aGJvbjJaUmhLRTlwR1pSTUN3dFN2Y0Nhd0ZSVGJPUmN1c1J0VE90Z1htSWNUMVh5V0Y3UkJnR3ViWnExaHBMUmEwSy1TdkJzSlp4ZDNZaHZTaGN4NWhQUVQ0Z3B0MEhjdTRtQUtOLU5VOGw3WV9XVUpkbnFPM29SeXF3a2cxemFzaVdxM2pPZlh0d0Q0NnNXSndMUWhkZ2VMQUlORWpZbUxUcUNvR0UzTEtzQ1FJTjBaWFotSmtjMNIB0AFBVV95cUxQOU9vVmptdXZQZXJnOVlSMTFnVVAwTnQwaUlqYjNuYjdOYTkwdlBsR0VmLTV6SThhRUFCVmdqR2FVb3czeFAxWWt2dzFTYzEyWGhEdkpZQUtFeEYyWDVrWFRLNWNFT01lMEs1ei1nZ1BnSWlfdTc3cFBtdDFQajVsREs3cnNDQ3lmQ3hUV1RadmlFVXFGT0Fwc255Rzg4V1gyTWdJZzVsaTRKWHNWWm43cHc4bzF2S29ORTRqdzRvYnhfNTBsWEZYbF8ySzJSRHRR?oc=5",
+    "source": "StorageReview.com",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-20T05:00:49.700170+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "172e8ad9ef9b9e4fb8b5c89f",
+    "title": "Hugging Face's Microduck Robot Surpasses 10,000 Sales, Powered by Chinese Rockchip Processor - Surprise Factor Analysis - CarePlus VietNam",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOThMM2tOYVJKTnpiWXotLUkzY092b0ctcVVES21tTVNNcUlvUVhEaWJ5NDNqV2U0T2pFTi1sWm43OFJqRUNQdUR1d0FpNS1YRGdMbVVUVTB6WGpzZ3hjUlRwQnM0S1RhdkFOTE1VbnlsMFdEa3h0Mi1lb2ZkR2lGNld1bVJhdFdhQXNqQWhfaXVsMG92R3R3SXlCWjZiZUVTam5tb3FtdGdaX3RIdE9hTXEtOG5EUE4ycUhRTUJVQlk3dVJSQnFjRzVvQ29ya1NSanc?oc=5",
+    "source": "CarePlus VietNam",
+    "published": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-20T05:00:48.617570+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b6268f1dd918d6d7b208965c",
+    "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance - MacRumors",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhOHZYRkV0WjBpQTdPS1g0UDd0SDh3OFBpenhTTmFRYzZXTERfMlhjNk1NekF0WHJKUXJzV1VrTG9QcThUX1dkeGZmVGRvWHBjM2x3eDZIeWVodjBfQmx5UW5DZ2F2V1dOdS1ldFczUHJrNkZaSUFWQ0VHazlXZw?oc=5",
+    "source": "MacRumors",
+    "published": "Fri, 18 Sep 2026 19:55:59 GMT",
+    "discovered_at": "2026-09-20T05:00:38.502095+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "efd956e1b8192d28f6135ea1",
+    "title": "Motorola Confirms Signature 27 Reveal Date: September 22 - AndroidPure",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6VFFuV0xPeGRSZ0RSdnN4TUIwUlVsYTJjckxwdnVfV1BkLVBvQkxIT19ZRnBQb3lDQTRwdXNCenQtaDdMRXZKRDkwZVp1ZmZwQTl6MVdkUWg5aU1qTjZSVFRHWDZFVGphb2VWUUdlaHV6UVE?oc=5",
+    "source": "AndroidPure",
+    "published": "Sat, 19 Sep 2026 22:59:07 GMT",
+    "discovered_at": "2026-09-20T05:00:36.890649+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "e1f2f2c2ac69778c661c1b33",
     "title": "Taalas HC1 hardwired Llama-3.1 8B AI accelerator delivers up to 17,000 tokens/s - cnx-software.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQanJYMDFrQ2JzcVhqRHVvYXFwMFRaNXV6bTNNT3BYd1BTV25udXRTZWk0UUJHbUtzOHlvOWxSanl6N19ZdWlIT2ppTlkzYjUtalZIcmtGc0ZFandIXzJ3NldxRzZSLTF5WG9mSFVOZnNQTE9yNmRsQnpzbWJiNVpxZkdoQ0dGOThIWkc0LXE1UEVxT0FxQ0RWZGtCSktsTDQtX2hfTTRiVHZXTURrVzBIbG9hakdWaU8yQ1Yw0gHDAUFVX3lxTE9FYlM5V0phYktlQldNa0ZuX3daY2pjaWVIb0lsSDRDQTN1QXNUdjFZN3FQZ2dUUHh4bk0yc2N5cWVaM3l3TkNZRlJQTHdkaFpaQUNGTEV1cDV5WUw4MjhuYXRQbUE2Q2pTMWNaWEdWb3lWWG90YWVtcEs3UUd0bkdrZVNQbU1wNmh3S0pvY2hsU21kNWpiU1huckVJMHYzYl9NclM0V0VZZktOQm1sam9PY19tWTgxZzJUeF82WDlwMlhvRQ?oc=5",
