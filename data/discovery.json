@@ -1,5 +1,126 @@
 [
   {
+    "id": "1a069d7123ad2c5cec385156",
+    "title": "RISC-V cluster IP for data centre SoCs and chiplets - Electronics Weekly",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSi0tMFBSN28tM0NYamZ0NkJLNWFSa0JpN2E2SDhBN3cxb2hlUnVodGRLRjVsQnRwajdvQ3pxTjJ3SUhtdDVoSmtoUmtHa2Uxb2FmZF9SZ3FVWmsxR0FnM3lsWjM2U2F2RngyOHZxMU1MYmMybGkzeVFGMnVwUzVEN1ZhU3ZqZ0xoNzFJaGM0ci02blVUaWN1SE8xQkVaeURSQ05Nd0xoX2MyMmdGaGp3TjkzT2tfUQ?oc=5",
+    "source": "Electronics Weekly",
+    "published": "Wed, 14 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-21T05:06:21.588776+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1c7091130c6bd88622c8e53b",
+    "title": "Automotive SoC Market Size, Growth Forecasts Report 2035 - gminsights.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyRktMTldCNjhJMGthdGoyUDY2M2xqZEUxMjdBMmItX1FUV21hMUVoZkNiekw2bXo2ZTZkM2ZaUlluQy10TEl0QV95blI0c2htVWVta3dWSTVrUWFUVURGUl9pODBtVUtVa28yeVNfcWFocXds?oc=5",
+    "source": "gminsights.com",
+    "published": "Wed, 22 Apr 2026 10:09:16 GMT",
+    "discovered_at": "2026-09-21T05:06:21.311553+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fd75056e963a4ec4d1852ef4",
+    "title": "Apple M5 Ultra and M6 Silicon Explained: 2nm Tech, Quad-Die Chips Promise Macs Massive AI Muscle - PCMag Australia",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaEtGYnNoTE03VUdIQjBvVFpnRDBzTlZRNUhiVGJsMmc1YzJsTno3NUlXWmJnQTNQWXE0YkNjbTY2ZmthU3V3WEd5V1EwSWtSU0dOZEV6OWJJOGREdEFsUm12RzFrd2R4Y19PR3kzXzBUdXEtWGF0ZldpV0pGbmRFbmZ5M1c?oc=5",
+    "source": "PCMag Australia",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-21T05:06:18.496134+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8f2ee96f75c02645cea557a8",
+    "title": "Automotive Edge AI Accelerators Market Size, 2025-2034 Report - gminsights.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXIwb2wzdGs4Zk5mWnZRZnhHZnNLS3cySXZBY2N6QmFqLWotTWRqTVd0ZUFTRFFkaUlLYzFoNDMzNzg3eDVIZ1p0QWVtQmhmOVpjOUJkX2dyNUdEWlktT0htMERaUGNuTlRqX3loOFRNZi1pb191RjJQVlN5c3B3NGRvVUxzOWpYZDk4?oc=5",
+    "source": "gminsights.com",
+    "published": "Fri, 10 Oct 2025 12:29:31 GMT",
+    "discovered_at": "2026-09-21T05:06:16.670803+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a97eddc93b76838e9e50c2e6",
+    "title": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3lKdkZXRzZOcVdjMjFycUcwUTBkR1l3U1NudVBvV0lYNmNnNnZFZUJSUnp2cFJ6ZHpNLU5HMVNIcF9OVU03V1h6eXAxbEV4cm5pM05Rcm1HZW1NS0U5MDhvbEpNSElaUWNoN1BnaXFkZ3ZFRkpQeHFsaWk2dnpYb0pLVkdNdTJ1Zjc4aHlZdkVaNUxkbkg5akNHQnBWNUZ4VERFU25WUXpwTExjcXhOV3o4WTFRbDlBMnZ5clBHZXRNbC0xZmFzOHVyUFY3QXlMU3U3ZA?oc=5",
+    "source": "techtimes.com",
+    "published": "Sun, 20 Sep 2026 07:21:21 GMT",
+    "discovered_at": "2026-09-21T05:06:16.044484+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9c480a879c0b12809824d205",
+    "title": "Nvidia’s Vera CPU Changes the Fight With Intel and AMD - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDFudmdNTHBtb01TOHZzOEJvOXF5a2E5Q3BVcjhBUjlzMmVmZm82djhFWlhjemZTMmFvUUlJa3NXUUZqcjZuSnkyMzc2N21WQ0ZhUkgyb2RiVjc4TXQyNEVPVzA4cXNzRVVWLWg1cmVwN2VWaXRQdG9ZLTJ4RUdvVzJ3?oc=5",
+    "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "published": "Mon, 21 Sep 2026 01:23:18 GMT",
+    "discovered_at": "2026-09-21T05:06:15.537489+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8779e82d29b9507695c91afd",
+    "title": "Meta’s Iris AI Chip Passes Testing: Broadcom Now Designs Chips for Three Rivals - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUGVPVDV2VHJIQnRJSGhYYjNVZUN0YjJRY01YTm96ZEh2U0hib3BSbTM4QVhjZ3ZROURhX3QwcVVfek1Ec1lfejM1RXVHaUdtZ0FvLWs0bG5FNDhvUWh0VEtVVFJtOUE1QW9XUEFfQVg5VVB1QjlJQlk0NHVPRTJ0elpyZzdwdHhPdE9qQk1pUUtXVWc0Ym9sQnFzWkwzdkUyYlJGczFHRW5paWRMTFl1RlpNYkNOSDloWndJNm1Sd3hZbFJYQXQw?oc=5",
+    "source": "techtimes.com",
+    "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-21T05:06:15.111349+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a4217e4c292b8f1b43e40782",
+    "title": "Nvidia Rises Over 2% as Jensen Huang Expects Chip Sales to Double by 2027 - tradingkey.com",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTFNmQ3R0M3VpbHd6T01xOUJjb1JkZ0J5d1hPOGE0R1Q4Y3hGaElWUUZZQk9UQVFDLUJuS0tacnE5VWswTFE5RVA5cXRhQUotTWpnM2ViMnFPVUNDQ2ZldTdGMmNUQTNtNlB6T1NteUo3MTVNSUJRUGxrRlh2TGV5dDNLb3lFWVBsbUdNV0EyUEo4WXVVMHdRZVhISEpCeEN0WVlZdTRFNlVuMjVieVZTbHhCNDFiU2VmTjVobWMyV1ZQcUVsb2c?oc=5",
+    "source": "tradingkey.com",
+    "published": "Thu, 17 Sep 2026 13:40:24 GMT",
+    "discovered_at": "2026-09-21T05:06:13.754398+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dcaa81a54df254dd5f6da7cb",
+    "title": "Latest HWiNFO Beta Adds Support for Intel Nova Lake Qualification Sample CPUs - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYWM1MUJwXzdORi1tbUd0N1JnUmU3aU95V3J0QlJEbDItY280NHpqUkxHWEhmaWZKeGZHelBtcF96dmlUaVE0aXhQY3FhTDZXNHNNYmM3emhWa3d4bTRtNjlLRUxRNmNKSHdNUjZOM1VGRmt1dFhmRlpCcG9nMWdCWnBLa2ZrXy0xbVRuNTBPRkJjbklmQm0wOE1nOVhTb0FfaW5TcTI1R3Q5V0lZOXI1WXBvNktuc3PSAbcBQVVfeXFMTWFjNTFCcF83TkYtbW1HdDdSZ1JlN2lPeVdydEJSRGwyLWNvNDR6alJMR1hIZmlmSnhmR3pQbXBfenZpVGlRNGl4UGNxYUw2VzRzTWJjN3poVmt3eG00bTY5S0VMUTZjSkh3TVI2TjNVRkZrdXRYZkZaQnBvZzFnQlpwS2tma18tMW1UbjUwT0ZCY25JZkJtMDhNZzlYU29BX2luU3EyNUd0OVdJWTlyNVlwbzZLbnNz?oc=5",
+    "source": "TechPowerUp",
+    "published": "Sun, 20 Sep 2026 23:45:54 GMT",
+    "discovered_at": "2026-09-21T05:06:12.673122+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a38de36884f8c75a5d891dd6",
+    "title": "I Tested Qualcomm's Snapdragon X2 Elite Extreme: This 18-Core Power CPU Hits Hard Against AMD, Apple, Intel - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaGR6d1lnb1VHakxHc2N4T0E2U3E4UFFyYkFwWEVmMXhoSFRzS09nX3paRU9kbmtadmIxUzJGd243U2NLTDhhOENXdmpIMzZmRXMxQ29lXzVrcURBSE1mSmgycGpyS3RMLXFsQUtOQ0pwaWYwT0tuQkVkUDh1RHBjMm1NTGZ0SEtvVmozOE1FNGhqUlpMS1dCRDRtdFc?oc=5",
+    "source": "PCMag",
+    "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-21T05:06:08.908541+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "252e170102299d5ca783025b",
+    "title": "Apple M6 GPU Score Nears RTX 4080, Beats M5 by 34% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JQ0lDSFhfZkI0T0NBMGxrb0lVaTR2elQ4d1Z5c0NfVDhKLTBNOG9GR0w5UkRwM2FKWEZ4c1FxdEJBczRLcWlMLTlaQ3A5MUV2WGJlSWNoRWZiMlpxRDM1OFgxRXNBXzZpb1E?oc=5",
+    "source": "shattered.io",
+    "published": "Sun, 20 Sep 2026 07:13:23 GMT",
+    "discovered_at": "2026-09-21T05:06:08.353196+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "215bf69c2a2e8451544314d2",
     "title": "Intel 20 Core & 40 Thread Sapphire Rapids Xeon CPU Spotted & Tested, Dual Socket Config With Up To 75 MB Cache & Up To 4.7 GHz Clocks - wccftech.com",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlp6ak13LXl3MUhuMlBuWjFYdEhhVEJTTERZYXA0b0c0OWRHa2c4OTJtUFRRSi1VbE00bHRJVnNTRWc5LThWNmhBd0dsNUk3dHUyS2t1NWw3WjR3cjNEOXNENnh0VnVlM3A2dTFtQWlJWWpZcFZLbWNHdzVjSk9YdjZxTkY2dENwZ2MxZlpn0gGTAUFVX3lxTE95YWlQZWpQYWRJaVZPVWI1WkpXYnZmZ3BjdkxtT2lhc0Q0MG5PcXBaQUZpZzJOczUxVGZVYTVJWng1c3hxYjdlVXRnT2o3Y29rWUt1N1VoOVBFcmNaUGR4OF9XQ09GN3pNeW9OY2p2eXpYZzBkdE03X1QyVmt1d3Nmd092N2pDQkpxam03SmtsNDF1SQ?oc=5",
