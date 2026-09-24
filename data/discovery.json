@@ -1,5 +1,137 @@
 [
   {
+    "id": "40220d22cf4c63ecc265d10d",
+    "title": "Ventana bumps performance on Veyron RISC-V silicon to surely speed up servers - theregister.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUp0TGVTNGJpZEFMVUI2VDFWeE5CajRWSHpoU0hyMWZiR0w4U0lEYktnOWN5NjA2Qlg5OGNMNlZZYzZnbEc3T2dTYzlrQ2FjbUNYcmNJdHRQV0dDZVlrYnlsa0dpNVNsRFZBeFdKYkpHS3hrZVpYaWtpa25qci1sRDhLU0NSS3lOY2pxYmZoS2NPSGs5NXdXUko2aUllcjJ2QkhUd1VkUnE4VDd3aWpsWTNNQVI?oc=5",
+    "source": "theregister.com",
+    "published": "Tue, 07 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-09-24T11:56:52.752585+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8668cece3a987a153d665761",
+    "title": "Vadzo Imaging Validates Bolt-1335CRO Onsemi AR1335 13MP OIS MIPI Camera with RV1126 Rockchip Processor - newswire.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1k5S1dmWEtZNmxGUjd2ZUd6QkJySXVwOWVnRTR4dWJwQnNSTVk3ckVSNHZCU1ExS2RBa0hzd1NnV2VFNzViejMzYnRRb0ljb05USVlpOGZXZzJ6UUNaNVdNeEtiZG1MelBMdHQ1WTUwajcxb1JrY3R6VHB3S1FlOEVlX29tcWRhSktiTlZMX3J0TGNzRFN2VHV4cnJCbzJnU0ozM1p3?oc=5",
+    "source": "newswire.com",
+    "published": "Wed, 23 Sep 2026 14:30:00 GMT",
+    "discovered_at": "2026-09-24T11:56:47.933313+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "c76b2eb4a8ff8a792d0ca404"
+  },
+  {
+    "id": "bbe6000416b966690fc5dc15",
+    "title": "Quectel SE200ZC-AP smart module supports up to five cameras with Rockchip RV1126B/BJ SoC - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd201MjBQNk1ZZk44ZDFMeXlOQldWQ0JaME00UnRNcDBrcGZaeGE4U2FfLU5kcUVlcHpCc2JsVUpWY1hvY05yZDhNdUR4b0xZc21iQkZpbTdvQVc0VDg5UUtfLXZsU3dCVmNFejYxNDhDOWo1czVnd1pDcTRTaElGemRDbTVqcW9zZmZ4M1B0QldoTFp1c1NIUW40cnh5RVFXb3YyYWFGMnJ6Y1RuU0ZEQU8yREFESml5VGF4YVdIVER2Z01TTWhTNNIB0AFBVV95cUxNYjdSaDBaV2lmczhvRHFUM3BKWm1CM3doRGZEOWhra3A0VkVBQm0ycGxzbk5PV0h0VHN1ejN0SFl3XzgxVnRtbEQwVWY2T0FramlZOGdOQVhILXZPeGY3Ym5fSFJFWkp0U3pXOXF5TXM0U3I4ZGx1cVRXdkpxMmdiRTdtcURuVWdicC10XzA4RWlhcGU2Q0xaZXhRWEI0NEthM29HelFZWjAzb2k4cDNiOVJrdzN1aUdUYVFNVE81UFVGU2lOemw0T01QaDItWHVB?oc=5",
+    "source": "CNX Software",
+    "published": "Thu, 24 Sep 2026 00:00:25 GMT",
+    "discovered_at": "2026-09-24T11:56:47.933244+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "41420a695123ab1b435fad87",
+    "title": "Nvidia's Rubin Chip Faces Minor Thermal Hiccup, But Analysts Lift Price Targets to $330 - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iVld4OFJNQkVMcmx5bTlmMzI5QmpfQW5ENk8xZmx4V0Q5TTJOeE9NX1ZhVkNFci0xekloSVJVZ1J4R2ZkTzRRb2JWUHlHMjNUWTFwYklNM2szQXVkbFphXzBRcV90SnhMNkZoQzdCcWtPWWxpelE?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Tue, 14 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-24T11:56:44.051525+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0aa336a4bdce7b2cba528c06",
+    "title": "A20 Pro’s Packaging Shift And New Vapor Chamber Unlocks Peak Performance; Liquid Nitrogen Cooling Brings Less Than 3% Increase Thanks To These Optimizations - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTTl6UHBuUDBTWW14ZmhPVkNIQWR3Yk9HWEtGMl9NLWdSd01LT0VlcmR6ODJOSDVHZzNqbFpHNGlZNVFFckY4OHd5ZnJKV1lXbkQwUUdUM3gwRUJwTXRZd2xSTC1qUmVXNk1NNWNkTWRsaGtOaTZKLXYtZHhEX2xlcWlOb0VkTkxod2ZtTkk3UlVSbGdtdGZNTkxsQzltZ9IBowFBVV95cUxNa2ZQZHRyZjBmbEdkU2xyV1doUFBJeE9lQnhzd2FUWFJXTTlFdXhWZWZ5VmpXd0EzcTlxS0hxVnpWa0s1OE5hMHB3VFctemUtTG1QSXkzXzJHNTg2cDZLek52N0k0QnpyeEhmRE5BcERJc2xueGNEVVpGNTJRVmk5ZWxMTkx4eW5sZ2tHeUIwRmk3VmktQ3NaM2pHSmRoMXdvOW5R?oc=5",
+    "source": "Wccftech",
+    "published": "Sat, 19 Sep 2026 18:00:10 GMT",
+    "discovered_at": "2026-09-24T11:56:38.108833+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9ccce49cdeb77b186b6a558e",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 phones: Six confirmed models - nokiamob.net",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3NMeFNiLXFmRUp0N3VpOU5NOFo1RVdyb1R2YmNHaWY3TVFSMVVUS014UWJqZHhON2xkMWVmSm1KbG5Ld0tOWXBOd1JpaFZiMlBiUmI4b2dZZGVvVm0yYWJISUQwVGR3NGpqNmxuN053MjJqdkl3dXowOE1xNDFUUjVCNjJLLXhWMEYydXl5V2dqXzd2QkgtMlQwRQ?oc=5",
+    "source": "nokiamob.net",
+    "published": "Thu, 24 Sep 2026 09:30:47 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102928+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b189193255985280bdb5f474",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 Edges Apple A20 Pro in CPU, But GPU Tells a Different Story - Android Kenya",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb3pGYWN4R1B0LWJBbEV0b1ZWWGZ5MEJNMmNOR3hyRDQ5bzVKVGhLWC04ZnFOT2NOdWk4UF9LRjQ1aXJYWW9xUFpaWnplVjJ1dVJHZUxzM05GODJ3UDQyRV9aZ0ZtWWgxRC1pSlh2TF9WaEcxLTRBT2xtT3VkdEFMeV9TRDJkU2ZVYUtmRU42eDVoeVpYMTd4Rl9yZUZNak1oX1lSR2VOUDFnVkNQRXJUSkpuR0IzOXkwcmZnX0YzV0oxclU?oc=5",
+    "source": "Android Kenya",
+    "published": "Thu, 24 Sep 2026 11:15:00 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102894+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2e619b8bf99538ea297f3ccf",
+    "title": "Just how fast is the Snapdragon 8 Elite Extreme Gen 6? I benchmarked it - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2FZOTVWQ0hDVlRhSTZ6UDVCdmUtQ2lhU2w0c2kzaFRVNi14bGtZeGdSNkpCVjlWdFB4WlRtdEk0V3hEZGFOWHdpa3VlMm9SMUs2WWdzZXJWckhCXzY1OVIzOUx4aWZmRms1NXlKVTNMeVFXd2ZETnFhb1lORXlxZFVOSmJTYm0wZVNoZw?oc=5",
+    "source": "Android Authority",
+    "published": "Thu, 24 Sep 2026 09:00:00 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102856+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "172e652041a2d35239c34e5d",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 vs MediaTek Dimensity 9600 Pro Comparison - Android Headlines",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVDNueng1MThsVkgydnozS09RSUd5TnBtVVc4RDFhbEN6YTY2cUZ5V1lzVV9pMlYzb3FOclVhUDdmM1IwOUl6ZGpSdi1yOHk3SnBmR3FSZjlHank2clowdGZSZ2FCVkpfWDBiZnNCU1djTlNCc2pRLW1zMXJsNURnOUJaOXJxZmRqR3ZLamtfS2hUYUFTWlJMdFNUZ1VQY0JWaENobTE3VGJGSFE?oc=5",
+    "source": "Android Headlines",
+    "published": "Thu, 24 Sep 2026 09:25:03 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102840+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "886e76e9f06320a1b4e5259b",
+    "title": "Snapdragon 8 Elite Gen 6 Series: Here Are All the Phones Featuring the New Chipsets - Gadgets 360",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMWVEQmloM1I0bEhPVmE0elVpNFVXakZNYU9vQ2pUalVkV3oxekVtRmhwaGRUS0N6bDBiUGRDMy1QM2RtdmNGTGxyaW00UWZiem4yWFBaeTBCTmVOcXZoNlVnWk9RRC1xejI3a2V4Z3dBTUs0cmc1RzBvLUF1LUVvOFB6cDF3R2x2WE1GQTlDbDQ4S0Fzbl9vTkhFQkdEeV9DYWlkZmtac2NaRGl6R1VRZTZJRnVKR1ltbTYyTENYc2M0cXlQemNEVThMdFVMV0x3NmRGRW05RTVDVFB0YnVnTk1R0gHnAUFVX3lxTE5BVlBXRmFzd2pOdGY5UUpjZnJyd1NQOHZDS3p3RGJrbmRlREZoLUdSRnpQOGhJZGhYOVNGa2JpcWw3MGw0NjU1aGJuR3JhR3hPOUJwMXYwYzdtdzhjVzRNcFdjVm84empBZXN4NWNzcUlpZTQ0SXNMdm9ZSHVfT1lXSXBfSHJwdjZwMUd2N05COUYzWjZEVHRzMEFGdlpVYjFoNWZzTE5FbmZETWNJZDRGMzRISGhHSDBMRXVnYnZSRWZvY0NmeWgwaFhSNVpjT0dlX1RrTnUtZ1BTdGdqVFlQMTRmcjlkRQ?oc=5",
+    "source": "Gadgets 360",
+    "published": "Thu, 24 Sep 2026 06:58:30 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102792+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "49214ac3b4a5fff4a893faed",
+    "title": "Qualcomm Debuts Snapdragon 8 Elite Extreme Gen 6 and Snapdragon 8 Elite Gen 6 Flagship Chips - hi-Tech.ua",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRDRXdkZLbldBUk8zRHVmMm40S29kN2NKOERyNFljam1rd0w1SzJuS29tZk51TFZ5UkpOdExJT091TndtMVViRmdKMjVRVzZiT3pINHFGeFNhMzdIMDdPNWhEM2VBVzBHQndGbmw0U3FpRGRJZ0dQZzNNbTZmb2JpUzVQa2xYNENIUUdmRld4N3ZtTW9sRVlnUlhDWWxnYjE3MklrWHBGVlhVNkxjT004S0QtUU9pUQ?oc=5",
+    "source": "hi-Tech.ua",
+    "published": "Thu, 24 Sep 2026 09:08:15 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102761+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5c78af1291e2899e7df9b931",
+    "title": "Two Snapdragon 8 Elite Gen 6 chips unveiled, one could be used in Galaxy S27 - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZTlvZlgwUFJuOV9oWHBYc01XV2FkcXVDRV9JOVN2bEUydFQzMmZWZFhjOHM4ZkdBZWtyRVV0eW1zRGlNZk00SzRKQWNHLU4zS2NfNG1CM09oOWlwM2s0WWY1ZTJmOEVTX1NYZkVFRFdVYy1HWWVKcFNJenh1YWJDUlMwNjEtOWhMZXdkaHp1X3RnR01XWE9BZDREd3pTMFo5?oc=5",
+    "source": "SamMobile",
+    "published": "Thu, 24 Sep 2026 05:55:00 GMT",
+    "discovered_at": "2026-09-24T11:56:37.102740+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ad42974c3df36e4579f10c79",
     "title": "Amazon and Nvidia expand AI partnership with 2 million GPUs - Yahoo Finance UK",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOaHpObGVaMTZ4Y0xyb2tzNVlFTUdXem9uYjI0dnJCSm00VEJ4eXUxaUowUEdndi1oVDE0QzJBZUxIcTJfanBXa2UzX3RpdEI4eFY4RzFaOG90bUlCajh3S0RFUXVUU3lzcll6M0tpZ05DamNlUWcwUkE1S3ltbFF3NzZvekxyYmlDSlAxRg?oc=5",
