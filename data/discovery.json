@@ -1,5 +1,60 @@
 [
   {
+    "id": "ca4495584e155f50f25687d7",
+    "title": "Cerebras Raises $5.55 Billion in AI Chip IPO, But 86% Revenue Dependence on UAE Entities Unresolved - techtimes.com",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEx6a1dWRVpWdjJ4ZnJyTzM5dFBvT0Z5cDNPX1pMUGlacGhMeUxHaFRKa2tZWVdXQThqUHFVSjZfS01OaHJieG12Rmt1VlRWSUlRNllneWJRODBzRy02VnMxR0drT2pJQkpZSlYzTnZTcFhaRkRodXpqWExucXZ1Zm52UWxDNENmZU5GZzdvQVZhd3ZBeU43RDBJczVLRzZnLXF5RjVtdDhtQmVBY0kxYXpBSl8tNVhPMUJfRWp2TDRXc0ZaMFZheXA1N0RJZ242MVpQbkFONA?oc=5",
+    "source": "techtimes.com",
+    "published": "Fri, 15 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-25T21:40:26.093410+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "61b3d4cb55f02dde735a4777",
+    "title": "Intel Unveils 2023-2025 Xeon CPU Roadmap: Emerald Rapids In 2023, Granite Rapids & Sierra Forest In 2024, Clearwater Forest In 2025 - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1RnQWpqaDZXWjlsRnkwWVVsdGk1TlJUX1ZZX0R4TTBJZjVnZkk1MXVRZkQyaUF2eU9NNXVyUnloYjNBNGx4ZVViLUttQ044T3o0OUdsdW1YcjVncTlkejJDR2xBVEdCUVc0ak1LSVBiZUZQbTVwUVJad1lMMzB0dUk5NEV0cy1oS3EzZU1JQzlpZUhtaHJFSm5OQnJMdGxCRGRlaXJKcTJXVFNDWXI1VWNETWpEcWM1bWlMV1hPSEZUeHFWaE9XOWd0STFtQmFodkZiOTdNaTBKZHVES210Q1dB0gHnAUFVX3lxTE81SVVpOV9GdFNzT0U1TXRoZW1xWmJVcm1laTdidjhGNW9sVkF1ZzlRS29ncllZdDBjSER6U2NkMkpuZnVBTFVjNVpRYzNfU0FLVUFyQy1TOTlmTlRnNjJNWTdrUklMTF9tN3lHN1ZkSldab3JMR0VIUmZpSUpic2ZsazN6NnA4ZTV2VmYyZkd2M2hpTmZPVm5md0tnSmd2VWNjenl2MkhINHpiS1JZSXJXSF9JSTIyT0NNX3Qtc1FQNjN6XzRCMGJjQlNWUXhsOXB3SHBzQTQwSkNiT0RMTjJuTFJYMWpZNA?oc=5",
+    "source": "wccftech.com",
+    "published": "Wed, 29 Mar 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-25T21:40:23.081449+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b26b268f0fdf85900434628c",
+    "title": "Snapdragon 8 Gen 4 Engineering Sample Gets Benchmarked, Revealing A ‘2 + 6’ CPU Cluster, But Operating At A Low 2.40GHz Frequency - wccftech.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd25VT0VnNTFwcmttZnd4M21aeXlfZlBTMG5iMVQ1WGhLcXpyWkZMSGtvRVpUME9nVjRuZEdLVmdxSnpaeTZlc2U2ZXVlY2U0MXNkVEhlVWN4UlcxTWYtVzZlYTVBYll4TXRKcldHNEJGMXZCRzFjYm42S0lqRTA1Qkhia09naVHSAYwBQVVfeXFMT2NOcWVoYXotU3ctWGVwdDItOWVYa1EzYUhtVDdkb3pZZ3d2S21od2tSV05jUXFhdjh4bkxPbWRXTU1vSTBwdzFKYmlBX1FCaXpKeVB3UmF2ejFjeVQ0ekM2TWNRdFRIMWZVU0ZXSjhhVVFSWF80bGRPN0VFc3lleFdpTjNYY0dyQ1J1a1c?oc=5",
+    "source": "wccftech.com",
+    "published": "Wed, 01 May 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-25T21:40:13.587020+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1309658033384ccf5de4d05c",
+    "title": "I benchmarked Snapdragon 8 Elite Extreme Gen 6 against Apple’s A20 Pro and Google’s Tensor G6, and one clearly loses - makeuseof.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdlRBWXFRWURLdTl3ZzhtVTdsNElXYlpuU1I0LURXSHh0Rk1oRHQzdkdTMFdGS1huRHlWc19ac3VkSzN4dy1ISlJBblB5S0JjbVFNd0tvTFNxUFN5WkVVYmdPRkl1REtuSjV0bWFfNHhTV3NyN2RHakh3VjFYUmh2VWFtT0thcTVBT2JOY19jbzg4emlPVkFHZldhQ2s?oc=5",
+    "source": "makeuseof.com",
+    "published": "Wed, 23 Sep 2026 23:15:14 GMT",
+    "discovered_at": "2026-09-25T21:40:12.891195+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "73cf2c4d50c50f3b2efa9723",
+    "title": "M5 Ultra Mac Studio Review: 90% Faster, $12,299 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpaUl5bHJDcXE0azYyZkJBNTdRWEVBa05JLXVuOWJHQzBkREFNVUsxUTB2am9QWTlYd2ZYeG1KY1pOcG40dkd2YXAtb3VJd1VKVjlHdEtMLThWWGV6WlE2cmt1dW5JQ2pxNUFGdGR6elM?oc=5",
+    "source": "shattered.io",
+    "published": "Fri, 25 Sep 2026 21:17:19 GMT",
+    "discovered_at": "2026-09-25T21:40:10.823384+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ab6b339c9ace41f6069af2ac",
     "title": "AWS re:Invent 2025 to feature Trainium3, scaling secure AI agents - Constellation Research",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWjk0a3pwYnMxa25yRzdCeWJYSDVYMlkydjZjY2lGT28zaXBnbTdKOEFpQjI0QWlJRUVBdkNQQmdtUGpPWGpwd1VLX3RCeUhRU0hHamJ6bE13Y2RzbHJObTNncXlNdG1HcFE4R211RFhLQzlNNEdMMjZCNzUwQmE0allub1lIN0VoUzIwMWd4aEVkQWpxNDhGVTNYak5nXzc2T3B3T1REM2M?oc=5",
