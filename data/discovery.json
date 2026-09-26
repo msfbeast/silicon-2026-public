@@ -1,5 +1,93 @@
 [
   {
+    "id": "7e66744a0fa635e056767691",
+    "title": "SiFive Announces New High Performance RISC-V Datacenter Processor for Demanding AI Workloads - HPCwire",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYVZ0TWJ3YU4wSmZnVklSdkFsenIxMFFteDV2LVZsU1NxUG83d3BwS2lYYzhKT0cyYklwT19FLV9JNGZreGExeXhwcHNCUWlBTHhPRzQ5WFg4ajFfZUJtTF9tOW5UMFB6MHp6Y085dEtyaUI5MWxvR01QT2JrMDB6ZnQ5YnVlV0xrWHNHVzdGMFZUc1FyRzY5allWYS03d2hGVEVNNVgtS1Q2VkZJdG16R0xXWVgwOHRWOTZUVTN2Y2VwTnExM2kteHNB?oc=5",
+    "source": "HPCwire",
+    "published": "Thu, 15 Aug 2024 14:15:21 GMT",
+    "discovered_at": "2026-09-26T16:30:07.593568+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "191363193a38bd61fa7f3c01",
+    "title": "YuzukiNeko Allwinner F101 RISC-V SBC Compatible with Linux - rswebsols.com",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNd2JycGFyaTV4QVN6SlFMX191bGtLSVpOYzRTVWxQN1M5b1VWM3FnZ3ZHcThsMGNDNXVOZjctb25vQUR5ZXBCa09tRGJ2bG9BLXZCQWNpZlpCdkEtaVhjWXM5U0RoN1YxSEZiSmUzQ21iZVUtdTRnSWdDSTZWd0Qzbkl2ZmpxVE1Zdl9mVGI4VGlNd1cxNDlyTEI3aHJDNlIxaXNCTUctNnlXaDVBbjl5ZFpCOVU4T2FFdWd1WVpRdzdYTUxlUkVVRDluNVVlMFhoWm1Dang1dkcweUpLRjJZ?oc=5",
+    "source": "rswebsols.com",
+    "published": "Wed, 09 Sep 2026 05:00:00 GMT",
+    "discovered_at": "2026-09-26T16:30:02.943382+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f4b28964f8cd59d10fd1ee50",
+    "title": "OnePlus N6 Lite: UNISOC T7250 CPU, 7,000mAh battery, 120Hz HD+ IPS display - noypigeeks.com",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54a2JXRUhmOE9ENS1aYUhDcE1yYTUzemozSGcya1ZOMmJZS1pNcmM1dHFDUGJua3JNU3doUVQwTTZMUzduSG1KVl8wOXBqYld6RVJ0ZVNRbjVBUG5mU1UxcQ?oc=5",
+    "source": "noypigeeks.com",
+    "published": "Thu, 24 Sep 2026 16:48:47 GMT",
+    "discovered_at": "2026-09-26T16:30:02.943193+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2bf806c7557201a1cee90205",
+    "title": "SEMICON India 2026 showcases India’s shift from chip design to full semiconductor ecosystem - indiantelevision.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnpfekJRRnlhMjNvUy10QWgzckx1S1NvOFFPRlRYdGVVWE9kekJKN05FWWRDLVBxSWRITDB5MC1FUG5XN3NuVV9ZR0tnSE5OLVRMOGo2XzFsM1BuYzZZV1kzSGRSTW9uWXNYWWszRThUY09YdHZfZjE1SC1sejhhdG93bEdjUnV2SnkxaExtU25BWUhIa3VIQmJ6cUFFeTlETzZFaHpsTEJZd3pWTmRrUjJGYzZ5VS1Yc0VqX280NmpCQQ?oc=5",
+    "source": "indiantelevision.com",
+    "published": "Tue, 22 Sep 2026 08:55:19 GMT",
+    "discovered_at": "2026-09-26T16:30:01.375525+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a3135242283ba4a00413d9ae",
+    "title": "AMD buys Taalas and a very different idea about AI inference - Jon Peddie Research",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtrMWpyTVh2VTdlX240X2FYWUFkenlfdENvNjF2SFhxN2k0eGNSdE9ZUUNEUTNMby16MURqT2dfeWw4UmJCalMxQ2FmUUFkRGlPUUJDNG9tZ1Vma2MtVWs0MG9aZEdESXZzOC1YdFZRUWV0OGo1S1BrVlZXYnBqbTU2Rm5obHlRLXdyYzh1czNpT04zdWFr?oc=5",
+    "source": "Jon Peddie Research",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T16:29:59.018663+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d53d5b2b492669337597ed9d",
+    "title": "Vera Rubin NVL72 MLPerf Results: 3.7x Over GB300 - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOTRKQUNQMjYyNTlqUndPc2dPVjVKOGRoTzN1MGdzdXQ0OFJxaWNzZGpNNWZtYWQyaW1HYVp5bnppSEVqNElGcGlPR0V0SVRQNGtXYjIxZ1lfRHJKcERZZzVxcmJfczRSeDQ0ZEdZQW5YS2M?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 26 Sep 2026 11:57:21 GMT",
+    "discovered_at": "2026-09-26T16:29:58.414586+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2ba2652e007de679c76ddf1e",
+    "title": "HiSilicon Kirin 9030 Pro (SMIC N+3) Huawei Mate 80 Process Analysis - TechInsights",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEFZd0JfSUlUUjA5LVRwS29DODRLbWFuTFFqZmo5NmstSXBhTzlZYUEzUUlHVjZqUmlLbFBveG9FZGVaS1pZWmtRYXVPb2dZZnBpVXlXOHdjTUI0QXJTR3dySzJZczhmaWEtWUx0dTY1MHcyMmhIdXp2R0x6bjRDQ09ucTU4X2U4RTlPbmhoTG5zU3JKemtzX1JraS1hSDg?oc=5",
+    "source": "TechInsights",
+    "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T16:29:55.143993+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "34d462d732494ff90b800bc6",
+    "title": "‘Apple isn’t out for the count just yet’ – our component expert pits the M6 against the Nvidia RTX Spark - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ncl9nb1ZyZUN4LWtqaVVkRzJQRkZYU2xPaUpnTFlTQjA0ZXNhSGhVRHUtTHc4UzMxU19sN1FMLW5XRWpFaGdKX0ZYVUhySG9kanFZUWNnTGJsSHBaZ0NiWmZJRHN4UjdnRHJ5RUczNXBRbC0yNVlZ?oc=5",
+    "source": "TechRadar",
+    "published": "Sat, 26 Sep 2026 13:30:00 GMT",
+    "discovered_at": "2026-09-26T16:29:54.259121+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "748dd387afd92ed425ba4acb",
     "title": "The NVIDIA Vera CPU: A Practical Guide to the Chip Built for the Age of Agentic AI - kingy.ai",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUs4emNHVTNtSzBhU1V5TjZhR1ZDMEQ3RUR4RVpIUUJzeExVRGJ3WTByYlBrb01yY21MdGlIeHRSelRoa2R5eUlyUF9lLTRXZWJoc0VLckY0ZG1ZMVhFankwdGowR0VueHNwdmV6TXhGUTBNMVoyNnVYX2ZobGE4Q0VNOTI3VWxiaGVmX0dEOHJwZUk4N0lrRHB2SnNHcTFibmtBWHFIbw?oc=5",
