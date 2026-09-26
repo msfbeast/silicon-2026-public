@@ -1,5 +1,137 @@
 [
   {
+    "id": "7de69e782b88a19c778b3196",
+    "title": "AMD EPYC “Venice” Enters 2nm Production at TSMC, Extends CPU Roadmap for AI Infrastructure - storagereview.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRENaYkVpMFk0bnhLLTUxWURvR0pmUS1wU0NTUVFBMThILVhmWDI2YnZGSkx6eWQ2R2dXNnVCbldtZDJMb0FhVUNtOUNMajBMcXhqOEtmLThPSmVqNW5STTQyaTVkUDBKSFdndWVUUE9TZUpqNTN5WURoLW1QcURxaDNSV0tkZHdXYXRrN0ZkYlNYdTRMald4bW9RNDBsRUdnRTRGeE83eEo1YW4xYlpDOUp6RzF4bk1uR3RkbnVhc9IBxAFBVV95cUxOQjVRekRNWUVXelBsc001Nm5UcHhoSDBEdVFvZTNzR18yVFRzQ3hQQmxXbnpCTV90bk0wbFVHbGtpWFNabU5PbkRVdjY2SUVROXl1dWp5ZVpDVjlGNDVESTg4X0traS1vU3gyRUZUVlhxQ2YtTFEzRExsS0o5VzNPMTJ1emFwNmUtNzQ5Q185bTdvNzY2emljdzJBTU83M3h0T3BYNGlzT3pVVXo2UWk3VV9pZjBLNFptTldJLWFudF9kdG1L?oc=5",
+    "source": "storagereview.com",
+    "published": "Fri, 22 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T05:08:22.378100+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "ae393a905c6fe64798594f30"
+  },
+  {
+    "id": "8022f08f33af688ec51b9e5a",
+    "title": "Huawei outlines Ascend 960 roadmap and million-processor AI systems - crnasia.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUm82c0lXV2JQUGNtOXpLUWwxUHd6dVlZbFE5TTU4czdwcGxZcTdWRU9BcjNtdGtEWUlYaFRwM0FkRHVqbW5hdTFzemRLMVl5RUNVVzJNNmZNZFJEeGphNEZTXzdTWk9YQnhzaWFHWU43UmI1OUk0aDlGSUtEVklpMlZkTVpuOXJyaUNWdFlmcHJRWE9jdmJoVi1OajExc0puTmFuLWZ1ZHBOZGNIbGpzU2tkWUlVT2NB?oc=5",
+    "source": "crnasia.com",
+    "published": "Fri, 18 Sep 2026 06:51:38 GMT",
+    "discovered_at": "2026-09-26T05:08:21.404049+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3c6eb0dd4ffd2b4189bdae3a",
+    "title": "RISC-V, After Entering Vehicles, What Does It Compete On? - Gasgoo",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUE5LNllLb3FtUFdpR1hKNDN0dTNFeGpfeFVjOWMwLVVxR25ITHBnYTg3NlJYTEEtNWtDMHN6VTB2UVlMRGFHdkNuQVJvdDVtVDhIaDVnMGpWcnVQNGE2UllEQ3ZJSzV2MUE1eHczMnZqWU9lU1p5Vlc0UkxfQnNVek5IZmlwcmpNMFQySnBLdElUVkMwNjhRczBqMk9TZENMUXlBOWxJMEJaTWQxcG9qWldtYnRONk83VGd2eFNEX0VOd3lEaFE?oc=5",
+    "source": "Gasgoo",
+    "published": "Wed, 23 Sep 2026 18:19:34 GMT",
+    "discovered_at": "2026-09-26T05:08:19.521356+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fa9a896089b42a554c39160a",
+    "title": "Intel Introduces \"PISA\" Virtual ISA for Greater GPU Software Portability - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ0xIX2VfU3F2Q1BWZW51Y1pyLUJ0RmZFMW5qVUM3dURNT3U0amxHWW1pVnZMck5Qam1YUzNYa1JFaUMzTzBURnJHcTJ6Q0dSMXA5ME1FbWlBeXpLYWttMURZWExROGJfdXdibXhQbUJjeUhTYWxwNTRlZkxiZGIzRm5JRGRkaXp2S1paM2lZbEhJVG5zc21pN3NYTzM2bXcydV9Eam10aC3SAa4BQVVfeXFMT0RZYk5sMHdaNGVWMFBpYktuSTFIRFc4Z3NuUngzVURVUmtZMzdQcWZlXzU3czAxT1hTOG9PVTAyRG1JWEpTb2FNQnpaN3pGMWRaVHFKTVNiMUl3Zk9JdlJpSHJZQkxlX016dzZrZmNCRFE0OXdfTW96WUZHQzQxb1lxSEQ2T1NwS3E3bDBLY0ZBNEJIdWlVbUxoeDF3UzFnYjZqY1k0ZEpJajl5OTdB?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 21 Sep 2026 13:22:00 GMT",
+    "discovered_at": "2026-09-26T05:08:16.623865+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "74a60404daca90d079978b3c",
+    "title": "Snapdragon 8 Gen 4 Engineering Sample Gets Benchmarked, Revealing A ‘2 + 6’ CPU Cluster, But Operating At A Low 2.40GHz Frequency - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd25VT0VnNTFwcmttZnd4M21aeXlfZlBTMG5iMVQ1WGhLcXpyWkZMSGtvRVpUME9nVjRuZEdLVmdxSnpaeTZlc2U2ZXVlY2U0MXNkVEhlVWN4UlcxTWYtVzZlYTVBYll4TXRKcldHNEJGMXZCRzFjYm42S0lqRTA1Qkhia09naVHSAYwBQVVfeXFMT2NOcWVoYXotU3ctWGVwdDItOWVYa1EzYUhtVDdkb3pZZ3d2S21od2tSV05jUXFhdjh4bkxPbWRXTU1vSTBwdzFKYmlBX1FCaXpKeVB3UmF2ejFjeVQ0ekM2TWNRdFRIMWZVU0ZXSjhhVVFSWF80bGRPN0VFc3lleFdpTjNYY0dyQ1J1a1c?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 01 May 2024 07:00:00 GMT",
+    "discovered_at": "2026-09-26T05:08:14.663559+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f9e77524a09c91beb84567a4",
+    "title": "HiSilicon Kirin 9030 Pro Process Flow Analysis - techinsights.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOGxtUW5fcGtZSTlwWDVtcXhOLVJXdnlwakRfVGkzRHNzQlpsaWx6aHcyMnJRRHBtU01QaUFOeW9KdzVlR3lxLWZncFBmN1hSRG5ZbW8xSnFZZzAxcUFSdXUydXBlR3lnc1NtLTVuQjZlNTVZaU5rMjhpRGNlSTNQMGVDb04?oc=5",
+    "source": "techinsights.com",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T05:08:14.400126+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1b23a5a6930e5a1a1fe78661",
+    "title": "Google Pixel 11 Pro XL Geekbench Listing Reveals Tensor G6 Performance and Key Specifications - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdE5SOUVURkdsOWg2SGJpS21lNWpFVjE0Y0lRZGcxVGxqZ1JkQ3o1RE1xbFAxOE9lVTI2U2JWQ0hESHRtRS1fRTJWRFhQSnRtb2VzMkVxVk91QjdKLXJKcF9Gc1BpZDZKVmZMd1h6czdVQUEtTU5xWFQ2Zl9Db3hvRzFaX3RtZnQ5bS1meE51YVVwRlBCcU1qSi1zMDc3TlBsT0tLUVVZSE5FTHBHOU9yWU5SSHFsOGdERDVWTENJc0o?oc=5",
+    "source": "My Mobile India",
+    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T05:08:14.024424+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2162bc12c385028dcd5515de",
+    "title": "Panther Lake vs Apple M5 vs Snapdragon X2 Elite [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTJOWW9sOXBxd2ZVa2oyTmtiWnpfaUFZWGp5WTcwVmJhLUdibTN5clNobkhUb0YwT2FCQ0wyZlZ3WHlLdG1pd0JhRTF6LS1HQ0FvX2pGYXBpdHV3cVpPQU5FQmVLbzZBTFY0Vkd1U0JHcnJwd2dhb2VpNlhjZnI5RXFCSlY?oc=5",
+    "source": "tech-insider.org",
+    "published": "Sun, 23 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T05:08:12.588518+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "18b496bb1f196d7fac9f0112",
+    "title": "Oppo Find X10 Pro Max launches with three 200MP rear cameras, Dimensity 9600 Pro SoC - GSMArena.com news - gsmarena.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU9oRGsyMGxnUWYzS04xWXFrTmIzRGpzNE10WmxEQnBjT1dGVEZZZU83YzFFXzhKQkxpQ3p1Q01lQkR6TEROeGV3VWtHd1JCY0hNc2Z1RUpsb1VjOVl5RUc3OW8zMVp1ZjF2SEVLaEZlRk90SXJDSFFrczh1VjZDOEV4NW80b0Q0X3AyR3Rxd2xIRFItZEFSWG5RVGVEejI2djNJamR6eGhMdjM2ZGMzQ1V2bTZwU2VIQTRBS21kWlHSAbwBQVVfeXFMTTl0blZ2TE5fVzVwcEpqd0hlNGY3TEhYYWM3dHBRd2pINFhYRVZkSDhiWnZSVHdwd3lwWHI2UHlwclJEYkJjbFk4eWY1VExmTkhxUkxBaFFiQ0lCVC1mUTVIVnNJOXc5bVlWU3oyWUpDaUVuNm5rOWRtYUMyRmp4ekduNHFMc1RGMGlxd3NISE45MVNRN2ZlOXRtSlFSOW5USTlWUzF1MTFzSnpfeVpDQVlpaHZseTNrTXJCSk4?oc=5",
+    "source": "gsmarena.com",
+    "published": "Tue, 22 Sep 2026 14:32:02 GMT",
+    "discovered_at": "2026-09-26T05:08:10.978219+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "53c2eb9e1b685a58434db095"
+  },
+  {
+    "id": "23da7bb69ff04e505d894088",
+    "title": "Dimensity 9600 Pro: 2nm flagship chip - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1dzhVWGdkUUIzMG1PZ29ETFd1Z1BVdG4wd29wM0RiTFh1YTE1VHJzVDdxcmo4eHY0Z0l2RTdHZlhKU2UxdWxQMTRZamo5SXAxZkRGRVpMRmRBSEpPRzJEV2VnZkxBTDY3TVBTNFJHc2ZJeUYwd0NDQV9B?oc=5",
+    "source": "NeoTeo",
+    "published": "Fri, 25 Sep 2026 22:41:10 GMT",
+    "discovered_at": "2026-09-26T05:08:10.978076+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e9aea1cbaa1f47d0d2068391",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 and 8 Elite Gen 6 debut - GSMArena.com news - gsmarena.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmdqR2U0eVZqRjV2UmI5SnFzRU8xN0NWdjdSVmV0YzYyZGw2d1YtTmpIYVNQRV9jLUtiaklQR1VFM0lHbUxUdmxVbmRva2lDS0Y3cVU0Z016RHhnMnVZc0NXVXdWVVVrX29HUjNPZ2xZWFp3R1hYUUMzSzJ3cnNZbndYTXQzUk00OHJUQ3QzZWx3ek9zZHFFcTFOU1TSAZgBQVVfeXFMTVdaRWNaQWVrR1p1M1BQaDVOQTVYbWlKZ2xxajh6bGp5U0dTb0ZpdWZ2TnZCS3AxbkZuUmRXZUNPQWtEM3lqcUVldVhQUlVxNXJOcndhMGI4QWZvcWJPNWt3VUEyUml3QmZ4ZnNsa0pVdTNENTVtclFJYThzanA3LWZGM0dxQnhycUdQZkp3S3lwbjFPR0ZqbFY?oc=5",
+    "source": "gsmarena.com",
+    "published": "Wed, 23 Sep 2026 07:39:02 GMT",
+    "discovered_at": "2026-09-26T05:08:10.563636+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "a158fbd3d6ad4367af6ae71a"
+  },
+  {
+    "id": "0a5fae3d03f51d8caa9529d3",
+    "title": "Qualcomm's Snapdragon 8 Elite Gen 6 Chips Break Ground - businessworld.in",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0xXR190YmpfUW96ZlRoV3NQRG01d0d6emFiOVotNDRmMFlINFUxR1Y4NVdQSEFMNVBoQi1aTTh0bmVUcXplaURadl9kNFc3RHBsUjU1U3h2RTRETFVxMUhwSTRrV3Zla0psLTJZbW9iRmpkNEpFdkIta1I2NE0wS3JpYmRXV1lQQzY2aC1reGF1RGdhbmJjVmpIUWE3Tnc?oc=5",
+    "source": "businessworld.in",
+    "published": "Sat, 26 Sep 2026 00:37:15 GMT",
+    "discovered_at": "2026-09-26T05:08:10.563512+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ca4495584e155f50f25687d7",
     "title": "Cerebras Raises $5.55 Billion in AI Chip IPO, But 86% Revenue Dependence on UAE Entities Unresolved - techtimes.com",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeEx6a1dWRVpWdjJ4ZnJyTzM5dFBvT0Z5cDNPX1pMUGlacGhMeUxHaFRKa2tZWVdXQThqUHFVSjZfS01OaHJieG12Rmt1VlRWSUlRNllneWJRODBzRy02VnMxR0drT2pJQkpZSlYzTnZTcFhaRkRodXpqWExucXZ1Zm52UWxDNENmZU5GZzdvQVZhd3ZBeU43RDBJczVLRzZnLXF5RjVtdDhtQmVBY0kxYXpBSl8tNVhPMUJfRWp2TDRXc0ZaMFZheXA1N0RJZ242MVpQbkFONA?oc=5",
