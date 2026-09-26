@@ -1,5 +1,49 @@
 [
   {
+    "id": "748dd387afd92ed425ba4acb",
+    "title": "The NVIDIA Vera CPU: A Practical Guide to the Chip Built for the Age of Agentic AI - kingy.ai",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbUs4emNHVTNtSzBhU1V5TjZhR1ZDMEQ3RUR4RVpIUUJzeExVRGJ3WTByYlBrb01yY21MdGlIeHRSelRoa2R5eUlyUF9lLTRXZWJoc0VLckY0ZG1ZMVhFankwdGowR0VueHNwdmV6TXhGUTBNMVoyNnVYX2ZobGE4Q0VNOTI3VWxiaGVmX0dEOHJwZUk4N0lrRHB2SnNHcTFibmtBWHFIbw?oc=5",
+    "source": "kingy.ai",
+    "published": "Tue, 19 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-26T11:33:21.060544+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "05ade2308be0f0471ea7f8bf",
+    "title": "New Chinese chip with 16 chiplets, 256 cores looks to circumvent US sanctions - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeVRSSWFGci05WjMxUzM5Vk5JTktXeDdZdzNkTDhMV05Zdmg2NGs2cVRvWVJNbkVEa3I1TllneHJNbHp0RGlQR3RUQW1wSjNMSnZwcUt2TWZXWGlBZjR4N3dzalMxbGxYTGFYbVNabFRjRzZYTm9XQ015WUNGaXFzazBtbVoyeFBSZERJbkNvOGpZNlBIck0wSU4yOEVyaGNZQm5PQXV1SGRrbXdrWFZ1d1pwQWNUemZ5elg0Q3lsZ1pXM2doQ2hpamIwaTMzZ1VkVVhNRzJBWWfSAdgBQVVfeXFMUEJmN1NRQl9XQ2VXTDlaNnh1bzZnYXRnbWptWERzcUtfUUx4aTVOaFA2UFgwMmhkVC1jellHT3Q1clozeDhZTjR6T1hFcC15a2x5S2Z6UUlVaFFhZGN1bFV4b1Nja0Q4YVJDRnZiY3RUTzZ0QlZyUDJQQW9MWDgyenlwc2o4Yk9xamJOdHlLZ25aRGNJVHVJVG11ckdUczd1V1p5a0hKWXMwSTU3VWx0eDJmSzZwYmdqN3lhZFpKN25hZFNhWW1MOGEzQUxCS0RVbXhiZUYwN1ct?oc=5",
+    "source": "South China Morning Post",
+    "published": "Tue, 16 Jan 2024 08:00:00 GMT",
+    "discovered_at": "2026-09-26T11:33:19.687890+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a14ce63d498a50f1c46103c8",
+    "title": "The new Mac mini and Mac Studio are available today - Apple",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOW1Ja08yUGJqdHphTUhpWWdjM2FtSDBPbHpGZnBDelo2YVZkRUhRdnJyRkEwWkxZTmNRcVdOTFd0Q0xaaHNjUzYwLXVZTlJGMk5YTVllZkExTDROQjc4RUdBdW1RdXNKX2Nva0NKbjVaX2gzME9HdnFwMGNlU2lMRHFpNDQzQmoybzNJcEh6ajM4U0p6QlE?oc=5",
+    "source": "Apple",
+    "published": "Tue, 22 Sep 2026 13:04:22 GMT",
+    "discovered_at": "2026-09-26T11:33:09.728733+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "47f3210c978671f5a4f1a667",
+    "title": "3 ways the Snapdragon 8 Elite Gen 6 is actually worse than last year’s chip - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb3h3ZDNVbUc0a3JKLXVvRUtvdUJSZG5tQkE5a01QeExWZEJYS3l6R2RxX1ZuOUtVb2VjYldUWFp6aGlfX2ZaQkVEODY2NjRBX1k4ZTV2cVdodXgyV3NEV05vWEVUTUFBbkRUdklxSzl0VEpyTWlWTUlmUWhxVXFXblNTVnA1Yi1razBRalQyZw?oc=5",
+    "source": "Android Authority",
+    "published": "Sat, 26 Sep 2026 09:30:00 GMT",
+    "discovered_at": "2026-09-26T11:33:08.302646+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "7de69e782b88a19c778b3196",
     "title": "AMD EPYC “Venice” Enters 2nm Production at TSMC, Extends CPU Roadmap for AI Infrastructure - storagereview.com",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRENaYkVpMFk0bnhLLTUxWURvR0pmUS1wU0NTUVFBMThILVhmWDI2YnZGSkx6eWQ2R2dXNnVCbldtZDJMb0FhVUNtOUNMajBMcXhqOEtmLThPSmVqNW5STTQyaTVkUDBKSFdndWVUUE9TZUpqNTN5WURoLW1QcURxaDNSV0tkZHdXYXRrN0ZkYlNYdTRMald4bW9RNDBsRUdnRTRGeE83eEo1YW4xYlpDOUp6RzF4bk1uR3RkbnVhc9IBxAFBVV95cUxOQjVRekRNWUVXelBsc001Nm5UcHhoSDBEdVFvZTNzR18yVFRzQ3hQQmxXbnpCTV90bk0wbFVHbGtpWFNabU5PbkRVdjY2SUVROXl1dWp5ZVpDVjlGNDVESTg4X0traS1vU3gyRUZUVlhxQ2YtTFEzRExsS0o5VzNPMTJ1emFwNmUtNzQ5Q185bTdvNzY2emljdzJBTU83M3h0T3BYNGlzT3pVVXo2UWk3VV9pZjBLNFptTldJLWFudF9kdG1L?oc=5",
