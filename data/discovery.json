@@ -1,5 +1,49 @@
 [
   {
+    "id": "42447506dd703839c0e0b5e4",
+    "title": "AMD to Acquire Taalas, the Toronto Startup Building Silicon Around One Model - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOGppS012dW8xRFNXSWFFdjREX1hHbUFUS1NldHhEdW1qOWg5QkgtX1NnWlpuUFA2SnJ3dHN1alNGVk1zLU54Q19CN1hxM3pfdUIzR2xsdzNCVTJyUU9JNUJSM1d0ajZNTG9Jck96dElFZ2JteFBrNHdnR3AxUDlFckJpNGFKRnY4RExDb2phWVRzNTB4djJ0UFliX2kwcngwNlhHMVVTOHhqb2FZMTlZ0gG0AUFVX3lxTE9iM1RFU0E2a0lLeUtQZ3g4SHVJNG9qMFNqVkZ0a294ZlN3Yk9Fc2lqV25uN1NkQThrV011dWpjei13OUtOQXBWdmtsYVBsSmpvUy1WLTE1Sl83YkJNcFN4ZGxTVENVNHpmb2pUWDdjSEZLY0UwMG9qRWN1ejlWa3RncHAzQi1tX2dHdnVZQ1NDbER5U0thSEpYRm9RRzFVT0k2OUlySXFqelBEckJKS09fNk1WNQ?oc=5",
+    "source": "StorageReview.com",
+    "published": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-27T12:11:36.338982+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "5ba67491adad8db8030ffcc6"
+  },
+  {
+    "id": "e6dcbe283e87bf4798854115",
+    "title": "SMIC N+3 Kirin chip offers 10% higher transistor density than Intel - huaweicentral.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdGhJSkRwR2VmeEYxMWZEVXh0YVhOQ1BGaEZZckFTbUlnMElWZENNVG4zQmJtUGstRjVKNlo2N01sLUxiUXBWV3VfdU1iOW04UEZIMjRHdkFTZVRKaWhEa0RMN3N6MzVVRWpzTG54Z09PTWJOdVJLU25LTVJJbkw5ajBMZzYzTHMyQW40TklCT2ZaWmIzMGVHOUhKdC3SAaIBQVVfeXFMT0JEM2E3eVcwVXVRaEJDNV9xTGZyNmxHODY5UExFRlpFdG5mNVQyaUJzWUw2bkNpLUlCbklUVlRQVWRXMVg1SlVlZlpDcUQwZDJmN2pHMXREMXZPakQ1b01Fek5BSkpsbUxlNTRUSC1MeVZqWVo1OFRKWEpodjdBZUNkR01LYTlaU0pYRDlENHd6UjJqcHFpLUdKVG9ma1lwTUJ3?oc=5",
+    "source": "huaweicentral.com",
+    "published": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-27T12:11:32.705165+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7ea85bdd178b6fccad222b14",
+    "title": "AMD Ryzen 400 series spotted in latest chipset drivers - videocardz.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTEVQRUI4NGpYeHhZVlU3azZ3Znl6eDdfenVRWGpza3FTLUdfS2lPY0ZrcDh5ZXktM2ZNUU1GZ3JEQzdEeVEzNTBiS0REN1BZZHhhWmF1YjhIRnUtbVo4NkRjX0NJVEJCcmw3SWJEZ0ZiWGZMOGdhMEF5bzVMalhaaU44NFNOM2ZpeFE?oc=5",
+    "source": "videocardz.com",
+    "published": "Fri, 12 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-09-27T12:11:31.396818+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "76b46e2afd75f32199fa8790"
+  },
+  {
+    "id": "6b4845a159fcf2a35652c204",
+    "title": "Xiaomi unveils in-house 3nm chips, backs silicon push with 50B yuan - Dealroom.co",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWUMxX19ySW9yTFNzNzNDOVhyWk9JZnpJZWpscXprUFU0TGlWSTExVjRCYTFWbm93VzNnS2xlV1hUVVNuaXd0MjA5ejRNOERYOHJuZXNYbFJwQ2hoa2VPRzM5bHVMN1o3YlhLdGc4eXZNODBZZWJHNk1hMU55STY0Wk5QRkFXcXk2SWQ3dGFlcFY0OFhrT21WYjd0UVJ3RlVycFE?oc=5",
+    "source": "Dealroom.co",
+    "published": "Sat, 05 Sep 2026 13:25:44 GMT",
+    "discovered_at": "2026-09-27T12:11:27.829533+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "923159cdc2ce642b8808f424",
     "title": "Hyundai Mobis and Qualcomm Sign Comprehensive Agreement to Collaborate on SDV architecture for ADAS | Corporate - eqs-news.com",
     "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQVHhXRVJJZ0hscTF6Wk91TnMyc2dIV25OdVl2bjVpZ2lKWmNoZHRRVXJSWkpXNFQyMDVOUUhrSVo2NWtoeEt6eDZyYm5UUGxKSUJFa0ZIZzRmNEc3bkUzV3luT3NYWW5FMlFERUlKWGk4X2d6T0lzbkVvM3VybDhRSi1KT1hoai1NdWV5aFJWX3lUTWZYQTVuWWNpOGFENzhvX3NaZy1jdWRZQjhlX2FLTFkza1IxQVJMOG93dUZ2LVc2MXNpU0dEbUV4cjRJX1pYakllaWpJa2dBclJ5VWpqQ0k1WE5qdG9ZZXhWblFLdkRLd1MtSFRZdkJVbEp6bUJ5NTRNS2hMQUY5ckI4SkJVWEJNMnRicWZmT20xMUhn?oc=5",
