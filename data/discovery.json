@@ -1,5 +1,60 @@
 [
   {
+    "id": "c2421ece736a37480a9a4f7b",
+    "title": "Walnut Pi CM2 – A cheaper Raspberry Pi CM5 alternative based on Allwinner T527 octa-core SoC - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUko1ODA1UWNRa1VVOFpZSkFEZXNSSV9jUTRqZzA4Z2w4dnV5LUlhZE81bUlyblQ3RkNBcDhqMV9CejFNaGRZWGIwNmFmREtlbkdjZW9ZOW4xRnlrM2FMMXVIakkyR0tZMkRHLWVwOTlBaGtOaGt4UHJEeTB3VzJXVFZiSkJxamJQdExrRmM5TWJqcEJra0tIVG9FdkxQNW5ldXJqVEdUN0xXWE9XaEtnekNSSVhOZF9WaHlSdEFnUzFzMUdLRlhHNE8yd9IB0wFBVV95cUxNQlF4SkQ2NTBJNk9zMVhNOXBNM0s5cjVWM0lLWk9XNjh0ZjFFRnNqVmxtUFVyd25oV0o0WXB3cmZ5VTBmTEV5Y3dtVzgxb3VWdWExYkJid3ZDMmNnbks5ZVNDb1VpbDVmVzVFN3pvajdxWVRvdkFMQnNHc29wSHB0cXRSU1QyeGVMZDNWM1pfYjdRaTdQTkpiRWR3c3RxNkpyY21hZnVmTGt3RDdQUHpGREN5aE9Wby1sWTQ3Nm1tUlJIdUVhWnNPaU1NU21YRzZZYm9v?oc=5",
+    "source": "CNX Software",
+    "published": "Tue, 29 Sep 2026 00:00:17 GMT",
+    "discovered_at": "2026-09-29T05:51:41.518216+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "25e023b6f31af970b267b7d0",
+    "title": "DLSS 5 Runs on Intel Arc via AI-Written Code: NVIDIA Exclusivity Is SDK Lock - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTXNHMkJjdnBpZER3S2FXejVqSjFkUjJsWm9GbVU2SXdYQVJwcVZLQlE1eGRfa0hZRkxzNTZ6clI3aWZ3M1J3M2FTZTJ4VkZ4bkRmZV92UGRzN0VJWHJtUTJ5RXFzYlJhWmlmY0ZoR3VZbERjbk9LRzluUzJfUHRyczFmNWZVNFFselR2RkZXS05SeENJNTl6Q1hTT1d5X1dwVUlvQmk0VnRpWlpJTVBBY19BUjl1ckRHa1FRUWdiTjFFQQ?oc=5",
+    "source": "Tech Times",
+    "published": "Mon, 28 Sep 2026 21:17:48 GMT",
+    "discovered_at": "2026-09-29T05:51:36.848590+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a6ba08627e1fc8a78d7cbf32",
+    "title": "DLSS 5 Now Running on Intel GPUs Too: Support Vibe Coded by AI - hwcooling.net",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONmtiM3luaktwbFo0Y2N2SGtCUmpYQ0FSWThBODJhYzF1b0pmNzVBN0VkaHk5dEtBejYyZTRmWG4tTENmdlQ2Z0hzZkZtdEhVc1h2THR0MmhlLXNoeUhFRmlzTUVtY0VsWVdISUxrRFBrODYzRTYwSXZrNHBBWUpDQTRQWE9MX0xEOFVkNVdENE4?oc=5",
+    "source": "hwcooling.net",
+    "published": "Mon, 28 Sep 2026 10:00:58 GMT",
+    "discovered_at": "2026-09-29T05:51:36.848558+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "8e615b1afddd64e10fd1d8b8"
+  },
+  {
+    "id": "cf630a96242f767f323f885e",
+    "title": "Snapdragon 8 Elite Extreme Gen 6: Every Phone So Far - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzZZbDFHX0N5czNSelY4RGZyemZGRTVFeHhOczE4MWhid3Z6bEZydVQ2S0FLSDJ4Z0E2ejE3SnVrMVY4SUU5aVgyZ3N4STlNcWVMdGhRWUNqdDlDWEwzQ0tnUFJRcG1tcDZMdXNwVlcyamV4ZU9ab2lFQVRRTlNuaw?oc=5",
+    "source": "tech-insider.org",
+    "published": "Mon, 28 Sep 2026 20:35:20 GMT",
+    "discovered_at": "2026-09-29T05:51:30.136234+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5f50682df17b3cec9747a9a4",
+    "title": "6 Things the Snapdragon 8 Elite Gen 6 Will Bring to Your Next Flagship Phone - Android Headlines",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcHdlQVJrdTZJdEZuNGRPekNseDBmU0tqWUJZeEZoci1QU0FOTmhvRnMyNXY0TTNvTE1pb3N0dDVleENSbmNWdTBsVXRlSzZWUGp4ZS1aRG1pSEJweTkxaHEyb0dSZ2lKQ3Uyd0wweXF4QkpBamFJZHJLRU5CNkw2a2duMkNjbjRpZTlLVWt1SVphNHAwMXJzZGVKUG4zanpGYjNxUnNTTHJXQVpGVjRRbkNpaUg?oc=5",
+    "source": "Android Headlines",
+    "published": "Tue, 29 Sep 2026 02:10:05 GMT",
+    "discovered_at": "2026-09-29T05:51:30.136147+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "46ac900e374c2dc1908510d9",
     "title": "ZENO 300 Launched in India with Unisoc T7100 Octa-Core Processor, 6.56\" HD+ 90Hz Display and More - The Tech Outlook",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeEdSLWJRSlpQSVk4blZfMVdtaW5wakZnd1FhTldFYTdNRmtTQTVXQ3ROTjBhTFBsNFJ3VDlGdVY5ZHVJcXc3QzhybDNBaC1xODRMb280MThOWVRTWFJmUkFjcmZsLVJNckk0SUNDX1RFM3JrcWxCVnFqS3dwM2lsZUZmMV9fZVlneHRvd2tyeXRyWG15WGpFSE9jOUQybEtWRjdvVHVNLVdVa3BjVVpwR2dmdi0tWWZ1MmsxMTRLUDVUbC1wUTc1TmxSQXo5MG9jSjVMb183cW9oMFRxNDlmZW5oR0xnT1lDMmJvWC1nY0xNWkU?oc=5",
