@@ -1,5 +1,82 @@
 [
   {
+    "id": "d41fc3fb53f9dd1f08db418c",
+    "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNENRMlQ1UUU0UGxkdVpWSUhQWk51Y3ZvZkFRdnR5TDRsT3J0Ums5aWM2QW5jRVpuXzcxX2J0eHVKVnItOHZ2SGk0TDVvTWVSMm5mUUpqS29UWDVSZ00yUHBaR2UyQnFJV0dYRGlUUzdkeGhNQTA4ZHlJZnM5T1RYTnlkdk5XTlRLb3NOWUh1RjJBdGZITF9jX05MZlZYUFhlYUVjV0h6Ui1CTXh3MXU0dg?oc=5",
+    "source": "TechCrunch",
+    "published": "Tue, 17 Oct 2023 07:00:00 GMT",
+    "discovered_at": "2026-09-30T22:22:25.101976+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "11556f95d77d5f0bea095f0c",
+    "title": "AMD EPYC 9006 Venice: 256 Cores, $14,904 Zen 6 Chip [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Vb1pTZzJINWhLRTlFdjVza2x2V3AwOFZKaUR0Skxid2o3ZW9feU5BbHdZNnNFTFRneGlJeUlGQVBjVjEtb1FmMUVhd3VxZ3RlOEhpRWdJVHFMcHY2RERnTjF1NDhpeGZQSUozZ0NXdnJCVzdPdzUtZ0x3?oc=5",
+    "source": "tech-insider.org",
+    "published": "Wed, 30 Sep 2026 15:55:36 GMT",
+    "discovered_at": "2026-09-30T22:22:22.736854+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "97ce8a559e7788a8cf6717b1",
+    "title": "SignOff Builds Toward a Bigger Role in Custom Silicon - electronicsforyou.biz",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWFONVRJa01QSF9UNTVCVmM5bXMtQ2k2V3ZWVWhCNUphZ0RydVlNMk81RHFCYjZ5U0treWxEampLbVRkQ1pidnJwaWlPSm9JVVhST2xfUURRWkN5bUtRRXRWUGVYUmdLR3JoZEhGYTY2SFlnWUtPZWVfaUhfanBPd2ZsdHZUSjAtcnY0SHUxWk1NLTRQeXlscG9KRUF3Y0RaWnc?oc=5",
+    "source": "electronicsforyou.biz",
+    "published": "Tue, 29 Sep 2026 07:00:19 GMT",
+    "discovered_at": "2026-09-30T22:22:19.331488+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "77999fc5638748c546e468cb",
+    "title": "CoreWeave’s NVIDIA Vera CPU: 11,264 Cores, 3x Faster [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5xUzRHNnI1WS1PUi0xV01wNkZMNDlIN3FFYzFwREdQZ1JZV0dxRnA2NnRzZnJMTE9xNGdJcUpFTUctM19NOU53RENNNTFrWm9iZEpCcEZQclNUcUtRUjJZS0Q3U25SOUZMVFkyOFI1Zw?oc=5",
+    "source": "shattered.io",
+    "published": "Wed, 30 Sep 2026 16:52:16 GMT",
+    "discovered_at": "2026-09-30T22:22:18.761627+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9211fd4f41e32780128237d7",
+    "title": "Cathie Wood Just Dropped $78 Million on This Red-Hot Chip Stock - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmo0Q1NrZWlWN2NNU0hxelpGUFVPMkVNallqbzJqYWtzSWpaSFdzbVRYb1ZvbUFubVZSVGN2X1B4Q1g3dmZrQVVrRkRIdGdBM251VXdfVkFZbkNzaTZ6SkUxaHJ5dkxTMlNyV3NrYzgtdU9KZGFDWl9ldG9mekxIZWpqckNVV2JNMjRFQ1h2TjBVc2dKYUtVMzdYMVo3MHlaekVFdjk3ejYxUkg0Yjk3ZXZVaW1LeDdDTkwxSlE3WQ?oc=5",
+    "source": "TradingView",
+    "published": "Wed, 30 Sep 2026 14:28:05 GMT",
+    "discovered_at": "2026-09-30T22:22:17.042396+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "97cda506bf076aa9dbb9a356",
+    "title": "NVIDIA reveals if RTX Spark (N1X) can run all your Windows 11 apps - windowslatest.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMWR4anhMU01sQ1dGS0JCVmpuRjFDcXhzUzFGTUZjcUR2b1BJTmtnc2xldUF6QWtqd3VFUVc0ZGdlMHlGZmtoZDVlOEhUN3lGZVR3TmZDUENRbmFQX0RTVmFfZFVRTXVZVUpNN3RfQ25qSi1GTlRfaUVfWDJ6QkVzNXBVNFR3YzJJMkxxQXFRMXEwdlN1Wm13eGRHS2p5VDNYb1hZZkJSRWM4Zw?oc=5",
+    "source": "windowslatest.com",
+    "published": "Tue, 02 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-09-30T22:22:13.369321+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2230ed40ba9254168bd6dc28",
+    "title": "NVIDIA RTX Spark N1X-Powered ASUS ProArt 16 Laptop Slated for October Launch - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2prWXp0bzJSSWRpSVhtSWZQQlM0ZkI3TFhDb0t0djBrZy1qckh5b05feU5vdXFWOTdyY1FfUEVjR0huR2Z4M0VSZkxXSUVaT3VaZk11cm5xZ0llbWtSV0NjbDNvYXlUci15Zmp2NmJRQm5QX1pZT1M0R3Ric1dSR0FPamdjZzJlZXJ5V2JlOHZESWFMakFLZTBLSmVKTl9leEREdWNDeklzYV9RWFk2RtIBtgFBVV95cUxPaDV0bXRTTEI3TWJFUkw1WkJiMm4weXdIZW54RkNXTWl0WGNMTUVBOWF5a0ZpYXU2UEhqbUowQ3VoU2Nlb1lDb0w1bVhxb3F3cnZYUXBaR1pTNDRBZXlrOUkxT2cxeDBGeGJ6aDQ0MnpHLWxnZTY5VzBTRU9zN1hiamNuYTh4My1DNjh6a1hRUXFxUXlOUUNZT1hnLUNOeERhbzVSeTJmMzJyNU8ycEo2UGJfNl9qUQ?oc=5",
+    "source": "TechPowerUp",
+    "published": "Wed, 30 Sep 2026 18:05:17 GMT",
+    "discovered_at": "2026-09-30T22:22:13.368883+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "26b2b645f5e06a80c57e48a5",
     "title": "Google's TPU Revolution: The $13 Billion Challenge to Nvidia's AI Chip Dominance - Alpha Match Technology",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90NWRzNjgteTBqRVhRYnRJMEttd0M2VE9idXQ1dkhrNWR4el9LV09fUU5wT1JLMXZwbk9DVFItWk96aG1pbFNXdFVxc3dLYU1acHVBekRsakpyQ09ESV9PUzFDWmhvSVZObGFKekN2MmphY19qdWlxSV9aSmNlZw?oc=5",
