@@ -1,5 +1,82 @@
 [
   {
+    "id": "c103d47b25638d25ad0cc635",
+    "title": "AWS Launches Trainium3 Chip to Challenge Nvidia’s AI Dominance - DataCenterKnowledge",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2ZsT3kxOWFtOTdfWUd4WFhQcVBPc0xJZGNIVnRjb0hjaF9Cc1kwRjdTbmN5bjJsLUhqTmNEWFRMQ0ZFWkM0RjhhUnVDbFg4N2lrUTJ0am1jSVRGakY2MU5jMVFKMzBJQXByVXM2UkJKd1FTU2ZkMHhsVEM4b1NPUjVYMmxQVnVwYlNSSGFsRWtMQXpLTEZCRE5tdUluRWZMTF9EOTU0R0hwdUpSN1V0dHVBRQ?oc=5",
+    "source": "DataCenterKnowledge",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-01T06:07:21.490141+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "527498f6b8faa14afdff8f22",
+    "title": "Apple A19 Pro & A19 Die Size Analysis Indicates 9-10% Smaller Than A18 Models - techpowerup.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRm4yY1JHMWFzODhWaklBckwwRlNuWHdvcnZpWGNSUHFqdTRpOGJMZHBaWmozSndSZmwxZnJMN0RkMmZMVzBmMVBCN1dPLWlTWDhWdnRsbmtyUmdNdGNIcHBTZmsyX3N1RlhsRzFiUXMtUTFiQXZQczRXbUlYZjNXTE5HNmxlblR5amJVbmw2UzhEU3o1QlFaUnloNXloakR5NEpzYkNXT1daV2JXcGfSAbMBQVVfeXFMUGc0d3NINmtTWjhqYmpkaHJFd1lGRTZwR05sTjAwTE1xNm1PQTZDZTY0UHJzQ3R6QkFMNXhNMWNLQTN2OXllanBhbzZEcTZ3Vi1BdU84LXlzNHlNZnRzN0twS2hyanZFd29NQ2tyajE0TkF0U0lIakFZclFKbGt5M0hBOVhKVkNCVmZUcWVScEVaaERiR0FLenBFS2ktRlktUmpXTjNEUWs5MlRDOEdtTUFBczQ?oc=5",
+    "source": "techpowerup.com",
+    "published": "Fri, 12 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-01T06:07:16.695826+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fde3f5db03c18af9ffeff563",
+    "title": "Efinix Adds 64-Bit RISC-V SoC with Linux and DDR Support - embedded.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjVIbkFVT3lnMFdEdVhxS0dfYkFsVWNUSlJCRjJFWmF1SmZLUmdaYVVkMVRSOGZnUWl4QUNPNUFBdkVUdTV6WHJ6OThuT3RuSDZHYmlpRklIaEpHckMzYWc3aUhjNU9XQVhHaWlMWkFNS1VVSHdkSHNFRk9JWXFYdEV2UllSTlVR?oc=5",
+    "source": "embedded.com",
+    "published": "Wed, 30 Sep 2026 20:54:58 GMT",
+    "discovered_at": "2026-10-01T06:07:14.434008+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7b8cd6aaac8a1c17b5adc85b",
+    "title": "Meta’s Iris AI Chip Enters Production, Eyes 14GW [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNFdiWTQwR3FDZVA3dlNUYUdHT0pnQlkyVWwzWlY2dlZwRzYwT3BIeDJ1ZlZLY0Zmd0J1SjNKcF9PNWR5NGVJMTB6aTVrUnJXSUM2UW9meWdGOTBiUWlhakctRWpmd1BIQ2VNUW1qdFNRQQ?oc=5",
+    "source": "tech-insider.org",
+    "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-01T06:07:13.525013+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3b2922c466be835df0bea3e3",
+    "title": "NVIDIA leads AI accelerator race with Vera Rubi... - pluang.com",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUC1FUXBSQ0Ztbm42MmFySy16OGFMeHpyb0U1TlhpVGNPTlRPb0ZwcmtZaFcxdHVQekQ2NFlRdVRQalVUTElLY0hWanMyODBBTDBwX0ZhenFBQjZ4UEVEelNJcW93UGFUbm9VTTRmZldFXzNIYUpTamduRlhISjhpNU13?oc=5",
+    "source": "pluang.com",
+    "published": "Fri, 25 Sep 2026 12:06:16 GMT",
+    "discovered_at": "2026-10-01T06:07:12.127686+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8df8435378b91c756e67bd3d",
+    "title": "Rubin Ultra Loses 33% of Its Memory to HBM Shortage [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sczBUZkxfdWYzaFY3c2VNeVk1TGRQQnYyY1c1Z2dYcGY5V3BRRDlnNXlPTXB0aWpQWFR4MWRucGdrZHB6TlZBUWF2clZTMHVCNS1HYTc5QWxFZS1LVHh6Q1pKOFF1T2N5UGlGcFFWdWJoRlUxLW0yTg?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 28 Sep 2026 13:17:28 GMT",
+    "discovered_at": "2026-10-01T06:07:12.127615+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c18f22058d772391a5f728c9",
+    "title": "NVIDIA RTX Spark N1X-Powered ASUS ProArt 16 Laptop Slated for October Launch - techpowerup.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2prWXp0bzJSSWRpSVhtSWZQQlM0ZkI3TFhDb0t0djBrZy1qckh5b05feU5vdXFWOTdyY1FfUEVjR0huR2Z4M0VSZkxXSUVaT3VaZk11cm5xZ0llbWtSV0NjbDNvYXlUci15Zmp2NmJRQm5QX1pZT1M0R3Ric1dSR0FPamdjZzJlZXJ5V2JlOHZESWFMakFLZTBLSmVKTl9leEREdWNDeklzYV9RWFk2RtIBtgFBVV95cUxPaDV0bXRTTEI3TWJFUkw1WkJiMm4weXdIZW54RkNXTWl0WGNMTUVBOWF5a0ZpYXU2UEhqbUowQ3VoU2Nlb1lDb0w1bVhxb3F3cnZYUXBaR1pTNDRBZXlrOUkxT2cxeDBGeGJ6aDQ0MnpHLWxnZTY5VzBTRU9zN1hiamNuYTh4My1DNjh6a1hRUXFxUXlOUUNZT1hnLUNOeERhbzVSeTJmMzJyNU8ycEo2UGJfNl9qUQ?oc=5",
+    "source": "techpowerup.com",
+    "published": "Wed, 30 Sep 2026 18:05:17 GMT",
+    "discovered_at": "2026-10-01T06:07:08.591835+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "d41fc3fb53f9dd1f08db418c",
     "title": "Foxconn and Nvidia are building ‘AI factories’ to accelerate self-driving cars - TechCrunch",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNENRMlQ1UUU0UGxkdVpWSUhQWk51Y3ZvZkFRdnR5TDRsT3J0Ums5aWM2QW5jRVpuXzcxX2J0eHVKVnItOHZ2SGk0TDVvTWVSMm5mUUpqS29UWDVSZ00yUHBaR2UyQnFJV0dYRGlUUzdkeGhNQTA4ZHlJZnM5T1RYTnlkdk5XTlRLb3NOWUh1RjJBdGZITF9jX05MZlZYUFhlYUVjV0h6Ui1CTXh3MXU0dg?oc=5",
