@@ -1,5 +1,93 @@
 [
   {
+    "id": "112bd8de8e17dcda12f404f3",
+    "title": "Intel Clearwater Forest “Xeon 6+” CPUs Deep-Dive: Up To 288 Darkmont E-Cores, 576 MB Cache, 18A With Foveros D3D + EMIB 2.5D - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVpweG1HMDlzWVJ0RGpUNGxkLU8zZmNsN2dlUlhUQnhHWGN0VDV4S3praGdfQTFsT09NeFRibWFqMHRTUDlRRHZoSUY5TzlFRkJCSWtuZUhLQmlUZjlZS2ZqTElTNENnVHZfeElzaUxhUE9YM2MzY0tDRTJXYTVIZWdsWUJkRmtjVzctOERNTkRZN0Q4TkI4OGJFNjBENXlO0gGmAUFVX3lxTE5IV2RFVm03NFNxWGdhUkcwRWt2TzZGdTc4LWJneHYtRUNaSVpXcDg3NEJrVTRxWkltaTk5X2xteWRoa09Cbmgzb2RpMV9QZWloRFlMdkNBMklMRWwzeGtuTkdhNWpJQVl4TDlVRk9yZ2hIX2wyS01oNlYxcS1vYndsandHazQzM3VBVjFnTlpXRV8ybk9jMUNKNUw1Nk9LZEdNZnRtNlE?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 09 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-03T16:29:37.279409+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8d4a22d099ddef7da43f08b6",
+    "title": "How US-China tech ties are deepening as RISC-V chips go mainstream - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1pLQlNSXzJKcThrYXZXODFvRE90UGxtMnZmNTdwQmJsSzNVdkdQSjNacERNLWpIVnlMRXpyR1RoY3g3SmVZTXE4MXlXblpESWJHUnZjXzNMcElaMEJCcFIxcHhGTHhscmxIMThZSGYzdENmdkNOMFNSUTZ1MXdnc3dSYWpydjBRU1JiZFZLU2dzb2txUFcxREhzRHJmR00zVXNZM1NqbmJWX1lpOC0tZnRsZ1FnRHRQRmfSAboBQVVfeXFMT3NaS0JTUl8ySnE4a2F2Vzgxb0RPdFBsbTJ2ZjU3cEJibEszVXZHUEozWnBETS1qSFZ5TEV6ckdUaGN4N0plWU1xODF5V25aREliR1J2Y18zTHBJWjBCQnBSMXB4Rkx4bHJsSDE4WUhmM3RDZnZDTjBTUlE2dTF3Z3N3UmFqcnYwUVNSYmRWS1Nnc29rcVBXMURIc0RyZkdNM1VzWTNTam5iVl9ZaTgtLWZ0bGdRZ0R0UEZn?oc=5",
+    "source": "South China Morning Post",
+    "published": "Sat, 03 Oct 2026 13:00:16 GMT",
+    "discovered_at": "2026-10-03T16:29:33.580629+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d4edb488187cba56643ebf93",
+    "title": "Silicon Valley AI Upstart Instinct Hits $10 Billion Valuation as 14-Person Team Adds 10% Users Daily - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxQjdSMEVMZlR0RHlRMUI4Tjk2d2JGY0gwOVJNNzg3WlRrMHZiMWZFOEY1MndWWGJQNnBmWDMyTlJPcjI1cmhSalZYSnMyYWUxQ1VaX3pDa0ZfZFpVb3JQMHdIODdnRXE3YmRUU2VWSXJxV2JXWmc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Tue, 29 Sep 2026 18:28:00 GMT",
+    "discovered_at": "2026-10-03T16:29:31.673602+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "95d95adebc9df0b78bd89ac7",
+    "title": "Amazon Looks to Offload $8B of Nvidia AI Chips From Its Balance Sheet - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHphc3o4Y0dGRnBTaE5jUTd0S1dJWFA1OUppaXBsY1hhb0pkRHZZbUUwSWZYQnYyRTl2WDF6d084bnpLSFNZV3ZRRW5jcllFQ1dQWjFIMmZMTkZsYWZrNkNVM3FJazNxTEFfMHJBbzJxeVM4TU9iS1FBWFppYXNhNHh6OV80Rjg0dy0wVkVNOTg4eVJ5cEZva3l6b0J3S1k0QmlnbXZhOHh5S1JYMDFRREhuZ19SOXJ0WTBWTGFkYzZIVE1qcTdZM29R?oc=5",
+    "source": "Investopedia",
+    "published": "Fri, 02 Oct 2026 14:59:46 GMT",
+    "discovered_at": "2026-10-03T16:29:31.158592+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0552f734dd1c0929b2324f1b",
+    "title": "Intel Next-Gen Nova Lake-HX Laptop CPUs Pack Up To 28 Cores, AMD Halo Competitor Arrives As Razer Lake-AX - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzFWWUt6VnQ4em80X045eHVGdzNUMUFUdU5QSkhqVjl1LURIR2Zuc2E1RDkyMFo3bnRiV29UYjYzZl9qeTFFM2w1V3g0VXZfYWFncGF0bk1KelozV1QwakF1TFpFaDRublNTdThZV1BoV2hzSnVLR1ZmSl9wclgyclBFeU5mSlZGYl9IYUlSM25lbVduQWpfMVFVYWxVT1hUc2lTR1pJOWFId9IBrwFBVV95cUxOSzM0eklFU3cteVYyTHZhMFlJd2tJUkdIbDJGcFNmaHRhNjVWaXlZektCWlEzbjI1SzlUUGVGWXNLeUYtd25Qd0tuQmV5TWJRRTB0akU4Q0g5VlFBR29JS0hGNFdNQ3RvRmNBTGZYMFhiZEdQWk8yb1ZsX1ZSUm5mRS1rMzVMMXBnYUR5U0lTaDFDOFc1VjF0QXZqTG9KeTR1RU9sNWxJTHFSOTdHWUVv?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 01 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-03T16:29:29.868668+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "78e772675d0611db64b556e5",
+    "title": "AMD Ryzen 9 5900X3D Leak Reveals 128MB Cache Chip [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sWjRRbjAyNjVyRUFRU2FTVHdCbXZ5ZFU3WEkzSFBMT1kxNUZQdHZ4aU9UdGJiM1lrbkxYbmd6elJ1UGdpdHlTbkRoTjFIWExSX1RyRTdVaXVhYTRwa1NFMEVQOUR2X0Q1UW1vcm10cmw?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 03 Oct 2026 11:38:54 GMT",
+    "discovered_at": "2026-10-03T16:29:29.868252+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1c53807306e1e9d782ea3685",
+    "title": "Huawei Kirin 9050 Pro die shots revealed: 9-core CPU with dual-die stacking, efficiency rivaling 3nm - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43YjNrbkdPU1BYUHN3dGRMS2NSQjJNX1dxN1dQRjZIa2lsQXVRMGpfU0xNX0RUOXZZNzQ4ZFJsVWp2bUR0RXRfZXNmZzU5OWxDYVZ1UVUyRzhCQ3Q4c1B4ZHFTM0JEbGVEMF95c19mN1hjdC1uamc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Sat, 03 Oct 2026 12:35:00 GMT",
+    "discovered_at": "2026-10-03T16:29:28.113462+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e7f0f49c1e423fa35d7ef675",
+    "title": "iQOO 16 Is Coming to Malaysia With Qualcomm Snapdragon 8 Elite Gen 6 Chipset - Pokde.Net",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GTUlZNnVNdlhoRHY1YlVmQTJJRmRLVUY0dkg1aGh0Y3dtZ0RGU3RLdkxqdkhEWkdrdzdlbGQwQ2pNc19MWi1kYWcwVW5mX1k1VzU4RXRpekpyWjl0SDZsVWtlbHl6OFhDbW9rdGo1ZHJnWDVIYlE?oc=5",
+    "source": "Pokde.Net",
+    "published": "Sat, 03 Oct 2026 13:37:25 GMT",
+    "discovered_at": "2026-10-03T16:29:23.897763+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "004ab0a815752d5b63c19f7f",
     "title": "Intel Clearwater Forest “Xeon 6+” CPUs Deep-Dive: Up To 288 Darkmont E-Cores, 576 MB Cache, 18A With Foveros D3D + EMIB 2.5D - wccftech.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVpweG1HMDlzWVJ0RGpUNGxkLU8zZmNsN2dlUlhUQnhHWGN0VDV4S3praGdfQTFsT09NeFRibWFqMHRTUDlRRHZoSUY5TzlFRkJCSWtuZUhLQmlUZjlZS2ZqTElTNENnVHZfeElzaUxhUE9YM2MzY0tDRTJXYTVIZWdsWUJkRmtjVzctOERNTkRZN0Q4TkI4OGJFNjBENXlO0gGmAUFVX3lxTE5IV2RFVm03NFNxWGdhUkcwRWt2TzZGdTc4LWJneHYtRUNaSVpXcDg3NEJrVTRxWkltaTk5X2xteWRoa09Cbmgzb2RpMV9QZWloRFlMdkNBMklMRWwzeGtuTkdhNWpJQVl4TDlVRk9yZ2hIX2wyS01oNlYxcS1vYndsandHazQzM3VBVjFnTlpXRV8ybk9jMUNKNUw1Nk9LZEdNZnRtNlE?oc=5",
