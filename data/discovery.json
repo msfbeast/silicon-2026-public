@@ -1,5 +1,126 @@
 [
   {
+    "id": "2358321676b153a0365fed5e",
+    "title": "Google Takes First Step Toward Space Data Centers with TPU Satellite Launch on October 1 - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CajR2UkVHaG5BRjM5SnRpWUoxWFhNR21KTzhJYWludHIxdDR4bmZYaTJDV1JXdzFaZ0FORFAwYmh6am5tcUloOG5Pajh0OUtzUHpRcjNPb3k3UXdHVzcwREhMTTZaMFRHXzB3N2hKZEQtT3VuUGc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Sat, 26 Sep 2026 04:25:00 GMT",
+    "discovered_at": "2026-10-03T05:26:58.148085+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3c89e949a2236bb6c9a5c20d",
+    "title": "Amazon Weighs $8 Billion Nvidia Chip Transfer to Lighten Balance Sheet - kaohooninternational.com",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6V1d0aHRvd0RRa0dteE9NTW5jS0RoSnJLb0dhRVRzVlF4Rlc2NEd2a0JzOUdzbks1OTJGUXpxSlBTcGp1UmgyTzFYREVWeUFUSzNJSHhUUTQwbnVsVU9QbA?oc=5",
+    "source": "kaohooninternational.com",
+    "published": "Fri, 02 Oct 2026 07:49:24 GMT",
+    "discovered_at": "2026-10-03T05:26:47.822476+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "49caa51f9231833ccaeed150",
+    "title": "Market Chatter: Nvidia Blackwell Chips Linked to Chinese State-Backed Financing - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmZnSGtiejR1UUlSOEFfUFgzdXZLZGhwMy1SM0hJX2h5b2diVmxsUllUS0FuOGRKTXczdTBlT2h6aTlURE96ZDBsaTA2a2VETF9HazlOc1ctSzd5cEhsTTR1TFJsV1hHNEN2UHN4RExaYmlEcVQxdG9VaUE2TnMwN0VhMlJIbzRUNGpkQnhRN3F2dGxwWkNHbFFzZERYbkVEeGNj?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Fri, 02 Oct 2026 09:17:55 GMT",
+    "discovered_at": "2026-10-03T05:26:47.822374+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b8426c5077e6527d63308c41",
+    "title": "Report: Amazon to offload $8B worth of AI chips, lease them back - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTRrUjRwSmQ5azcxcEtPQjBqeWNWcDdHSU5yU3dhdi1UYXotR0pTYUhSZzVEaXVRbk5kYkUyWW52bDJ6NXFUQ1VFUVdKM2N2VG5sOW45SGNWNm9hZFBvRXFpMFVQRkVpdkJxb0tRZ191WkdXZkFpb015QkNMNU1QWm5WZWVkWlE0ZkplSURQeXhxMTNnYzRYYjNlaWpnUTQ?oc=5",
+    "source": "SiliconANGLE",
+    "published": "Fri, 02 Oct 2026 20:29:00 GMT",
+    "discovered_at": "2026-10-03T05:26:47.822232+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f58172040dd846b15d072e2c",
+    "title": "Qualcomm Snapdragon 8 Elite Gen 6: 2nm Migration Enhances Device Performance - Counterpoint Research",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdlpKenJnU0ZKbUNZbkVqcHlsTkxGbHQ5V1dOdjlvM2hLdjZGdmJhUWtYZGh6R0wyNklTX1FsU1FvNW15U3FQanYwRGlRUkNMaGNQVEZkLWRHeXlfZ2lzb0Fqb29INVB3QjlJV1dOVmI5OVpLUUJUWkxNdUwwZG5zUUtFa24?oc=5",
+    "source": "Counterpoint Research",
+    "published": "Thu, 01 Oct 2026 16:40:21 GMT",
+    "discovered_at": "2026-10-03T05:26:45.394596+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0ae4be190a6dc82c0f77da7f",
+    "title": "Qualcomm Snapdragon 898 Makes Its Geekbench Debut, See Scores - gizchina.com",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUURGblZpZjNOVEQxYkVhRXBKNWJHQllMbFFjcVVxSWRFVngyN3h0Y0lBc2pXV19GVmJxOUwyeTNxMFdnZlktbHFMYTFDcjY3TEFNNmZyVUo5SXJ4MGt3OG93NVhkRFhYcFhGbDNGSzM5M1FzUG1GQ0J3YnRGZ0R3VWh4QkNhRko1Q1YyMDQ4MmFUWHNh?oc=5",
+    "source": "gizchina.com",
+    "published": "Sat, 04 Sep 2021 07:00:00 GMT",
+    "discovered_at": "2026-10-03T05:26:44.924464+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "6bab0d80ed35aabf8639679c"
+  },
+  {
+    "id": "46c9180a43d973aaffcb74f9",
+    "title": "Huawei Kirin 9050 Pro chip’s core design spotted in microscopic image - Huawei Central",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92MlRXLUxxcU1sMnJKR203U2VNb1hUVVJ3SWFSVm1YSlFOY19IdjktVEE3QlVRdUFPWHZZQmotcGZlRm5TQWlYVDhMUmhUaE5hQ0RZRlJpdXFfaU9nOXlKQXBaNEtCTlotdVdObFQwN0lmVkM4M0FoZDVaY9IBgAFBVV95cUxPbTBtYkhuVVh4dXJIYnVJMUNwU3VKWnk4bjhUaVprd2lwS3h2YjZDWVQxRkNnY2xUa1MxTUF6UGxOa09qd2JqQ3NNN1JPazd5ZVgzbFNqOUNJVHdlWjFrMjBPazFaVU5vNGE3UXRFSFJZQ1lpU1dlcF93MVBMeDZIWQ?oc=5",
+    "source": "Huawei Central",
+    "published": "Sat, 03 Oct 2026 04:07:30 GMT",
+    "discovered_at": "2026-10-03T05:26:44.562698+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bfe09042e55fb3dccc51d295",
+    "title": "Nvidia's RTX Spark is a chip unlike any other, and it could change Windows laptops forever - XDA",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdTBmR3BtenF0bXFxSWVjQjl5YjVONDRQbzdfT0ZSV2F1YWg0bnZaVkhQUzBXcDFXZVVnQk83NzZrOU1MUFQ5czg2bGdGNzZmcm1MV1U1NXZ4RVhMSmlSYzUxNFY5cGZ2Sm9zaGkyZTYyeDFBTXNmb3VoUlZ6YWhEM1ZJNlRvbW00cmhJc1RB?oc=5",
+    "source": "XDA",
+    "published": "Thu, 11 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-03T05:26:43.649616+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "906abfb5dcaf9897ddbc6427",
+    "title": "NVIDIA’s Ian Buck Says CoreWeave’s V100 GPUs Still Run Nearly A Decade Later, Even As Vera Rubin NVL72 Goes Live With a 4.8x Token Generation Speedup - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWi1NN0FPTl82U1JfTGpnVmwyYTQ4RUpnY3JyZ042UkJzQ1ZFOTU2TTlLZmRCUzAtbEhDdlhuWmRQdXg5ckkxZm8xa3hnaFQtT1lLQ1BqY1lJdVM5NWIxYXhHUmpXTUtGajNCeEZsV0s0WHBtZkNRbjYyRnlpTTU0bTJOakFqTlZGdkNYbDJuTW1DLVNYcWthemxIWV9XeDh3UVHSAacBQVVfeXFMTVFKd04wNXNRXzg0clNwdjZoUFBJaVZkUVJBeVdvQ09hMDRpY2QtdXNsQmQ1amU0ZjVqRUlPVmhwLW1uWi1KNlNJejdrUU1DTkdQMXRJOUJvbW50V1Brd1h2VmdhUjdKdERUQUlmX3c0dTJmY0NLLWRuOUhFNkZYWDRRRnZzMTF1RGRLcGlOb3RtTU9aRVNsdURtaDdLY3pSaVFORVR0d0k?oc=5",
+    "source": "Wccftech",
+    "published": "Fri, 02 Oct 2026 19:00:05 GMT",
+    "discovered_at": "2026-10-03T05:26:43.649390+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2d2d35da5d842814d4fc5660",
+    "title": "Samsung Begins Mass Production of Exynos 2700, Tipping Higher Volumes Than Predecessor - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtU0hzWlM2Vm9VV2VwU1FZRl9kamZNUFpaYmJZZGdtcGVTdkxHUjVxdkhsZnZZaFYyUDR1dkpjdWNnZk4xcGUtcFlNMG43aE9JcUZjWEhvcEFUNUhFZDBMemlCQkYwWTdSU3ZsZkRDQjUycVJkclE?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Fri, 02 Oct 2026 18:32:00 GMT",
+    "discovered_at": "2026-10-03T05:26:40.704519+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6cc6eb2ee9d61a2a161e393b",
+    "title": "Snapdragon Leads the Agentic AI Age with Two of the World’s Fastest Mobile SoCs Powering the Next Generation of Smartphones - qualcomm.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcDFxTE5FWmFMS0YtNi1pMnd0TWtVYlhhOHRsSzlBS280ZUx6NVhwTU5QWnU4NlpmQzRXZFNlSGdmS1ozeUlrVUM0MTNhSlllMXh3Uko1aGVaY1BvMW83bU5tZWQ3Z3lFSllzZGdwTE5KOHJUSHBTQXRiLTZVRjIzMEZLZXRhNlN6ZVIzNEJZME9NM0xUa01sXzBMalNSZkc3Q1F4ODh4ZWxReUVDenh0aw?oc=5",
+    "source": "qualcomm.com",
+    "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-03T05:26:39.957907+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ee37e580db5ea7250dcafd6c",
     "title": "Marvell Attaches Across Google’s TPU Stack With a Warrant Vesting Toward $120B - The Futurum Group",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNG05dklmdVZxWUZOaEJnLTUyV19UaElWYmoxckdtYW8tZ25Fb2RQeEVRSnF0Z1FfWEFObHVtVFhPVEY2RzZ3WFBiVzAtdVI5VmtGeWFBa0NHUlM1NXk3N1h0ckljNWZEdVpJUE94VXg0VzJxZjBGT1R5Rk5ldkhNQjRNZUNwZmhqZEVudmVOckQzRmFrMkZYa3gwZVpXMzJiMWpTYlZCMXcwSXVyME9kZA?oc=5",
