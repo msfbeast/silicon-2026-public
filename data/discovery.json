@@ -1,5 +1,137 @@
 [
   {
+    "id": "6eb73c3a9a0da5c7ab391336",
+    "title": "Wedbush Has a Message for AMD Investors After Google Move - tradingview.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYkVnQUFPb1RuMURMV1ZsdGgwaE9FUUROZm9xRmwyeWp2U0M5VHIxWUVRRDhtY1RPNWtqd1RIRVhad2NtRTFFclVDTkZKbktpazJldkRyVW5jYTNuYXFMc2t0WERObkN4N0FNR011WTlzMVRCc0ZrQlhEYVI5cHNfeTA3UVBhanJfdUEtUXhjU2RkZmh1eG1GUElxQ1ZWM2pRVTZudDBnVXQ5UUtCV01lYktTa011N0dO?oc=5",
+    "source": "tradingview.com",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:58.805282+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dbcfb923255a3e7b4ea7aec5",
+    "title": "Google to test AI computing in space with first orbital TPU launch - digitimes.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNkRodzlFZFphY2JXNktnQmhWQm4ycGVvWVk3aEFuYnlyZDA5dWttdklMaHlibm1Zbk5nOWtxNTE4T0tRLVNQZVR0eEtWSlBZSGU2dEoxVTlILW9yNXpZOU00dFJYNnczVDBidjVJMEdXSUgtbEQ3WXlaU1c2eDRIOTVoVTZUYU5TUWtHeQ?oc=5",
+    "source": "digitimes.com",
+    "published": "Thu, 01 Oct 2026 01:46:11 GMT",
+    "discovered_at": "2026-10-05T05:51:58.805170+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c1fd68adf226ad9f9636f11a",
+    "title": "Inside ‘Panther Lake’: What to Know About Intel’s Crucial First 18A Processors - PCMag Australia",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNFVQVmhMLVpWMEdNTC1UNUxLSEJPZ0xZMEtpTExFREZPclkwS20zaGhIOW12T2VKNk8zcjlYcTlyZm5nQ0kwTkhuLUV1ek9RWmVBX3RCd0JtLWVyczVoS2RjNUkwZWNla2xCNnBUMWVXVGJQUmpBcy11WWpSWjNJZHJnNWtvbksyTDI0dXVmOWt6eDBydVRjM0pNOXJxNGY4VFlXMnZlaGtpN2tZSW5jZHhRMA?oc=5",
+    "source": "PCMag Australia",
+    "published": "Fri, 10 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:55.473276+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4402265f3d3bacaa986cf90b",
+    "title": "Intel Announces Xeon 6+ For Clearwater Forest CPUs - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kajV4UG5fMGE2RzBrTzJSMmRDa2ppTjlLalZaTzBoaHhBMmVzVEduNXpVM0RnY1BSeHFiNy1KVG5oRXFmbUxhcVB1REtXR3NnRkMyZnN4a2ZFUzFueEE?oc=5",
+    "source": "Phoronix",
+    "published": "Thu, 09 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:55.473109+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f02715598f6d37dce59c6ace",
+    "title": "AMD Takes the Lid off of Next-Gen EPYC 9006 Venice As Zen 6 Comes to Servers - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSWNFb3NCRkhBeU12SDRGLVFBbmk5Szd1SFVMUzhhaDZhcjhMbjhwenI5SXVsekZweWp0eFlPcGVGazR0R1BxZWJXWmtDVTZ3bVFuSlVZWnF1NmdvTDJqU04xQ3UtUzBIOTRyRVlaeEJIbnFLd3JsRTQxeTZvS3haZ3BDZ0VSNVllT1RQR2FFN2U0NzhuWGx2MERHSjlGaFpuczlpei1XMkoxUQ?oc=5",
+    "source": "ServeTheHome",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:55.216712+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1c81e5be1ee6d0564f73814c",
+    "title": "Tesla AI4 vs. NVIDIA Thor: the brutal reality of self-driving computers - Electrek",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQ1o3U0FxQ2pfSUs0Y0MwTlhMTHpqLWUyaTZ2bXYzYmpWX0pWMWtoYzI3SF9YRENqMUxXLTAtd3BEbVpZZzV3OElrQ21JS1NjNFR6cU9WZmlvRlZldVdpV2xOV0VkNVI0TDVVLVlySHNobUgwMTg1QV9EMlZOYUtzM3hXSjJ6MkFlVFAzazZBRnQ?oc=5",
+    "source": "Electrek",
+    "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:52.473521+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6897fb2e0668332eb0353805",
+    "title": "Qualcomm’s Next Growth Engine Is Snapdragon Inside the Car - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXRuRW1BcGg5Z2tjVFMtdjcxR3d6NzdqNGx1NGNCdDVoT281OTdZbFAwR1NBeGNKeXJDUVl4QmdRU3RiMzlXQk5nUzN0TjNpRVYxSDR5TFRpM0NLTFNJWnhHNWRKVmFZTkg5TDFnZFBjZVpYRjVTX0dzdXMyTVBRNEREZkY1LTdObGxnRg?oc=5",
+    "source": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+    "published": "Mon, 05 Oct 2026 00:26:07 GMT",
+    "discovered_at": "2026-10-05T05:51:52.192941+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5a482d7b908fe3c6cf2df32f",
+    "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports - reuters.com",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5",
+    "source": "reuters.com",
+    "published": "Fri, 02 Oct 2026 04:12:00 GMT",
+    "discovered_at": "2026-10-05T05:51:49.646712+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5da89a1c234ceb7f916a06a7",
+    "title": "Huawei’s Kirin 9050 Pro Hits 5,381 in Geekbench Leak [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxWlNFbDJaRXB0aTdNVEJ3NGxTckJHN1l1bVZPSloxTU9pSG5lOVpablB0N2wtVk5oV1pmZHlQcE5Mc2Y1RW9tTjFfZzRSNFVsbFN3X1hPaTcycFRSMmVRWVNDbTg4WUFUMjllUGdPc1pzbTA0cEJv?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 05 Oct 2026 02:00:05 GMT",
+    "discovered_at": "2026-10-05T05:51:47.273429+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7520ee4bd45d5335a51c4669",
+    "title": "Exynos 2700 vs Snapdragon 8 Elite Gen 6 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVm5NRl9QdzdoeXN2WEl3ZHk5VkU3SlVCdHZ5TkFwNWM2dUhNbXFUTzZuRWhVdUFTWmtodDJaMlBrY3h3cXJodlpwdGJXYlJoc2twdFVCVF8xUTRVNi1kU21sLWZQZEZpN0xwNk5aR2U2YnlfTlUyQlIxdjdOa1VvdQ?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 05 Oct 2026 03:23:29 GMT",
+    "discovered_at": "2026-10-05T05:51:42.831309+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb283fd755b17cba6aad5e53",
+    "title": "iQOO 16 Global/India Variant Spotted on Geekbench With Snapdragon 8 Elite Extreme Gen 6, 12GB RAM - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE5wMU9IR1EyRkxOUzBVU3JnSGZ6QXJxQUlKR0ZuS0FRWnd2Z2diUTA3amc5Wm13NXd1R1kzZGJJSF9pNXlaWFBDSGRnM0ZNcmxzZjlobWphZWh5WlNtSDdCcTg2TmdXRHZMM2JvTDZyTkJaMlpyTXczYV9IaXRnOVd1R0NINl9XbUhVWHhDc3ZUNk5nUmhnTzMwa2ZtWmxZWE5DenBqQk5UcGFzTXhHb05XWnNNVzF6MGVqdjZaRVJ1TjJWb3c?oc=5",
+    "source": "My Mobile India",
+    "published": "Mon, 05 Oct 2026 04:30:48 GMT",
+    "discovered_at": "2026-10-05T05:51:42.831273+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "db26cb2da4ae00ff70c31ef8",
+    "title": "Xiaomi goes its own way - custom 3nm Xring D100 chip to go live in 2027 - ArenaEV - EV Arena",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFGcjB1NkhERWowOUdhaVcxR1RESVN6bks0Y3FaN1UzNl9EMmZ2c3RpVmhhc3BPeERXS2hxSWRIQk5nNGxLV0JRTUw0bUhCMmw0b3JRTFRBaVBOc1FzTmk3aDdWaEFOZThFRDYtSVhrZVVodGhZdEtpSUNPclJwU1gtWGRYaXNpSlpKS0lsRW5HQUxMQXdwT2g5dUlTbDdrbGZ2MUtXd3pOOUYz0gGoAUFVX3lxTE53MFRGMmpXWXl0cWk0QkxOeG11S3UtQU1QR1VsQXYtN0xDZlNNWTJnbmhFbW9uRmRUMFdrYnVUanF5MnlSeHpMeDBld1NkWGEyQXB2SmdZNFNGd3l4T090S2NMZU9mWGItcUFldDFRbTRaelAydUVLV1A4QV9md2EtSlJSMzBXVkNUcVBfczhBYkNYU3IzSWpJNlRjd08wREh6RVdhajhPbQ?oc=5",
+    "source": "EV Arena",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-05T05:51:42.299348+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "59522c44e53403944ec21348",
     "title": "This upcoming mainboard brings a SpacemiT K3 RISC-V (RVA23) chip to the Framework Laptop - Liliputing",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNElXMlJISHdEanN1eUJaM2hQSmdoQ2tzV0d4OXoxOUxRZUVLWUJpaElmOGtvMFhGeWpSVUZkc1VRUmpSNklXa1dpVHF1QllfUmh6YW9hQkNEOGJfdVdyU08wSUN0U2xYUUJDQXZocThJQVJLWi1TdldKQjgwWXRGZFFGUWhScGduQ3d1b1VDMG84emdyN2RuQmVZZEhMUmlua1dzYTZyQnVuZjBkanRJ?oc=5",
