@@ -1,5 +1,71 @@
 [
   {
+    "id": "d1ca5349388805c41eeeaa94",
+    "title": "Ventana and Imagination Technologies develop RISC-V CPU-GPU that may outperform AMD's EPYC Bergamo 128-core CPU - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcUJUbURWc0ZDWndHSVZzaG5EUC1TQVVFd3k1a0xKQjVSdEJRNEhldkNnamQ3Mkg0Yk00SnNtcHpBMVlNTEc4V1RuWWU3T3o1WnF4VU9Jd3VsdVlSV3RyLXVBb0V5VXpDZGNkN2tVUWJaQTZrT1EyVXI0cWdwZUxsaXhQMDlwMWluWHZOVFByUVlpSUtCbkVxaERMOWpvc3JyNDU0ajk4Znhpd1BQYktuQWpQSXJvR3lfTzZCT0pxRmFKalZoVFN3UTNUbDIyYWx3ZnNwZWIxYXU3Qnd6cWlRUVFPTk9vYi1wY3Bv?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 07 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-10-06T00:08:46.470489+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "157dd22a64020a9be9d2e38a",
+    "title": "CES 2025 Analysis: Nvidia’s AV Strategy - EE Times",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tS25uQzA5WV9fTWlRbzViblgyNk9NNS10SzJvVWF6aUpzUHN0OU9Qd2huVlVTUmxndGc2cXVVLUdTMXdIbi1HRjlPLU1Vd1U4SWVfUS1PSU1XTGxTMlBraHNVeGI1aXBUeDJodl9jaw?oc=5",
+    "source": "EE Times",
+    "published": "Tue, 11 Mar 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-06T00:08:45.840283+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a2ee03a978a672587e80199a",
+    "title": "Intel’s 288-Core Clearwater Forest Xeon 6+ Lands on 18A, Claiming 30% Performance & 50% Efficiency Lead Over AMD’s 192-Core EPYC - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNT3NDYm9tNWxRbTZ1UnpCcDVpU09EbVNyek5Tc3RVaHg4RVAxa0hXdk1OOTAzUUd0YjB2NXZ1Yzc4ZkJoV3pDbjN4ejBSQkVzZGptZGxCeFhZSlM1N01fY2hEQmxKVUlmemc0RjFBTFVHcGllZnFwWDYtMWVqdTUycXkyS3NndlNCMHlnV2lsWWd1TThJcnBVS1lQUmlGLXdaZi1iQzdKSkVUSUhyQk9pR3BYTWFyVGp1ZXfSAb8BQVVfeXFMT2IyRXFXVzY4TEJIbHNVbWdLcXphejBLY0dRS3BzN2xyUllzaF95TFV5cGRPOVdTWlpKbmVYUkExdmhMdm5FcGVVdktXM1N3VHA3WDJRYkc1czZZVG1GUmNTa3ZsWWFIcUJnaVBRN0ZURS05YUplcEVtQWFMOXRPdHR1TjNoZE5EMkNaTHB4Sk1Fb0VmRkliTmVuXzRzejI5RDVSLU4xTEZXTFQzdm9DbWE0YnN5NkVPUllFaFhBTnM?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-06T00:08:43.608339+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1c4e7b82402b60ef7b04625a",
+    "title": "Apple Reportedly Skips M6 Pro/Max/Ultra for M7 in 2027 - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJYV94c3h3ajRVWWhvVU02Y0VFMnFNOWxjcjZkRzdQZzk2dF9fV19NYVFSNVRqNWNaSjNyRkFKTmpHSXhKWVBDSW9xVVh1YzM2bGlZQm90VWp4bFB4YnpuSGU1SXNtVmZfNzhjNGh5TXY?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 05 Oct 2026 15:23:47 GMT",
+    "discovered_at": "2026-10-06T00:08:29.912758+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c024779d34018c21b99a959c",
+    "title": "Three New Snapdragon Phones Could Pack Batteries Up to 10,000mAh - Gizchina.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUXdXQW9EcUZNQ3QwOUF5bW1Wb2lUN1BrdzY4TmREcVExQ1djckVuSHF0bzk5TDJuUVZQdDFfa1ZYdUw1Tm1aMjV6c0ZKZS1sX21TS1R1NjNBSU9mb1NyaGh3cmV2WDZ3aFgtbXAySlFVWkpjN09GLXphNlhScnpJRFVpcVpkajdPWXE4VVNVLVhodDZlaF9xNmZSQnNHZw?oc=5",
+    "source": "Gizchina.com",
+    "published": "Mon, 05 Oct 2026 14:14:00 GMT",
+    "discovered_at": "2026-10-06T00:08:28.131387+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": "780df1ef7232670ef17f1107"
+  },
+  {
+    "id": "e1b447a394987e4142e2699a",
+    "title": "iQOO 16 Global Leak: 12GB RAM, Snapdragon Gen 6 Chip [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMjJiQ1VzSFlUYjZFb2dPNkdvU2d3d0ZKWG9EUjRHdld0WE45azBvUkM3cHpaR3NYdmVNdHlUM1g2VWJlYVV6aTBXT1E1NkE3NDVBeDFIM3l2NTQ2UjZ1YlVBNFlpVlB1QU9aWWg3OEVGNVdOdUlQRS1ZT3hTTjVFaHlIdWVjSHc3NUdiMWRVMzVsUVRrX2N2aEdab2s?oc=5",
+    "source": "tech-insider.org",
+    "published": "Mon, 05 Oct 2026 15:47:59 GMT",
+    "discovered_at": "2026-10-06T00:08:28.131296+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "7419fdfc689244530c2ee45b",
     "title": "CES 2025 Analysis: Nvidia’s AV Strategy - eetimes.com",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tS25uQzA5WV9fTWlRbzViblgyNk9NNS10SzJvVWF6aUpzUHN0OU9Qd2huVlVTUmxndGc2cXVVLUdTMXdIbi1HRjlPLU1Vd1U4SWVfUS1PSU1XTGxTMlBraHNVeGI1aXBUeDJodl9jaw?oc=5",
