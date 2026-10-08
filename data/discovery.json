@@ -1,5 +1,137 @@
 [
   {
+    "id": "1e26dfab562aa86041167500",
+    "title": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT3dnVEx6cklzYVNIZXFnM3FDb1UwekY2QWlUYXc3ZHlpUGVrM09IbS1HeVpIakZsa3p1ZjMyRkVubnpMYVpMekRnRFNyblFuOXVjRlcyNS05YktKWndyWUk0T3YtWjZLQlg5U0g3U1BzUm1DUS1maXRmcFp2QnBidUtQMndsSmJkUEVqa2JLQXFBSEp6N3lZRFVGSlNGSmpDRUZZTWp4SEN4RGI2SzdHX0VaZDFkRDdacm53aU5scUZoTXZzRTNLYlE4enI5aWRUZWQ2UGVwU1kwYWlzanFaTlNxTnR3NEZzUXBQQks3U1VaaGVycVZFREdFdEFiSzZTLTRldlFreFozM3BUNW9jOU9uMEpITE1w?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:47.655166+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b9880cea94f3f56a55d0aa7b",
+    "title": "RISC-V Datacenter Future: SiFive P870-D Delivers Scalability - Electropages",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdXk1b0F3VjNPYU9JWFhPcGUyUEJWbmJxdzhua29weEJBWTkxMkJSVW1vRkRjWWh0cTFQak5PSUJYOU04dzVJdTdaeW43amhNMXBpYmtOWm9rV0MyU3JBM2lKSkVldlFBVjdubjZQXzBMaEhIbWpzZ3BRMjZSX0lrenNxa0ZhZWNNUlZabV9n?oc=5",
+    "source": "Electropages",
+    "published": "Wed, 28 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:46.696526+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "74af8af36f7bee04045f9a3d",
+    "title": "AMD Advancing AI: Helios Hits $5.25M, 12GW Booked [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTTBZTTBNS2Z5Zno4a0VBSWN6SXRYUW8wV29jSndlSmhhNzlLVXBvVlU3Vng4R3AyLUFzc29mNkdzVy1PQ3Q0ZWNSTW01TWtFZmxJSVZkMmlmOW8?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:45.014358+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "81feb66e684e9feb7fdf726b",
+    "title": "Meta Iris AI Chip Enters Production, Eyes 14GW by 2027 - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nNFdiWTQwR3FDZVA3dlNUYUdHT0pnQlkyVWwzWlY2dlZwRzYwT3BIeDJ1ZlZLY0Zmd0J1SjNKcF9PNWR5NGVJMTB6aTVrUnJXSUM2UW9meWdGOTBiUWlhakctRWpmd1BIQ2VNUW1qdFNRQQ?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:39.344511+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "014ed0dc1ae9d3d769cc4a8e",
+    "title": "NVIDIA’s AI-Powerhouse “DGX Station” Breaks Out Of Linux, Cramming 748 GB Of Memory And 20 PFLOPs Into A Windows Workstation - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZG93Q3NkcjAzRTE3dGZDQUQySjhpaERqMUJhU2hDZ0VWWEhMNkVjLWZ0dlFEMWxTbzlqM0lsMW1MVER1ZXY3bjkxRkRlZC1naHI2Sm1oVjVsdmNyY0dxVVdTWV9vdDNzUWplVGZvZjdESER4NW1sNVUyYVJpVHo2N2R5V1JWMDds0gGOAUFVX3lxTE12NzVveGRDdE5SOTl1QWlfaG9lRzJzZmEyeVZBOXhJZ2NQNEVtckpFMGJJNUhtbEdKWS1jVEY0cU50UW5WSTZOR1Nia0gzY2w0SGgydW5qNFdEUHdPd0NGbk9RWGh0MnVHNl9KRkJvN2cyWmhfbTRORzJWdUVEWlJkYVU0cmFwdkVJWXlSeFE?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 07 Oct 2026 20:40:15 GMT",
+    "discovered_at": "2026-10-08T06:16:37.804614+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "66771106f851b83f815ff1ff",
+    "title": "Intel's next flagship CPU could be the 28-core Core Ultra 9 4950K - TechSpot",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa0gzZGE2bjNmLWZBZzN1dENxZ21FcXgtU21xQWpja01NRWhBSkp6UDlmdmsydW5wb21zYXZRdXp1M3cxNHNGZ0NmUEowNkotUnE1cWx2MjdYT3AtOE5YdkEwYXlOaHlRSkI3U053cDBKYzM1SlkxVVNHb0hEa0xNVjQxdHhobFRVVDdNMA?oc=5",
+    "source": "TechSpot",
+    "published": "Thu, 20 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:36.488712+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "61274e1b137adcc18063009a",
+    "title": "MSI Prestige N16 Flip AI+ Now Available for Pre-order: Prices Start at 3,449 Euros for the RTX Spark Convertible - Basic Tutorials",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOGxyN0hvLWhoWklTY1pUWENwWk82N1Fadjc2MlpidEcwSXROaUwyUHA0b1BYeDJqZE5RUFBSaENuNjZ1THVLS0ZnNVROa01NUEpsNmZFYUtTaUdPYVhxNGFNeWVvdVlhNkJKdDJMYmVITFN2OWdzQ2xoVnROWUFyR1pFeGRtcFBycjZ2SjZuUjhiRVdhR21ZZl9WR05ZYzhYZjh1VzcyYjZCazAxUTVaNDQwWURzUjNhaGp1NXRfZnhudWVXOC11cmJtVVVGcjZqUm1XbVZRYUwyVGM?oc=5",
+    "source": "Basic Tutorials",
+    "published": "Thu, 08 Oct 2026 01:18:02 GMT",
+    "discovered_at": "2026-10-08T06:16:33.826584+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0c6015d97686a6434fc9514f",
+    "title": "ASUS to Launch Up to 1 Petaflop AI Laptops \"ProArt P16/P14\" in Japan - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10YmFPY1d0a1JFSU9GOE02RnBqeVI3bUR0Vjh1WjdkYXZjdFBjNFo0dy1YOTZHQXFhd2h6ZDBtYlhMYXdMLUdGWlNQcy1STEVIazBaQUZUdlZ0X0dJb2luTDhZRm85eDhYcHRUTjhCT2hCaXlKbGc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 07 Oct 2026 23:35:00 GMT",
+    "discovered_at": "2026-10-08T06:16:33.826547+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a364ec9eeb4cb8a0c4e29036",
+    "title": "Microsoft Launches Surface Laptop Ultra, Surface RTX Spark Dev Box - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZFJHQlRKQ0NOSEEyajI2NEJLaV9FM2xhekREMV9TQ3FSZzZ2T0xKenkySkNLamRreGlVVi1Pc29zNmM3WDV1RTAzRTA3X0ZWY2dzWEVuYXIxS0pOTVNJNE5hZFhmRlphNjB5QjNyQkdzNmJmeFZJWnNJeXE1SkZZVktMZ2N5MEMyd3hEUHNNNVhyaDQ1cWc3bnhrNA?oc=5",
+    "source": "ServeTheHome",
+    "published": "Thu, 08 Oct 2026 01:00:15 GMT",
+    "discovered_at": "2026-10-08T06:16:33.826479+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "336d9c9eec7918b5aa2211a5",
+    "title": "The first RTX Spark computer goes on sale, capable of running large models with 120 billion parameters. - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93cGgtVXpxeUN2dEZNOEpjUndhYnJ6X044U0JTWER4TEs4NHRrMEVpd0tXZnZKWVdfY0VXU2xMNW55TDdFYnlCZ2RGYm01cGpBYlpN?oc=5",
+    "source": "36Kr",
+    "published": "Thu, 08 Oct 2026 02:32:12 GMT",
+    "discovered_at": "2026-10-08T06:16:33.826447+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ce78e64c9bd9610412dc4027",
+    "title": "MSI's new Prestige N16 Flip AI+ is a two-in-one RTX Spark laptop - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1JpNlJGYTRReXFreWZxN2Rzd3dtYklPZHJfS1k4cS1zMEpyRmY3U2pXZlotZjRSOWkxUDI1aGlrQXhScDl3ZE9lNHhQRm1qSmc0c2FPa2ZLSm5IdHN0cXlMQ0VXSzBaZkZrQzJVSTd2MGFfUG1Lb2J3dVMxWlF2aDJHa0lQLVlwdWpMcGVBU2wtN21vdzQ5QVhKSU42NDdTMmJfV2N2VGVfYTBrbC1qamJmM1lfdTQ?oc=5",
+    "source": "TweakTown",
+    "published": "Thu, 08 Oct 2026 06:04:14 GMT",
+    "discovered_at": "2026-10-08T06:16:33.826421+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0885395f9caa3f7402c969ee",
+    "title": "Xiaomi Xring O3: 5M AnTuTu chip powers the 18 Fold - Tbreak UAE",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xUkcyY1g1REFzb2h5TzBISHdHbTdKVHZwOWJmVWZNOTZuZGNNV1I4QlhHakZpMEszSDNlWXhkWkd1VUlVZFF1dy15M3dKS2ItZU1vSkNkc01XbFhtMVVOVjhOWVFaVWdVRUh6ck9IU2dhZDB1YkhDWg?oc=5",
+    "source": "Tbreak UAE",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T06:16:29.044901+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "9b10e6a2cffdfd1900c7e447",
     "title": "OpenTPU, an open-source AI accelerator developed using AI technology, has emerged. - GIGAZINE",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBzRGVYYVMyLUZWR1RLYVNPQzBWbWQtMmNyQU5nRlB2bElSMkRzVlJiQmpRQ3FTWS1iNmhobmFiMUZkWGdpWkxqX0Ruc050dXljMWVXODd1RHhMTm5nUmc?oc=5",
