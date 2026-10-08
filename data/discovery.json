@@ -1,5 +1,104 @@
 [
   {
+    "id": "29d8e0ce20e7463e47a65dfa",
+    "title": "Google’s Ironwood TPU Undercuts Nvidia B200 by 18% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbm9LQnI4SEJRXzlXbHdlVHZJYklKVmczRG1ES0RkMzZpYWJxbTViaWIxQ0NWTzhMc2tTYmstWWZaODlydlFLbzFXUHZiaExubldsQmlmelZBRldLc2VobFZTMnZVajFyQW5Vb194WFBOWFBLUzhOQjNlZUIyeWR4TF8wanVFdw?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 08 Oct 2026 07:23:57 GMT",
+    "discovered_at": "2026-10-08T13:45:05.001319+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "205e2fd5d940446470a8aab3",
+    "title": "SpacemiT RISC-V SoCs To See More Improvements With Linux 7.4 - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YZ2pJRFN2czNHNkstS2hhRWlSMmdwUVhCYkYzQ0lTZVFOazJWTDNVM2s3aDljS29xVEd2RVVfMWx4LUVhUzlsRGl3MjYzVFhrcnZsVzRxMlYyZkFs?oc=5",
+    "source": "Phoronix",
+    "published": "Thu, 08 Oct 2026 10:13:00 GMT",
+    "discovered_at": "2026-10-08T13:44:58.310903+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f001ae77e2d292fec92cbff1",
+    "title": "Google Pixel 11 review: Software and performance - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pREZVeHE4Ny1zZ0lJU2dUQk1ybzhDdGVuT3RMdzlkWk5EbDRzOTAzVkpZOXNqSHBISFh6aHhLc3Bxb3FBWW1uUWpYWHJPa1RVMzU5ejBkUHBjQmdFUWRjSnA0RDJxWHlGWEE?oc=5",
+    "source": "GSMArena.com",
+    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-08T13:44:51.231167+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6b989e8e842475aa4ef32404",
+    "title": "Pre-orders are live on Nvidia RTX Spark devices, secure the Surface Laptop Ultra or other RTX Spark laptops here — starting at $2,599; where to buy, pricing, and availability revealed on several models - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNWHJMMmluQWZsYlJwQ3JUeE9Ha1NYTlU3STVKUllzMHB5OEZGYXJGTlR1dnVZNDBiMnNWLVJlMENqTFZEMFVVVWlqOW1hZ1laMVRJYUN1ZFNlYTJESHVhT1o0S3h6YmtIX2FUdDM4WVN1R2s4VmZXY01Bdk5aeXVXbWpwdmxKQmZZdFB4bWV2Njl5V29oTVFLN1JKVVpzSDJRMXl3YWRGQnFvTGlHR1VxWkQydjJBTzg4NGpYcTJMSTVpa3pwZWQyTlp2eF9UcFhBd1liV2k5MkFKUjA5WkVQY1c2X3ROa0JRWi03RnVpQnVicEItdWozdEJGNDZVd3VBX3RhMFQ2d3d1ZHlmUUxVeW5qT2V6NldYd2J0MzB2QndyMExJRVBtMldtLS1QQzRPWXpsUzhJOHYxWVk?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Wed, 07 Oct 2026 22:52:39 GMT",
+    "discovered_at": "2026-10-08T13:44:50.861967+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "08b9ae3db2b8e97deba00303",
+    "title": "Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable SEA",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS1h0RFlZeE1ldkZ4RWJYWmZFNGwySmRzT1VPdmo1MlhXZXU0WjJ5Z3lFeXBSNEp0MnZiVzJYMExuSElSQ1pnMDNSSlUwUlBaZm96emtuUDByd3czdUJpcFJNTWVnYUU3eENtYnhrN3djNTI1cnhxSFVWS2FxNkI1VWxyb3M1T194enJPemQxdzM3N3UwMWN6cjcyWHBRMWl2ckJZbHRoYWtCcjdpR0VF?oc=5",
+    "source": "Mashable SEA",
+    "published": "Thu, 08 Oct 2026 12:25:55 GMT",
+    "discovered_at": "2026-10-08T13:44:50.861918+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0ba739f290c854d272856185",
+    "title": "All of the new NVIDIA RTX Spark-powered Copilot+ PCs now up for pre-order from Microsoft, Dell, HP, and more - 9to5Toys",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZjZ0MG02d00zcnRqLWozeHh0MzJTb2wtWklGYk1GWUZVUE5OSkF1S0M4NFFpdWZSTVozbC1HTU1Sd3piZnplTDFfbmU1ZFc1OVF1eEtCa0FxWUU5NXh1YjV3TWRhYmxWV2dROFo3WlZVbzdGdGtSbkN2YnZLMXNmeUlTbFc3VlV0NDZjRVZJTk11NEk5MFVrM0NB?oc=5",
+    "source": "9to5Toys",
+    "published": "Thu, 08 Oct 2026 11:14:00 GMT",
+    "discovered_at": "2026-10-08T13:44:50.861744+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "32a53625f5895c09331a0a89",
+    "title": "MSI has unveiled the Prestige N16 Flip AI+ featuring NVIDIA RTX Spark – prices start at $3,299.99 - Mezha",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaHdKcFlZUjk3TUxJLWNDU2haeHgyaHFKX1I4dUNNZUxJclFJSk40WE1ZTFpCYUQ2V3U1SzUyM1BSTmhTZVNaaHVPcVFWN0ZobVpfZEFCRGUzNTBSRFptSGcxbXhPV3JTbTl5Zl9WLVpuWENyUDNqOHdoR3Z1S2ZTSThRVdIBiAFBVV95cUxQeEUxVHVjTTBiLWdzR2F4Rnp3SE1LWi1xWWlBSk5wZThiOXpfMmpyaWxtU25EWnlGWmhuOG5xQ1NFNzZ6dnFiY1ZfYl9McmdQckFiZmRnME1RTE91ZHhpdlE1dExvTnc4WklIbXZscDZTQ214WnkzUXhDRE1XcGhaMFdzSUMtU0Vs?oc=5",
+    "source": "Mezha",
+    "published": "Thu, 08 Oct 2026 09:54:00 GMT",
+    "discovered_at": "2026-10-08T13:44:50.861705+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c06160e6f2e293d2a1619177",
+    "title": "NVIDIA RTX Spark Pre-Orders Open: N1X Runs 45 to 80W in Laptops and 140W in Desktops as MXC Goes GA - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGJMa1diUU5KSmNoUXV1X01SU1M4WGVPRFY1M2daNTJ6NlNrN0J0MWxSSnZMQXhIQWYzdTgzSmtGd2VqRHZobXRPVGlXaHdLVW1SN1lWNnVxVVVURXItdUVUY2pWR0hCYVVxMHppNjVRRllBMUJQUVJTS2FvbUtBeHVkaGR2VlRVMDh2SW4zblJORG4xS2pwVWxXcU1OMGZvM3Z2TmF5UXUzQ1pldS1ETlZ2Y9IBuAFBVV95cUxNeTRkWXRhZm9xNE9pbFg0VnhkZUh2YjhjVk5sSlZ4MUxXNUhJNF9BLUhFMjVHa212bjQzcUk3MUhBNlF5NmVlY3R4N0FmREQ4X3lZWUpEQk9Pa1N4RkxyWmhSQnBhaWw0RjRGQlpPekRMR1FIWUUwUFltUnpFa2I5T3RzbVkzU3FXUWRma1lpNVc3bEd2VDREOWxMTi1TUG9hWkxUNTYtOWV6aW1WbnVTd3U5TzJGdVpB?oc=5",
+    "source": "StorageReview.com",
+    "published": "Thu, 08 Oct 2026 05:55:02 GMT",
+    "discovered_at": "2026-10-08T13:44:50.861639+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "abcf4d4b6b69f799ba262171",
+    "title": "iQOO Neo 12 Appears on Geekbench With Snapdragon 8 Elite Gen 5, 16GB RAM and Android 17 - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTW85N3NOQ3czRUtXRjRKOWppTzJyOGl6ZWhaUHdLWnZ0d1BFcXJCZ3JTSlVZc3lTNE55cWNIQnhqVUFCS3F3dDhZU1poaGtHU3JfQ3Nkc1hGM2JmRkRBZmJxU2xCaEpZZDhNR21BUkdrWEJNX1dMZS1EQWRNTVlMS291T0pWWldmT0hueTN2QVdtY0F1c19BUWsxODlQY2p4bVk3Qzh5NHhwQlVsekd5WGFrSmMyZzRC?oc=5",
+    "source": "My Mobile India",
+    "published": "Thu, 08 Oct 2026 13:21:42 GMT",
+    "discovered_at": "2026-10-08T13:44:47.491723+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "1e26dfab562aa86041167500",
     "title": "The ABF substrate data center roadmap — solving the supply crunch and material wall beneath every AI accelerator - Tom's Hardware",
     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT3dnVEx6cklzYVNIZXFnM3FDb1UwekY2QWlUYXc3ZHlpUGVrM09IbS1HeVpIakZsa3p1ZjMyRkVubnpMYVpMekRnRFNyblFuOXVjRlcyNS05YktKWndyWUk0T3YtWjZLQlg5U0g3U1BzUm1DUS1maXRmcFp2QnBidUtQMndsSmJkUEVqa2JLQXFBSEp6N3lZRFVGSlNGSmpDRUZZTWp4SEN4RGI2SzdHX0VaZDFkRDdacm53aU5scUZoTXZzRTNLYlE4enI5aWRUZWQ2UGVwU1kwYWlzanFaTlNxTnR3NEZzUXBQQks3U1VaaGVycVZFREdFdEFiSzZTLTRldlFreFozM3BUNW9jOU9uMEpITE1w?oc=5",
