@@ -1,5 +1,71 @@
 [
   {
+    "id": "ce1fb540dbc92e3e351741a4",
+    "title": "Intel Targets AI Workstations With Memory-Stuffed Arc Pro B70 and B65 GPUs - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1RBVmE3dG1nZXFPbHc2UkRKeENyaDhvUEdRLWxKVU8ySGd3WlhuSGRxZnVmcE55SjBfTVFMZzdCbjlDMHRqdlpIcHQ1ZkJPeFF1ZmhnZ2JTb0pMakZUT3ltZFFZSW9Hb3pWVS1qNXNxc21pT2ZTZWczTnlkUll4ZDYwMFV2MGQ2dVZVaExJSnR1OWZieFA4REtIbzlMREJPUlhZ?oc=5",
+    "source": "PCMag",
+    "published": "Wed, 25 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-11T05:58:57.902575+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "86d9ec84d7023bd2f977524c",
+    "title": "Intel Arc G3 Handhelds Take On Steam Deck, ROG Ally [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYTNLTTVfWV90MXMtbG80dllMTnl6d3kxVW15VkdMenJYWXlRYjd2TV9OM1VVRmU4anNHZC15by1oOGl5NzRsRUs4VS1LVURLdi1CMTExd1lfRk9meEFSMmZ4aWZUTUNtOS0xanRTbXppVHRHWlRpVEdzZmpfUlNfOWI5NndaNVJKdjdN?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Mon, 28 Sep 2026 01:21:29 GMT",
+    "discovered_at": "2026-10-11T05:58:57.902408+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8330187686fd0e002246ffe0",
+    "title": "MSI Prestige N16 Flip AI+: $3,299 RTX Spark Laptop - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WS0g1bUM5WGxJdExNSVFBa200a1FzRjIwdEZHLTd4YXFZcktSMG9oSVlSaU9JSWlHZllCcHFhVWNSREZuM0NtRF9BQ28zN3RmQmh1RW13OFpWRTZKcXBOd2doQ0lpNHB3VGlETUFxckJCeHVKbnhmSUREZXQ?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Sat, 10 Oct 2026 15:48:30 GMT",
+    "discovered_at": "2026-10-11T05:58:54.395485+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "040887e17cdc5e89e2cf2ec8",
+    "title": "Xiaomi 18 Pro India Launch Confirmed: Dual Displays, Snapdragon 8 Elite Extreme Gen 6 - NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbEtUdDZvMTZOY3pUSFBkZHROMEVhTjFtbGJmWW42WnpVMjE0Z0dFdFZkRzBObDJIbGN3LUNnQVJLMlVtTjZRbmxNRWdSMjZrSlpDR09ZT1lnWDZVNUpDZnV0RUd0RDI2Mkp0Q0ktTEpsZ3BFS2U5bUhCd0dMbm55a3JDcnFSWm5CMFlFZHhVVmxpU3d5eW9kd3pBbEd4VS13bVdGaDNyWEE1MVd6VlQ2NlIxZkNDZ20wbGh0Yk1rb3BsMzEwc0JmMUF30gHSAUFVX3lxTE80dUVya3oyVy1wQTBSUjR0ZzhqYlhpYlFXNWczbE9DV3p3SkZ1ek9ieWlSU0doYWZTVGw4SlZSZENzUXhFZTl5N3VSY181QXR1YXduWkluTWpnR2tud3diWWpQRFpLdVZlVzAxX25Wc2RZa1U5MmNoSlBMd25fb2FNbG9oX09aZXc1ckJmaXdlZWloQ3F2WVgyOWdPNjhlOTV2bU5iOGRuSzN6dGxvRkZORXJnVTVLbm1hX2RXd0tNTjNIY05FeUxfYzhSUmdOOXZsdw?oc=5",
+    "source": "NDTV Profit",
+    "published": "Sat, 10 Oct 2026 11:32:59 GMT",
+    "discovered_at": "2026-10-11T05:58:50.678260+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c661be03a44a081c167da4d3",
+    "title": "Xiaomi 18 Pro and 18 Pro Max Global Variants Spotted on Geekbench AI With Snapdragon 8 Elite Gen 6 Chips - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZlpGMkJaMGxHMWtQZlpiQmI2UmZUcGN2NG1PcTRqUjZzS1d6cW5TWDE3MXRsa1JrZlhnUndEaWdQR0JPZjgwa3RwSUNjNDlDY2o4WXhZNk9lNlc5RWMyQUxYRnBjZHRrZ21XYW1LM1Zxa2k0M0NHemFMYl9LQUpKSXN1NjgzTVhZT05qbFFDbl9LMzlDOUJVc01ZRFBhc3NGelBpdTN1cW1tVTFMWkcwVmFZSzBmQTFMYTJQUFk2c2lWUEdFcW91RER1bTRVcm1S?oc=5",
+    "source": "My Mobile India",
+    "published": "Sun, 11 Oct 2026 04:13:12 GMT",
+    "discovered_at": "2026-10-11T05:58:50.678178+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4ffc97024d005610fa302524",
+    "title": "Xiaomi goes its own way - custom 3nm Xring D100 chip to go live in 2027 - ArenaEV - ArenaEV",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQXzFGcjB1NkhERWowOUdhaVcxR1RESVN6bks0Y3FaN1UzNl9EMmZ2c3RpVmhhc3BPeERXS2hxSWRIQk5nNGxLV0JRTUw0bUhCMmw0b3JRTFRBaVBOc1FzTmk3aDdWaEFOZThFRDYtSVhrZVVodGhZdEtpSUNPclJwU1gtWGRYaXNpSlpKS0lsRW5HQUxMQXdwT2g5dUlTbDdrbGZ2MUtXd3pOOUYz0gGoAUFVX3lxTE53MFRGMmpXWXl0cWk0QkxOeG11S3UtQU1QR1VsQXYtN0xDZlNNWTJnbmhFbW9uRmRUMFdrYnVUanF5MnlSeHpMeDBld1NkWGEyQXB2SmdZNFNGd3l4T090S2NMZU9mWGItcUFldDFRbTRaelAydUVLV1A4QV9md2EtSlJSMzBXVkNUcVBfczhBYkNYU3IzSWpJNlRjd08wREh6RVdhajhPbQ?oc=5",
+    "source": "ArenaEV",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-11T05:58:50.093118+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "2a1a085087760cfba7436710",
     "title": "x86 vs Arm vs RISC-V: Head-to-Head Showdown at the Industrial Edge - eu.36kr.com",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LSWFBbS1iZ2laQWxqTjYtTlE4SVZfUkxSZ2tWM05IdFFRbC1KZEJuLVVud2w0MHh3WDVoak9idGNISVdvVko4dFJqWWplTlYzR3M0?oc=5",
