@@ -1,5 +1,71 @@
 [
   {
+    "id": "9ee14e98042398916f960f85",
+    "title": "New SiFive Performance P870-D Complements Intelligence Chipset for AI - The Futurum Group",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVXp2bDNBel90QXBVYXl6VjhlbDRsRExKdjI1ZXBIbzFQTUhoRHptZVZNbUF2V256UVNUSFRrdGVpZk9XNVUwaXNPb1lGUFNnY3ZBOTFubjl3bUlWdFlka1QwQ0dFQTV0TEdBeU83ZnV3VlVlZXBXaTJ1V3lsLVpqVVhPNmxtZUVKQ2NfWnVkM3NiVWN6MXFyelFGWGp4ODBMVU4xanBmQQ?oc=5",
+    "source": "The Futurum Group",
+    "published": "Fri, 16 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-10-11T13:04:09.018042+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "eff9fed92ac2e92f5cdba5c7",
+    "title": "Nvidia’s Biggest Customers Become Rivals: Custom Chip Race [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94WnJwMU1Id18yRTNWdm13dHlPN1V4aTFseDhYa0ZEUzV1U3B5WEw2V0RWTi0wSmdzM0xoRDNSZ1JQSk1sR1B4Q2FPVW8wVGl3LTZWQ1pYVDBEd2lmdjJHbmFXSEVSV2pXR1ZIbXFwVzNQenlra0syYlJvNWRmeE0?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 28 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-11T13:04:02.441483+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7852f22bf0a068b5fa25f8ad",
+    "title": "RTX 5090’s $1,999 Chip Reportedly Shifts to Pro GPUs [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04MDg5X0NZYUZoN3FDNTA1T0VXem95TklTcENHZFlWYzRPaHFWNHg3Sm5sUnpUaGQtWEhxUG8xcGlTVlRzSXE4Xy1wSVJ6eE9fRld2ZFBsOFdiMTNHMG5SVnYxOWpfUG5mS0Rv?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 10 Oct 2026 16:49:53 GMT",
+    "discovered_at": "2026-10-11T13:04:01.030128+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2be5c7f9dc74ed1e3c63e3a5",
+    "title": "Advanced Shader Delivery Now Available for Nvidia, Intel, and Qualcomm GPUs - HWCooling.net",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkdPVEZjVEk2WTJtY3BhemNYaGViSGdBeXZrdmhMcFRfN3BNNmFaLU9DNmdpQkRHZkNudi15M3pULWNKN0VyRUFYaTVOODl0MzNKT3Z1U01oQVgycGFJdEFYWkpWT0pUdzhNQ3BxZklFano5NWJsRHQ2S0plaktfa0tqdnpUTmNla0NRSTZCMlAxM2xLZVRJa3ZOWVpRb2RUeTBKZDFR?oc=5",
+    "source": "HWCooling.net",
+    "published": "Fri, 09 Oct 2026 20:00:27 GMT",
+    "discovered_at": "2026-10-11T13:04:00.531902+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "16ff24e03539d9aa4bdcfd4c",
+    "title": "Google Pixel 11 Pro XL First Geekbench Benchmark Appears — Tensor G6 CPU Specs & RAM Revealed - Nokiapoweruser",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEhsSFNibllHbnpfMnotUjZvaFdLUHhJVUpueUJNQkt5TzFvcHlsUm10azFQZ3R6Ym5kMmp2YXpvTmVweTNORUN2ZUQ2T082NmRhQ3ZZWENGNDB2ZUNxTnc1QXY4NHdLZ2d4YWQ3WVkxckgtbmlLV0o5QVo4MEMzaDBkVnFqOU9VeFNud1ZPN1BOdw?oc=5",
+    "source": "Nokiapoweruser",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-11T13:03:57.894474+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f08a9b7634c7f3e98a4cb015",
+    "title": "Apple Mac Mini M6, Mac Studio Hit India: ₹99,900 [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaTdlWkxYWUE0UjdYSnVUWGxiVmdibC1iRDhqTHdZdWtvejVTWWhIOXFuMDJnTEZROXdPLUUzMmtGbjBxdWhhUURkTlVXTkhLOG45bmhBazIyV1RMR1E0MTBPNjJ4aGpieTg4TDR2SmdXb3ZlYXJaam9kcjNiQko4MXFJenlfaUU?oc=5",
+    "source": "tech-insider.org",
+    "published": "Tue, 22 Sep 2026 10:29:48 GMT",
+    "discovered_at": "2026-10-11T13:03:55.764710+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ce1fb540dbc92e3e351741a4",
     "title": "Intel Targets AI Workstations With Memory-Stuffed Arc Pro B70 and B65 GPUs - PCMag",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1RBVmE3dG1nZXFPbHc2UkRKeENyaDhvUEdRLWxKVU8ySGd3WlhuSGRxZnVmcE55SjBfTVFMZzdCbjlDMHRqdlpIcHQ1ZkJPeFF1ZmhnZ2JTb0pMakZUT3ltZFFZSW9Hb3pWVS1qNXNxc21pT2ZTZWczTnlkUll4ZDYwMFV2MGQ2dVZVaExJSnR1OWZieFA4REtIbzlMREJPUlhZ?oc=5",
