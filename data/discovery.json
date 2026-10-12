@@ -1,5 +1,82 @@
 [
   {
+    "id": "cb6a4aadfd219ab007221cff",
+    "title": "SiFive launches RISC-V data center processor for AI workloads - SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTh0aUUwWTQ3SlVRZ2QyQUJ6M1lZaVNISXJEdWpQbWp5STAxQnFJWHJGQ2JEYW92UDhvSFdUanFvS3JGdkF4UUFXX2Y3cnAtYWUzM05Ed2hIU3VyY0tDQUdBWE9EdDUtTElneDJXSkpvZlJPRzBNUTYwVzFCY2hHbER0MXN5UWVqYVJ1RERybmhuMGhZeWY3NmFn?oc=5",
+    "source": "SDxCentral",
+    "published": "Thu, 15 Aug 2024 07:00:00 GMT",
+    "discovered_at": "2026-10-12T06:09:32.108496+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ed9ecc3a2494a839de75b1d",
+    "title": "Huawei details AI accelerator roadmap, pulls in next-generation Ascend NPUs by several quarters — FP4 performance of the Ascend 960PR doubles expectations - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWnJlakczVFl2RGFZX21JSnBBMlFWdGVTQmJ3aUFjd1dKdDB2XzFVV0VndEhnZktFMDZPU05xU0xFX09ERUpYaEt5RG40WEJWemE5RDZxREpYNFpPemtuMmp6MmtveW9uelJSbkhZSi1oUkJwUFJEREdScXIxOWRoMXNVVTFjbGRLLUhXTVlfWk1fajJqUnF5YlBB?oc=5",
+    "source": "Yahoo Tech",
+    "published": "Fri, 18 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-12T06:09:26.138293+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ff24e1f3acf203e5151cde33",
+    "title": "Davis Polk, CC score roles on Eswin Computing’s $320 mln Hong Kong listing - | Asian Legal Business",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaGlXTXlvc1kyMnVEaUluYVg5XzQ5dWRUSC1yZE5zTlFWTDFQTldQclFEcnZVeGctZVBlRHY5TEtRN0J0X1M4Ykd0LUNsV3ZEOGZRMFdoN1lTOWtPOFVUUUtiS3R3VTZLNk0yQk5kY1VrNjV5emdZd21pT3JkYnJJbkNYZDA5VktZdjBNTzVCb1ZzUm0wVDBibGR1TGtiR2d4cXZSWlh0clQyYjRaNEtKOGF1WDByX2JRb25N?oc=5",
+    "source": "| Asian Legal Business",
+    "published": "Mon, 12 Oct 2026 05:30:31 GMT",
+    "discovered_at": "2026-10-12T06:09:23.068202+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c7d8dd1e500d39483058d517",
+    "title": "Nvidia Lands Japan Rubin Chip Order - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeG91eU5LbFZZZDdZZDEycGw4dFZ3V3VfeGdLNmtDRGpWbUloUFJHeXhoOFdCbGVMRG1lak0tSko1NWNBVnpmWFZ2T0Z2TkdsR2RQMGJKeXhCSnNTMS1PWmNfT0hRN094TVkyV3hiR1VvQ2dvUlB3YlZLU0Q3WWFFb1ZxMk8tTVVaeDRyRzBoR3Y0LWhTNmdzZQ?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-12T06:09:19.378324+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8148cbd8600f99eda88627b2",
+    "title": "Personal AI Supercomputer Era Nears as RTX Spark-Powered Laptops Roll Out - THE ELEC, Korea Electronics Industry Media",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wME1XOHNOZFowVW1fYTZ6dlk1aS1NdExXMGloQW1NZWNPNjBOdC1yNzFLY1RHYmZQVjlOb2FfclhqWWhPcVNEZFZqbW9HeEFqbkx2eEQ3aTRlRXRjZEo5OUV2RnBTUTg?oc=5",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "Sun, 11 Oct 2026 23:42:31 GMT",
+    "discovered_at": "2026-10-12T06:09:13.743000+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e3e45c16bf131bbe3ee810f6",
+    "title": "The A20 Pro chip in the iPhone 18 Pro uses TSMC's 2nm process, resulting in an 18% performance increase and a 30% battery saving. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOTFFQU44cGdON3JNeUpndW1ZaVFDa085bjd6TUtWeWpmcnhEdWpabWZFTE1GNlZwN0hIeFh2UHVnTlFsQjVOSFloUEhqVEZuNmNKX011QkNTUllGVUdsLVZCZHFBdUYzT25rNEw3YzRoRHBJeEYyTThBVVhodjhoenRFZV9FOUhaU3dQQjBjZFdnb3kyNjVPenZpTEh3LURPa0FLS2h3Q0drRFlPTndxUFZ3WnRUMUJYRmZqdQ?oc=5",
+    "source": "Vietnam.vn",
+    "published": "Tue, 18 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-12T06:09:09.599327+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "841f38817952a7d036a851d4",
+    "title": "Upcoming Phones With Snapdragon 8 Elite Extreme Gen 6: Xiaomi, iQOO, OnePlus and More - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV3ZjU0VWTFE5WW13Z3ZVMndIRmpCeGl4XzNhR0dSelZMRVAwbHFQbFBHbnZCQTdSZGdCZ3RvbWdieTVINmZQanBWMWhZLUFpaHl6WEZHeDU0M2lYZkZ0UnJsRUR0OWJPNEdWOW1FUk1rbUJ6SGxXaHo2UmxmZWNqWGFYSkZ3c09VLXRWOUdpcG05clFhNFpfLUxjMEwta3RVNG0tNmo5V1NJeFJmdUp3cTdPbw?oc=5",
+    "source": "My Mobile India",
+    "published": "Mon, 12 Oct 2026 05:32:31 GMT",
+    "discovered_at": "2026-10-12T06:09:07.280054+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "8108b20ae4c511c66a3af5ea",
     "title": "Even Court Judges Are Now Declaring That RISC-V Is Basically Worthless Right Now And That Arm And Intel’s x86 Are The Only Game In Town - Wccftech",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWXNxdnVvZllwQ0hBZXphYUNmU29wNXFabEVScGVRWm9ERzdjX1dxcjB1UjJnQVRkS0dCcVRwMkx2anM5Sll2UEozS2dOYVBKbnU1N1Zqb2hPOXZHOXhjS1A2WU9JYldYdFRDdHZrX0pSSHFYYkVFbWplUE5GS2ZlNDFGLXk5NGZFa1h1VzF0LUNKNHRKdlpyX1dHUDVNd0Jzd0pzSTI2dzZXbDNzS0JtSkFHekxuRTdZUmFORWFVOVBhYkw4dmpBYnBWN1lQaGFJc2FZd09aeVo4bHRqeTlFZXM1QWE1Y1oxaFl4aNIB8gFBVV95cUxQN2JHX0R1SmtEbnQtd0YyckxCdExIamdmem5XV05EVkdFYXB0ZjAtOE5ZWFQ5T1hibzM1ZFpuV2JERjk0VUVYN3g1UkxwZE5rVkRLYzlzU1dEYlczcVdRS0hjS0M2TEI4MEI1Mm13UHMycURCelg5blhSNkgwSk1FdDREbEYzUy1pWWM1VGd3c3hmdk1sbEh2TFJMU2xVX1JwY2xvM2lWMVptOEtMT2VsMEJ0c29SSGxHRFhwQWdMWDUwVnlYNEt2eTlnNXBFdFJuUmVWSmg0SFN6aEtVOURnRVJUZ1Uzc2FkbEF6Vi1CMlhJZw?oc=5",
