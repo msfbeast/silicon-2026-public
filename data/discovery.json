@@ -1,5 +1,104 @@
 [
   {
+    "id": "d4858872f51f51939ea2cb96",
+    "title": "Vihaan-I: India’s first homegrown broadband SoC relies on RISC-V and C-DAC VEGA - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWmlvejNlYmk0LTh4TXpva201OFRTN0tyZDhjYzFLSXAxX2pyeTItX1dLbUkxcjY2aWdwRHYyelVYYVFXaWUtZ1lfak5CLTNSSHgyeXJvSVZoOHZmSnlqcGFBVGtTb3JUTUJBMjJVMkk4NHBIZXBYQzBqTEd0SVhTLVFPME41M2FqQ1hwcjByell6WUsxVmc?oc=5",
+    "source": "igor´sLAB",
+    "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-12T15:42:08.811839+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "67388c36f2ad5d86147c124f",
+    "title": "x86 vs Arm vs RISC-V: Head-to-Head Showdown at the Industrial Edge - 36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LSWFBbS1iZ2laQWxqTjYtTlE4SVZfUkxSZ2tWM05IdFFRbC1KZEJuLVVud2w0MHh3WDVoak9idGNISVdvVko4dFJqWWplTlYzR3M0?oc=5",
+    "source": "36 Kr",
+    "published": "Sat, 10 Oct 2026 14:20:51 GMT",
+    "discovered_at": "2026-10-12T15:42:08.811692+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "08473afe8d0c87bada6327ac",
+    "title": "Why AI workloads are accelerating RISC-V adoption - Bisinfotech",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeDhJVF9XMUZyVTNMTDdJb09fTXFiU016dHJWS2c1N3NmcE9WcjZ6MWxXSXNMcS1UaTJKblExZzctMTk4NkdBNjc4WkZmN0ZXaXZBMDlCV21lZU1aQk1uTGRfYWZ3c2lMTHlqYWY5ajRHYzgzUjN4SzByQU8yaU9BVE5ONUE?oc=5",
+    "source": "Bisinfotech",
+    "published": "Mon, 12 Oct 2026 12:09:06 GMT",
+    "discovered_at": "2026-10-12T15:42:08.811490+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8493010a5ef59b47aa059bdc",
+    "title": "Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C — bespoke Frore LiquidJet Diamond cooling tames 770 W/cm² hotspots - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQWGdBblFiUVc3Tkd4dmI3U0JYQmNINjg5QzVaVmpoX0s0UVdKbWwxZWJmM191S1d1RE5YMUVtNC1KbUZiS19XLS1YNnVvTk9nSlVnY1h3VXJON3gzOXh2aWVhYXZhalA2VUItd1pLcHBheVo4azBMVnBSaGNwTlJkR0hqcWF6Y0FlRWJMd0xzRk41VUoybUlSUjF2OEp1R3dsMjVZZmN3UW50UWVnMU1uMnkyUC1lSDFvQkVwT2lpaWtQZWh3MTc4LU1ySVkwTXo5aV9UNmRPLTBSRUNReW91cnFZQWFYTmV3cjlpOF9EM29zRmN4Q3VwbWpNSk13STRXSXNocU5KSUYtVVlHV1hGSkJqUjlEU2xkSFlNM0dKb3BDSVNEVmJwNmkyTWt1RnZOajA5Mg?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 12 Oct 2026 13:30:00 GMT",
+    "discovered_at": "2026-10-12T15:42:03.970944+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7f7acdfd30bf330d5f268913",
+    "title": "OnePlus 16 Specifications Get Confirmed Ahead of Launch - TelecomTalk",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNDRqZGF0M0cwQklLR1dXck9nTG1uUHluRFQtYklzU185eU1BN3Q2MGpXc196ekV3aXFuY3pSSmtRcW55OFJCNk04eTdlSjVMcXM3S19XaVN3bEQ3aEx4SzVrY0NXdEdlRVhZbEJEd1pqWjNaRzQzcDV4LVMzOGE5RXFSLS1IWnVscHNhdnZaUm5kbnM?oc=5",
+    "source": "TelecomTalk",
+    "published": "Mon, 12 Oct 2026 08:12:24 GMT",
+    "discovered_at": "2026-10-12T15:41:49.688492+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a2e15490b02f27da242413ba",
+    "title": "IMC 2026 | Qualcomm Showcases Snapdragon 8 Elite Gen 6 Chips in India - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81UzhOWlhmOW1MS2tqdHBmcGZwYWNNOXk3Wm5IWkhCaTNnQ095UXNQRjJPQUJKTGRITVNmS2FCMUJQRjZ2TXR5RlVZc05lLXloV1J0ZDg0RDdWcFUzSWRVWFhYRVJxVVVoTDRtR3VtU2tPQzA?oc=5",
+    "source": "SammyGuru",
+    "published": "Fri, 09 Oct 2026 16:21:03 GMT",
+    "discovered_at": "2026-10-12T15:41:49.688426+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ea6a1d17ccf932ff2dda8ba",
+    "title": "OnePlus 16 Launched With 9,000mAh Battery, Snapdragon 8 Elite Extreme Gen 6 Chipset: Price, Specification... - Gadgets 360",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLVQxUEZQdzAzRzREQ1plVURlSDI2aU5QVkFtRWtqazF2OWk3TVY4YkRoTGctUU82b0pkMFZPZkI1czRxX0E4akZUdmpSbkdyeUJmeHlMUnNGVENOeFBCT2xzdHV5VGxZaDF0clBmRjk0WjA4RnIxdmNUbzJ2R21WaVZaUGktSzRLVElTNlpBMWJWVTJjXzNFV1JIZmpXSlBjVlJXYl92aGtpd9IBrwFBVV95cUxQWndoVm5iZnVpODM0YjFYRGxabFFHaHdocW9BQXdXY0ZjSVl2Ny1PWDYyT1daaGs0WGZUaFlyQ2lkT3hWMzMydW9LZXBQTFp0MEJETjJ0dTUyNlZuRXVfZUFRSnZXcWNoT2NHMmplTHUxaWsyaWhfcTB5Nk5HUVBRc1h1cHBwMTAxNTVqZnVJdjhfQUNXRk5rdEUyQ2pvOVpGVlpKZks4TXIzQlAwenNv?oc=5",
+    "source": "Gadgets 360",
+    "published": "Mon, 12 Oct 2026 12:09:30 GMT",
+    "discovered_at": "2026-10-12T15:41:49.688239+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "874fe7344ff074e97e1c5e8a",
+    "title": "Snapdragon 8 Elite Gen 6 brings 16-bit processing and pixel-level AI to phone cameras - Camera Jabber",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTC1uckxGMGRpS3ZMcDRlRm1vNWpMZVJrcEJUNzJCM1ZGTERXSEJsTmU2aTJ4OG5nbHN2QWcyQkRTdmxsUzVpTTItOFA2RWI3cG5DSzROeUg5VlRvanEtVE5zaUtMcTZRajZ3V0lSeW5rOXA2SEF4ekw1MFhVYVhBYllESUNoYVBsOVg4LWJhd3oySG1fbnV5LU44RTJNN1V3RkJPV0Zpb1dCZkJKQzkxYUdyTTdLd1hFbnlsdDlKUzdfdVVSaV9j?oc=5",
+    "source": "Camera Jabber",
+    "published": "Mon, 12 Oct 2026 13:00:00 GMT",
+    "discovered_at": "2026-10-12T15:41:49.688199+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2d86eca95444ff521b197e59",
+    "title": "OnePlus 16 arrives with SD 8 Elite Extreme Gen 6, 200MP camera and 9,000 mAh battery - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFVaUU9fQW1RdVpSWnRvZ19sQ1lIOEQ3NUVsZG5HdV9sWHJ5MU5EUUNINk5oMmloemt5djJJTHNMNC1uOTc3V2RWQ0VKblc1QTh6QUtnclZndmJkLUJwcTMwSUhOTzlMT1VwcG02YklLX2hvaXhSRmlveTgzMzVjckJ1MmFKcXNtVktZclYtX09KZHV1SExYNm56cVJtbVliTDFUc0NabTR5cGVwU0Z5NDNsSnFwNkFyRFJ5SG1xYw?oc=5",
+    "source": "GSMArena.com",
+    "published": "Mon, 12 Oct 2026 14:18:02 GMT",
+    "discovered_at": "2026-10-12T15:41:49.688052+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "cb6a4aadfd219ab007221cff",
     "title": "SiFive launches RISC-V data center processor for AI workloads - SDxCentral",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTh0aUUwWTQ3SlVRZ2QyQUJ6M1lZaVNISXJEdWpQbWp5STAxQnFJWHJGQ2JEYW92UDhvSFdUanFvS3JGdkF4UUFXX2Y3cnAtYWUzM05Ed2hIU3VyY0tDQUdBWE9EdDUtTElneDJXSkpvZlJPRzBNUTYwVzFCY2hHbER0MXN5UWVqYVJ1RERybmhuMGhZeWY3NmFn?oc=5",
