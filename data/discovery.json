@@ -1,5 +1,49 @@
 [
   {
+    "id": "5b42cf8ab4135c0b68965197",
+    "title": "What Does Broadcom's $21 Billion Google TPUs Order Mean? - Analytics India Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2FEUjdjVU5IMTlwbEhzRTBnVHY2VzVjY1ZHdDNOdURleF94ZDNLbE1Xa0laNU1rZ3BCNFBldldpREFTeTZyVDB4Z0ZHbHZVdUI1cGkwc1ZoQkV3b2VTQzd3VEQ5OFBZVnJSUU1PaG55MC1VT2JyclNtcTJ2RXl0aURzRkljU2pwam9GQ3RKN3UzVUtOLUx6dFpJMGh2YWVWbTFlVDJWTWxaQQ?oc=5",
+    "source": "Analytics India Magazine",
+    "published": "Fri, 12 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-13T22:53:56.810291+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8eccd0caeeef000d1e1628d2",
+    "title": "Intel Panther Lake Teardown - SemiAnalysis",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OYmlUM0NJeWwtOExoRElrZ1BPd1dkV3lSalF3VDF4eGJIT1JqclF0dGNaeTdEd1Q1Y29ZN2ZBc1IxQk1MXzRlamc0NjF5SFQtcW9SSlJDTkNHNTRTT0JoYTZQdDV5eDBKNmVBaDFESF9tTVk?oc=5",
+    "source": "SemiAnalysis",
+    "published": "Sat, 26 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-13T22:53:51.772362+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "029bb5d10ca88768082df3c9",
+    "title": "NVIDIA RTX Spark Gets 100s of Games & Anti-Cheat Support Ahead of Launch, Backed By Full Suite of DLSS Technologies To Drive 100s of FPS - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVRFWnU4WkRCdHU0SS0yRFRHZ21QaVhBSElYZ0w3NUZUYVVNeVZHMU1qRVlyemJ5ZHJjbWZ6REVOZzRaYXVNUmlsclZxSG5fNnIyOW1UWUx3TGNGVUNSTjFGdjk1SC1yUDR1VTdOREFuNVFJUjRHSXR0ekIwY0NpQmdHNEtLeTQ0ZmtMNFMyZDJYTWtvS1A3OGFSU2NDSkx1MGRORzlrWjVweG_SAbABQVVfeXFMUFF6WF9rSGNqamhrcGpENU5zVy1SUjJOeGpQeEktNGhaaURsR1duSlJRY0Y5TFRYTUY1LTVsOHRpZG5YWDFLM1JsVXN5bHZSVmNRNHhweDExZ1JqRG9SWWlXa3ZUM3lnaFV4dkpzeUlvSEh1akFxcldtbnhKcWQzb0hZRmxUUE1uMDV4U0hZRzVtbmVWUG9uS2R1aERrQVpkWjFnR2xSbmpuQk0zZFZkb2U?oc=5",
+    "source": "Wccftech",
+    "published": "Tue, 13 Oct 2026 13:26:49 GMT",
+    "discovered_at": "2026-10-13T22:53:42.568374+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2fdf64515976dbb388d94de4",
+    "title": "Samsung Galaxy S27’s Exynos 2700 posts a huge Geekbench score in early test - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelpMdng2SnFNSUZvVXlUMGFXT2xQT1B3bWllaUFUZnNMaVdpZ0dKaHpYbk13c193QjVHREVLMVY2WlNzc21XR2pnTFBCWXp4ZWJoSGRZX1lHT0laQVRLck85TnhpYV9TQzhDSHdGano3VzBHV3k5N2JYUjFmbGRrVk1XYXR1TnVkOUJPeDFxS3FaUQ?oc=5",
+    "source": "91Mobiles",
+    "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-13T22:53:39.217649+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "85ef79e089af8696f4755ca7",
     "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXdvdGREcjRPNHptRzBRc0U2a3ZSZXQ5cHdDRG5HVkpyYnZCTmJKcVdJVnpGUnhua09PbmR4bXdXM0diYVptTWNmcHFaY3FTRmlJV2N6d2Vma183QnA3UnFjUTVNRjhEWWRFZDJNQTdGNkkzbFNNSzFvLTloQ25kQmlYRXFfcmRCSzVvdU9VdXhSUEx5d1ZqU3VB0gGfAUFVX3lxTFBYNlVqUHRKWk9zYWtJU1hCWEpKM2tRUDgxdDltRlV1aU52dmlieFIyWTNwOEt2VndRT01ERnVmVG1xaEt6YnptRDhJNW42bFgwQWM4QXJMTTE5SllPZFc5dUtoclhJamluZENjdXdzeGdDNDFzejZlSHRwbjBVX0VTbHh0ZDRPVlNfQVgyelJVUl9KZi1LQllkR29uRlg4NA?oc=5",
