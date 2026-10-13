@@ -1,5 +1,126 @@
 [
   {
+    "id": "85ef79e089af8696f4755ca7",
+    "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbXdvdGREcjRPNHptRzBRc0U2a3ZSZXQ5cHdDRG5HVkpyYnZCTmJKcVdJVnpGUnhua09PbmR4bXdXM0diYVptTWNmcHFaY3FTRmlJV2N6d2Vma183QnA3UnFjUTVNRjhEWWRFZDJNQTdGNkkzbFNNSzFvLTloQ25kQmlYRXFfcmRCSzVvdU9VdXhSUEx5d1ZqU3VB0gGfAUFVX3lxTFBYNlVqUHRKWk9zYWtJU1hCWEpKM2tRUDgxdDltRlV1aU52dmlieFIyWTNwOEt2VndRT01ERnVmVG1xaEt6YnptRDhJNW42bFgwQWM4QXJMTTE5SllPZFc5dUtoclhJamluZENjdXdzeGdDNDFzejZlSHRwbjBVX0VTbHh0ZDRPVlNfQVgyelJVUl9KZi1LQllkR29uRlg4NA?oc=5",
+    "source": "CNBC",
+    "published": "Mon, 12 Oct 2026 13:00:01 GMT",
+    "discovered_at": "2026-10-13T14:22:25.095856+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d2b652d6fb604d85e720b2fb",
+    "title": "ASUS Unveils XA P2N-E2 & AI Servers at OCP 2026 | ASUS - ASUS Pressroom",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSFBGZHFhM3dHaWZjcktYaDh2aC1lcklKcmc2MFBCV3ZhX1VRSWx3SjlzVi1PdDdRaEYxYjVRT0tyZWlLZE5BQmRxbVlZdTEyY1YxYXhZMVJCMEdvTnZ0QkhFWHo4MWFySGpxNDVlZUg1b3BHZ0ptQ0pFQXhxLUJlOUFfcHBHRWZrUnBGejlpeDNMaldI?oc=5",
+    "source": "ASUS Pressroom",
+    "published": "Tue, 13 Oct 2026 01:39:52 GMT",
+    "discovered_at": "2026-10-13T14:22:21.950254+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "604701a9168b57d6644f821c",
+    "title": "AMD MI400 vs Nvidia Rubin: 432GB HBM4 GPU War [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nOWQxSjBDcHctS0hlR1JvRzVYSWFmelBTVE1mVktCSjlsWWhRTGY5SElsUXRUaUpyeTZvOGZuMjVNMzBwVXdGdXlNb3B5MlRIdC15cE9qazZsZTlYNGxBSWVDam1uYkZyOFU1VlBKOWY4Nnlm?oc=5",
+    "source": "tech-insider.org",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-13T14:22:15.242879+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9e9b03f92a226c9477638e30",
+    "title": "Samsung and AMD Expand Strategic Collaboration on Next-Generation AI Memory Solutions - samsung.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVmhNRkpVWnpxM2xFY0FTc0lWODhNbWdQVVpUWEd1RjdKc1VKNXBQMkdLQXkwUkFmOU9lMzY4WXVUdTdtaTFTYm5qcFdYaGJEM1JFbV9mMGdBRFNNd1J1RXd4QnhQbDFseEFvaDVlZF9xSnhWa3VWTGdGdmRwUjBQQ2dkaVRyeXkxOU9hX3Bnem1FVnhIZG5wSVd3UXdmSl9zaHV3a3FfWnRudzNWd2E4MXlSLVRXWExL?oc=5",
+    "source": "samsung.com",
+    "published": "Wed, 18 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-13T14:22:15.242777+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "35cdbb0b1f8f0596026e7ecf",
+    "title": "Samsung’s HBM4E Passes Nvidia’s Tests: The Memory That Could Decide the Next AI Race - Intelligent Living",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jMW81MkcyaUFQRDk1c0pESzBHYTk2anktZ0djYlo0VWlZaFB3VmNIamVka25JbU45dzl0Mk0yMFR5OF9xS2ZiQ1pBV1hHa3lsRzlRZTFzTndtTkFwdnBWci1HdEtPMjNOUTF4b3VxNTFOUXRhSGc?oc=5",
+    "source": "Intelligent Living",
+    "published": "Mon, 12 Oct 2026 10:24:11 GMT",
+    "discovered_at": "2026-10-13T14:22:14.624534+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6c311082515744822a83136c",
+    "title": "Intel's Crescent Island AI accelerator officially powers new GPU D-Series products — chip delivers 1.3 peak PFLOPS of FP8 compute and 1.5 TB/s of memory bandwidth - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQOXd1M3pZdFA0UGZVOXF0RFhrM1YxdjAzakxEdFN5YWNUWmVoRlBkaEVPRUZnaXc1SGVEZlVQTmtreGVPd29sVDh3UkpQYWEzb1pHb1hZbUhOSUIxWEozb00xZFBUcTBRR3kzcVRuR2FabGRrS19YMUR0blhnSDdEbWlZLTVxbGxkNFMzSUNreUtBaUQ2aUpXZzBVUWtDWnlYU3g1Y0hhT0s2QTRPTXhjVnRmaWUyMVFsRElSdFNLTHBfYWdTZWpiYnZEMm5PbHFfQjY2NGx3eWpTVFZNUVFGSmJtc1BiYmluWks5UGFhNDgyUmFqUzJ5aHpaTWFEMk42cXcwU2oyT2dSamc5R1FMMGQwdDk3VFRKcm83bWlsaURaS0cxTmhaOHFvMzRxanBSOU5zU3k3VVYzb0pCQW1QN0UwUVZxNGZqZ0E?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 12 Oct 2026 19:48:14 GMT",
+    "discovered_at": "2026-10-13T14:22:14.624280+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "156d4ca54614b20230415ef0",
+    "title": "Pixel 11 Pro XL Benchmarks Leak: Tensor G6 Shows Big Single-Core Gains, Multi-Core Regression - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX1FKQUI4Q1cwdkxwV1FuLUlnV3RENWdUdlF6eUluZ3lSVDJaaldHX2Z2U19LVDd2elRzVE9nV0loSUNyMV9mLUVDUEpkT1ljN1ZDZlVtZFZfc3B5eU10TEJnLU5uemprWUgweVdvUXNZbnpVY2c?oc=5",
+    "source": "BigGo Finance",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-13T14:22:11.009560+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "466e038212f8195bd59b977a",
+    "title": "Microsoft's Surface Laptop Ultra is an AI supercomputer dressed as a laptop - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1aWnhreUhIY0NHMjVRZlVRN2tjUnZnYl9OWEh4TFNnR0hMY3htR2JaSzI2eEYzek1mS1ZXNnFJbXFjYjVjcmFBTjlVNFNKTVVUenJxZ0ZadFFXTmNWemt5MmJQZ2pQRlk?oc=5",
+    "source": "Mashable",
+    "published": "Tue, 13 Oct 2026 12:38:21 GMT",
+    "discovered_at": "2026-10-13T14:22:07.592950+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2d54f0a7ae795c04bf306bc4",
+    "title": "Honor Win 2 Lineup Revealed: Specs, Battery, and Price Details - Nokiamob",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTZTVGNhUWJKbGdjWjdXSUluSlZfZng1Z1pUS2o3NzhUbEFKNkZlX3BzSFdhdEVIbWFIaFlIMERLaTdvN3pzMDYxR0VJeE5NTFc2VUxBOTNQSE40ZUN3UEstSThjOHdTSGVpM0U2MDk4SjZnTzg4SWJuMzFMQXJjeVI0Q2N5OGM1akktTWNlOGZkTTFIVzh1TEVXWUh5bkNvUmc?oc=5",
+    "source": "Nokiamob",
+    "published": "Tue, 13 Oct 2026 13:39:02 GMT",
+    "discovered_at": "2026-10-13T14:22:03.766587+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4a6b7b9f8f347de6d8019d51",
+    "title": "OnePlus 16 launched with 185Hz gaming display, Snapdragon 8 Elite Extreme Gen 6, and 9000mAh battery - MobiGyaan",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12RG9STkNkcW8xb082QTNSN3g1R1F2cjFqa19oNGRKS1FBQ2ZNZjEyd1ZydUoyY3A4ZDRvb1B1LTJZQi1yNEhYQ0duYlRobTVIeWVXcg?oc=5",
+    "source": "MobiGyaan",
+    "published": "Tue, 13 Oct 2026 06:23:49 GMT",
+    "discovered_at": "2026-10-13T14:22:03.766304+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "63a6d493f93e15e118a2e40c",
+    "title": "OnePlus 16 Debuts With Snapdragon 8 Elite Gen 6, 185Hz Display and 9,000mAh Battery From 5,699 Yuan - Pandaily",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXFsU3VhZlFycmVwNkhSdUxaYjhTcDNZR19zb3NOZnBkRGh2NDRCOEZqbGRLcFJkMkw3OG1rS2h5dVUyNVJBcUczaHhBeW4zdkc5ZHNvMGNzaEhnT2VkUXJFMktMMjR5V1RLa2sySUE3ZzNnR1gtc2JnQ1UyQzZDaXVZY094dlFES0pYSVA4TjBkSk5aeG1vYWNRZw?oc=5",
+    "source": "Pandaily",
+    "published": "Tue, 13 Oct 2026 02:20:21 GMT",
+    "discovered_at": "2026-10-13T14:22:03.766244+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "a7f6996fb6b4222c5f19787c",
     "title": "ASUS Unveils XA P2N-E2 Powered by NVIDIA Vera CPU at OCP 2026 - TechPowerUp",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWmJYdF8zdnNFb21VSEgzeExQMks5aXo5WHBYMXRBNmZJSEdtMDI1VTNzcWdMZUtOLXBqT2dDQVpzRmtPUlV3d1BmUTNxb1plbEltT0dYVEJaQktFcVhyRFh6SEVJNXRlam9odEw5dVROczU4SlVOLWJyWFU1MC13NGFEQnNzbjFXdWFWeTVFX203V3VacmFWX2ZtbnFCSVcxYnfSAaIBQVVfeXFMT1piWHRfM3ZzRW9tVUhIM3hMUDJLOWl6OVhwWDF0QTZmSUhHbTAyNVUzc3FnTGVLTi1wak9nQ0Fac0ZrT1JVd3dQZlEzcW9aZWxJbU9HWFRCWkJLRXFYckRYekhFSTV0ZWpvaHRMOXVUTnM1OEpVTi1iclhVNTAtdzRhREJzc24xV3VhVnk1RV9tN1d1WnJhVl9mbW5xQklXMWJ3?oc=5",
