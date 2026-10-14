@@ -1,5 +1,93 @@
 [
   {
+    "id": "3d739fb0341e7892437c7ccc",
+    "title": "Intel CEO's Other AI Bet Just Jumped To A $10 Billion Valuation - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYTJKNVdHQV9ZcXdUcHY0MU5veFJuWkltcmVVMGhLMlBUSnJJaHdlalJNM2VOaFo1RkFmQndIUWpRMEZYN0h4VVlrR2R4enBIV1Jkd3FFRGI5eUx2TE1WXzJEdUotV040WnJRdVYyU2hVUjkxVXFIYS02VjlrNFBSUjZpN2Z1Mlo1NE9YeXpJanM?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Sun, 28 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-14T12:04:57.441518+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "12009778e9d97b8c3956a392",
+    "title": "Nvidia unveils Blackwell GPU for AI as successor to Hopper chip - Nikkei Asia",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVExwN2xYaHpWcXFVOHBkMmJjTkU1bTdCdjNKWTZibDVPUVZPYUpkT25HbXg2TXZoNXJYRHRlcEVDY015X2FHaWpvYWI5T1o1MHkxWnY2WVVGYmFOWW5ZN29OVHhLTHpuaHNudndvUk5lV2xjUjBacFVuTEtDR250ZV9SQzViYWhMa0l1S3UydFZpTExEdWFvY3pHOGRUQ2xrR2l0SzdaazJIU0VXOGNZM0c5aGpBMlU?oc=5",
+    "source": "Nikkei Asia",
+    "published": "Tue, 19 Mar 2024 07:00:00 GMT",
+    "discovered_at": "2026-10-14T12:04:54.923609+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c8e929e3451a68ea45260cc0",
+    "title": "Qualcomm edges Nvidia, Mobileye in competition to infuse tech into next-generation vehicles - Automotive News",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcnRXSHEySENFQnpmYTBLcVhiMW1DSndlSDVjWEozZmFobGt3WndmQmFTYkFWZGE3NzhIMC1WLWtyZFVrU1B1Q1Z2SjhmMlhhZDd6OEZ0X2dEMzJtMjlKcDZwLXpndGlZOF9CVFpSRDRNQlJFZTY4OTd3aDVlRkkxT1djY1IxYktkSnpsMUdB?oc=5",
+    "source": "Automotive News",
+    "published": "Sun, 01 Sep 2024 07:00:00 GMT",
+    "discovered_at": "2026-10-14T12:04:54.418459+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "21fe86f7ca33176e6f4538fa",
+    "title": "AMD Helion OCP Blueprint Adds Model Router: Operators Scale CPUs Without Buying More GPUs - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMXh0V2NOdlIzM25CRTlUSFJ3WGVpLXJ0WFotaXFTQ0tlYWI1XzdFQzhUdW5CXzNWMGZubC1qbUNoeENPM2F6UGg1cUM2dm43R2xnMXFHWi1jenZudDJrS1Nmam5EdzFCZXBoVXpVRXRXWnJQRDRyVExfNElPMFdGejRSeTNvcGdKck5JQ3JtVjNIOWpwOHlFZUlweGJRbGp3Rnh5YThhdWtYdGZnZlJxbTRtTHBuRUgxZDdhVy1oamcyT1p3b3FlR1hpWUVQdnFvMThTY1MtY192S0E?oc=5",
+    "source": "Tech Times",
+    "published": "Wed, 14 Oct 2026 09:04:22 GMT",
+    "discovered_at": "2026-10-14T12:04:51.591728+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9e5c45743456bc8d206bcd23",
+    "title": "The new ESP32 put Wi-Fi 6 and gigabit ethernet on a chip that used to blink LEDs - MakeUseOf",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbjlxWTNKanpVOTZ4VEJiXzVIZmFoNml2OTByOExRdTByanVYYTB4aTFudFlIMW9fYjNaMGl5NUJUa2JYd2NoWDRFOGN3a2dwbnhhRUwwdHlCWFJLbmxTZUlZZ0N3UWp4clVXT1dTOXVTWVpYQUJ3cnJIVHdkTnlkdGZCWQ?oc=5",
+    "source": "MakeUseOf",
+    "published": "Tue, 13 Oct 2026 11:00:16 GMT",
+    "discovered_at": "2026-10-14T12:04:46.396311+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b8793c899858dc75ea3ad734",
+    "title": "Intel Crescent Island Squeezes 1.3 PFLOPs Of FP8 Into Just 350W As D270 Targets The Competition With Value-Oriented LPDDR5X Up To 480 GB - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3BSeU1venZEQmpqNEk3R3FuZks5cEZBT2tPcFRZTVc5Z0wwLXpZSnZPODVvM01lNHRRb1pEdGRJU1pNVHpfeHBsZW9XRVpMcDRQZXhJTHQteDJoN25YdWJMZ185NVV0ME92VXNpWmx3LVVXM2VCREZBLTBUTkNKbDFjSHRSWmNfZWlxTDcwT2htbTJVRVVkaXU3LU1EZWJNdFNYMnh5WXhPWjDSAbABQVVfeXFMTVBmeVJ0V0pvTTlKcVZmSm83WGxZcFY0M2xVMzgxa2Z1eWdCR3NmQXNNSEhtc0MtaE5PWDgteURSN1g3NlQ5bU4zMTZYR2tiUHg5c0hQY3Eydm5kN09VZVJ3a3k0Y0F6YjZSbGZEX0ZSMXhGRkVtUWNicExpNHJRSlZTTGRQakZNemJqY2hiNlFyUElRY240SG9nNzR4YVpYbmJRTEo5N18ydFN3ejNNX1Y?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 12 Oct 2026 19:25:18 GMT",
+    "discovered_at": "2026-10-14T12:04:41.599345+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d5e0fb7f2bc1b9d1f47dfcf2",
+    "title": "Apple Debuts M6 and M5 Ultra Chips for a Big Leap in AI Compute - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUnN0ZVItRFRZdUtsSm9vQnQweUxsZVdtV2dyeHhSS053SFBGNVJFbGFvXzdPbE1JeXFPdEV2VHpzeWRfelhVUGF3WF94bjZJdk5ORmFOT0xoN3hKQkU5SnlkNExyQTlVVVZUTk5oQjdTelZkdlhHUGhHRUVKekpPV3Ata3UweDZUYnB2bFJn?oc=5",
+    "source": "Unite.AI",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-14T12:04:33.852000+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e8e8b391cb7d9a90013e8d92",
+    "title": "5 ways OnePlus 16 is an upgrade over OnePlus 15 - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EeU8zQTlUWFBvRGUyenF1VmtoUWk3Yjg0UTFPQUNWU1VwOTVJM2V6RnJ3NEJHWE9XZTdtWElrN1VBRGx3MExpd2EwWjZINl9oZ0EyMkh4RmVodHdpUzl4a0RQbmgzV2VHU21pRGpidm1JQ2NLYkxj0gF8QVVfeXFMUElrb01hSnpSVXVtQ3BXZGkwU1JFbkxEZjRMYjJNS3AyY2R1c2FKUVg1SjZRLVFDcHBrZTI1QkJFdDc1M1oxbEVFVTZPaldfa1RfLXhDTW80WDIweUVzUjFVUlJlWFNxU202XzVZc2tXVFRMd2IyWDExZXZkMg?oc=5",
+    "source": "91Mobiles",
+    "published": "Wed, 14 Oct 2026 11:50:23 GMT",
+    "discovered_at": "2026-10-14T12:04:30.765797+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f415f0964ee215c7c588e965",
     "title": "Qualcomm Snapdragon Ride Flex SoCs unveiled to drive the future of OEM's advanced in-car technology - Notebookcheck",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWkMxTVB6N3lHeGVTZmpKMVMya3RVTEJUM3A5NDkxNjNGZnI0NXN3cFN1cF9pQ0tYT2RWOVZvNVlfMzRTbzZsVWlRT3U1LVJ6TmpYREtRY0ROWk5ubU1jTTZjV0poZUpWc0o2N2swaHJnaUpfLUlySEdVOUZycXV1Sjg3RkVWdDVGNkp4VFJuWUdTaFpkNXpKQ1ltaXhGNUhNM1lNZ1djc2lmYUNDUTBjb1FyYUhqVFNpNm9PbXBYOWd3M21XUDF1bW9tNFlVY0F5WVpOazcxUDBpOGM?oc=5",
