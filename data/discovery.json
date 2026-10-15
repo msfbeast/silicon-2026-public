@@ -1,5 +1,82 @@
 [
   {
+    "id": "385ac09b4ad5c7b511d86cd6",
+    "title": "Intel’s Next-Gen 10nm Ice Lake-SP CPU Tested, Dual 28 Cores & 56 Threads Chips Compared To A Single AMD EPYC 7742 64 Core CPU - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTJHZnlILVV6OXNnMWpGYllmM2g5MVhwR2R0Y3BUR1hTS0tsSzJUeURoRDIzNlZ4Q3IteGsxTnRUVThuVU5sOHJuZzRXcWdBcXVkM2J6ZXRTaFhDNlBjS2otZXBaWExYaEp2aFE1UlYxWFlNY2RuTjFsbEtiT1FlU1dhNEZvYUxUS1VlWFA3b1FUN2pHOFHSAZsBQVVfeXFMT0JWQmYxOXpTSE9jdDFoZU9Fem45aExWOGQ1ZTVOZXZMU3lMNVlMUG5mbkJJMTBjVS1vZGxZVzlIWXU5cFFkQm44R3Znd2VMQlprX1JFajdJa1lhQTJ1azl2WlprTGI4bEM1RlpWOUxybmkxQm1SV1YyMkxyTUUzUTIwMndBNHNpMVRmcDYxaUdTVERad0ZpNDNBUmM?oc=5",
+    "source": "Wccftech",
+    "published": "Tue, 28 Jul 2020 07:00:00 GMT",
+    "discovered_at": "2026-10-15T04:51:11.185955+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "374d8f9184626990527933df",
+    "title": "Intel’s Next-Gen 10nm ESF Based Sapphire Rapids Xeon CPU Die Shot Unveils MCM Design & Up To 80 Cores In 4 Chiplets - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkExLUFuN2liSkwtZU03SGtKWDhCaHZGdWIyOHFrQjBwdTFMU1NXRkFGdjRVU2V1QUQyT0RZakxhMmNSZGlOaXhzYU9LQU1sRUZUaVNVczl5VTdTRThBc2ZkSTkxTU1UTmtHU2VqNU8zQXJUeWN6YjhSdUwza1pQM3JMMkhZWE01MlQ1WVB4QWhjRngxMWdNT0YwWnU2TTB1TWlzWkxxNldSZWN2SjFIOURHRTRSd9IBuwFBVV95cUxONWVmMjdMWTdoeGhLM2tiQ29JUVliTXpaWS1iN2IyamtJSHU2UVhpQkpKblFvU0lHQV91UDZxSUZJYThHWVB3VGR4WkhuZjZwUVNDRHVTejhMVlJ6U19Za2dKLXVDXzMwT0xUQ1MtV1RSQkt2U1Z1TDVzYnJJVWN0eDVyM29NYW0xaV9vYXM0bnJ2SjFlMllDMUg2cUhVWmpjVDdtQWlZWnI1MnFRM3pKeEkxWFp1cmpteHp3?oc=5",
+    "source": "Wccftech",
+    "published": "Fri, 30 Apr 2021 07:00:00 GMT",
+    "discovered_at": "2026-10-15T04:51:11.185916+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bfd99f608a12834ba3e3b708",
+    "title": "Meta’s Muse AI Agent Just Designed A Crypto-Specific SoC On The RISC-V Architecture For $2,000 To Transform The Thru Blockchain Into “The Fastest On Earth” - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPU0kyNWlVVUpMcjJoQmpHRUtiSE43M3J2YllZNHJpaFEzWWVzNkpfbXNqQjh1N1M1alFXdHJXTVZsbkppYUZlenFBNXlPYmhoNGpTbENFU1hIRVN0UWV2ZG5XcTFCN2k0SVRBTDVmdVZDNk9pcVVROW1ySE80QVNpY2dydFYxQ1lQRjhrR05IWmhWS251TzZQUW5tQk1XWDlyaTN6WVVVOTB4ZzNzZkpuSDdsUzNaRXBZdjlfWkxtSmRBanpscVJIdVIyT05PQWktUUJONS1xcGdtYUZkaEkzOG9xcTFGWjZjZ0Rlbl9uZHdyX1lJd0tkVXdEdjJoMTQ1cWfSAYcCQVVfeXFMUHF1U3hjc2Q0ZXdJVWwyZmZjX2xJV2k1RG9oNktsNHpwYmJvM1lEN1BCVWpKWTVzdkFqai1oR1doOEZCb3dTd0dJRFhVMHJFRkNpQ2phR0h0OG5ldTczZXVHRUNndHAzSEkxRTU5aXBfZWxrRktLTDJFby1VVWJiUHRYdXEyN3pSdjdSV0txTkJRaHp6Nm1hREZscExxbnNjR1FXcjNsWkUtWENOd3lkX1pwZWRUejlrMUtQV2J5UjFTdnpKaXo5T200SDd3ZmhKX0tBdXhaaXh5eFoyeDAtdm1uSlBvNUpZNndfX1R6QlMtanNaQ0tVUnZXb3NNX1VfN2hDQTBYZm8?oc=5",
+    "source": "Wccftech",
+    "published": "Wed, 14 Oct 2026 22:05:41 GMT",
+    "discovered_at": "2026-10-15T04:51:07.626618+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a592be55cbb8b460817cf7ec",
+    "title": "Intel's new GPU packs up to 480GB of memory — but skips 3D graphics - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeG1YT0M4Uk81VnZWeTJseWdiRDQyLVl0ckhmZlRrQjhIMGlKdXBTbVdBSnZnSHhyQnB3WXZNWEJMTW1kMXhiT0F6THh6eUJjckluZHAxOFBHeEVRMXVNZnpHdkllbjBwbkZ3aVlTRWtlS3U1WWF2ZXJVWDIxdWJpZXEwek5LM3VZN2xUWTZrbC1xWGgzS0VnbUY3YXFDNDFNbTFqd3BXVmFXTlhqRTNN?oc=5",
+    "source": "Notebookcheck",
+    "published": "Mon, 12 Oct 2026 21:44:00 GMT",
+    "discovered_at": "2026-10-15T04:51:04.839196+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb5d5ceba11595536195721e",
+    "title": "Intel Nova Lake-S Leak: Core Ultra 9 4950K ES Crushes Current CPUs - NoobFeed",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51WE0tT0dvLXRvNjlIU3JMaHhYSWxlMGFIakVIMktxbXliaHkxR1FDMV85R19KbjZLRXN0MDhQdXhVYkdNM2laaFZxSWg5TzM4bC16ekhIWXlDMVN4NXlzZjNyaFJfTE9HZkZWRnJhNTZrUDNnbGVwU1hUZjNpTkk?oc=5",
+    "source": "NoobFeed",
+    "published": "Fri, 21 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T04:51:04.314574+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "483ce4672b83803d5f80fcdc",
+    "title": "Intel Core 2000HX Leak: 24-Core Raptor Lake, DDR4 [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84QXgtcTJlTHpPbmJ1Y3R3TlIxSjZrekg0TmhoYU1QZDhLSUtVNWRRUlVpQm9pT0JobTBnLVJ1LVZnQjRzSmM4MTVkQkRkSHYzS3I0UDZwNFdNbm1EYUlEVndaSDNmemZXQkN5S2Z2NTVQMXpLbkJ3UmZ3?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Wed, 07 Oct 2026 15:48:23 GMT",
+    "discovered_at": "2026-10-15T04:51:03.772284+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7a298c29bcad6467ddda5b33",
+    "title": "The 2nm Clash: iPhone 18 Pro Max vs. Samsung Galaxy S27 Ultra - Geeky Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd3BhRjczdDJWdFcyWi1OOXk3Qkw0X0FQbDlvdjRtUTJXczZWWk9KNDRlYk5tMnhLaWdHZExYbS0xNGlXdzNEa3pEZjI2bjB4Rm95elp5RDRDTWRCSlVUNmlNanZVMEVsSVowZkdmMk53eDRfNmVGRUdabF8zaG02b3lsNGNnYm5OdFQ0cW9QYzhKM1Bh?oc=5",
+    "source": "Geeky Gadgets",
+    "published": "Fri, 03 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T04:50:59.495417+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "51e4bbfcbf68bb3a8cd41166",
     "title": "Huawei Ships 100 Million Kirin-Powered Devices Despite U.S. Sanctions - 조선일보",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUI1V1B0ZzByaTZUbEV0YnRQdk5xSVdtaVN1SzJuUHVKT2hXZ1F3RlBZcFhGV1daSHRiaTFFemljNm5BbU1rWjJkb0hhYmQwUVdfbUg3S2RzOWxIbjNQckxBMDhsUmdDRC12SUg5WGZyc0s5THo2bjlrYkJkemlfRWNscXJCZlFB?oc=5",
