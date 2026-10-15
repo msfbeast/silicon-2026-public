@@ -1,5 +1,104 @@
 [
   {
+    "id": "062f8d3ebf3c9544ecff4a6b",
+    "title": "Why Nvidia’s High-Performance Autonomy is Melting EV Range and Opening the Door for Rivals - Torque News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzAwMXg5WHV2VU4xcUNOS1J0TUpsVmZKenNpYUFGZ0hkczhHczJqVDFac29OcEgzT0M5YkZLTjJOLXg3Ym1yOG1ncmtyNWItOFBQcExaN0JERVl1UnhDWmk4eXhPY2JWMms5YzN6VHJON3hpeE1fbzhUMHlHVVpnN3N4NUhlU29nOVlsNFRKSi1TS0N1V0xUZ3JUNU1HSmhBOVJ5b25pS25vUW5EYXBxLXNJUUN4TlRLNzMzQlhNUmVOQQ?oc=5",
+    "source": "Torque News",
+    "published": "Fri, 27 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T11:41:38.540713+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5cc9e43935c5edf2121343a7",
+    "title": "ASUS Debuts XA P2N-E2 Server With Dual NVIDIA Vera CPUs at OCP - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVHlyUDdFSVZMTG9qYVQ4YzZRek5RbFpkWjE5UmFLaFdGcXoxUENra2M3OTZ0SkdFbkw4X3dPYlRfOGx5TzJ6RzhFaWlaR2l3WHJVSHJEWVVNSEotbjZqMlFCVEg0NUQzZDBSc3otRXdPSl9qRTZJSUtSdkNuaVB4a3dUam1MeVJDTVkxNA?oc=5",
+    "source": "Unite.AI",
+    "published": "Mon, 12 Oct 2026 15:56:06 GMT",
+    "discovered_at": "2026-10-15T11:41:36.981986+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a795a4bd8eca1dcf41f15dae",
+    "title": "Huawei chips refine DeepSeek model in major leap for China’s AI self-reliance - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmU5OEhhZ2JKRnJQV2dKc1BOd0QzdDBvdFJXU1ltQVRienR1YVRNYkhEckdrUDZpMkFZSmpCRm81dHpLWjBvclowc3NpcWRuUUtfNnJyejRmNndWZENXaWozdFFnMUtlQmNvUWFjX29Day1aV0E3cTJFdV9wckpFdF95MTB1RXZZUUh0R2czdGNNQjFJUzFyNXpWZHpEYmliYTZBc0x6WWxMVzI0b1liYg?oc=5",
+    "source": "South China Morning Post",
+    "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T11:41:34.286776+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c92049ae9af9f6f9e426c46e",
+    "title": "HPMicro HPM5100 RISC-V MCU integrates four 16-bit ADCs, four op-amps for analog sensing and motor control - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTmhTdHZMdzNkbll0WlJWUTVFQU5GQjdHb0tCaW10ZmhrdkFsTEpvd2xwQXZoeDNHNlpyZ0VuejB6SUYycTVHTXc4a3FkMXViTmJXeWwtVkZiWFFXV05IZzBsdWFPMnRzUEJOaVVKaFh6Mmwwa0l1ZlM0czNZNVFIQk9WLXVCXzVBUWlHMFY1cFBfSHFOd1dvNmQ2RTVxN1lzNWtUZWN2RWhhUmZySzZXM09qcTF6RGZGRG9WNkRTMEw1cGxtNVdiYmhjNEg3YkpFb2tjaW5Rcmw4Zk9MX1HSAeYBQVVfeXFMTXF0bjlxRjJnZWVKWXQ2eXI1NHIyMDRQNlNHNGE3Q0ptMkZ3ZWZQVlh4eU1ReWFqbkwydGxkX2NFWkx0ZEs0bllxSm43OW1OQXd2c1hnUjVXdVdNSTRqX0E5UzVQMkgyeHYzOGhWX3k2d3QwaDl1MlZSUmtmRUhVTHdJRWFBZWlETkgzTktpSEl0dU5Zb242c2xvVVFiMmxhUlZQSjJRQ294MldRMVl6UWZzamFVYWgxQm4zcE9tcGstWGplVnZiR21HMGlEUGRtUENMU1BxSlZMSFFGQTl1WHl0cGxWM3c?oc=5",
+    "source": "CNX Software",
+    "published": "Thu, 15 Oct 2026 07:00:44 GMT",
+    "discovered_at": "2026-10-15T11:41:31.839423+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "def7cde4b0f9a7b024f010c9",
+    "title": "Russian chipmakers demo homegrown RISC-V and Arm silicon with retro games — NES clone runs on Baikal microcontroller - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNzdSMUN4dFJQdkhKd2VMdTRGTVNSS2M4Mi1xT1BidE5vdXFhUjlMdXd1ZUM5ak8zNnFIdmNKREJfRFhtWVNzWWt1Yl9NS1NZUTZPUTFVUHBlSThUbDlGeE5VR2ZxcXN1OW00Rm1wcGhORmtKU3g4NDJJNzktVmIxTFBfMVFvMjFqSmNuWG1Kck9EYWs3TjNVR3Z1dE1XSTZyNFlfSG9QUm5Mel9GaEo0XzFrMDFkN2dXR2VmT2VqM21mQjV2UktKRHlOVDVCRjZNcUtjWDVPVDNMYjFDVUJLQmljY2FMMjM2dlZ1Nkg2VUhPVk9WM0pDTA?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 15 Oct 2026 10:30:00 GMT",
+    "discovered_at": "2026-10-15T11:41:31.839339+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5a94154d902ef0ba5daa53e4",
+    "title": "Samsung Sets Pace for Mobile Networks Innovation and Next-Generation vRAN With Intel - samsung.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaG9lQm1Tb1MwOFVaaGdBQl80eGJqMTFDaFpGM3JQcWVXSnNXY0ZxakFqaUxpVlVBMEhjRkVHOUlhaGFMMnNCZzJoRVJiRGVfcTF0QzAwd1BYVVdDSGM3Rk1WdWRjOE4wU1hMVnhLUjI0U1hTaG5wM1FXVzVkTTFTRFFjcno3b2lwcHVLbGNVdmdzd3hRVXJvU2ZtTlRoR2gxVDhOVTkxTnNNNmF3MXNENGFvYjFvTDA?oc=5",
+    "source": "samsung.com",
+    "published": "Mon, 26 Feb 2024 08:00:00 GMT",
+    "discovered_at": "2026-10-15T11:41:30.176803+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1af7c930967b327d9e7bba7e",
+    "title": "New AMD Zen 6 leak: AMD is reportedly preparing Zen 6 APUs for desktops - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVzRQeWxGeUVVck9YSmdHemVlay11MXEzcmh5cC0xeEJOMGh2cUlCNXN5UTNyWnlVN0cyVFlFMlZRcTBTWExZNTdxanFtTVRhN2syVmp6cFdzaUktckJ2cTZ3S1V1S1kxQ1oxUkM3bnljZlN5cUw1dUY3SjhZcGpndWotbXJHOTRvTERzRXBKdVMwXzJ6ZkJiMXdycVNjd0VtUEVDdWZjclBpUE1KY1d6SElUemhoUQ?oc=5",
+    "source": "Notebookcheck",
+    "published": "Thu, 15 Oct 2026 08:40:00 GMT",
+    "discovered_at": "2026-10-15T11:41:23.823942+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b3013e1484147072084eaf37",
+    "title": "Samsung Galaxy S27’s Exynos 2700 posts a huge Geekbench score in early test - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOelpMdng2SnFNSUZvVXlUMGFXT2xQT1B3bWllaUFUZnNMaVdpZ0dKaHpYbk13c193QjVHREVLMVY2WlNzc21XR2pnTFBCWXp4ZWJoSGRZX1lHT0laQVRLck85TnhpYV9TQzhDSHdGano3VzBHV3k5N2JYUjFmbGRrVk1XYXR1TnVkOUJPeDFxS3FaUdIB2wFBVV95cUxOY2ZudFZtSlBVZ3R2b3BZVFNLREpGaS1EMW91bGVjQlVnR3NDWHE5ajV3S0J1dFVlRkhFcE1sTFBxMFNXQWRBajZtQWdHRlZsb1JGY0ZPRk1MMzk2WEY4dTVJaFFvMUdHVk10M0FSWEplZEFTVE9ENXNxSzlKMTZuU09iRXZMY3ZBMDVmbWhkTkhkZEpOWG1nNzA1eWp4S3BXODNZMTNBUmdTbmhsRWVmUjlBZVU5MkxzY2RZSDhFWkZ0X2J3dGRnMTN0dWY0YndTM056LUdKYlZXXzg?oc=5",
+    "source": "91Mobiles",
+    "published": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T11:41:20.538977+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "af02c9fc496d97056029e2a6",
+    "title": "REDMAGIC 12 Pro+ with 6.85″ 1.5K 185Hz OLED display, Snapdragon 8 Elite Extreme Gen 6, Air + liquid cooling, 8400mAh battery announced - FoneArena.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEs0UXdzQktyRHNTRUJKd2F2eDRPN3BNaDhILWtPcUt1WllXTFdFLS1ndjFtMzZGNmF4Z1dGdnBLdUU5ZFJ0OGZVbG1jb25WVlpHSmFwSjNHREdEb3JfY1hRektBMEI0QXJFb2RGcHFndWlvU2ltOGNXM0hQa2Zwb3oybVZDV3ZMX1JsVtIBkgFBVV95cUxNYjZXVHMxTW9seXhpZE1HOS1UVzEyaG1lM1VMMGlYeGN1V3QxT25WSXBMRWRON1gzSXdQMXYtOG9CMjlRdlFpc0EtbWt0TXc1akdIMFFOdE1KUGpwS01FbHg3dGVLaFA4d3h0Tl9ucUVQWUtfa3lZN2hTblBsdTJudkNSeXItbkNjZkZiSXQxUHJaQQ?oc=5",
+    "source": "FoneArena.com",
+    "published": "Thu, 15 Oct 2026 09:20:00 GMT",
+    "discovered_at": "2026-10-15T11:41:20.132751+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "385ac09b4ad5c7b511d86cd6",
     "title": "Intel’s Next-Gen 10nm Ice Lake-SP CPU Tested, Dual 28 Cores & 56 Threads Chips Compared To A Single AMD EPYC 7742 64 Core CPU - Wccftech",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUTJHZnlILVV6OXNnMWpGYllmM2g5MVhwR2R0Y3BUR1hTS0tsSzJUeURoRDIzNlZ4Q3IteGsxTnRUVThuVU5sOHJuZzRXcWdBcXVkM2J6ZXRTaFhDNlBjS2otZXBaWExYaEp2aFE1UlYxWFlNY2RuTjFsbEtiT1FlU1dhNEZvYUxUS1VlWFA3b1FUN2pHOFHSAZsBQVVfeXFMT0JWQmYxOXpTSE9jdDFoZU9Fem45aExWOGQ1ZTVOZXZMU3lMNVlMUG5mbkJJMTBjVS1vZGxZVzlIWXU5cFFkQm44R3Znd2VMQlprX1JFajdJa1lhQTJ1azl2WlprTGI4bEM1RlpWOUxybmkxQm1SV1YyMkxyTUUzUTIwMndBNHNpMVRmcDYxaUdTVERad0ZpNDNBUmM?oc=5",
