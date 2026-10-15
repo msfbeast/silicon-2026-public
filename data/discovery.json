@@ -1,5 +1,126 @@
 [
   {
+    "id": "47f778b6b4bc170c7ea314f2",
+    "title": "Vadzo Imaging Validates Low Noise Imaging on Bolt-521CRS: Onsemi AR0521 5MP Color MIPI CSI-2 Camera with RK3588 Rockchip Processor - Newswire.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZExqdFJ4T3V3N3pQSXFDcTlrYVdYWi1CbzFKOERqTklJcVBzLU9uNlpjNDdZUGQwdElSaHNSSjFVZmRJVl9haGU1Uk16Zk9wdThFaVdMeV9lQWZ1WWR2cTFPcXN1X3BUQjlHcU9XTnpsTGtiZWJ4Ri04ejNxVF90THVkbjhISDJIeTFzWnhteW9kNUxzOTlOOGM0QU9VUnlQZG1YZVZtVktMUmFjN0E?oc=5",
+    "source": "Newswire.com",
+    "published": "Thu, 15 Oct 2026 16:30:00 GMT",
+    "discovered_at": "2026-10-15T17:09:07.439047+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d0bd6872246c33828764490a",
+    "title": "Russian chipmakers demo homegrown RISC-V and Arm chips with retro games — NES clone runs on Baikal microcontroller - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNzdSMUN4dFJQdkhKd2VMdTRGTVNSS2M4Mi1xT1BidE5vdXFhUjlMdXd1ZUM5ak8zNnFIdmNKREJfRFhtWVNzWWt1Yl9NS1NZUTZPUTFVUHBlSThUbDlGeE5VR2ZxcXN1OW00Rm1wcGhORmtKU3g4NDJJNzktVmIxTFBfMVFvMjFqSmNuWG1Kck9EYWs3TjNVR3Z1dE1XSTZyNFlfSG9QUm5Mel9GaEo0XzFrMDFkN2dXR2VmT2VqM21mQjV2UktKRHlOVDVCRjZNcUtjWDVPVDNMYjFDVUJLQmljY2FMMjM2dlZ1Nkg2VUhPVk9WM0pDTA?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 15 Oct 2026 10:30:00 GMT",
+    "discovered_at": "2026-10-15T17:09:05.375047+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "63de2a3e46bdb1c0d52deeaa",
+    "title": "Intel Diamond Rapids “Xeon 7” CPU Surfaces With 32 Cores & Big 240 MB L3 Cache On Oakstream Platform - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcHlBbFhRRjNUYklHdWJ6UndyQ3NtS3RwNEpHcUpOY1JwMk1YeFpuWGFYbHdjLXhQVmtXY1BuSWVoMUd6TjF5M2RtaU5wS0htZ2l3a1d0WEhrTS16Zlk2b0ZYX29MbDZOVWhsNVV4Sk9ralNVQUVDbGZHTHp2Z08wUTJaTW14V1VZaGJKbXlKcThtVG1BcFktNnk3RmpoWGJqTjZmMNIBqgFBVV95cUxNNWFlQ0ZtQjBoZFBKazctVnRnTU51S0poVTM2b1ZLV0ZITHp0Qm1USk5UaVA3X0JTeGdZbTVZRjdQVUF4dURqMklSSzZYSGxUclFISUN1QlZNX0xoaXBvTkNJUUxTYVptR3ZTWFdRLTVEMnh0R3pORk5NWlkxc01rSHktUi1EOFFfYll6M0ktc3Vzdk92MTRWNWx3WlBaNVJkQVozZkhienkzdw?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-15T17:09:03.561841+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b61339d3fb5fa97f98dd496e",
+    "title": "Microsoft Maia 300 vs Nvidia Rubin: Specs, Not Benchmarks - TechRepublic",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm4zTXdZenZKcFNBVVlvWnY1VW5XN3pMOG9RTXZULW01UW9qR09aeTNNeVRrbkQ5Qk5YcDU2MDlDcFJuMHlSRGNsTFZFRXJqWmI0cmI1TFRkdWRoUE1mNnEyWENhdUUwYnh4c3NSbW9FSVRzaTZCTHowS0swMHY5RzRQdw?oc=5",
+    "source": "TechRepublic",
+    "published": "Thu, 15 Oct 2026 15:14:06 GMT",
+    "discovered_at": "2026-10-15T17:09:02.087137+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5b9224505b3c9319a1a64a94",
+    "title": "Intel Arc GPU Graphics Drivers 101.9150 WHQL Released - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWxfd1R2SXZianZFV1RlNHl1bk5zcmJtLXNMVVpjTU4tSDRkM29MRlktMjhjT3ZSZWN5eFE2OU43OHZBUkljMWFEZ1dMSEpaTnE0LWJVVTUwRHBHUVI3Tkl1QTVkazVZeW4tOF9QUkd2TUZNeUxEX05FVGQxSFNMYVF0ZjdYYjVEYVRKaWZJejRSZ9IBlwFBVV95cUxNTUZTV21jLXpEWFdzRkRPNjNnMVA5dDdKQXZPWGY1ZG13UXhhTk9Cd0VFZjNtNmd5VDdlX2xkVHJvZVBtQU1yQ1ZudGVtQnhfcUdBMDh0d1JBZ0gzXzdzMmNlZjhQSmlVSFFBSVQtbGZWbk1mdk91S29HOUtmWnliRFFXbkc1R0RJRVFueWRNRks4TGpkZENz?oc=5",
+    "source": "TechPowerUp",
+    "published": "Thu, 15 Oct 2026 13:01:43 GMT",
+    "discovered_at": "2026-10-15T17:09:01.342860+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7a7457d7f6e3fdf0ea9b3afd",
+    "title": "Nvidia RTX Spark Analysis - Finally an answer to Apple's M5 Pro & M5 Max? - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcE9DaWgzbDQxb0haUFBpN3RzY0FqQmxvaUhKUVhDSWFYTkVvQlB0RFU0Y2M0VW1uUGh6b3V6ZHlFVGlxNktKVndvLTZ2SFV4MllITWtlVWw3eTNEMnRNVHpnR1J2RklzVlpnaUtvdWVId0V1Q2NYM0xUX1AxcU5GU3p5cWp3THpPLU1aWDRPcTRiR0Vaa3p1TXdIZ2Jxb2ZOMTU0cDdSaEI4ZFBsS2J1ZUpjOA?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 13 Oct 2026 08:06:42 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212843+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8b676652fdccb177f3e7c922",
+    "title": "Nvidia RTX Spark - gaming performance and early impressions - PC Gamer",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUFM4Z3NBVkItNWdjOS1jWFRtRVJNUWFQckR6YlRndkRhWE1IbFhzNDVOX0s5WDY1RDl4WVdwVG9LQVFpMUtfVDBIZVp1dDNnc3dRcXp0NVYtMkhlN1phVnlFenRwcXVWTDItOVQwNnlvbnhnZ3gtSVJuV1ZMYmdyWm9RWWZ4ZC1FdHFleUFlWHRTYldhYUpZQWVWYWQ3STdUSHdFR3NtUnpHM0dYLVRTRFQ1TmdBTmJBZ3B2b19IYnhDWDhwV2dRaE1CSjY4NXdhTGNxZ3JCaEkySjU3NWcydjNaM1NaWnVtNG1YRzhHdGZRQi1YcEhUenVn?oc=5",
+    "source": "PC Gamer",
+    "published": "Thu, 15 Oct 2026 13:35:06 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212737+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d3c0c28f04a5f78cd9f4b762",
+    "title": "Not all Nvidia RTX Spark chips are equal — some have fewer cores. - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1pleWlXYndORDJ0RmdBcDQ4UHBNYVcxTmVVVUEtY0d5d0Vvdm5CdkJoNHk3NS1ZMENtMm9faF9qWFVVR1hFaXUzWUh2LU5PVFpmb0NhSG92UGNaUjJqWFNoRWZQVWU2VV9rVlhMTXVMcU5DQnlXNVRkVlhoNTYyLTlqSldlN2FSemtRQ21aMTRPZy1SQV9uczcta0Y4aXQwakE?oc=5",
+    "source": "The Verge",
+    "published": "Thu, 15 Oct 2026 12:00:00 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212643+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b2c65d15e6c97a9b50339795",
+    "title": "Nvidia’s RTX Spark PCs Aren’t a Revolution, but They May Change Laptops Forever - Gizmodo",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTDRaSzVqVF91MTB4dGZaZDdoUFRkWS0zX1BNRWRlQ0s2V19WU1Bmd3RvS2xabEVZelhnMEZlLUNGOHN4LXNnQ0F5b0dLeE12OGhLdWQxMmJWRWl6aGlPUlNNcDNLTG4zTXc?oc=5",
+    "source": "Gizmodo",
+    "published": "Thu, 15 Oct 2026 12:00:49 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212606+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c33c32a8d94974cce2e9f0db",
+    "title": "I tested RTX Spark, and here's what I learned over the last week - Windows Central",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWlhjV3Q0c3haMkRJdm03TUpMZl9uQVdSNDR1TGxMLUt0d1cyN25ELUxUUHRPSEY3VkdGNGUzVzl3MENLVk1heGNzUXBKbTd3eUpqNFBSOUdJSXo5STFpM1QtUEJyNTF0Vzk5TkhvUlZoVjJ3UWhvZDBZR0lvV19va0NnSS1kZw?oc=5",
+    "source": "Windows Central",
+    "published": "Thu, 15 Oct 2026 12:00:00 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212572+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a22113083f39c59418e67e2f",
+    "title": "NVIDIA RTX Spark N1X Laptop Benchmarks: The Results Are In - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ORmJQbUVxcnVCWEV0U3lkQ3dhMEFsb3FJVVBsRU5hajYtTDlieWFrMlZOcUoySXBrbXh4a3R4RThOWWZZblBxSkpNQnFQbGJudTFOT2F6RTF2dVdveEhPTVJwMmx2aEZhQ0U4TlA4WXBmQQ?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 15 Oct 2026 13:09:00 GMT",
+    "discovered_at": "2026-10-15T17:08:57.212522+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "062f8d3ebf3c9544ecff4a6b",
     "title": "Why Nvidia’s High-Performance Autonomy is Melting EV Range and Opening the Door for Rivals - Torque News",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMzAwMXg5WHV2VU4xcUNOS1J0TUpsVmZKenNpYUFGZ0hkczhHczJqVDFac29OcEgzT0M5YkZLTjJOLXg3Ym1yOG1ncmtyNWItOFBQcExaN0JERVl1UnhDWmk4eXhPY2JWMms5YzN6VHJON3hpeE1fbzhUMHlHVVpnN3N4NUhlU29nOVlsNFRKSi1TS0N1V0xUZ3JUNU1HSmhBOVJ5b25pS25vUW5EYXBxLXNJUUN4TlRLNzMzQlhNUmVOQQ?oc=5",
