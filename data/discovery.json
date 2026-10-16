@@ -1,5 +1,148 @@
 [
   {
+    "id": "29275b3a9cfd53422cfec0ae",
+    "title": "RVA23-compliant K3 Pico-ITX SBC and K3-CoM260 SoM feature SpacemiT K3 octa-core RISC-V AI SoC, up to 32GB RAM, 256GB UFS - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZnowWHkxeGVyRFlYZDFQN3lFelNteDZVVWMyMUhTeU1CRGkwaTh2TlVmZ1lubjJpSzYzRDJsU2VxRGNlRllac2MxZHJSODYwdTZ0dGhfOFlhX2J2N2gxVmZsTS1iQmVsNlNScngtOVdfcllGZWFjS2RLRkpHYVFNdURJMnRYMnYyS3NCZTRVM3VXTmxLUGhILV9Ja1RuNFNIaHdMM1ZpUlFJeVE1a0ZxV1liVXlZMEtRVVUyVQ?oc=5",
+    "source": "CNX Software",
+    "published": "Mon, 11 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-16T11:34:55.499096+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "abc4da9577c642eaa255df07",
+    "title": "Simultaneous high-fidelity single-qubit gates in a spin qubit array - Nature",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BUExNX2ZSZnpuREpnSEx1d1RfYzI1aUdNai1EcnZmMGZicUpJUmlQUGMxVm5rUk81aXp1eGhkRXZReUpXLTFMNG9lN3BmcXNLekJGOF9DdzlBcHNRYVpZ?oc=5",
+    "source": "Nature",
+    "published": "Thu, 15 Oct 2026 09:29:36 GMT",
+    "discovered_at": "2026-10-16T11:34:54.582745+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "05c97e80c146a4f992b86141",
+    "title": "NVIDIA RTX Spark Launch: 128GB Memory Rivals Apple - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCZkVlOEtvNXFSNDZoajBmQm5vNzBNeUZZaVl2MG5pXzB3TGp6RDdfVnhKWUhUY1E4MnNjUjhrLXZhNVY0VHdMa0VzRVVrV2xOQy1Xb3d4T0ZFbkFtaXVWLTU1Tk9jcVBKanFQU2poaDl1TGZYOXlCYUlJOA?oc=5",
+    "source": "shattered.io",
+    "published": "Fri, 16 Oct 2026 02:24:01 GMT",
+    "discovered_at": "2026-10-16T11:34:48.623540+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a4bc1e3382c21d901c65f1bd",
+    "title": "NVIDIA RTX Spark Overview: I Saw Blackwell Meet Windows on Arm, and It Changed How I See the PC - MySmartPrice",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNazdabE01V1lXRUtRNkxmSjNaUEtTWVZlam9JVVhQdHFUbEVlM3FkSDhMLTBzT3JwQ05iZTJWaHZXbFB1UUQwNkVLUVdmdFVUWlEtRU12dXF4QzFPcHFITUtYVVRwdkVpQnRMOTFEOGx1MVdKR2xSYjNqOFNEOXdJSnNZSWN6cjdxcGNTRTdCemtXY21ULTlFcDcxNHZpekJOMHFBS0RDd0xqUllpM09qX1FONy14NnFnSjdqd1M3dGJpR0k0QVdyY3NaZVFOQmM2Y0kydWVKeFZkWU5GbFI0bklrUlJYd9IB6wFBVV95cUxOX1EtdXNueHoxVG5MeGx1aFp0YVRkQ2F5RkRTbXFsY3haX0RjQ193bWI4M190REZqNEdvZVotZjRoWVRITzl2UlBGZktrWUNncnlNY3luTlhxaVN3WHdwZlQtd0M4MUxtMTBKN2lkTzd3aGJsMk5Ca3ZSRkdmSVpVbEVOcjRzaVFEM1BnMnQ3VUltUkdHYVdVemMydmZfWkNwbUxXUHdBR3FpeHZnQl9rc25iS29xYVZLYS1HSzFPeTcyVmRYOVZDZVQ3VWF1TC1EZ0pqbjl4alVYb09LcFcwYXo4Snl6YTFuMDBJ?oc=5",
+    "source": "MySmartPrice",
+    "published": "Fri, 16 Oct 2026 08:44:37 GMT",
+    "discovered_at": "2026-10-16T11:34:48.623509+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cc086441b1d76e9b08eecd45",
+    "title": "NVIDIA RTX Spark Laptops Launch at $2,599, 128GB [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTWo1Y3NFLUJHQ3k3N3ZxeGotajJORVZuX1VqM1B6X1pJMlBvZDcxdVU3QjZiNXZ2dnplaG1lTC0xanVMLXpoTXNUTnVlZmdreDRRUl9uVGRWZEtoMzFtWW1qY3NzakpCRFp1b0xuWF9kMW5kbHRPMTUtaDQyZw?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 16 Oct 2026 05:47:17 GMT",
+    "discovered_at": "2026-10-16T11:34:48.623447+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a2c7308d032ab0cc53f322e4",
+    "title": "Samsung Galaxy S27 Ultra could use Exynos chip after 5 years - FoneArena.com",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOHBnTFdSb2QyejJneXBtdU9iWENRVDBaNDc4ZXJoaXBJdWoyX29lVjhNMTdkcHdCNkZOSWx5SXZtbkZUc1lpVFpKZWdfeTZfbFR0N2hHOVAzcjhYWDdXLWpnS1RPWVpRY210engwYk5jeUVka191SGIzVzRWTjhjbHA1b1NBR2PSAYwBQVVfeXFMTWQ4MGNpWDhWM1h4ZEFGTm1FamVsQUNlWWpzWUxBeHN2Y3F0U0ZiOUZtZU9tOENjOXhUWUFXZGx5QmdQV3JUaHdGNmlpd2hPM25KM1BRcHFvWTZpdWkxYURxcTNrNGs4NnVOakMwY01KMmtLU2VWMFhkV0FxN3dkUTBaOGdsejFwal9hd28?oc=5",
+    "source": "FoneArena.com",
+    "published": "Fri, 16 Oct 2026 06:42:44 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339839+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "33236164b113e8e9c32ed771",
+    "title": "Galaxy S27 Ultra could ditch Snapdragon after Qualcomm reportedly fails Samsung's tests - Android Police",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BUWdqSkRBN001Mm4wQ3o1RFluMmlLMnBEdDhHSUlpUm8waUhBVDdRZVY1dFF0aF92RkpXVHZSQmlIbU1IR0trLXM3NEttSkhTU0dxQjNVTXFHOWZEOFBGNHB6bjNWdHdKYld2a3BQRXRFWDJ3TV9pZkhn?oc=5",
+    "source": "Android Police",
+    "published": "Fri, 16 Oct 2026 11:05:28 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339796+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "de5bdc614f4f53610ae74a88",
+    "title": "Snapdragon heating issues could force Samsung to use Exynos in Galaxy S27 Ultra - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR052bkg3eGN2azkzWlcwUmNqV2N4STZoNi1zR1Zla2Job3laNVUzVHF5MHBpWU5kMVJBVjd4OGVHLUVYc0JzcXZXVDhjTkN0Vl9NYTJQQ2NtRkh1blVLMTJKOVBwclVHNnRlaktubmRxMmdiWDhyYzY1eTk0dlZZM1RjZ0dXX0pBNGpxeENvTVhMRXBv?oc=5",
+    "source": "SamMobile",
+    "published": "Fri, 16 Oct 2026 05:56:00 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339732+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5bd593106b5d84add911395b",
+    "title": "Samsung Galaxy S27 Ultra may use Exynos processor as 5 GHz Snapdragon chipset runs hot - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQnh5c0JFSDBRc3R0NGd1d0tXTnViVXNtakNrcGVldWlyc25sVGh0eE1oMG5KNXFqRlNhalpNNHBTUjRlYzdHNlZ5eG5mTDRBUUhGang5UlVtdVg2ekstWFZ5MDlTQmhnQlA1dUt3RXBNYzEyWklFaEhHUWtyUjl0S2dSU2ZVUEl6bmtXN3RmRjFyZGhFdi1YU2VNd00yX0FKcG9fTm5OelJHWm01ZDBJVk12a2lMdnlJaDdOblBvVVZPeHFNdnFiWWJrTQ?oc=5",
+    "source": "Notebookcheck",
+    "published": "Fri, 16 Oct 2026 08:25:00 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339699+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6e5e518e701299250f6a6954",
+    "title": "RedMagic 12 Pro+ debuts with Snapdragon 8 Elite Extreme Gen 6 in China - TrueTech Technology News",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MSndmUDNNV3plaFIwdm9Pem52V2FtelZkbzk4RW9DS24xRmNLVWZnYWs0QzFsZVBieF9XNzMtTXBqUW9fZG4zNGR2RGJ1UzJma2s3c1JWSVN6dEx6X2ZqbHBjaEtYcVE?oc=5",
+    "source": "TrueTech Technology News",
+    "published": "Fri, 16 Oct 2026 08:05:22 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339660+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8cbbf65519a1de35b6794007",
+    "title": "Galaxy S27 Ultra Could Switch to Exynos 2700 Over Snapdragon Heating Issues - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS0dHby04N2dHT2V0c2oydkViLXd5UGo1OVZId3g4VWhXTXl2MEZtQTdwMzJYY3NxMUs1cV8zS2liN2JGLUpUS2QwQlpRWmdQTkFvdVhZWjdjNGZxUnVUaFI3UnhGSmVqRkVad0htUQ?oc=5",
+    "source": "SammyGuru",
+    "published": "Fri, 16 Oct 2026 08:38:21 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339474+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b3bd2efd58135ff48c9b7619",
+    "title": "Blame Snapdragon: An Exynos-powered Galaxy S27 Ultra is now more likely than ever - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ3NnM2o5ZnV1SFZZYURLU2dJa3dfaHIwZHA3NnljeHNsTjRqcEZ5U0t0b3M1NVlGYUl1bnF6TjJ5UmlFMFFscUJMcHotdHhRU0JXaWZzUjR5aXdjR2VkdzNtVjRmV3NfYU95NWhORTFqREZ4UThNQkNUajJKd1ZCb2tYLTNkcDg2R3FPYQ?oc=5",
+    "source": "Android Authority",
+    "published": "Fri, 16 Oct 2026 08:12:00 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339442+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "132023a23b7b79b4c8ac754b",
+    "title": "Samsung Finds Severe Performance Issues In Snapdragon 8 Elite Extreme Gen 6’s Internal Tests, Qualcomm Might Face Ultimatum If Problems Persist - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjdYekJkS0hZMG93OUljYkVmOHh4NS1WMUNiRzZ1NkV3eDRBcnZyOUM2M2QwNXBYRDJKS0RNc0g2SDg1UFJEYXNfNFNiaDl4R0s2WGEtR1BBOTM5a3pUVGxSbWFzU2VFcGllVkVhUE5vSGtmandtREZrWUlpRGJ5eHVYTkxxQi1OeHoyNktKb9IBlAFBVV95cUxNWEx0NEoyeUlOc2hVY3YteFBNeXdUVGtORmRwbURXZUpsMUFzZEpYcDFBQVF3Y2N6bUJQUFJwSkxERUl1TDM5MUxMaTU4RDVPcEh5eFRJM3Jtbi1SWjRRdDMycTJHb0Z1RUZuRjBEZlAtZEJaNXhKZmZLRXBGNkhqR3g0TlRSMk5fU3JHTThmNUVEQkZZ?oc=5",
+    "source": "Wccftech",
+    "published": "Fri, 16 Oct 2026 07:44:34 GMT",
+    "discovered_at": "2026-10-16T11:34:45.339349+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "4bca342bd2af73ee0848569b",
     "title": "Miyoo Mini Plus V2 With Its RK3562 Processor Now Available From GoGameGeek - Retro Handhelds",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZ1SnI4dlo4aS02eTVkVkFwYjBiSUdsVzVTNVNTbkVFdGpQbFdCS1V3OEpMT1l5MDZMQmdFa1FVdlp2WDlsdm9jUERYUnRsZlhlVHFtY3JlWG9ySlVMSjJYVG1wOGxzaWZuN2ViaWpzX1FqNjBkbFMtaGZQUzJRTERoU05jcm1IeWRlMnhldDR0d05Hc0ZXczZVT2RqbzVwZWU0?oc=5",
