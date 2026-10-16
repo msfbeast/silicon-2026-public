@@ -1,5 +1,60 @@
 [
   {
+    "id": "4bca342bd2af73ee0848569b",
+    "title": "Miyoo Mini Plus V2 With Its RK3562 Processor Now Available From GoGameGeek - Retro Handhelds",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZ1SnI4dlo4aS02eTVkVkFwYjBiSUdsVzVTNVNTbkVFdGpQbFdCS1V3OEpMT1l5MDZMQmdFa1FVdlp2WDlsdm9jUERYUnRsZlhlVHFtY3JlWG9ySlVMSjJYVG1wOGxzaWZuN2ViaWpzX1FqNjBkbFMtaGZQUzJRTERoU05jcm1IeWRlMnhldDR0d05Hc0ZXczZVT2RqbzVwZWU0?oc=5",
+    "source": "Retro Handhelds",
+    "published": "Thu, 15 Oct 2026 17:14:34 GMT",
+    "discovered_at": "2026-10-16T04:41:30.099481+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0e069fb144a7e8fefb015c2f",
+    "title": "Has NVIDIA Developed a Unified Chip That Handles All CPU and GPU Workloads? - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBybmNxc3U3enBRY0RqR3dPZlM5RUVyRFVmTVRXY1pMWk1VZVRHNHgyZExMRnExSndjNzk0ZnI3X1ZYYTVFamVwakJ2NGdoSHpaYXhr?oc=5",
+    "source": "36Kr",
+    "published": "Fri, 16 Oct 2026 02:23:38 GMT",
+    "discovered_at": "2026-10-16T04:41:21.651579+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e00bdeefb39f542836155986",
+    "title": "NVIDIA RTX Spark Ships Oct. 16, Eyes Apple’s 128GB Lead [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCZkVlOEtvNXFSNDZoajBmQm5vNzBNeUZZaVl2MG5pXzB3TGp6RDdfVnhKWUhUY1E4MnNjUjhrLXZhNVY0VHdMa0VzRVVrV2xOQy1Xb3d4T0ZFbkFtaXVWLTU1Tk9jcVBKanFQU2poaDl1TGZYOXlCYUlJOA?oc=5",
+    "source": "shattered.io",
+    "published": "Fri, 16 Oct 2026 02:09:35 GMT",
+    "discovered_at": "2026-10-16T04:41:21.651417+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0be34908aeab9288f1356a63",
+    "title": "Nvidia RTX Spark: Everything You Need to Know Before Our First Tests - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONE95c1AzcmdDbTItRlpNSjZhUGJmZ2pZVnoydTU5bndUbjhsWm5yOER4dlFYLUZfVEcxNWtMZ0h1T2poUTFBSVhjdDFfUHh4dllpc1VLaTJCMWdDaHVqWWdHd1FWUkFzeTA5dlFYMFZTbklxWFhNVEM1c3IyRWZ1ODhfczc0TUtHT015Vm9JM3R0TXM0TVdhdmlB?oc=5",
+    "source": "PCMag",
+    "published": "Thu, 15 Oct 2026 17:09:02 GMT",
+    "discovered_at": "2026-10-16T04:41:21.651320+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "08359ef848bdc3cb511085cf",
+    "title": "Apple A20 And A20 Pro, The iPhone’s First 2nm Chipsets With Next-Generation Packaging - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNalhaQnZiUXNMZnBOSy1SNjRNVmMteG8wZzY1UmpaM1JxeFRFbllQY1RCUUNxV0xFLUFUYVBLbUszLWY4SEh5MUhEdDl6YmxjRVVwejFSUy1nQmVfamxjaEhyMnNkT1dwY1hKTlJIaUtLdTJMN0R5bHZRZDBFUmlRSGF2dFhieVJKckg0ZmFIZy1XVUltc3pBaGNmQXlwS09XazJnTjY0WFM?oc=5",
+    "source": "Wccftech",
+    "published": "Sun, 05 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-16T04:41:19.018725+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "1b9dca27191bbcdd837ffab3",
     "title": "Nvidia RTX Spark: Everything You Need to Know Before Our First Tests - PCMag UK",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYkdsSklzT0NYX2hWMTN5QUhWcTcyd0VUbEk2a21sR1FfeThrTHBESzBmVi1Jdk9yLW5Fa1ZWdFpMeUJQdTJNWnk3LUNOdm16Zi1NeWNJQkNlU1RQU2x6Q2ZxaHUya3AwU2RHc1loUEF2cUMzZjdCQy1qTEY5eE12QXp6bnFzaXBGWWI4MFp1VDhJV2E0c3NubHJuRXJSa3pmSzV2LUZ3?oc=5",
