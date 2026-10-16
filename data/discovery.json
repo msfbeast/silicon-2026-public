@@ -1,5 +1,71 @@
 [
   {
+    "id": "15e41f6f154cd3922471d310",
+    "title": "Tenstorrent at The Open Frontier: RISC-V Everywhere - Counterpoint Research",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelJpZUlJVmVHWFRJUzYyemtINFhSX3RPOUNnLXBqc1E0WWF2ZlFCelN5RjlSZ29VbzB0VnE0b3RHTDBwaVZFUzBfS0J5M1JnMGo2WG5XdlFQQnhHU3VoSHp2aHhlYjQ5V0tnb0xzLVVWcnJaSmRlM21zWnk4T1RaVTdzaw?oc=5",
+    "source": "Counterpoint Research",
+    "published": "Fri, 16 Oct 2026 12:22:00 GMT",
+    "discovered_at": "2026-10-16T21:20:44.858321+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8be665f987c88d64a1883b99",
+    "title": "Nvidia RTX Spark - The future of gaming laptops? - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0FVZDM4Y19Cc3dWaTdqTGtPSmtvZFVxbTlxOFlBUWgtbElsY2c1Q1JSbVpLTlBBS2NiemdxSlNEYnJkQjhmSUt3bXlaRHlqSHFqSGpERmJEUTJKMzBGTGZkdEp5LUVnUjcyVXJlX3ZuQ0l0OEV4YXVJY0tsVGdGTTRlS2Y4MzNNckJFZjdiN1Zwb1hW?oc=5",
+    "source": "Notebookcheck",
+    "published": "Fri, 16 Oct 2026 20:48:00 GMT",
+    "discovered_at": "2026-10-16T21:20:30.806877+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4380bd4c1fab2db72c0f4e3a",
+    "title": "Nvidia's RTX Spark Laptops Impress on AI Tasks, Falter on Gaming - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55cHJGWXBzaE5pejlMamhWT3JJcjdiUVpLX1FRN2JDWGRZUVlIU2ljVFJGdzJDcTVScVY2djY3OUtZTDR3TXhlSWdObTZmZ2toM0JLMWM2dnNDVmdwSnpfQklTZFdkME1jYlFxQk5uWnlKb011Unc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 16 Oct 2026 18:28:00 GMT",
+    "discovered_at": "2026-10-16T21:20:30.806757+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1476c43774451879da4cf3e7",
+    "title": "Galaxy S27 Ultra Could Switch to Exynos 2700 Over Snapdragon Heating Issues [U] - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWS0dHby04N2dHT2V0c2oydkViLXd5UGo1OVZId3g4VWhXTXl2MEZtQTdwMzJYY3NxMUs1cV8zS2liN2JGLUpUS2QwQlpRWmdQTkFvdVhZWjdjNGZxUnVUaFI3UnhGSmVqRkVad0htUQ?oc=5",
+    "source": "SammyGuru",
+    "published": "Fri, 16 Oct 2026 19:44:32 GMT",
+    "discovered_at": "2026-10-16T21:20:26.794233+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "24065c7f0c04ae145c3f1e85",
+    "title": "Samsung is asking Qualcomm to fix the Snapdragon 8 Elite Extreme Gen 6 due to overheating and performance drops - Mezha",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ3pac3dKTHZuMk12UXZoeFB3N0k5ZkJQNHY2Ym5naUMtVEg1YXpKMjJlNUFGY0tPS05qSU53c1hhNEl0OWhLd2w0UnRoSElkcFJLdXVHcUZHcU9tSDFNZXVndnQzMnp3dHprVnpSQloySnhPTFVvNEpsd0ZrYndLSGh2Qm9qYktCanZ5OGFqZXVYZw?oc=5",
+    "source": "Mezha",
+    "published": "Fri, 16 Oct 2026 13:04:00 GMT",
+    "discovered_at": "2026-10-16T21:20:26.794063+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f36481b107b8498444279440",
+    "title": "Galaxy S27 reportedly skips Snapdragon 8 Elite Extreme Gen 6 due to overheating - 9to5Google",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN21TOXp3Ny1LZnBIYlBzcjhpbHFzS1ZOdkxUeTl2WFpxOVI0azk1NFBkUXFjZmtXNmdDbGFEX1AwUUdmTFhlX1NHQTZHbVJPS3FpdWd2am9Hc1Z4emQ2Y0U3VGNrbGRxRUdfSzNpelg4cWp5S0lCQ2JnYzNobGRrTzJhdmt2TnVqdDhN?oc=5",
+    "source": "9to5Google",
+    "published": "Fri, 16 Oct 2026 16:50:00 GMT",
+    "discovered_at": "2026-10-16T21:20:26.794016+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "33ba57ae3c8cbabedf169f57",
     "title": "Tenstorrent at The Open Frontier: RISC-V Everywhere - Counterpoint Research",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOERJZUlUN2k2d0lRWmREdGxLNWFYa2YwRkJJZVBtNXRYOXQxdlZsZEZON2toWDNzdmVlTzNVbXlFWHBmcWZoZEJ5MkRiNHpUaXFPNDJLbnE0NkNZeWhGMmg3UFlvYnlocDRPMkZidVVtX2hNbzE5cHZDMU1vZWYwaTZzLVVpT2ls?oc=5",
