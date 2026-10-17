@@ -1,5 +1,104 @@
 [
   {
+    "id": "24a873cbef166910ced44659",
+    "title": "AMD EPYC Venice 2nm 256-Core Zen 6 Server CPUs Enter Production as Intel Falls Behind - NoobFeed",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tcXlUNUZNdVRMMFgwVzdCaUd3OEJqenJ2ZEx0bFpQX2pYNjZlbm0yQVJUQ2xyb1o1UzF2MXlqZVRzUEhpWGFSeXdQNG52MTZ3NTg5MXhEcHZFZmk0NUM5SzlQY1NJbFBDUmtwRUlyWHlIaGJNWndwX0dUV0hiYlk?oc=5",
+    "source": "NoobFeed",
+    "published": "Sun, 24 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-17T15:42:38.759247+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "346ee5238997888c1a18f1da",
+    "title": "[News] Decoding DeepSeek V4: How Huawei’s Ascend 950 PR Is Powering China’s Push to Break CUDA Dependence - TrendForce",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPWHRtcUVac2V5cDNhbXE0QVZTb1hVdm1neW90LTdla0piVC05cHM3dW1ETE1NY29Hd1dzekdHazZpOTFDemVUeXFPa2pmMmhfNjBFc1p5Vl9yNXFJVHRQSmwtRGRDTUZaRl83MHNrekN5ZW1ES0tlYTdocUdsc1FXUm1DcnVRS3F5cnV6Y29WMkhDSXFoWER4UEswcFFlWWhQeFF5YVJERDZRblEyUEFKTEIyQktjZHRsV2xFV2s2aGpjYmg4U0xDOFBoRjEzTWY2ZmZvYmttNVNEeWFV?oc=5",
+    "source": "TrendForce",
+    "published": "Tue, 07 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-17T15:42:37.251298+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dec6c5bdcc2a92935ab54df5",
+    "title": "Nvidia RTX Spark First Tests: Can These Ambitious AI Laptops Beat Apple’s M5 Max? - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZG5fOFNuaVU5WlpuTWtrTlRfRHJfSFV6T1J1dUVHMGZwSjk5WHVJZlZvQTZNN3VWRU5OQ0ROclI3SS12RC1qZmJzOWlrZy1IN2xlWTR2YUhnMF83M0FUNHB1R0hhZGxBVEhPaW9vNG0tZGN6OWtuZlNFZS00d016MzdXOHVDam56SGkzbmNqdVNDcnNn?oc=5",
+    "source": "PCMag",
+    "published": "Sat, 17 Oct 2026 10:28:35 GMT",
+    "discovered_at": "2026-10-17T15:42:27.799981+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dedda306615acf63962cc44a",
+    "title": "Qualcomm says Snapdragon 8 Elite Extreme Gen 6 isn't overheating, despite Galaxy S27 Ultra rumours - Digital Trends",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWXNnUTBfenBPNHJKN3J0bnZaUTNyS0pGN18zM1dGZFY1WHJFSWhicUxyRUlRTl9uM002Y2Rubk5zNjJxU1ZkdDNFTnByc3ZWU1AxTmJ4eWNLTWFBc0w0OExZR2lqUnI1ZE5BV1ZLc1M3RmQ5NXU1cC1pV3NyMWFtNnNLWjlCay1RU2xEZFpkQWEyRy1aNFJiSmEtTUdkYWM?oc=5",
+    "source": "Digital Trends",
+    "published": "Sat, 17 Oct 2026 13:46:39 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057732+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0b3f21987b8d314e8142b0a6",
+    "title": "Qualcomm Denies Snapdragon 8 Elite Extreme Gen 6 Overheating Reports - AndroidPure",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRGo1aTJ6NGNUVnd1UU1CUTd3X2ozbHRsY09yckRtU2UwbXlPZlZTeTRpUVBCbE9DX0Z5UzROWlVsYzhmUHZPNmtRSmZIYjQ0U01XRExIMUtJbUhER0FTSl91c1dYMFktSXhXWjRzSFV0NnVXeksyMUZyT3J1Qk9WZVUwLXNPRzRaUHN0OUxoaS1WV1E?oc=5",
+    "source": "AndroidPure",
+    "published": "Sat, 17 Oct 2026 13:10:30 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057662+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f7c30cf7bdc0fc8a624653d7",
+    "title": "Qualcomm’s Marketing Head Says Snapdragon 8 Elite Extreme Gen 6 Overheating Claims Are “100% NOT accurate,” But One Detail From His Post Doesn’t Exude Confidence - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMmIxR1l3UnU1b3RzOWFpNEtnM2hhd1E2VXRLdGNmS19JUEczbG5uVll2RmVvaDd5NTdGZjR2YXJLWDFIWG5KT1ZOclh0TExvZGJsTEVaT1Z1cXVGZV9QR0RrNmRDcjdpbmNwQkV5YzZtRXlWbUl6Z0xTVlZhVW9Dc3lSYld1NV82Y2FCZkdRUXBHdEdCakMwM3A2TU9waDVBT3ZTX3dSN0ZZWmZzVE8w0gG0AUFVX3lxTE1iSmFHZWhWUm9qWXM1TnhvY0E5OVo4cjk3Q0hwMXBmQUttcEtsLWtucjM4eDBaQ1g5cVl5OXF3WjJ4cF9BOEJnMm5YY1FWZzBwNTdZLUdkWE01V2FyZHFfc3RLVVoxU2NQd09JbUVYOGNmLXlyMFkxLVpBMjVOR3RhVDZhR2t1MTI4M3UwejZlV0xxVkZMUzh5ZExoXzFjeEc1Qy1JdFBUSDZLVy05TDdYVURWeg?oc=5",
+    "source": "Wccftech",
+    "published": "Sat, 17 Oct 2026 09:15:35 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057627+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5876501807e7aa9990434c2e",
+    "title": "Samsung May Use Exynos Chip In Galaxy S27 Ultra Over Snapdragon Due To Heating Issues - ETV Bharat",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3l0OUZCS2lDdEROU3VVTjhaQWJyaHJrRlN4WWdlUERqTjBFTXo2azlBNXZKNXpqamd3NjZlNDB5X1VYQ21qNXE5RnZSSkFjT2xRdllCOEZmMXlUSjRFQUhsaHg1Y016bnF6US1DMy1KVXRORjVQeDYwcHYtS2Nja0s0UnFyT3FCS21TYjZaajBGeGVlTnY2aDdBQXd5T19kZXNpWVBQTWhRS1hIbE5NT01paTNwcHBpcklrcTJKcEZ3dFJkM2JVTVhVRVFxckpSaTcwZTRjTXlCUDU0eEw00gHkAUFVX3lxTE80eWVzVlpmZTRVREt5dldTV0lBdDJwaHM2c1lpU2lWRGVVV1ZsNkpUeUtYVUN5SzhNQ3lVWk90S1F6QVdTX1VBLVZrQ0dyMnZFNzhRUTRxYzJrdEU1aG5FN1U0Y0J1R1huc1VCSENKS2E4bFp5aWZCb3R0OWlsNEpMclROendEN2NXN3lLaFRlRXVXaHBZczBjMzJGaGpyb1M4WGhxYjlKc2d4ZEtZUlVUdVI2ek8waEFOZ3ZONjBTSjFyYk5zQnUtQlJpd0p3SUNtNGM2ZzJMcERRMFJlYjd0NElITA?oc=5",
+    "source": "ETV Bharat",
+    "published": "Sat, 17 Oct 2026 12:05:24 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057572+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "09a989b45c2d7b14364f244a",
+    "title": "Qualcomm Denies Snapdragon 8 Elite Gen 6 Overheating Claims - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLWRTY1BpQVNFX0x2cUpWWHdvc0VWalFNd1Y0VUZiNTdSRkYwVXFsaDhIdTB3VGRWY285aEFiSG9FTDZUSVBoU3hWX3ZMUEZvOTlWUU1Wd2FpUnlTRWVObTQtSWQ4RXlrakp1VXVRLUVCZHRIaDB4Z0dQOGZKdzE5TA?oc=5",
+    "source": "SammyGuru",
+    "published": "Sat, 17 Oct 2026 14:26:02 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057453+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f1243dcec261ed0f4d4bed93",
+    "title": "Qualcomm says rumors about Snapdragon 8 Elite Extreme Gen 6 overheating are 'inaccurate' - 9to5Google",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdkU3T0xQQUs5QjZwczFTTUZPdDJoSy0yb21lemJZUF8waWtLa1J1ZHFqVW9uc2JwZC1yUmIzSnpQTU1uNU5GWnNNQ0VzWUpTdmxLT1BTWjZVQTB6cEtOMTkzdy1BSFlITVhGNm5NMmtXLWxhTjFyZEtoaFNjNDc0Vl9vOTBabE94Y0ZpX3FTbWduOVNtYTM2TlU3dnAwYmppbkwwYkt6ajJBdGxzZ3BHc2FjRldFN2FOaUJKblVR?oc=5",
+    "source": "9to5Google",
+    "published": "Sat, 17 Oct 2026 11:05:00 GMT",
+    "discovered_at": "2026-10-17T15:42:24.057401+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "1a5b6be11c760a9cee98baac",
     "title": "Nvidia’s Jetson AGX Thor ‘Robot Brain’ Is Now Available - TechRepublic",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWWlQTDExR0dxbl9JOFFUYmZxWERiYk95S0plcGpWOXZPclFFY1BjZEF5TGg0bDB6Rm9rSnZlME5IYlZyX3lpV2dCbFJDTExRTV9rM2JnNHJwZEl2VE5zUEphQ2Q?oc=5",
