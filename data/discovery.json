@@ -1,5 +1,38 @@
 [
   {
+    "id": "e0ef66da9e21f7260f5aa063",
+    "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXY2Z3RYZHhkN2pxdDRkWWQ0czZEcmVoa3FxUFdUMDc3M3pqTE9nWmZCQXYtU0tKSUdRUUpXTDlzMDczSVhWeTQyM3BlYUN5T3lBeXBpQjJhMkVtRUw5V3VfSFNaZ3EtdTV0anhLNEZBREtSeVFXQVo2UHJrdlVRQURKTW9uVGFHM1dVSkxDOVg5Q0Q5aGF5bEswbURkTWJUc3J2WFZCcC1RSjVjMXJ0aU5hb202QlVfOERJbGc0RW1UUjJTXzlHSVl4QU5WcWIwdmMzMll5NTdJWW82?oc=5",
+    "source": "The Register",
+    "published": "Fri, 16 Oct 2026 20:31:00 GMT",
+    "discovered_at": "2026-10-17T04:38:27.762276+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5714b65530279ce1bec9e476",
+    "title": "Nvidia’s RTX Spark N1X brings Blackwell graphics to Arm laptops, but trade-offs remain - Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4cUpUNDcxTW11TkV5ZnRXNVRWN19BeWhSeWY0WHJ5bHdpZ1JEbGdIUklOUkZrdjcwNFltMDg3ZnZodURHUm5YaGkyZTBqcFh1bmk2Z1c2NU9DaTV4OGRlelhtcXI4N2VCaWVn?oc=5",
+    "source": "Mezha.net",
+    "published": "Fri, 16 Oct 2026 18:42:35 GMT",
+    "discovered_at": "2026-10-17T04:38:27.762205+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "62c150d0076790ab64050a86",
+    "title": "[UPDATED] Snapdragon 8 Elite Extreme Gen 6 Is Running Too Hot for Samsung’s Galaxy S27 Ultra - Android Headlines",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ2dDeEJqb3BEY3cyWVpfZHdqSmtTY0ZOWVE3b2t5UElDSlZ4XzcyN20xeXFyenFxUWhmTGNCZXhucEFtaENwQndHcmJ4RW5MbThvdGtjeDV1Z3dGWGFPNHh0bDAyUm9jajlwRUxiWExOZ0RQSklGZS1wTkExMDRNay1rMURQMTRhTDdJOTFBdjZzWkFreHJWaEpZanNVb0o3ODhvdlV2aUhxbmtqMUhaZ0ZxOGdZNzZxUTdQOVhNV3JpQ1pJc0E?oc=5",
+    "source": "Android Headlines",
+    "published": "Fri, 16 Oct 2026 22:06:45 GMT",
+    "discovered_at": "2026-10-17T04:38:23.930532+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "15e41f6f154cd3922471d310",
     "title": "Tenstorrent at The Open Frontier: RISC-V Everywhere - Counterpoint Research",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNelJpZUlJVmVHWFRJUzYyemtINFhSX3RPOUNnLXBqc1E0WWF2ZlFCelN5RjlSZ29VbzB0VnE0b3RHTDBwaVZFUzBfS0J5M1JnMGo2WG5XdlFQQnhHU3VoSHp2aHhlYjQ5V0tnb0xzLVVWcnJaSmRlM21zWnk4T1RaVTdzaw?oc=5",
