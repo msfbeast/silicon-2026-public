@@ -1,5 +1,60 @@
 [
   {
+    "id": "1a5b6be11c760a9cee98baac",
+    "title": "Nvidia’s Jetson AGX Thor ‘Robot Brain’ Is Now Available - TechRepublic",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fWWlQTDExR0dxbl9JOFFUYmZxWERiYk95S0plcGpWOXZPclFFY1BjZEF5TGg0bDB6Rm9rSnZlME5IYlZyX3lpV2dCbFJDTExRTV9rM2JnNHJwZEl2VE5zUEphQ2Q?oc=5",
+    "source": "TechRepublic",
+    "published": "Mon, 25 Aug 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-17T10:55:17.021523+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "529f7793de919b8fece98218",
+    "title": "AMD Ryzen 9 5900X3D engineering sample surfaces with 128MB L3 cache - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWEVNVzdNTVNVemc5YXhEYXRqOFN2eERDT3JJRUJJMWgtT2VoVzVldTR6RWgzRl93TW5PYVVDdmZyMXREZlhhWDZPYTlad1V5aktYY0ROUlBVWFAyT051U1BWaHdEYjgxcEhER3Nlcnc2RUV4MUJIM1FWZ3c5QmtZRE9NeG5nVUI2WVRiNUxEa2RfX3NXOWlvUDBWQQ?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-17T10:55:07.743635+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "334e393ae5efb10ebc341f62",
+    "title": "NVIDIA RTX Spark N1X (MediaTek AHJ11488B) Specs - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOakV3VWtPNEpxUTlrYThmUW1ZYmZQVnV6b003dk1KZVB3bXZ2Mzl3bnU4V09WN2EyemE5NWZHczVZdGNjSkNxdnoyZkFnMUR0ZWVLRWpsanFPYk5EbW9Bdk9rRE9ManhqSS1Tbnotb1d1eFRKU3B4RU96QUJZdi1abllB?oc=5",
+    "source": "TechPowerUp",
+    "published": "Sat, 17 Oct 2026 09:50:33 GMT",
+    "discovered_at": "2026-10-17T10:55:05.104557+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d6a8eedfb873c142ac32a979",
+    "title": "Samsung May Use Exynos 2700 in Galaxy S27 Ultra Amid Snapdragon Issues - India News Network",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaVVPd19JSFdwQm1JQVYxMVdGbjlRV2RuT3pkSjNLRGs4S0xwaFhLUVFGd0x1Z3NHX1NENFptUXFzc1dVLUtLUm1wZHJfTFRSOGlVMS1DMFJUM0ZjLUZ6R0RqZ1pIdjZBOWxGa1JuZXZEWmR0UDFrMTVrZ3Z5Vjh2bmtwRWNsTTBCTGtQUmdqbDJkQl9jYnMybEZHWjFjeUYyVWxkcXBrTG5IaUZEczg3c1d3?oc=5",
+    "source": "India News Network",
+    "published": "Sat, 17 Oct 2026 05:22:09 GMT",
+    "discovered_at": "2026-10-17T10:55:01.351054+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fe8373802a0d35a5d9453912",
+    "title": "Samsung Galaxy S27 Ultra: Exynos 2700 or Snapdragon? - Business Outreach Magazine",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQkRfMG1XY3pTaE5wdzRRZ0Juc1ZPazVHZ3pWcFRkQnNiRGdPbzlybnNRZUl2SmE2azRWRVBuLTY4UENZdzhURzFReDdtamRpQXNmelU1WUVJX1VOeTRvLWlVdHNwN253VldpQkwzbjlfNjRTV0FDdHFoTEpaWE5sOUFaNmtrcTQ?oc=5",
+    "source": "Business Outreach Magazine",
+    "published": "Sat, 17 Oct 2026 09:49:59 GMT",
+    "discovered_at": "2026-10-17T10:55:01.350988+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "e0ef66da9e21f7260f5aa063",
     "title": "Benchmarked: Nvidia's RTX Spark notebook delivers serious local AI compute, at a price - The Register",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXY2Z3RYZHhkN2pxdDRkWWQ0czZEcmVoa3FxUFdUMDc3M3pqTE9nWmZCQXYtU0tKSUdRUUpXTDlzMDczSVhWeTQyM3BlYUN5T3lBeXBpQjJhMkVtRUw5V3VfSFNaZ3EtdTV0anhLNEZBREtSeVFXQVo2UHJrdlVRQURKTW9uVGFHM1dVSkxDOVg5Q0Q5aGF5bEswbURkTWJUc3J2WFZCcC1RSjVjMXJ0aU5hb202QlVfOERJbGc0RW1UUjJTXzlHSVl4QU5WcWIwdmMzMll5NTdJWW82?oc=5",
