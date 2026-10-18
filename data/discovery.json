@@ -1,5 +1,49 @@
 [
   {
+    "id": "bfbdb7adccb6a3e7670f7ec9",
+    "title": "Intel Pushes \"Clearwater Forest\" Xeon CPU Series Launch into 2026 - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMWwwVmFWNHhJT09fTHpTUk1zZlgzblF3ZDQwWEE3cUVhNENJMlJiaHhOOFozM3F5dVhmTUQxTUdUZjQxNC03TXZxSWMtekhpLVpGVzBjb1hjdHA2MTZ1aENOMlNjY3p5WXVYUnhXYWRXRUhMdlVlczJOSXBWTzJBX0FvMXYyZVhraDEtaEEtM1BvWVlXQndUSm9PTVllelXSAaQBQVVfeXFMTmQwM3pFbi1meEN3d1ZjWW9pUmdzN1JqUFhCaVlHS201NWVFSXIwMFkxV1Y4cG8yM0lyemdFdklUdFNMRFRIbnpJVTJMQ3BaNnRQZ3FoTWhFdHJtQm9WbkJaaEtjZTk5eGFtRG5qVjZqQVYwN1h1YVcyajdlYWg1cVZfTHhDaS1zTm1xYmlqUWpZQkdrVnlqT1E2Z1B2TVlMQmZvRjI?oc=5",
+    "source": "TechPowerUp",
+    "published": "Fri, 31 Jan 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-18T11:21:04.056328+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0ffa64f692146871f996b2d0",
+    "title": "Silicon spin qubits reach 99.99% fidelity bringing larger quantum processors into reach - The Brighter Side of News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM0RVTWpqV0NZakxrblA5VmhKcDVEQTlMU1M2WktPZHdSR3RPUFg2X3VTZGVSZEh3MC1XVlZQazVlRHp3Ny1ZZUkxeWdXYWxrZV9mRmIwSW1HdEFxb3loRE9CMW45eEVMZTJBMndfUDJqa1lfTjBPVzAyV2JSY3B2QXN4TnU5anp4Z21GTUJTbGEzb0JLY3A4bUVEVDBBV2VXMVAtVTFJaFpZVWhiZG5teFVaMWxtbU5HbzdWaVBwTkswRGc?oc=5",
+    "source": "The Brighter Side of News",
+    "published": "Fri, 16 Oct 2026 18:07:00 GMT",
+    "discovered_at": "2026-10-18T11:21:00.226116+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d6e28641c3978cc530545997",
+    "title": "ASUS returns to Intel graphics cards after five years with Arc Pro B70 32GB - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaG1RNXlac2RSZGQxWFUxeTNkYjZFT05QSkJOLU42Y2RnU281UThOelc4ZVBhRmZyUjNnQ3Rzck9TNWVrQ1l4am11N192R2lkOGttWHFUZU1KMWcxTUxFRVlVYnNqVTB6ckdqaHVxYzQ1di1hYmxYbmJiMGlQMFd4dEpyY0ZqQjRsYXcxNWN3QWtHa2czbjhiNFFqZmNqbGtwRjJvVEtn?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Sat, 17 Oct 2026 16:22:05 GMT",
+    "discovered_at": "2026-10-18T11:20:56.843864+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5ff31dbf7e705f401f8ed8ad",
+    "title": "Intel Wildcat Lake Refresh reportedly moves to 8 cores, replacing cancelled 6-core Nova Lake - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaERidlhDdFVCTGp3dUFNTlhSREh5N1E3QXB1ODhzbTBHTTZmS0w0NFpoQmhIWVViUmsxOFVfWElmeHZoczNjbGxCbDZ0ZnRFLUZXY2ticTdKNlc4X0RRTHQ5MmFXQjhUSEgySzR3VzFkakk1NXpvb003MWJ3RXZDUEkwSzJOamVteFU4NHB2VzNMZDVOYldELVI0Qjl2Mll6TmFSNUNoNWd6VmdEd2JZOEdlSy1jSmR3bzI4?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Fri, 05 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-18T11:20:52.618916+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "53cc9b1f35c2ff0022569666",
     "title": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent - Startup Fortune",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHJ5TzlhWVdnNld0S2h3Mi12NDI1bHpEUXpKcDFqRHdzSl9CZUlfaHVoTU9MVmFSYVhxN3JRazJvNXNHTHFqaUszdFl1eUtCemxmSW4wYW13Wi1QV0luTFdrVEIwREc2TTdBZFZYUmcwOTRCV2VKZ2RXdlpjZE5xRTNpNV9PbGVOM3dnYnN3azV3RTBNN1ZPaHUwUGVRQQ?oc=5",
