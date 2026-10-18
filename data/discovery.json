@@ -1,5 +1,104 @@
 [
   {
+    "id": "53cc9b1f35c2ff0022569666",
+    "title": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHJ5TzlhWVdnNld0S2h3Mi12NDI1bHpEUXpKcDFqRHdzSl9CZUlfaHVoTU9MVmFSYVhxN3JRazJvNXNHTHFqaUszdFl1eUtCemxmSW4wYW13Wi1QV0luTFdrVEIwREc2TTdBZFZYUmcwOTRCV2VKZ2RXdlpjZE5xRTNpNV9PbGVOM3dnYnN3azV3RTBNN1ZPaHUwUGVRQQ?oc=5",
+    "source": "Startup Fortune",
+    "published": "Sat, 17 Oct 2026 22:14:36 GMT",
+    "discovered_at": "2026-10-18T04:44:31.550199+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "448ab29276c3ffb2361c9d1a",
+    "title": "Intel Launches Xeon 6+ \"Clearwater Forest\" Xeon with 288 E-Cores on 18A Process - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUThrV0NNdlhrYVppaGxKa3pDdThnNXVwUmJsV0FiRmdHVXAwc1JtcHZMNDNBdG00bjM3ZEZmQ0VRdS1Mb3YyQkhwdUF2cmt6dWN5ZkRwUVFOZVdlTU5JaHhzUWZic3Q2akE1RUxyWG5HSlc2LTk4eTVKQzk1VEtCWDhJX0hubENYSXVDb05hRjU2UThPbnZiUnNsWTAtRmVLY1RwWUc2cEFkSTY3bUpQQtIBtgFBVV95cUxNTTUyMThjZVNzeUdvQXZCd1MyUW9SbXc3VjRfSDdkbGtfd1djMXVvcm12UWN1ZjJjZ2NxSGhUamRoZ2lLWXlhWTFvcDhtNk8yTGVMNFRTTWl1aFc1Y1FCYVd1UVFxTHJEV3I0ZlVxREpJQTd3VkRaQTdrM0VMQXRYYmZKWU0yNjhTT21CMDlyT2l6bkpsNGVGZ3dZWVRMb2xjRUUzZmJPS0t4bVItcWFCbUpmOVNSQQ?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-18T04:44:28.820823+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ac939b90e0c2ecdd0b7d141c",
+    "title": "Snapdragon 8 Elite Gen 6 Hits 5.0GHz on 2nm [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oX19QcURRRWw5Zk1fdXF4N0plWk4wdVNlWjBhcnREWXg1bVJIakJLY1dzS25lVUdTTWdjdmNGUGVyc1hWU2EtRGk2N2xzRmVvLVdWRF9pWHVMbE5uRE9EV2d4V0dwcWdwSEE?oc=5",
+    "source": "shattered.io",
+    "published": "Tue, 22 Sep 2026 02:08:39 GMT",
+    "discovered_at": "2026-10-18T04:44:20.350726+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "274e260340006d4d172432c8",
+    "title": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWnR6WkVnYXd0LUZ3RHExOU1NSEdKazFldS1nTGZnM2JiazJrYnYtLVpTYWVMZS1pTDNObjBxOU5ZdURmaFJzc1RkRHpLQV9tOTU3dm93OTNURHkxcmNEMGRxS05jR0N0MGw5RFRSN01jZl9pVUVPcXVyemlkT195MVhsZV9KXy12MUd5U1h5OA?oc=5",
+    "source": "ServeTheHome",
+    "published": "Sat, 17 Oct 2026 17:00:47 GMT",
+    "discovered_at": "2026-10-18T04:44:18.727290+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d4bc78e2c07b0c2562bac484",
+    "title": "MSI's $3,299 RTX Spark N1X Laptop Has Something Its Rivals Don't - ThePCEnthusiast",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04VDdHOVU3WXpIX0I1TUxLWHRDN3RaWjZGejNHOVhWb2RsUFdsVHRiVEZxYWhmMEJJT3I1SDdzSGFDWGlLVnZCWFlIR0J3Wk1uZGg0d3BJeUZ1WGxYTGtEMU1KSFRkMFNLanE3NWVXMjFnS3RSSWc?oc=5",
+    "source": "ThePCEnthusiast",
+    "published": "Sun, 18 Oct 2026 03:01:48 GMT",
+    "discovered_at": "2026-10-18T04:44:18.727239+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0a4c39bfb8bbe683d81a09f4",
+    "title": "RTX Spark Laptops Hit 6 OEMs, Price Tops $6,999 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HMVdULUpPcFF0UU8wOTN5R3l2NXZtbWg0LVdqZ3NoOUtKd3doMzlYTjhNbldjblQ5THFDSVJabHhIcS1PekJKWENWVkxxS1FtTDZ6a1RYVlVRaDhvcU10UU0xdFhMdjhVOHl3ZS1BSWxPb0FBQWc?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 17 Oct 2026 21:30:21 GMT",
+    "discovered_at": "2026-10-18T04:44:18.727206+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c977c3bd0fd24cc23ab0bddd",
+    "title": "Nvidia RTX Spark N1x 675 Processor - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcHkxZ2F5Rzg5dExicDl1bzM0QlVYWWtVTjRmSkUwMDFETTdHNjFiekxnT2NMaElGb05lcnBfZ25tUEVlbUczMGN5U0ZXNW16VjNxeWt5WHR3dWFKak4zMDZWcDlVd3dkenZnRzBncHpfUWVqVTQ5eG5XVFZEMVZWUGxxalhZS0V1V0RDODZGU3oyM2FJT2w5VTlqbjg2algwcXc?oc=5",
+    "source": "Notebookcheck",
+    "published": "Fri, 16 Oct 2026 03:30:37 GMT",
+    "discovered_at": "2026-10-18T04:44:18.727189+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bdcaf3e5253513a14b1fce57",
+    "title": "Are Apple's M Series Chips More Powerful Than Intel CPUs? - BGR",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qODByMnYtNU9Iak1nSUJHOXctclR4dFRBOUpWVS1NcW9nUGJCTVBSZzVkSEhrZmc5UkpBa1A3bk5FWVAwNFF0a3FCTHRVVGZ4VmRGTXFFb0hOSW5EakdOaHZIUEEzMmpYSzFfVnk0RWNjbTQtTmRPa3htdks1dw?oc=5",
+    "source": "BGR",
+    "published": "Sun, 18 Oct 2026 03:20:23 GMT",
+    "discovered_at": "2026-10-18T04:44:16.900672+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3710944a6822776e5729522e",
+    "title": "Galaxy S27 Ultra may skip the Snapdragon 8 Elite Extreme Gen 6 due to thermal issues - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHJDT3R3dHVOVF85b2dLOEhxUlNOMUJWRUtYcHl4eG9sRnBEZjQtX0tCMHpTSkdyYWxLbnZJWFBTNU10OTRCd1p1YkdnS3pSaHRtd3k1c3BobTNWUVh3VHFlRFd0RW9GODRIOWFtZE1iN1dhREJYNlAxam04REJtWS1kemF3UkloS2hN?oc=5",
+    "source": "PhoneArena",
+    "published": "Fri, 16 Oct 2026 11:43:42 GMT",
+    "discovered_at": "2026-10-18T04:44:15.281448+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "6efb2daf047ecea86e16099b",
     "title": "SemiAnalysis Cuts Google TPU Shipment Forecast; MediaTek Shares Plunge 4% Intraday - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QU2ExdE9VWGZaalI3c2M5RTd0bVVfWGV1d0w0dVpWdVdTSXhvVEItYnVPbUE0OEtMYURFRm5kMWE0N3h4U1RvTl9lYkE2Y2tmZEZLT2MzRVBjWmtldTVsX1IyYmhBOC01QUxDWlJmcTV2QUtzanc?oc=5",
