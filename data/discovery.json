@@ -1,5 +1,104 @@
 [
   {
+    "id": "be2537ead328dd6c2c9d11b5",
+    "title": "Intel Is Up 8% Today: Here’s Why - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUtUQktlaW96T2NPREVvUjJsX1lXWkJ3dlJES0xlaGdlbTA4cDBOTHN6YVZpNW9CcDhROEYwdzZUWWpucEZ5Vl84Y1UyR2VaQzE4S2NTS2tkY0RvV1NIVU9xdkI1T0RIZ3B4RkFJZGNPSVBkcmpWSnBNZVd2aUV3R2haYVQ2bGhBNHc?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Wed, 20 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-19T22:28:01.520639+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "660ebb6e7d4a27720ca9b22f",
+    "title": "SiFive Aims at RISC-V Generative AI, ML with Its New Performance P870, Intelligence X390 Cores - Hackster.io",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdnBfTnExcFNheE9CVFl1RG1pdmJwMl9rVzVTVVlzbTNQZmwxRHQ4cUVBdTJPR3ROTFoyMnpCN3Rabnl4Tlg3b2FYWlREM1Y5dnczME00VEs2T2Y2aVZtVkYzaUNLTEtGcVh6ODdPclhGUi1ncjBLV1VFZlBNRTl2Y2lVM2JGMzlZZU5pNDd6U1c5dUNoc3g3YTBveGptWFYwOS1TMjE3RGZObUdXMFBZb1hFZXhPaFIxLTVLVERrM1p0ZXp3VnFUWXhJeUFVVGs?oc=5",
+    "source": "Hackster.io",
+    "published": "Thu, 12 Oct 2023 14:32:36 GMT",
+    "discovered_at": "2026-10-19T22:28:00.888238+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "19a65c1e1859a73dba9fcaf8",
+    "title": "Arm Pits Its AGI CPU Against AMD’s Zen 5 EPYC Turin And Claims A 2x Rack-Level Win In Agentic Workloads As AGI Focuses on “Strong Per-Core” Capabilities - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY3F2anlwSXpIYW1MQWR2U0hxS3Q4MkphR21FOFZPQlFPVVJDR3U2eC1ZQzdmZFo1eHB4X3FwTy1tY1dRam1VUXdzQmp0TWpBUXg5N3ZaQlZNQ1BZZ1NCWldUemlxbjhPNDJrY2ZBYnp5X0JGWUM4VnZsYzFuSmRvdV9JbFY0TC1MSHJ2NF9WM2tKSklETUtNMC130gGfAUFVX3lxTE9OUXBaNXZxcTZQNVpPcjVZdkk2QmVmeWxJZmJtSzZSMHhkX19ENXprTm5iOGJtTmxqelpma09wZlBiN2FLREY3S2RuTEhodXZOQmNiWTlmbDY2LWd1QW43N2JpRGdwSmxlNENQeFIyM1A2cWk5Z0N0UmhxZWo2U0hDTW1lLUVKdFMyRzI3aFl1TlFudmdVRS1UX2luOVhDdw?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 19 Oct 2026 21:25:05 GMT",
+    "discovered_at": "2026-10-19T22:27:58.152437+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2b3613d017e68d7962ab64f6",
+    "title": "Tenstorrent Raised $1.5 Billion To Scale RISC-V AI Servers - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWkpQOVZrYzZ0Tm1ubThPRTEycDdhTUJ3N0stV2VObXBaNlNmdUduc09jVm5BT0p1TmNzeFMwZGlwT2F3T2MwYVFRTGNYUTZXX0hsRnptNzJldGFUYTZzR2hEQ0xfSndBcmoyTnQ5OWlvODBYWGU4OE05bXRJNUJacWdlU3UyM2pld0lzZGxR?oc=5",
+    "source": "Finimize",
+    "published": "Mon, 19 Oct 2026 12:49:51 GMT",
+    "discovered_at": "2026-10-19T22:27:54.261020+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b824a48051d982befc8d6a78",
+    "title": "Modal Plans NVIDIA Vera Rollout for Sandboxes in First Arm Move - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQS0ya3lqdjhTUm84MjRpaXpJQzhTWEp3RVZ6bVVBSEROWGJkUlJOZ2FKVUR0NjdmN1FuVU1GOHNhQ3luRU1CdXg3QXFabDlzUUNpaXlmRzZ0dENRamRhV2NLNFFxVGZFTm9fT3VwTXhrX2dWUERyWXNHeDYxcnF5ckhxZWdCMklEd0k4akRR?oc=5",
+    "source": "Unite.AI",
+    "published": "Mon, 19 Oct 2026 16:08:01 GMT",
+    "discovered_at": "2026-10-19T22:27:53.643202+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8cf8ee35b3612213757f80ff",
+    "title": "Nvidia’s Vera CPU Wins Modal, Claims 2x AI Speed [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lUVFYSnNnZFNJU085cy1Ob2R4bFQ1azFMQlF0WVVHYUdBZlB2NzY4SlVrSTNLSkNHOUpXdnFqYzJEZ01hODg4WkxjanhUMnRfU0JBNl9PWEpqQUp0RjBXYUk3QnVOdE1Rb3E4b3ZVMVRwNC1W?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Mon, 19 Oct 2026 20:38:55 GMT",
+    "discovered_at": "2026-10-19T22:27:53.643153+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bd357081a9a6955ff70c18b2",
+    "title": "Asus expands workstation AI hardware options with Intel - Jon Peddie Research",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY3VYR19IVFVFaWRCYlJzOWJ1QUwwblhEX2JRXzNzZmVRRmN3dGJnVnVmamZma0FwdGk5VjY1MXozYTVlLW9LVkhnRFVYOGQxdXdJYjB0dXFyV3BPaG5SRGtXTmZZejRzUzh3LS1uWkdVZEZJb20wMl95V0FSZ0J0aDVGbWxHbHZhcWcwdVoyYkY?oc=5",
+    "source": "Jon Peddie Research",
+    "published": "Mon, 19 Oct 2026 15:46:49 GMT",
+    "discovered_at": "2026-10-19T22:27:51.061080+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "102f66bb33d417e1e644ac91",
+    "title": "The Asus ProArt P14 is ready for tomorrow's local AI era - Pocket-lint",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4tX2JmZWNBYnZENDJOQkswOVhqX1pzV1BoZl9OcXl5T3FlM3VPVGJyQ09lV3VMSzNZazYyczM1bEt1Vkp3aWF0MGhYTTVfTURsaHpOelJPYXFkREJEaHo5eQ?oc=5",
+    "source": "Pocket-lint",
+    "published": "Mon, 19 Oct 2026 18:28:35 GMT",
+    "discovered_at": "2026-10-19T22:27:47.572958+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "78d2cd5b0535cdbc7d46b5de",
+    "title": "iQOO Neo12 gets official launch date to become the latest Snapdragon 8 Elite Gen 5 smartphone - PC Guide",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZWpkdWQ4RjVSVUhqcTBSdkNnVlNTZ2xCTjJlNE1MVUFTUExFR1ZHckVaQ3VZRXJkb1dmc0lsMmMzc0FQY0ppU2hBd1dyQmJCd1dfU2g2Zll6RXBVZFQ1RW0xN1Z1Y1RDSHRKUF9WaWxmSFdublhYbWZsNzlqa19uQjBaY0huVkhjVVFRMXlPTERFMkJMZGN3cVBxanRjR2hkNktCT3FXcXc4QnZaa2xHQkYweVFPX2g1aFNrdlVCeEQ?oc=5",
+    "source": "PC Guide",
+    "published": "Mon, 19 Oct 2026 15:15:54 GMT",
+    "discovered_at": "2026-10-19T22:27:43.657408+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "29070404492850505458e3bc",
     "title": "Amazon releases an impressive new AI chip and teases an Nvidia-friendly roadmap - TechCrunch",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTVYYnBXNlBQckVCb3h3YXlXNnU2LTRBTWNGVUhRaHlJRzhiUlJlM3hKVE1WWEx6NV9XSE9XdjJkN3lmekc2WHplUFlqMjZZNDhhU0ZpVTJhbjdQcThPT1A3R2VhTmdOOFo2OG1qMEtZdzJDVVVxZElLSF82Mm14Q3QyVnl3Ui1uby02U2x4LWM3MThXRUpZdGlLYlhLUXp0Y1ljTkNNQ3BLek1semhsdFc4NA?oc=5",
