@@ -1,5 +1,38 @@
 [
   {
+    "id": "8a4f860ab9270c3d3772f2ea",
+    "title": "Qualcomm on safety and Snapdragon Ride Flex SoCs - Just Auto",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT2NqSi1US3BpZHJPT0pNckFxdDlleU03emN3ODVPenRSMzVyeGxqVnJFUFBnR050VlZ0R2s1STBtSFp4eWxmUXpOMXVlaV9ONHpTSzhFQ3ZaM0o2LTZEMHlYbzJzVDFmRWN1VTVXZEtwOEtxR2QxZVVZMVVwRW1HTURDemxfYUpIanN0VVFFYTYzaG1vT2lpZW1QbmMzVmR5?oc=5",
+    "source": "Just Auto",
+    "published": "Fri, 30 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-19T04:52:28.482276+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d3aedc6e867b582eae169b9f",
+    "title": "Tsinghua-linked RISC-V chip maker Xinji Wuxian raises early VC round - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWlBaTk5iRWUxR0FxYTVoQkJ0WXppTnVFUjdmTTF1NUs0UUc0bllLVnJsNXVFSzJYeEYyMlJ4ajd0UzFNTEtyV3NRbjJqaTc3a09teDE3QkZmaXRmNzZzMGhRSF92OUF2ZDBSUFZjYzM1cjNmWk1vb2M3THJfUnNncnJ3QTU2RVgtaHFiVjFaRTkxNzFrU3UxcEM1X2hGMWZobnBWSw?oc=5",
+    "source": "Dealroom",
+    "published": "Mon, 19 Oct 2026 03:29:54 GMT",
+    "discovered_at": "2026-10-19T04:52:23.029359+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "831d2774ac2fe24c112290da",
+    "title": "[Updated] Snapdragon heating issues could force Samsung to use Exynos in Galaxy S27 Ultra - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR052bkg3eGN2azkzWlcwUmNqV2N4STZoNi1zR1Zla2Job3laNVUzVHF5MHBpWU5kMVJBVjd4OGVHLUVYc0JzcXZXVDhjTkN0Vl9NYTJQQ2NtRkh1blVLMTJKOVBwclVHNnRlaktubmRxMmdiWDhyYzY1eTk0dlZZM1RjZ0dXX0pBNGpxeENvTVhMRXBv?oc=5",
+    "source": "SamMobile",
+    "published": "Fri, 16 Oct 2026 16:00:00 GMT",
+    "discovered_at": "2026-10-19T04:52:13.467524+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "0799a2acfc679acb8b551cc4",
     "title": "Scientists keep five quantum bits accurate while running them all at once - Interesting Engineering",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEtJdEdVZVJSUDU3YUtoTUlPWUQwT01kQnRHbDJuM3NUVGJHcjlfNGZ5bFltRWhjcEhSM1pZaERFeEN3Y3luUWF2MjVJaTFHRFNfZEo0VnR6cG9PYUFFbVh5TmJneGdCMUx3SEdfWWNpYzFVdmZaRkVoX3Q3dUxubGVrc0Q?oc=5",
