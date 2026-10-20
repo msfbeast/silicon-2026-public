@@ -1,5 +1,49 @@
 [
   {
+    "id": "501083ae45063b552e43eed3",
+    "title": "SpacemiT Launches 46-Core V100 RISC‑V Server CPU - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczRlRHJVa1h2VDhuVVJtMWxLY1JZX0M5S2l1eWJ4YjhkSU8yeEpIQ1lOeEtVd0lLQ2JUWXk1YjNSNWtkRkxQdnpwR1FzNXY0SzZFaUNfMzBPcDFneGhkdDk2ZXJKblQ3NUNScTlUVTI1SXhaRzdjZ2Y0NFJkUHNhRGtSRFA5YzVBWlhHMjA2V3BuTUY2VVNRQVdKZl9iRU1YMWtod2Q2X0lOOENxQkNTZ1RYNmVGczE1X3B0Qk5R0gHDAUFVX3lxTE1Db0JpdUkxU0hNTFJoUzlyenZPbmJLMVBRWUxZeUZ2cFo3b1ZuMlQ4YklSc3I0enhPZjlUN0k2ci1JekUzbVJMSC1heTR1alR2RVQyQ09hRFRlQjZseXNjVTFUc2hIdjE5OVA1ZjdwNmVPQXF1ZDNjWG9KM1NhbVkzb1VZVko4aDRzbzhsbkxNd2thdU56V1BLUUtDRHF2bDVyRWY4bTNIQnJyX28tVEFHYjhxYWJlT0VKRmFYM0dmajRPNA?oc=5",
+    "source": "The Manila Times",
+    "published": "Tue, 20 Oct 2026 17:41:26 GMT",
+    "discovered_at": "2026-10-20T21:43:05.846220+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "25cec1c655dc93f64548138d",
+    "title": "AMD details EPYC Venice benchmarks, claims major leads over Nvidia Vera and Intel Xeon - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUUZMN0V5S1dseG10N0lwUkFQRWtqM3AySmN5TGpMaGY5b1BaU1FQZW56YlBYT2hvWXhLTGkwU2lkNUU2eHdka2UzbGJQSjgtT2tUUlNyazRQWXhBdDdIYzZoTGhhOHZEMnhrQVRQV0dCSF9UUGg1ZXNYdll1bmdTQTQweDhaWkxRX3RBcVRFaVM3M3JMeExURUJhOUNVVkhWT2Z2RThWZHpiNVF0X19zbUw1Ulg?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Sat, 19 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-20T21:43:03.203937+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ce7b1a547b73adee07a1bb9e",
+    "title": "Infinity and HP Deliver 2X Performance Gains on NVIDIA's GB300 Grace Blackwell Ultra Desktop Superchip - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcjVtbGRkSU45VWt2WG5SZHJWQjlhWi1FaklHMFRrZ0d5SUR1dmFON1hNbXJHWDhCdHAya0NzT2NSTko0N3dlVEwyUWlNRTVXTlJXMFYxMC1tRi1OdDdaY3RZbTkyQlhIWHZpMzhvdDlSRDEwbi1wNFN1SmJRTWdNZFBSLUl5OUtaZTVjVFZ2Z3lmYXM3c1UzdjFLeS1RTGNQVy1Ed2RIREdwalhpOWFPckVzQXVpeDNqNWx2eWt5dHVaTE54M25tWV9sZGF1M2xHeGJBUDA1bE1SNlctbXdtajZhWXpTY2RvQ285dmlnVQ?oc=5",
+    "source": "Business Wire",
+    "published": "Tue, 20 Oct 2026 17:33:00 GMT",
+    "discovered_at": "2026-10-20T21:43:02.159379+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cc6ceab68a9bcb1fc907f935",
+    "title": "AMD Ryzen 9 5900X3D Leak: 128MB Cache Chip Found [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRaWIxYWFqem5zamlIYnhBelRaZWhhd2otNDBkbnB1TTF2dm9WcmZmRFY1WlZwLXBqZ2thM0hKbTlfWEJXZ2NqVFY0QjZ1ME5Qc3g3UXUtLUVEVEtFcjkzTzBwcWZiOUliOUROQjFvWmxtcG5XeEE?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-20T21:43:00.869073+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "be5eeff2170336df0f29aea0",
     "title": "Tenstorrent raises $1.5 billion - Jon Peddie Research",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZmVjYm14MkR3NHRkTGRBdjdGRVZoWjdXbHl6MGJXRXk3cGtsbW52aUlJcmNqdmNnZE85ZzN5eWxwRzVXWFFtbzJGVVlkSGZBSWNKZFpybGxNRWFPQjR4Q092MkE4dEpBWEhoUVk2bw?oc=5",
