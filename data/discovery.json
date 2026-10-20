@@ -1,5 +1,82 @@
 [
   {
+    "id": "be5eeff2170336df0f29aea0",
+    "title": "Tenstorrent raises $1.5 billion - Jon Peddie Research",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZmVjYm14MkR3NHRkTGRBdjdGRVZoWjdXbHl6MGJXRXk3cGtsbW52aUlJcmNqdmNnZE85ZzN5eWxwRzVXWFFtbzJGVVlkSGZBSWNKZFpybGxNRWFPQjR4Q092MkE4dEpBWEhoUVk2bw?oc=5",
+    "source": "Jon Peddie Research",
+    "published": "Tue, 20 Oct 2026 17:04:38 GMT",
+    "discovered_at": "2026-10-20T17:18:10.105603+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e6862f80f31c8a3aa5950a3f",
+    "title": "GCC Patches Added -mcpu=native -mtune=native Support For RISC-V - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pUXVWVVU3RXhoNVpmakd6WW9LTkhtajhObUF2bGI4OWdFdDgxTVlhOVA1QTNiTWV2ZWlYUnNva3l2TngzeVBjX1BUVTZmZFIxWllJWFVKQUx5VzhIN0xLdnF5aXRSd2RHZHc?oc=5",
+    "source": "Phoronix",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-20T17:18:09.481703+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "861b97a4c10455b678f9a127",
+    "title": "RISC-V Gaming: Quake III Arena on SpacemiT K3 - YouTube",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Sakd3d3NFTk5jYU1nWEZOOEQycm9aNkl3TElIcGxDS29KUzFHeHAtSXhZWHZlNGVQZXhmcVp2cVVEWmZNaUVaeF9zano1cFFfaVZHZ0Q4NmhXR3pr?oc=5",
+    "source": "YouTube",
+    "published": "Tue, 20 Oct 2026 08:34:08 GMT",
+    "discovered_at": "2026-10-20T17:18:04.113856+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d0a5c0e00c640fbed41ef50a",
+    "title": "2025 RISC-V China Summit: RayCore Highlight D35 On-Site Showcase – RISC-V x Data Stream, Breakthrough Innovation for Domestic AI Chips - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6eWROQ1ZlekFLUldmR0hIRDg1ZDMtdFJ4SkZNTUtwTTNUb0hHZkdZeGF0TDFEXzBXdWNJTURXSFZJaE9SZDJOOW4tVG41Q0M2S244?oc=5",
+    "source": "36Kr",
+    "published": "Tue, 20 Oct 2026 13:43:53 GMT",
+    "discovered_at": "2026-10-20T17:18:03.116785+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ac4d4d54fa7e038d5f44b361",
+    "title": "Alibaba sold 6 billion RISC-V IP-powered chips amid AI boom - Huawei Central",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWFNMR2lMNUtQSE1rRnpSZ2tyZGJJYVpiQUFRY3VZZF9STHZzVEhxVDljdHZEcHBSalh1WHhKS29Fbk5xSW9hdWFOWDY5VEFOVWM0eVI0X1ZUSk01aHVLUVlEY3pGYjZ3aHBES3p5OHFxODNQeVpKMFZDcENiWEowVU1UbF9wUHJRRGtURjQwTXV3UjM00gGaAUFVX3lxTE9vbUpFbFk0NUdOWThBQXB5U1NZemhpclRfbElWRWIxTnpHd2NfejZldEZiR01yMVZteHg2WTlhMlg0R3NRSVdPV3Fpc3N4d3FiNmprWnNoa0xZSEZTZWVaTFFhS3dTMEhoUFNaVXRuek1MZ3p0SmhSSXZUVWd4TTcxOUtYdGNFWkhTTUJidEJaTDhyekFsU2F1X2c?oc=5",
+    "source": "Huawei Central",
+    "published": "Tue, 20 Oct 2026 10:53:36 GMT",
+    "discovered_at": "2026-10-20T17:18:03.116701+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d0cf066009ecfb724f267aed",
+    "title": "Microsoft Deploys Maia 200 AI Chip with SK Hynix HBM3E - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajctV2FFYjhFOXJ0ZUVzV2dTT0ZTQWx3YnUxem9VT25Mb21LNkwtM0xJdHNuZGhTQlZTTU9ENlhTVTczZDFOVWtuMXVkS0htcXAtLUJCcHlHc1hORXloNnpfVW13VXBqWUE4ZTBMN2Z4c19IRzhMaFFNYjIyTWZuVk5CRnR1Vkgy?oc=5",
+    "source": "조선일보",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-20T17:18:02.057418+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d15dfe030a91d7b41c429ab7",
+    "title": "That the Snapdragon 8 Elite Extreme Gen 6 is overheating? Qualcomm denies it - Samsung Magazine",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kTjR2azlKb2lJMzNackszN2pSX2ZjWnhCTVk4TGhMQzdfSmdZZV9CYjN1dUhodnlKeHA3VEVGUVNMSkpkendQWC1XUE1xaUQtTjdISnJITUprYVExMzJ5eVIzV1FOUjg2RS16NFpWNUI5Ym5PVS1aUHh1cXEteWc?oc=5",
+    "source": "Samsung Magazine",
+    "published": "Mon, 19 Oct 2026 06:14:21 GMT",
+    "discovered_at": "2026-10-20T17:17:52.479090+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "3b82abf63d0f4dfa9d7f5663",
     "title": "VC funding deals: Tenstorrent, Town, Dream Labs - InfotechLead",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdW9KSWM1ckMwTWlBZW53aGxQLUNjYVA3enkwb1I5QlU2WU1Ua1N3MVphc2tqX19Rbm5RQXRNSUQzS2hXdl9SRG9pc0dsYUNhOTJIcHFJX1VBMWFhWjAtM2FTT2Mtdm9ubE90clFRQktvcGxlS0pkb1paYlB6RVZDa283V0JMN1RIWXhaTm5Tc9IBjwFBVV95cUxPdW9KSWM1ckMwTWlBZW53aGxQLUNjYVA3enkwb1I5QlU2WU1Ua1N3MVphc2tqX19Rbm5RQXRNSUQzS2hXdl9SRG9pc0dsYUNhOTJIcHFJX1VBMWFhWjAtM2FTT2Mtdm9ubE90clFRQktvcGxlS0pkb1paYlB6RVZDa283V0JMN1RIWXhaTm5Tcw?oc=5",
