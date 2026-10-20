@@ -1,5 +1,104 @@
 [
   {
+    "id": "b4febeac14fd68e360f423af",
+    "title": "From MI350 to MI500: AMD’s Bold AI Accelerator Roadmap Through 2027 - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelJFdFhhNUVUWGNnWWtCRmZ5Ni1PWVpBUm9XNDlqNVpIa0JqdGhxSTc3dGUtcGxQVlBwbXFhTXlteFdzc3l0OVM0S1JGMTlTYnY3eWVqWWpFQXR6cXd3ekVGazNIamFEV1dVVzJxc3htRmdKNF9BbThDWnpyaGN1UHdzV2txazhoZnJkREFkT0VwcndsT1V6SlJJMzZoeU80OXfSAacBQVVfeXFMUHRqOUx3azZsWndPVjJMbHE5SXlXck43cmdwbWFyNUp0X1ZFcl9Bem10ZGEzeWFuZ0NGbnVEcURnWlBQVC1MSlBqclItOGFlb1BEQmZRdDBzTjVFMzlTY3VINmZTVjNabDFLOVZZSG11dFUxcUQ3MjNHdGhuUDcwV244cnZMRExDYzY5TUE5N05sUndwMW5DcmpVM0ZUN0RTQklZVVBIOEU?oc=5",
+    "source": "StorageReview.com",
+    "published": "Thu, 12 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-20T05:00:21.756372+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "843fa03370fa63dc620821e0",
+    "title": "Vadzo Imaging Validates Bolt-544CRS 5MP Onsemi HyperLux LP AR0544 Color MIPI CSI-2 Camera on Rockchip RV1126 for Embedded Vision Applications - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPX09rRkFuMzlOT2ZqdVNEOXowZ2hTdG41eEphMVdtRGdMeDRSNkpLeno0dERiN09FREl3VjdMbEIwOUREMnVYekxQZFNqNzlQTGlZaDJ1Tm5IY25sNkVCNmUyNDM2NG5rTEpuRXl3R21nU01SZ1pZWWZvMlZpM3pnYWVSV1M2dEJRMUtOTkJ6UHR6a2Fnd3BlVURuQU5EZE9BVTN4V1ZVU2xSc01xcTB1V0xEVk9vVHRDOVAzak4wQllCZVJsMHg4OW5ka19CQTdONmZyVV9fU0ZtTTJDQWdtbHJDT2VHQnNpdHF3SlVTVG1LLVFnN1NFc1p6bWQxRTN2ZE1wVDhISmktN1RJRkdtWTE2UUJNbHZMU3dNSGZxRm5Mc2tac2g3WkVSOA?oc=5",
+    "source": "FinancialContent",
+    "published": "Mon, 19 Oct 2026 18:50:00 GMT",
+    "discovered_at": "2026-10-20T05:00:18.920240+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f18f5de1bf2c75fa7a8488bd",
+    "title": "Server-class 46-core RISC-V CPU runs mainstream Linux - LinuxGizmos.com",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1hPWjNpczBBZjVYZDJ4ZTd1Zm5vYzd6ZWdENE9aUmxJdDNNQnBGWXFGOUk3bVFFc2RNcFRjZ25rMWRsWU16VXltc2xpSlpNQktXVzdBMWRBOEMyRzJCaGVGUVBHV3dETEZyV0Q4REY3bGd1QnlCY2Rma3dzM05KSDZMbkU?oc=5",
+    "source": "LinuxGizmos.com",
+    "published": "Tue, 20 Oct 2026 02:49:49 GMT",
+    "discovered_at": "2026-10-20T05:00:17.510037+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "99f97babf1f2988b78062bf1",
+    "title": "Alibaba's XuanTie tops 6 billion RISC-V chip shipments, expands into AI servers with C950 - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjVSR1JZeTdIRXZCOWVlbk82VFJ6WHlUbXY3U0c2S0tjSkoxV3pUekVvU0VwekJ1OEpQLThRcGZnOUxLdmdsQjlQd0R2ajdQQ0pQVHlvZEQ4amVnUmhPRzc1UmNhUmE4SFhNSWtBZFNLbUZDQkhsXzh0aFBFdTRUVFlhQTdHem54MHhCaG1LRHg4RDVaQnpVVGl5SVZIWTB2U0JuaDRsYmY?oc=5",
+    "source": "digitimes",
+    "published": "Tue, 20 Oct 2026 02:54:47 GMT",
+    "discovered_at": "2026-10-20T05:00:17.509974+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c6b57ff39435722ebc44cb05",
+    "title": "Alibaba’s RISC-V IP powers over 6 billion shipped chips as tech giant targets AI - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0l6UTVzY3VjU0hzUlg1QlBGRmNJaWI3N2o3dHJobHRIZVZMNkZQWkwxeFg4V2JsaGs3MFdDYTRRWlRZMmp6Qk1Sb2lLWDdjRF9hZnJqUEViSHA5bGtwclAwcWpQZGExM1l4aTJxMkVTYUlMR0xPMzNCTHpGaV91WGxlQmgwZXhYUkdtajhmM3dLOHI2UHFSRU1ybkpEY3QwWDAwdDlRV1hKMjItTHdTSFBHbUF0cjV5c3h4SUM4aUsxZDJ2Q2pleDFLUjJwZ9IBzgFBVV95cUxQT0l6UTVzY3VjU0hzUlg1QlBGRmNJaWI3N2o3dHJobHRIZVZMNkZQWkwxeFg4V2JsaGs3MFdDYTRRWlRZMmp6Qk1Sb2lLWDdjRF9hZnJqUEViSHA5bGtwclAwcWpQZGExM1l4aTJxMkVTYUlMR0xPMzNCTHpGaV91WGxlQmgwZXhYUkdtajhmM3dLOHI2UHFSRU1ybkpEY3QwWDAwdDlRV1hKMjItTHdTSFBHbUF0cjV5c3h4SUM4aUsxZDJ2Q2pleDFLUjJwZw?oc=5",
+    "source": "South China Morning Post",
+    "published": "Tue, 20 Oct 2026 00:30:10 GMT",
+    "discovered_at": "2026-10-20T05:00:17.509918+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "79f4515e4a0f22df1c2184d4",
+    "title": "Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDFPdEdzbkhreEZENlpaV2RsOFU3cll0bi1lZUhucjRiZlpDLXJxZWRNam1mYmFFTWNQTUkydUtUaUhVdmZZOHlzNU8zOVRRenBIajdsbExRbXJUU1pTMVNkWGpDeFpleDU3SlZPaTNVOExxS0Y3S3BacmxuaUswdXNHczNpWHRIZVZIWnc2RUFJTnEtNDJ0YnVScTZKZ3NSSWRUUWpIcFNjRWMyc1dOajhqVUZvdWVBcWdFd2M5VzZ4TGdoNWI4?oc=5",
+    "source": "TechCrunch",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-20T05:00:15.663363+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "33af37bf70c64784a66d9f25",
+    "title": "NVIDIA RTX Spark Laptops Launch at $2,399 [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3aG9nSUIxb3JubFFEalpzUzRtb2NRdEt0a2hlLUs0U2sxSTV3VXNHUVJFQ1Q4d0dRN2VISnhqLUhNa0l1ekRQeTJCeVlYWWx0Xzk1ODJMY3cwZ3luWXdSUjlDbWxFZ0EtakVkVG55T3Q?oc=5",
+    "source": "shattered.io",
+    "published": "Tue, 20 Oct 2026 01:41:32 GMT",
+    "discovered_at": "2026-10-20T05:00:15.164087+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "62fcc143c5175904e3d3cb04",
+    "title": "MSI’s $3,299 RTX Spark Laptop Does What Rivals Don’t [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1PclZmS2Y4Z244SS1fd3J6VG9SeFlWUGdHakNRMnBUUlVSODM0N0J1TWtlS0JrdVpTSmhaQ0VuN05SS2JmZlBQbVNEVUZPVnR5dkx3OWZKX1RXSmlsREh1Z1ppRGZYdGhtV0JFcks0NkYyYTVYQ3lKcA?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 19 Oct 2026 22:34:45 GMT",
+    "discovered_at": "2026-10-20T05:00:11.685795+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a9583642d22de3b3ab753de6",
+    "title": "Surface Laptop Ultra RTX Spark Review Roundup [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aYzNZdEI0ZW04X190YVE3elp2aTBPWmNmWjM0T1h5ZmJUODBZeUZoaW9iMGJYYUpRcmkwNnNoT1lOYVI4bVdQV005OWpXQmhYNVlFSEp2MTZSS2hXN2tDLTFHTUdCSWI2RnRFY3pQdmtpYi1ObHBPcQ?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Tue, 20 Oct 2026 03:14:21 GMT",
+    "discovered_at": "2026-10-20T05:00:11.685733+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "be2537ead328dd6c2c9d11b5",
     "title": "Intel Is Up 8% Today: Here’s Why - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeUtUQktlaW96T2NPREVvUjJsX1lXWkJ3dlJES0xlaGdlbTA4cDBOTHN6YVZpNW9CcDhROEYwdzZUWWpucEZ5Vl84Y1UyR2VaQzE4S2NTS2tkY0RvV1NIVU9xdkI1T0RIZ3B4RkFJZGNPSVBkcmpWSnBNZVd2aUV3R2haYVQ2bGhBNHc?oc=5",
