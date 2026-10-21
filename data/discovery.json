@@ -1,5 +1,104 @@
 [
   {
+    "id": "a770f08a1c25770be1d84c99",
+    "title": "TPU 8t and TPU 8i technical deep dive - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDItOGc4Q2FWUEJVSm51MGRBVEZmdE13WHdESklEd1Vid2NvNmhGS2dzTXd5SmRCVEZ4aTFVMTQtSUpVcC1vMGE3ZUxlQ2toWDdZRFd5N0lxWXo2MHFrdGs3cHViRndtUUNaTUZ2MzQzSHU4c0RwRXdjdjBuYUVkaHgyLUFzZU9wMXdlTg?oc=5",
+    "source": "Google Cloud",
+    "published": "Wed, 22 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:19.189163+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "da4151be1280f3debd4ec81c",
+    "title": "NVIDIA DRIVE Ecosystem Grows With the Addition of Next-gen Thor SoC for Autonomous Mobility: The Superchip Offers 2,000 Teraflops of Computing Power - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdHVTd3d6X2lzWGluWW5jNEo3ZFp1b1o4cmdiRWxSRThsdmc2RHl4LWVILXJOWF8zVmZ0aWxSREVHYVJBNlZ3V1UyZDZCVTV1RTZtcE04OWpFaVNmYVREeExFQzNxVU16NmhoZzV3WnppY3VkX3cwZnE5QU11bGMwbHpSWkticnBJOHdxdFFVRmUwT2NfTnpqdFhoWWlaUC1NOFg4UzRxbzZwM3g1Y0R3OWxhRmhGM2twMm5oc3BaM3pLbEZSdGRYRk5GZ1d2Q0pyOEFWOTdqTlN1Q2dtcDFscVhlYnUtMzVGa2FGYkUxZU1UcTI3cjRmQ0hpb1jSAYICQVVfeXFMT0FMWjM4WjJpSHZtT1dsSGpOWWJDX0FxcEZSY2N6ZmJxVk5JamUtdjhiSlhPWUZLX212d1BjMDFqM0wxRGdfMFNUX3hIQmhsMGhYdVFFNnd3cUVwVEJoM1RpRmJjeVlsczdXaHVScHlSbmFMZFcxcTBzUUVfcG9FdXhLSmxfdVpqYmZ6STBfOHRBc0ItbUNaZkE1bmczNk1GR0piUXdkeU8yUTQxdmhpN0ttOGMyRjdkMnZXdE95bXRzVU40bFBSUFl2QjBYMGt2UTNoN0NNZG5iczlNOFVJRS1TTUNjRWhQTEVYal82aHZSem4wMEN6VWdPSTJqWHlrTy1B?oc=5",
+    "source": "Wccftech",
+    "published": "Tue, 20 Sep 2022 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:16.944580+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "657c700a33b063f64753027f",
+    "title": "Qualcomm Snapdragon Ride Flex — The Brain Of Your Next Car - V3Cars",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1FX3NSUVl2amNGU0J4OXRZSmtncndVZjFsWEs3R3RDY1B0NlBPbHNQamZVNkotV01hYjZObi1KNUNOb29feUhDX2FLUXEtZ1gzUzRCR1FPRmpFUldaXy1uSnJvcFhsdWFta2dFMHVwaENCQVJPbjZRbThVQzc?oc=5",
+    "source": "V3Cars",
+    "published": "Thu, 31 Jul 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:16.654057+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1e3a454256578e70918f4f3e",
+    "title": "Google Pixel 11 Pro XL Hits Geekbench: First Tensor G6 Benchmark and Specs Revealed - Nokiapoweruser",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZEhsSFNibllHbnpfMnotUjZvaFdLUHhJVUpueUJNQkt5TzFvcHlsUm10azFQZ3R6Ym5kMmp2YXpvTmVweTNORUN2ZUQ2T082NmRhQ3ZZWENGNDB2ZUNxTnc1QXY4NHdLZ2d4YWQ3WVkxckgtbmlLV0o5QVo4MEMzaDBkVnFqOU9VeFNud1ZPN1BOdw?oc=5",
+    "source": "Nokiapoweruser",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:04.921170+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "491f161548c2def7b6641bb3",
+    "title": "Nvidia's RTX Spark N1X cannot compete with Apple's M5 Pro in most areas - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeHJ3UDRldW55Wnp0eVFCUzVSSzJDSXVkV0lDSzQ5OS0xbWFteUVUbGVPcjBnbDVUZURXS3BWWnZWNEU3WWIxMk1uSW5QSGw1UlluVHdxMXl2dzNzbElBWUN0Mkh4SDhfVk4zOTBHa1FGS1FhaWJqV2YwajVNb2VXcmhXenFkZ2xQbzJuZ0lUZHdHX1o2cHk5ZXA2NzJfcXpCVEtTUTNxZ3dSVDdYNWt3NmxGcmJLQTA?oc=5",
+    "source": "Notebookcheck",
+    "published": "Wed, 21 Oct 2026 20:13:00 GMT",
+    "discovered_at": "2026-10-21T21:49:04.624087+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3d6580bf8fd9ed172c3da460",
+    "title": "Acer Swift Spin 14 AI SFSP14 convertible review: Snapdragon X2E shines - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUV3UGx4VHI4OVg0U2l6ZzhnQk9UcEtKNVpDMlFhSFdodTl5UUpuRnFrNHlzVmppZmg0RGg5X3VHYUphdzBhdXYxYm5HYWpXc0E5aUlVbFlSbFBOcDJSbzRCa2N6MTZTOGl2SG1RUjNXd3lMQUhUU3N0SERJQzVkZkJLWmxyaS1NYTJCQjhGQmFaVjVrazZQTkJYM0ZwTEdfR25Jc1lvczM4S3dXY0EySXZ1ZGs?oc=5",
+    "source": "Notebookcheck",
+    "published": "Wed, 21 Oct 2026 04:16:00 GMT",
+    "discovered_at": "2026-10-21T21:49:03.197945+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7ccce00e88d24ea4cc8ef663",
+    "title": "OpenAI Buys 10,000s of Macs as RTX Spark Sells Out [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16RXJBSklBVklpaTdDTlJJZDhvZnI1bW9lTGxXUE1kVnh1TE9YdWZHN01pLXFpTjlFUUtfbkE4cW1fdEplR0xzRllSVGNsQ1I2Zk9qaFdKaTlmZVRzOXpOX1VtNHViLTdIUzNOdmFn?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 19 Oct 2026 11:12:05 GMT",
+    "discovered_at": "2026-10-21T21:49:02.837307+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "eadc84f45eae0c424e737bcb",
+    "title": "The 2nm Game-Changer: Why Apple's A20 Pro Isn't Just a Chip—It's the Death of Cloud AI Bottlenecks 🚀 - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVNLa1NLd3Ztb2liSXB1N0M0ZFNoTDQtbE9nNjRiamM1djA0X2x6ajRVc2RkQmhxdmRYNENoZ3FlclJBa1E1UDlzNmdseWc5S3k5dTJZbVhxaEtYX08zcFhpRWZ2SUFNNHVkZVBsa1ByLTRwamh5eUxNdW00NUlHcE9LVGxCbmw3cjFnc01GaUdEalc0YzlIYmh1U1ZEdw?oc=5",
+    "source": "Moomoo",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:02.458329+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e4e6e3a1a42ce05c7db16833",
+    "title": "Apple Unveils 2nm iPhone 18: Samsung and TSMC Battle Over Packaging and Thermal Management - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTHFnWFdaNEp1T1RtUUk0bTIyWWRCS0RjSG1FYlJ1SWdYWU85TThESmdaRVNNMEdtblNRbTR1c0ktQUp5Y2FYT1F6a1h2QnNxckVNZmFIMGNCMTRQTEVLTHFUOWlsSkJPVnBEMk5GbzhScTUyeUE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T21:49:02.458205+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f9acfbab39173680bb6bd7e2",
     "title": "SpacemiT unveils new product for data centers - China Daily",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wWEV6c3gzbUZ4SEJ1a25SUHBmR0JwaVJJelJKdHE2QXhvMk1LUlUyNnVqWGpIU3FqSTRvYTB5N0ZsUWpNdHdqbmdvSWxLQk1ZYWZ6R3ZuV3dEdzdaaFEwZENQcExkVVo5Ujl2dy1PRUMwdWltWkRUWXdlRnYyZw?oc=5",
