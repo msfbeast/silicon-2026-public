@@ -1,5 +1,126 @@
 [
   {
+    "id": "f9acfbab39173680bb6bd7e2",
+    "title": "SpacemiT unveils new product for data centers - China Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wWEV6c3gzbUZ4SEJ1a25SUHBmR0JwaVJJelJKdHE2QXhvMk1LUlUyNnVqWGpIU3FqSTRvYTB5N0ZsUWpNdHdqbmdvSWxLQk1ZYWZ6R3ZuV3dEdzdaaFEwZENQcExkVVo5Ujl2dy1PRUMwdWltWkRUWXdlRnYyZw?oc=5",
+    "source": "China Daily",
+    "published": "Wed, 21 Oct 2026 11:07:23 GMT",
+    "discovered_at": "2026-10-21T17:20:55.981332+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "72a2357b0452bf7e8ee9fbe7",
+    "title": "Nvidia deep dives Vera CPU for AI data centers — SPEC CPU 2026 benchmarks revealed, Olympus architecture specifics, and more - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd05UNlUzMWpONE5fb0dVMVRjUmpfeF9JNU1HREpsQXA1N0pPczlGeGI0TmtITUlpSVZReXhtS0gwSEN2SnRJZTI2WXFGeGdlVk5WOGhWR1N2MmpySk1Ydmo0NXVvZGhkNGcyU0xtcDJFdHNabFZqSjBBd3BoYXRsd2hxQ1VKYVA1S2lWWEkxUWdqNk5GcnJjX1FtZEk1c1dyOUE5Y3FHWFpNYzRfYWhuWDctNmowem04azNycGZPY1hYbENyc1JpZUpNMkJiTTNjamV3cWlTSlNTRlVvRnBXQnhaRQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T17:20:55.375095+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "832f54f81aab260f3ddb3329",
+    "title": "Meta Arms itself to the teeth by signing for 'tens of millions' of AWS Graviton cores - The Register",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa0VSeDYzZHJYa3pGY1JhTllnWDVoRlVPdGlmT09JUkI0Y2lLNVpHNnBKR0ZYSU5wbEtBM3JsdjJRbjlyYTRXaGNqclRFY3k5ZlgyZnJXb19xeGFreVJHNjgwRXRmRFpLTTRNaUZiWkRFbF9DZ3FwUUQzSEFPLVU3dVkyUUw4bnhMNWZQdThFZjZSLVBIcENjd2NsblhZdw?oc=5",
+    "source": "The Register",
+    "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T17:20:55.375051+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c4aecdd558aa873c0468a4f4",
+    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb184dThkNGlBWWVMOXh3VHduR0MxWC1aUEZpT0ZHeGY0OXFPakhvdlh2TllvdHFzaUhEQVJjbFR1bEU2SkxNMDk2U01kUDYwd200LVc1cEp3NzVfcTZMeHlSc1BHWnY0S3RfWkZVb0FOaFo2WTktOUZYYW5FSkRRX1poekF0Y1hVcGhwbzc5eHNVM2F4MGhCcmRrekJ3SFNMeVBMSncxem1qVWxtd0l5NWlkRVc3Zw?oc=5",
+    "source": "TechCrunch",
+    "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-21T17:20:55.374941+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e0479cf3557e3c3dbaaa2e9d",
+    "title": "AI Chips' Soaring Heat Spurs Next-Gen Cooling Tech Race - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG42RUEzV2JaTTVCT1ZhVnpuTzJmVzluWlMtaWloRzVaNFdjY21BdmZXZXVFSkJvT3Rka0JyeVp2WkRzVWVidTF1THBpNVpka0hsU0htWlg5bHIxYU05ZlNPLWNXTF9nY0hQVFJiRE1wWlRMTW5qNFU3VjBSNld0ZnhhSDlRVWxa?oc=5",
+    "source": "조선일보",
+    "published": "Wed, 21 Oct 2026 15:36:09 GMT",
+    "discovered_at": "2026-10-21T17:20:53.394353+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "83f5b1de7a5bb43d294afb71",
+    "title": "Chinese Tech Giants Order Over $35 Billion of Nvidia RTX PRO 5500 Cards - Technology Org",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOclhwNFkxQUg1VUNhbkhCdjBPRmN4a2R0RXAyY0Y2bmdqZTRyRWdXOFYxdmFxRVlPVkpjOFJabFotaUJpMGJDMk1TdTBRZTh2WGltMlZHUUVMZkJLRTQ0X3RqM01paHdKZGhyT3NCZ1BKUndQaWNYN1FWaDJkTkNuZHRXUU9ZRHdYa1dXMWFsN2docURqblBvV3lRSV9pQQ?oc=5",
+    "source": "Technology Org",
+    "published": "Wed, 21 Oct 2026 09:03:00 GMT",
+    "discovered_at": "2026-10-21T17:20:53.394213+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f2756c8116a117c67a8d392f",
+    "title": "Google Cloud Rolls Out NVIDIA's Vera Rubin AI Infrastructure - The Tech Buzz",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSk05UWUwOHJyRV84VUI1aF9xd1dVYlNRelR1V3VPdUs4dUU2dWlTMGtUbFBTVTJrRENOVGlnZjRuWFRkRnhpeTBXUHJ1elVwdXRZR1JpQjZGSFd4anFrWVk0NnBxel9HalFhQXhZa1l4Xzd5cVFDQ2JFS2kyX19TdU9TeHRua0thY1dWMHhyR3B4MC05MGd1Vw?oc=5",
+    "source": "The Tech Buzz",
+    "published": "Wed, 21 Oct 2026 11:38:00 GMT",
+    "discovered_at": "2026-10-21T17:20:53.394178+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c1acf4c60838fd52277aab31",
+    "title": "ByteDance, Alibaba and Tencent Just Ordered $35 Billion of Nvidia Chips - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONTdXUS1LS0ticGY1dHZpa2o0VEgwU1RoX2Y3UGFFa3phaV9BMDM1LXA0YzJCRWNWeWd2d1d1OVZoOC1Jclcyelp6R2NfNjRjaU13ajdPUVA3MUY4bHhHZDd1T0U5eGJZRHFvejFidWZpMGM5eENEbmhBV3NjWkRmX0pMQk50OTRzb1RNRzlvdnhuSVlxTXAyRzYwS0hfNXZqS1MwVk1HdmR4SWkwTk5vSE1TZw?oc=5",
+    "source": "24/7 Wall St.",
+    "published": "Wed, 21 Oct 2026 13:45:00 GMT",
+    "discovered_at": "2026-10-21T17:20:53.394141+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f44503568c91b896a409272d",
+    "title": "Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00Uk1GdWZwZVpFT1lPZDFMWXBzaTRTaFVlbzAzU2MxbmhKb25QWjlZQ0Vvc3VJREFxaHh2dV9IVFF1dF9pUVFPSUhZZWN0Ujg2RFhLbnN2eDdva2RzRkdFMQ?oc=5",
+    "source": "Phoronix",
+    "published": "Wed, 21 Oct 2026 14:50:00 GMT",
+    "discovered_at": "2026-10-21T17:20:48.038851+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "aa8eb06b9d1e0edfcc4eb116",
+    "title": "Honor WIN 2 Launched With Snapdragon 8 Elite Extreme Gen 6, 2K 185Hz Display - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPakFvdi1Jb1NFTGNZVW1jV2Jhc3N1U2xNRFJEbE9KaDZscXhWaXFiT3o5UllScS1lUW1XWkRpLWxleDVMMEJFVVFLWC1SWVFXWnNWTWt3T0RaanJEZFhESDZLV1o2eGxxZHk0RzBNSDJMMGJkWVM1emNLRld1WWJuc1hzU3pJUTByTklST1J4ZUt5SllOek5zQW5qWnBOOGxxMS1lSWtHOUE3Zw?oc=5",
+    "source": "My Mobile India",
+    "published": "Wed, 21 Oct 2026 17:00:25 GMT",
+    "discovered_at": "2026-10-21T17:20:45.703915+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ebb61ed24633e6bf16e5ff94",
+    "title": "Which Phones Are Equivalent To The OnePlus 16? - BGR",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IZVljVS1peTE0T2UwdkxZV2xVbWF4Zk50OTdJTi03TzZlUC10SndmelVyWkNCRDdyZTNkdm1waWJpaTk1bnJpYmV6eUlnTnNjanE5b1NDbTZhbFJmUWUwR09hLVNrLUxQUUhz?oc=5",
+    "source": "BGR",
+    "published": "Wed, 21 Oct 2026 16:17:00 GMT",
+    "discovered_at": "2026-10-21T17:20:45.703766+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f423bcc7c47325d4151d4bbb",
     "title": "Five Silicon Spin Qubits, One Microwave Line: RIKEN Clears Fault-Tolerant Threshold - Tech Times",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRlpvQmZTVWYxQUN1OGhyUW5DOHphUGFibVJCM040OGh5ZEMzMkRFcXlYYW1OZHp0SFpmX2xDRGJTQ2lNTnA1aUxwdnRPSG5fOTMxNmhJbTkxQWh0bklnS0tuNFlCeDhVNTdKcTNyQTZJMjJMXzg1eWJ0cUczaGNDeEtIVnJmdnoxZkJMVzZlbm1vTG5RNmNVWlA2ZHlDNWQ2ck1HY3ctcHJHcGFUMzY5SVZKOS1rUEQwZzdiMFV3MFh4dngyZThqcWZzcm5ZRF9jSkE?oc=5",
