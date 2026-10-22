@@ -1,5 +1,104 @@
 [
   {
+    "id": "3b2141cd7cc17a6c8b5d3405",
+    "title": "AI infrastructure efficiency: Ironwood TPUs deliver 3.7x carbon efficiency gains - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXdoX2hnUVRtOWlCVWU3M0w5aThwUnR0MHRqcUZOVjJMZFdSc1hjZ0pXb0dCeXh6eGs2VDNFYTVsWm52OTFlcmlZRXZ2alFwN0Z2bkVDMU1CUnBzeWcxUUxGcURyV3VpNHF3SzVMYTZEVWZuSExyak9MeGdoMF9HSXFZU0UzOEJZd2k5SlNYYUlNN3U1REhJRFlR?oc=5",
+    "source": "Google Cloud",
+    "published": "Mon, 06 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T12:04:03.789198+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5bd5f6bc654b50625e50571a",
+    "title": "Intel’s AI processor strategy—custom or acquisition? - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNLW9vckE5X0pzRkFVZWtYU0RtS0xyWm5BODZHQlpMMWhMcFV2elpjMDRYMjVGQUVnTXRici1vaFlzUGtBYzk5MG1FOHVSZnA0RFJuVWV0eWtCcVR4azZBTHZSTEZqQVp3VVBrbjhWdlMzRzhOM3dVb283SHQxR21FTWNzR3ZNMlAwNmc?oc=5",
+    "source": "Jon Peddie",
+    "published": "Tue, 16 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-22T12:04:03.245424+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "da86d4fe463534fc937a7880",
+    "title": "Huawei shelves global AI chip rollout as China's own demand outstrips supply — 15,488-chip Atlas clusters leverage optical networking to counter Nvidia, scales to 120 EFLOPS - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNSFJDUkVKLVdrMEpvcWxBdHlmdHpETDRKYWRrc242TnY4TG1yM0NHRzVVMm9zUmhNVHJ6dnFlbnFQTXo1OXpmUS1yNGhaMjZpNGtYYVlkUnI2MjNEcFFxaXlkSGRFS18tOGNGYUlQZ1N6dVdVMzJmRHBQaFV5amhCclhEZmU5RHBtR256MW80bVNMUXpfVTdEVlI1WWZSNnQwT1hMVldaT1I3YjY0aHdFVkVHZml2WnhIS0JTaU9yZDVySEp6VFF1SGZhLXZha3ZoVGFmM2hBV3BvQVVVSkc0ai1sd0ZTNXVVV2xXVlkxRjFaV3U3SEI0bWQyYXpic1JzdXliZ05UdUxhMzVzU1RuM3YtXzRsNzY0R012NWdoTHZoczJDUTM2eTY1R0dXQVpFcFpPdDdoVm1KRER5a0d1dUl5b3FXQkVyTFUwUmtFWEVZVnh3X1M0?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 21 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T12:03:58.113100+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a5e50f80a17eefde0f8fbb05",
+    "title": "RISC-V summit in Shenzhen highlights China's booming chip design industry - China Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8ycVlPZ0lYX21wNDduMW5kdFVFcXdlX1plOXZLRl94V2hYejc3U0ZsNkdvYUZtNVV2c28yWm5tYWhNeTM1Njc0bkpHcGRXLS0wX2hkWGc0ZXRmWkRPbXR2bDY2WVV3OEswZGMtZ1RDR0tla2FwcVljMC1XM0xwZw?oc=5",
+    "source": "China Daily",
+    "published": "Thu, 22 Oct 2026 01:48:19 GMT",
+    "discovered_at": "2026-10-22T12:03:55.983439+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "eb06faf0af2ba66faec74b14",
+    "title": "The Global Market for Computing and AI for Data Centers Report 2026–2040: Evaluating GPUs, Custom ASICs, Arm vs x86, and Strategies of Nvidia, AMD, Google, and AWS - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRE1GZFBQMDg3WnJ2T2NwRXhCcUp2ek5UQ2dXTUJvOFdRdVktSDdnaEZzem5JelVFbS1JcnhkOGJmYVp6MGpTdC0waHpyNjF1c3VwTHNxWjFHd0xJZVJLSXo1UDVqTkgtOTZYaEJ5Y2Y1RFBZZEFMYlFoc0daR3RNREFQQ0h5aHc?oc=5",
+    "source": "Yahoo Finance UK",
+    "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T12:03:54.917044+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "49e6eafbe3fe53f8e0c56377",
+    "title": "AMD Unveils PCIe-Based MI350P AI Accelerator for Standard Servers - THE ELEC, Korea Electronics Industry Media",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMdlNXaDJUY2gtYTZBV0I2UkR1QkJGellHSy00bmtaeVBoTndHYjRLWTUxenhaSlU5aFRoQVZsVUVHQU5NVFY2aUpaX2xlZ2gzMUZOMFRZRlBNN3dYeVNEV3JhaGdTNTA?oc=5",
+    "source": "THE ELEC, Korea Electronics Industry Media",
+    "published": "Sat, 09 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T12:03:53.935962+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b076c9a26704bf831efa169b",
+    "title": "NVIDIA Commits $1.1 Billion to Chip Testing, Targets 15x Optics Capacity for Vera Rubin - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTjVBMGEtZFpUVmQ0UGFxbk9RdXNiOTNERGdXWWhURmt6bWdPQmV2XzlFZjBUQmJva1dVV0FyaTdxNHFPZWRMb0lETkViaFNac3dfVEdVdkRpNWtvQ1A0Z0laRzNYRmZkY0V3OXRRZTh0dm5nUS0zTUJid0p4X2ZtWkZHdWxWWkRnZkhiOWtYTE9MaUpWLUZ1WEFZNnBOYWZ0a2hET2NkemxWZFpBOGxaSURlaFhjcG1hVkVscXVucXNiREQyQ3dOeWJzODQ?oc=5",
+    "source": "Tech Times",
+    "published": "Thu, 22 Oct 2026 05:50:14 GMT",
+    "discovered_at": "2026-10-22T12:03:53.310773+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c853dd16355ad6d0b4ca847e",
+    "title": "Qualcomm Snapdragon 8 Gen 5 Processor - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWTUxQThVbG5vcDdCckVBYVhId3NwaDgxdFBzWXFhem42b3g0U2o0WWdycTFYdWdJNFFWRDhZd1N0UWRUZGQ4N3U5WjJXWFl3WUlndGNuaTV2OVdfZkNwNlBoZlBUMFowbEFGT1lyM2tFekVtS2JTSXFMbGkxWkpfcXAxMmVZVTljakVseVRPSWo1MmplcjJDY1pNZzVGdWRFelViUlJR?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 20 Oct 2026 09:10:11 GMT",
+    "discovered_at": "2026-10-22T12:03:47.893796+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b59a4f238ab2d292e9c26f5d",
+    "title": "Apple Silicon vs Intel in October 2026: Where Each Platform Stands - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1FWclRsa2VHUGx4Qkh5OGcxT2wtbExVc2FzQzZnTll4TDJxc1VtYnRNWmFmNHFqYVd5eTNFX2Jla0VIdUhEUndPYTllVEFMLThfVE5MRmlyazd1eURaYVhqaDFnT256ZkZxZkR6bnZoVGZoWlBxQko3T3ZxeEt4c3hTb0VxSXVMNVE2QndhYWQ?oc=5",
+    "source": "shattered.io",
+    "published": "Mon, 19 Oct 2026 16:45:28 GMT",
+    "discovered_at": "2026-10-22T12:03:47.273559+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "b6925b46054c1a08ef7e12a3",
     "title": "Tenstorrent raises $1.5 billion - Jon Peddie",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZmVjYm14MkR3NHRkTGRBdjdGRVZoWjdXbHl6MGJXRXk3cGtsbW52aUlJcmNqdmNnZE85ZzN5eWxwRzVXWFFtbzJGVVlkSGZBSWNKZFpybGxNRWFPQjR4Q092MkE4dEpBWEhoUVk2bw?oc=5",
