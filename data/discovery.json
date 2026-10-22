@@ -1,5 +1,148 @@
 [
   {
+    "id": "b6925b46054c1a08ef7e12a3",
+    "title": "Tenstorrent raises $1.5 billion - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OZmVjYm14MkR3NHRkTGRBdjdGRVZoWjdXbHl6MGJXRXk3cGtsbW52aUlJcmNqdmNnZE85ZzN5eWxwRzVXWFFtbzJGVVlkSGZBSWNKZFpybGxNRWFPQjR4Q092MkE4dEpBWEhoUVk2bw?oc=5",
+    "source": "Jon Peddie",
+    "published": "Tue, 20 Oct 2026 17:04:38 GMT",
+    "discovered_at": "2026-10-22T05:00:45.736050+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "11a34461fb3065016b191fcc",
+    "title": "Cockpit-Driving Fusion, Qualcomm Unveils Another Major Move - Gasgoo",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWm5qTlVmSDhtWDllRmpqZkN2Rk1KRUMyQmNndmFkRDlvVnFPM1VIb0tjREJMODFOOERINkZOUHM3c0tRVTg5dEEzTFdLTVNUOUtXVzE4c05idEI4eVpIX2NIOUZQcFpLVzd3ckRmRnp1bWNkR2JwMURVVGZ3bVhOMkxRV2lIdGlvMkNCWVZnUDNfckp3TWZYLWJ1NEh5aFF2R0JvenpteVpsR3NheEkwTjhtZkk2T19UYkRGTg?oc=5",
+    "source": "Gasgoo",
+    "published": "Wed, 10 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:44.418048+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1b24aac4864962e97296ae55",
+    "title": "SpacemiT Launches 46-Core V100 RISC‑V Server CPU - The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2lCMUVUQXV4bWNBOFJKY0hzTTNDQW1yMExvTXJUNlZvWkh5QlNNZ1ZaemNYQmVTdktWNU5zUHJaWUJwamkxYURISndIRUNCa0d1NzB1OXdtckpHTW14ejM5X3JDVU1TZUtUa0FCS3pxdGgzME9PQmk5Ui1YTENEQU50Zk5vUzRqVUtraUFpTXZYUQ?oc=5",
+    "source": "The National Law Review",
+    "published": "Tue, 20 Oct 2026 21:10:29 GMT",
+    "discovered_at": "2026-10-22T05:00:40.053406+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2a955721668d3ee880081b34",
+    "title": "Sound Ecosystem & Scenario Innovation: 7 RISC-V China Summit Sub-Forums Uncover New AI Opportunities - 36Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUjJLdUVVYU9DQVpxclhGelJUMzNkblJOM1Y1a0JjZ244cy1EY0lvbkpobGVReE1YZDB6bmtWNFlJdlFhcENWbFJtWVVxSFl2QjBF?oc=5",
+    "source": "36Kr",
+    "published": "Thu, 22 Oct 2026 03:31:34 GMT",
+    "discovered_at": "2026-10-22T05:00:39.015496+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "edbe046004632e977b5c2f33",
+    "title": "SpacemiT V100: New RISC-V Server Processor Combines 46 Cores, DDR5 and PCIe 5.0 - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZUQ0OWhVSlVWbUdlSTdKQ2NmZVlLOXpLNGRuSGp1QTA2OEZsWHQwZlVVa0NkWnkzVTZGOXYxcU1ObXE2RU04Rm1PR3pZaE1yYWxSU3BleWpQWDBQTnBORnBxV3J6b3JqeEhoLWo0RENNd3o2Y2otMU5GLWhSMF9zWC1iQTdReWl0QlZqUzNyN1A?oc=5",
+    "source": "igor´sLAB",
+    "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:39.015467+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9f745c25e967e13a9d5ba6c3",
+    "title": "RISC-V summit in Shenzhen highlights China's booming chip design industry - China Daily Global Edition",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVEhaaGtHeG00c2pCbHpfUHpOdDRwdzFMZkREam9GbEtlUE9MSFpXZ0JackxPbVdkNVd1dE1iSU91V0t2UjJ0TEVEVmQzQkxmbGZ4dVFsbnlic3ZseV9FSFlRdHhPZGhxckhWb1Q3bl9ER2xBRDUxM0h2TWhnbC1hNHB3?oc=5",
+    "source": "China Daily Global Edition",
+    "published": "Thu, 22 Oct 2026 01:48:19 GMT",
+    "discovered_at": "2026-10-22T05:00:39.015400+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8b38d9e1b8ae4a76bcf75453",
+    "title": "Lanxin Computing Unveils RISC-V Supernode Built on Its 48-Core LX500 Inference Chip - Pandaily",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQm45LXpXeWtaamd5dk9VWXRseEZsRTNsZEl3dW9qaFdCODN0OWE4dGpmRElycFJpR2VqOU5wa0dUVk5vT1ZOMFF4aVc0bHFQZTVHM0ZiNXZrSlhDeW0tcDFJRUNaLU90ZnY1RUFQZzRMVTNybm5jN0cxVS1xVzNydkFaaldIdUo5aG91Z3NESlVmbEU?oc=5",
+    "source": "Pandaily",
+    "published": "Thu, 22 Oct 2026 01:51:37 GMT",
+    "discovered_at": "2026-10-22T05:00:39.015349+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "29a2042f275e1b0061c08c2f",
+    "title": "NVIDIA Vera hands-on test: Modal measures up to twice the CPU utilization of Intel and AMD under high load - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnNHUllGQmQyZ1d0ekl2NmR1LUtPZmFucFUtTWNJNWZIVTNuUEF3NFgtQVdXUmNwd3hILWY0YnFVM3U2bGhFU3VTa1NrRWFaLVBLX1pWNGFGLXFMSzhodDduZDVPdE9nTngzTENYejZ4WEJuaVB0ZFpnY0dTS0ZYUTgwYnAwQkpqY21Pdzl3?oc=5",
+    "source": "igor´sLAB",
+    "published": "Thu, 22 Oct 2026 04:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:38.550612+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb7805ccf3bf8c03daf2e3f7",
+    "title": "AI Chip Heat Surge Fuels Next-Gen Cooling Race - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcG42RUEzV2JaTTVCT1ZhVnpuTzJmVzluWlMtaWloRzVaNFdjY21BdmZXZXVFSkJvT3Rka0JyeVp2WkRzVWVidTF1THBpNVpka0hsU0htWlg5bHIxYU05ZlNPLWNXTF9nY0hQVFJiRE1wWlRMTW5qNFU3VjBSNld0ZnhhSDlRVWxa?oc=5",
+    "source": "조선일보",
+    "published": "Wed, 21 Oct 2026 20:16:40 GMT",
+    "discovered_at": "2026-10-22T05:00:36.709354+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ac43ceaebd69f6c777ac5f45",
+    "title": "NVIDIA Unveils Vera Rubin, OpenShell and Europe AI Expansion at GTC Berlin - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOak16ZzZtNnFhSmh3cTJPMVdFVmVBYUZTRGpiMDd6NlJrX1l0WGJLVGZpWVA2c082VWdhNUNlTjRtZldURDk3SDV6QXVQZFQyX1kzQ25qeXp1UEtHWVROcnEyODJjaU1NX0VMcjNDRFFQeWtFYjFoWmtDWkZIMDI3NEZNeG9IaVdnbzlNY0p1bndqNjlPOVhqRURqNDg1d01PZ2NNcTVWTDZOdDZTa3N2akZvbzB6NTZCajlMNGFEODZkUWxwS3VvaFpsdFBuODQ?oc=5",
+    "source": "TradingView",
+    "published": "Wed, 21 Oct 2026 14:02:20 GMT",
+    "discovered_at": "2026-10-22T05:00:36.709188+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bc7bd5f4748381873a673ad7",
+    "title": "Intel Panther Lake Laptops Hit OLED, CPUs Rise 10% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdnR6WjN3eEFMMjAtUDlWRE1iYmR2YkZpZ25temRDVVJ4a1RiUzhFR1RvR3VRNmNIeS16SlZUMUI5WnRnaC1XR1J5QUJCTFZIVHVlZnppaGNGQzdyYzZhbzZJWGNBazBsQ0VZd2cxb0lpdjBTYzUzNmpjclE0dw?oc=5",
+    "source": "shattered.io",
+    "published": "Sun, 27 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:34.973465+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "62e39a0583a8398641658cae",
+    "title": "Intel Nova Lake processors could adopt Core Ultra 4000 branding across desktop and laptop ranges - Tech Edition",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0tPWjg3TlVNRjRMVlk1Z0xLa2xlTlF3RjFGZTZ2Rm1vWjZVNTZHdnNNSWxWUDhFZ1dITjRqdW54ak5zWXVUREZuLUFqUFBWMS1OVE9YN2JkV2lRTkxmT2JCc0RPelJSNEJSWW5KZkFQZWF6MVNWMjVyZ0ZvSkUxakpLV1NOMlFsOVBZdEkxaV9pczJhS1EydE5wdHVSZ2syWUdLNFBpb1g5Y0VmTTluTUdpTUpUWDNIbmg5Rg?oc=5",
+    "source": "Tech Edition",
+    "published": "Sun, 18 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:34.973437+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b9095ef25b81ffe1a35534a9",
+    "title": "Apple's budget MacBook Neo: Everything you need to know - Macworld",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZU85dVpPTHk0TVZNYVVwZWlPMHFwXzVfRmIwZTJ3MzhEeGtMTG9MUHQ1LWN1ZnNkXzFSak81X3Z6Q3pMMEg0cVhCY0g0WEx0R1MteTk4LWdBcld5V1UtSGtVa2NiZFNCUUs4Z2FCTUJFQ1BVeU9DMUw0ZTVOa2RiWkdHYVlYQjVscTZ3ZUZUYnE1dw?oc=5",
+    "source": "Macworld",
+    "published": "Fri, 24 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T05:00:34.973272+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "a770f08a1c25770be1d84c99",
     "title": "TPU 8t and TPU 8i technical deep dive - Google Cloud",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZDItOGc4Q2FWUEJVSm51MGRBVEZmdE13WHdESklEd1Vid2NvNmhGS2dzTXd5SmRCVEZ4aTFVMTQtSUpVcC1vMGE3ZUxlQ2toWDdZRFd5N0lxWXo2MHFrdGs3cHViRndtUUNaTUZ2MzQzSHU4c0RwRXdjdjBuYUVkaHgyLUFzZU9wMXdlTg?oc=5",
