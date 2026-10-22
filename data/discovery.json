@@ -1,5 +1,137 @@
 [
   {
+    "id": "71c850e7cde4130ca25ea99f",
+    "title": "OpenAI unveils first model running on Cerebras silicon - The Register",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcEZVdjVnQlhoa3JzaHVod2pLVTk5VjBKZG80ZGpPTHFzclZnZVJxWjdxMXRlNjQtZUdpbjFkOEVjRVktM3ctODBQa1E1ZHctQ1hTemEyY0d1ZU0tLVdEbF8ycG82c25oMF82dXlMeEwySWxmd25meHpGbVhXSmNTYkVyRzVicWpVMWhxbFVxLTdTLXhVMF8wdHdJc3FKTHM5d2MwVlhwNkd3dFFLaFE?oc=5",
+    "source": "The Register",
+    "published": "Thu, 12 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:36.208398+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "53b251aed7fdd7ae1fdf0817",
+    "title": "Wafer-scale accelerators could redefine AI - University of California, Riverside",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlFwSE0zQzVwRzFBWGhIRF94WXRpVVY2MlowbjBFZ09FTkVOMUN6ckFsc25zV3MtZTdqZEdWYkkxRy1iUzQ3TEs4Q29HM0F3WXExMHFNNHFJN1VPVENmeElWd20xRWkwRzNRakV0cUlxbGJZQ1JIMmREYzZSd05KbC03NG9vZGpEdU9Z?oc=5",
+    "source": "University of California, Riverside",
+    "published": "Mon, 16 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:36.208372+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ba1101e58d39428c02378320",
+    "title": "AI Hardware Built from a Software-first Perspective: Groq’s Flexible Silicon Architecture - All About Circuits",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZzdSM0Z2UFRXMU5ULUxGUnJnekRKdHhKWFhXUy1yQTFJSWZ6cG03VjZJLWxSRm1sU3NBb1d4ckZFVUpZMzc3aWpqSjk4anQxek11dkI3eXE5SkZMZ1AtTjBxTWRKVkdjSWJDWFdFMjdkMmJMMjN3UXM0TVVPTnNfLXd6c1NhTnRvVDVZYS1GTkZTNm91N29JSUlPZmxJR20xNlkyTWtBaFpnZVVscU1jTWx3?oc=5",
+    "source": "All About Circuits",
+    "published": "Tue, 03 Dec 2019 08:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:36.208349+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "287561f6ae9f593319dd6250",
+    "title": "An AI Chip With Unprecedented Performance To Do the Unimaginable - Cerebras",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcHNxSy1FVm85UFBIMjFEc0RwWHNjekFpT1dudk85aDJQVXMxa0g2ZlFZWGRoM3R1LUpBbW5wUC1xNS1nYThEcldpeEwxWHRzVDQzMDJqVU1hdEJSbTNycTNTQkJlNzA4VnJOWkZKU2Q1c2dNd21pNzA2QVBaZ3pUZkRka2o4VjIyRDQwLVEtTXZMcWEtSHp6dg?oc=5",
+    "source": "Cerebras",
+    "published": "Tue, 17 Aug 2021 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:36.208273+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5d3b1db73f3a3b42e51cd818",
+    "title": "Nvidia Disaggregates Long-Context Inference To Drive Bang For The Buck - The Next Platform",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZWFfYTFrWmx2a3Rzcm1XdHFMWGJMbVlBT1FYcFdPZEt5YVhrUXlZYTczX0pPcmxyR0x5SnE3Z3RSUzgyeVJZUEJ5MTNqYzIzM2dZczVrNnFKdUFfSjJfZUtHTm9vNGRDakNuMDhfc3dSVXNXY3I3RGRUM0hIZi1GeUVldm1ta0xmMS1BOGRqbkJmOGZxVEkxVGUtanFwb1lVcFBYdGlkNG5SSjhqWkpDWWFCYTJOT3liY1NwUXZMamRPb1VJ?oc=5",
+    "source": "The Next Platform",
+    "published": "Thu, 11 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:33.404455+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "35c32616421cbf5456723f9c",
+    "title": "Affordable Lava Bold N4 Lite Launched in India with Unisoc Processor and 5,000mAh Battery - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUmtTeTZVUktXVGNzMGtnRkxyTHJPSzlFZU4xTnFaeXEtWTJXVm1UREQ2WVpOdC1KamkwZkJyb2JrcXdZVE91N0F0SUVRTk94X0JXclQ3Qjl3WnRlN0E5dllLaEE3eDl3WFl2cVBObDM1d01ySl9PcUpjTDU0M0lmVUctTU55MF9DNHM3aDByUE9FWmZjYzh3eg?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:30.514225+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c1543fb6cdc481792d91cb06",
+    "title": "Sound Ecosystem & Scenario Innovation: 7 RISC-V China Summit Sub-Forums Uncover New AI Opportunities - eu.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IUjJLdUVVYU9DQVpxclhGelJUMzNkblJOM1Y1a0JjZ244cy1EY0lvbkpobGVReE1YZDB6bmtWNFlJdlFhcENWbFJtWVVxSFl2QjBF?oc=5",
+    "source": "eu.36kr.com",
+    "published": "Thu, 22 Oct 2026 03:31:34 GMT",
+    "discovered_at": "2026-10-22T17:18:28.944075+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b07aeefeaf960acee70e7d67",
+    "title": "Chinese chipmakers roll out new RISC-V server CPUs for AI demand - Global Times",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vZ09OVHBISDU2MF9IZEdNQllVOWVoanN0T3dVdWtSUkdPMXlLOG1CbjJLeks5QVJXcjh5M2RTQ2xJRkhLSE1uOHdiWXBmTUNHSngtNnNJb0dpSm9IZVlnVzVB?oc=5",
+    "source": "Global Times",
+    "published": "Thu, 22 Oct 2026 15:04:00 GMT",
+    "discovered_at": "2026-10-22T17:18:28.943849+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c66ba719e98f0e88089dab43",
+    "title": "Google Tensor G6 vs Tensor G5: Benchmarks and Specs - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdnlqb3ZsRTFsSG5JMDMteUt0WFVVRnJZNEs5T3FHYm5Wa3huTVI5V05wcm96andhZFR0UC1xVU5JcGJkc1RteHRPN2hWcFVrSWpWalpvcHJyMFF4aGdIenBqaG9ZRjBFclExQkh4aFVlOC1icFQwcGJLSEIyU0NFX1FYOTNGQQ?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:22.458277+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "743607af654fb913351bbbf5",
+    "title": "Google Tensor G6 vs Snapdragon 8 Elite Gen 5: Benchmarks and Specs - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONnJGNDU0VXZuV2ZXUlRPdWFYdjJ6MmRxdmdCbmVEcnVkNlozZWNkcF90d2NZbTJ2T2ZuS2RvU1A5Z1FUQjhTaUdqREQ1anNXTXJyYVZsdURZeno4YXBrUTVETGtidjB0cFZLd094aUFNa3poVEdGVmlsQlRieGJIV2dGcGFyXzN1MnAtXzF6VkVnYnBVcHY1LVNR?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:22.457973+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ec9f9e75a8cd56bcfa21a836",
+    "title": "Apple Unveils First 2nm Smartphone Chip Featuring Revolutionary New Packaging Technology - eu.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Xa0owMFFWQzdqSE9QOVZnNFk1SGRJTEpXc2UxUnpGMDNmdFozQ2ttRzgyc3laNUpEdU1Vcm05a2N0RC1OdFg3d1JlbGtzYUtTRkZZ?oc=5",
+    "source": "eu.36kr.com",
+    "published": "Wed, 09 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:19.159332+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ded61ad1b66e911963c679ab",
+    "title": "Apple's A20 Pro Outperforms Xiaomi's LPDDR6 Chip in Memory Bandwidth Using Older RAM Standard - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5uNkUyNzlrTE04bGdldDEtbDFfODZHVVFVdHZVeHpiWC1pSDltN3VUZ3NoaWNEVVZ3M202VXgtNWpmamNiQmRIcWt0NVNvNzdJY2NIZ2hIUXRiSDlmVGRqZWpqcHFKbVNLeVpiLWdnZGtWT1JoQlE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 11 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-22T17:18:19.159312+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "3b2141cd7cc17a6c8b5d3405",
     "title": "AI infrastructure efficiency: Ironwood TPUs deliver 3.7x carbon efficiency gains - Google Cloud",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSXdoX2hnUVRtOWlCVWU3M0w5aThwUnR0MHRqcUZOVjJMZFdSc1hjZ0pXb0dCeXh6eGs2VDNFYTVsWm52OTFlcmlZRXZ2alFwN0Z2bkVDMU1CUnBzeWcxUUxGcURyV3VpNHF3SzVMYTZEVWZuSExyak9MeGdoMF9HSXFZU0UzOEJZd2k5SlNYYUlNN3U1REhJRFlR?oc=5",
