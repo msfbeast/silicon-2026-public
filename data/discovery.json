@@ -1,5 +1,82 @@
 [
   {
+    "id": "6700755e6558f0df3524409d",
+    "title": "AMD CEO already teases next-generation Instinct MI400 accelerator series - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjZWVW1fMEhLSzJZXzZjaGY4ZkpiOWtXZEVZcTZfaDJET3RqSTQ4OWNUaVZsZm9sY1NvN3d2NGJzc0EtdWVnOEhkdTJPZkMta2x0RzJvdDFmWk5CNzdSa1RQQWxrY3B1QzBRei1iRWwyX29mdmlXWHZYUTg2VUg0aV9xQlg4bGZRbUNkSld4enNpZXJqMzk1ZjRoOTAyR09MYmc?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Sat, 05 Aug 2023 07:00:00 GMT",
+    "discovered_at": "2026-10-23T17:16:15.446850+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "19dc395281fcb0a13b49fe56",
+    "title": "AMD instinct MI400 spotted in patches: up to 8 XCDs on dual interposer dies with new Multimedia I/O Die - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT3hJVFoyMGkxVXo1ZmVpWWtOdDFxaTI0bE1SSVRSdDZmeXFDeGFhSkdzSl9TeHlUZTQ1Qk83M2VPU1J6cml5a29mWWRnRm5ORlY2aUtfVVZvY3VBQk9zcjNBaG5vdG9TbnMzS2ZzWlFVWU84YVljT3NTTl9KdDFMRi1WQ2ZvcENaa01POGdhQ1MtbW0z?oc=5",
+    "source": "digitimes",
+    "published": "Tue, 04 Feb 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-23T17:16:15.446766+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7157b0a601149970ed57c6e1",
+    "title": "AMD buys Taalas and a very different idea about AI inference - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEtrMWpyTVh2VTdlX240X2FYWUFkenlfdENvNjF2SFhxN2k0eGNSdE9ZUUNEUTNMby16MURqT2dfeWw4UmJCalMxQ2FmUUFkRGlPUUJDNG9tZ1Vma2MtVWs0MG9aZEdESXZzOC1YdFZRUWV0OGo1S1BrVlZXYnBqbTU2Rm5obHlRLXdyYzh1czNpT04zdWFr?oc=5",
+    "source": "Jon Peddie",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T17:16:08.246525+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "adac6b14ef37f9beb7d3d2a7",
+    "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network — Nvidia says chip smuggling is 'a drop in the bucket,' insists it remains a non-factor - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOOXl4bHBDVENMOE1PYWJZUEJXeEJfdUlzUjhNTVZoeFE3SERZMktlOHBqUDItMFhWcVdjLXZPOVB1RG9hNzhrMmd3ZWNlYVFDbzhab2V4dVA3aEVqSENLM1ZfQzNiNmx6R0VaTVUwRU9FUUFnMV9kcDluWEJTOE10OWx3N0RhRHNZZ1VZZzJLVTFzdW5ndXpkQjI0SU5TaExsclZaUEM5cnhSQTZhYlhEM3lpTUk5aFZkRFk4bzZPaENrVTRrbnBQMzhUSHMxSzRCNFFGSHhaRi1TMWNNamlQU0Jzc2tXTDBmRUxFQUljMlFGSkJlOTFwQnZXckNibC1zTFVXUm9MTGhuY1RPZHVscE5YUmFzRU9aZ1doSUtuSGF1dEVxNlpjWkl1SWRzOEJBNHAyY0dtZFJxUE41a3JRWURuZE1LUFVacUgyb2UxWQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Fri, 23 Oct 2026 12:26:23 GMT",
+    "discovered_at": "2026-10-23T17:16:07.654071+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e04f260530f55610d591f62c",
+    "title": "Nvidia Touts 576-GPU 'Rubin Ultra' Rack-Scale Platform for 10-Trillion-Parameter Models - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13YlNDXzBJdHZSN012QnRjUnhJbndDcDZDeHBNVzZvcDN2eGE3WnpBQmxiZUdta0EtRXpLTmY5dHpNOVRyUzBMS2FSeUFnUHVJV2E2eUhocURhUEhOb0FaN1AyVERlaFlRYnM0MFRuY3B3X1BCOVE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 23 Oct 2026 09:05:00 GMT",
+    "discovered_at": "2026-10-23T17:16:07.653995+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "863ba26a5c32f29a6fd65582",
+    "title": "Samsung Q2 2026 Revenue Hits Record KRW 171.5 Trillion as AI Memory, HBM4 and 2nm Chip Orders Drive Growth - TelecomLead",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdk1RUTQ0RzhINWYyc1pfaW1wTkFjcUg4NXBqNkE1ZnF5YXdmOGtRNGMwZmZabDRCQk1sVUNxblM3Ri1qYnFIWGZzLUFBTGNBU3FBVVVtQkc5NWg3VUhTakpwMDg0MnVaUXFfV2lzbWRJdWV4RUJxcHc5M2pCYmxtRDkzM1hBM3pTQjVxdDdncGUyeVJlS3pDNUtxSUstR1R6MlpIWDJpeE9Pc25PSENuRnBLbGltR1hjWGNOS0pUcGpLR2wwenhjdFNOWmcta1hMeUlna0VOXzZwQlNpOFdKdVlB0gHqAUFVX3lxTE54WUk4SU4tclY0YVFWcGtmV0dYN0o4SjlrWlVuTjlYQVg0c21IY1o5d0lmelZkZDBERDFLR0N5WnFJWWNMcmwyMmZVcWNnaUZoV1ZoU1JEWVVpbG9URksxR0Ytdlh3b3ZCLUtiZmlZcmp0OWJaTTBZdWZiVU5ESVM3blRHZk5HOU9yUVF6dElvY3pGemxJbGNFR1ZsSmJpS040QXBXTENnN2NPZE5yYnQ0MlJ4bVNmblM3aGF3dWNXclM1am1iSTBmS0dIdGM3ZlR3WGg3cGItOENheEd1T0pGVGhXdmpxbkNtQQ?oc=5",
+    "source": "TelecomLead",
+    "published": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T17:16:05.273982+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9f25895a81ac1829b16b0f5a",
+    "title": "Dimensity 9600 Pro Geekbench Scores Leaked with 5 GHz Speeds and a Huge 2nm Performance Leap - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbVdBY2xpbXlINVpiaUFVZ1l1YW1YdnZqMU1na004UFJPRTFZaFpqcDVCN2xwTHowTXFXeUE1c0xxU091UGw5YzVXUmpQS2pzQ1JsQkF4WTZNSUZuMnlVcDg3R0lRQURzYkRDNUVxcnJjbE5JVkM4RTAtR1dtc0tqeUUxSVJkTzEzY1hN?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Fri, 17 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T17:16:00.376896+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "33b6dd9bb9ff080a6230b7db",
     "title": "Samsung May Benefit From Increasing Demand for Google’s TPU Chips - SammyGuru",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTJhTjRTa3V4UVQyTEp3MlpWUEg5Nnh0UzNBckt1ZjFUX0FhM1pYNUsyS1dKd29vSHI3eU04c2poUmxXa25mTFZoN3g4R09jUUxfS0tKUGlBcDA1N05OTnpuTGFQbEt6bUFPRUNQRFc0dTVFYUNnb2VXV0ZOWnJMUWNHcEtHWjViTGh6LWN2NA?oc=5",
