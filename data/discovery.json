@@ -1,5 +1,104 @@
 [
   {
+    "id": "92abeb137ec6ac32447cb3b6",
+    "title": "[News] Huawei Speeds Up AI Chip Roadmap, Reportedly Pulls Ascend 960DT Forward Three Quarters to 1Q27 - TrendForce",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU2tmTHNtTnRRV2JwdWtkelNZN2trbURVT0dXNWRkWGVBc2haeFJfLTlvZFBuVlRzTDcyREpOR2lWRUw5NV9rN0pMNHg0aVY5M1d1c1d2VmJLU2RIY0QzTXRMRW9kRmJxRlo3U1hEZ0Q1ejY5RGJhS0N2NVZpNVNwRlh2Uzg0ay1URE56N2ZrcnNyVGNJd2h2dU1UN1UtWThsZGZNS1ZsanNwcUEyaUptWENsM0ZTN1FDaVRFWFJvTjRDa0ctUXptR2JJTEx4Uk50VHhGZjB5aGxWZw?oc=5",
+    "source": "TrendForce",
+    "published": "Thu, 17 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:20.580791+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f9e6a97b59284b6dc09d0249",
+    "title": "AMD launches Instinct AI accelerator to compete with Nvidia - Network World",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZlUzZmJQV0EwSS10djBubkIxeWp6UHlLeWhRMC1QUWw2c1pCaEJ0UDUwcUlQclhBWTJqY2FoVi1EUXg2RHZZWGI0aTcxRVJ3SnpqY2VmTE5UeVZpel9FSUZBcE1xcXlUYTEwTmZLdkplUVJKTTNVTkNmcERJaVhIeU53eUYtS280QzZQVThzQXVrblpjX0NNWnVqNVRKVVVFTm5PX3hQbnpLVU9FTVE?oc=5",
+    "source": "Network World",
+    "published": "Thu, 07 Dec 2023 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:16.204222+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4c7030cfd0d603ec27e5f9ff",
+    "title": "AMD Instinct MI300 AI accelerator takes aim at Nvidia GPUs - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkl2S09obDM2ZVN4QVhmYjhoaHVpZVFpQUhaY1VGbXZCQlFoNEJxRFVsZnZrcEQ2TUo0SXpaMWhsLUhyMGQ2MXNQZnpjVEdtUElhT09hdzBnN2pPZnZlYXd6YXZLYkhQVlg1b3hwaHdvTl9EQm9SNFFDV3NpaldtN2M0bXhmcXpLR0NKTlBlWTdiTEswZkNMUmdUTnZYdGc3X3FWc2hNY2poLWJ6dGVCYU9CdmtSb2NMWEE?oc=5",
+    "source": "TechTarget",
+    "published": "Wed, 06 Dec 2023 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:16.204189+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "716e1dc2fb55d4d54cb8a6ef",
+    "title": "AMD snaps up MK1 to accelerate inference and reasoning on Instinct GPUs - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVURXbDZiM0NQLTE4cXRyeU1SRHZQYWUtMFpOREtiT3BLTnR1V0NuWHhYR0RETkF2Q1dpeDZ4eVItMnhLVHhteDV4THNvQUV3T0NQcTNESXVpZ1NHTXNhY0FIeV9keThHUUYtRGJvNkttbG5mbjRMSHkwNXlkT0w2dXdjZzdhZC03ZXc5c1hwYUxGWHhpa1JtWV9uZw?oc=5",
+    "source": "SiliconANGLE",
+    "published": "Mon, 10 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:16.204154+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a18d010b8ce071112b46d618",
+    "title": "AMD takes the wraps off its Instinct MI455X AI accelerator — CDNA 5 and Helios rack-scale architecture comb... - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObXZySzBFVWp1UWpGT2JxZHhYcEpOU2xncFBPNnhtZlh1TzY5RERaS2trd2F6TlJXcFJuWHJCN2FVR3ZWbGtpUzRNUHAzOG85cG5oOEY1d0U5U29UZi1lc2hHQlpzVmFoTnRIbEtaOUxESVFjaXJIMUVjMFVScVJDTWFmdHA?oc=5",
+    "source": "Yahoo Tech",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:16.204034+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "408b8005e4949cd4f692819f",
+    "title": "SoftBank opts for AMD Instinct: “Divide and conquer” as a strategic declaration of war in the AI silicon war - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcE9mWFcwbUVFOUdnRWVjTlpocENXcWQzT0UtMjZvM1JnZTlEZFA3Um1GTGE5OTRNZC1wNG9ZVjYxcjJQRG1KSk10M2R3dGtLT3JDSzhVeUVhdmdoQjNYZVlBRjM0RE5DUl9nMXh1N0ZfRkIxdTFUNmtPRE5VVlFzcDJBb3JzVExWcTc0TUN5NmRGVklCWEF1clBEYVdmOVJmY3dPbnhmNHdsS0FORFUwQjBYZUVlV19ISkM2WmtwREgzSUY4ZS1B?oc=5",
+    "source": "igor´sLAB",
+    "published": "Tue, 17 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:16.203927+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0797537bd218978491608915",
+    "title": "Intel's Alleged Flagship \"Panther Lake-H\" Ultra 9 386H Chip Gets Geekbenched - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0VLLUZlLWd0V002R3NCR0Fva25PVE9OX3NVYV9HdUFzXy0xbkJubVEwcEkyazFjT1FnbWlFMVZJckc5LV9GRXdfc2Uzdnp4SHlwalV3NlNud25PckhzTmN2Q2lOcC1HUzUwTnFJT3lkSlBXYTFhLVF6cUNaUUxLckpyOVh0QmRSSFgzdzBuNjZlZGFoSWRDMVNmTGo0Um9qMXlZWFpuMDRobS120gGyAUFVX3lxTE5uTVlaaWNKb3RvT1ZuemlaLXI4MllLT3NvSjBLZlVqNUdwYXdmajJEZkNKMG5hR1Ezb2V2ZGFtT1FqZjRIVHI2d1d3X2YydVRhZS1ncjFkcndKQURWbHdMWHJEdWI5c3N3LURnZXVrWXRManNsYkhSOFV4X1FvRXJ0ZDZRbk5YZnFyeEZ1cHdtRWdMSGgzRXRvSm05MWNwZmVYbHVYMUlJRU52N2RDWXpYX3c?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 25 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:12.896318+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4d58432f1b4ec35ddd5d314a",
+    "title": "Samsung Exynos 2700 Engineering Sample Gets Geekbenched on \"S5E9975 ERD\" Test Platform - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQXlWYW1NemJ5RUNKX0FTd3gwWjFyT1FUOHRyc2hDTWkxMkF4dlNzcVZQRVQ2YWs0M1BQQ0gzaWdEWGExZFZWWkV6Y3A4UkQyUG5Jb2EyQXVoMEJRV2pHaVdyekNaV0trU2ExampzSnc1RU1EZU5KUk44dkNzbW15MVlfQlA0QkR0YkNHOVlwbXotT1VheHF6V19GSzlQclBmTGt6LVVMSTU5NUFEd2lGbjQ4VTFiX3Zoa2tR0gHAAUFVX3lxTFBvZWVDY2lyajZaZnFvUW54R1A2TFpKYnhYV1h1cTVjdTZ1VUN2OXhjTnlOQ0VyNVV4N3JDR2cxR0E2LXl4YjVNMjlOQ3lhOVFQSVZUZ29Od1pQZnhoT3dDT2VLV2pFNW5EUXBjbnRPR3ZEaUdyRTcyZEUzaTdFOEk3VS01S3kxS1U0MHNaWW0ya2Z6MnR2S003bnBHUzR1TGZ3VkFRM2hDZ2o1OXE2QzdZczkzX2o4aU5lY3lWMG1OOA?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 27 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:12.896104+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "07e1036e53d4704f73292b6b",
+    "title": "AMD’s NPU-Free Ryzen 7 449 & Ryzen 5 439 Launched As Gorgon APUs Chase Cheaper Laptops Over AI Branding - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vVEF6ZEN3b1dwbnhfem5uZGdpZjJEaDgyQXU5R0JGOWRZX1kyejVsV2V1Ui1KWGc1SWpkZUNDM0kwdG5UUE55U09XcFdORDZYWGZrYlNFNUNpUUJ3U3MtUkJrSGJzam9RTEJaeEZ6OUxsNkozelHSAXtBVV95cUxNdUpSNmNjeTQ4VGZkVGlHbXJDcmpFYkkyb3BFaDJPcUE1bUx4OUI5YUY1WlY4SE8tUS1xT1V0cWYtdzliOTF2SmMzaGhjMG9ncFJYUUlhZk1CcXB6UWZJbFJ6Z1dUN3BNWUp5OEVjcDFXWC1DbDlYcXVQVjA?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-23T21:30:11.193974+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "6700755e6558f0df3524409d",
     "title": "AMD CEO already teases next-generation Instinct MI400 accelerator series - VideoCardz.com",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbjZWVW1fMEhLSzJZXzZjaGY4ZkpiOWtXZEVZcTZfaDJET3RqSTQ4OWNUaVZsZm9sY1NvN3d2NGJzc0EtdWVnOEhkdTJPZkMta2x0RzJvdDFmWk5CNzdSa1RQQWxrY3B1QzBRei1iRWwyX29mdmlXWHZYUTg2VUg0aV9xQlg4bGZRbUNkSld4enNpZXJqMzk1ZjRoOTAyR09MYmc?oc=5",
