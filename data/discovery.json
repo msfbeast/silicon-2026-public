@@ -1,5 +1,137 @@
 [
   {
+    "id": "e3e6e2b8761b81c50ff43677",
+    "title": "AMD's Enterprise CPU and GPU roadmap: Venice, Verano, Zen 6, Helios, and CDNA - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQnFRQTNqUzlkZXRkTFBPblBlWU1nUzc1dk5yZFlUZGhWTlhPdWVKNjV6TlJGMlZuZUJmaVRoeGJzUDhGS2NBWXV6ZExBR0h4YkFGOHlZcDV4OG1JMzB5Yk9renJtUDdhWVU4em90UGFMVXZ0OHhvT1FKdDdKb3VpdkhSelBhVWFIUnhGc2V3MElEZ3YtYWl4TE83NWtJRjN2a1ZTclMwUUhrVE9MOXFTcFR3TDlHendGS184?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 23 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:40.529729+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c92cd1475e42c9146f6ea871",
+    "title": "Unisoc processor guide: Here's what you need to know - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4telJxcnpTTEFOMGlLSmd5dFJreVdsYmpONWpTLUxFZTdTNTNNQUNuVG9UOEpMbnA3aV9KU2RZT21CbVRqWnF1VzhjdG9hWjRNdl8zMzh4NTlGbEVjZXNQaWZRLTJNOVpVN09SeEFmNW4yUQ?oc=5",
+    "source": "Android Authority",
+    "published": "Sun, 19 Jun 2022 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.738067+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1b0518a53776fa07cb47bd54",
+    "title": "Boardcon PICOT536 SoM and EMT536 SBC feature Allwinner T536 Edge AI processor - CNX Software",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQczVzcUNkU3JRSGg2OHZ1elFRcWNrTUlOb0pkOGdTbHE2TVdhZE05ZVFtZzhzS2hwMWcyMlZxck5VVXVmb3lDbG1mTzdiLWozWFIyU1p6TXlweVlzbGRPNUkwQWg0akx2alBTWWRhczh0VjRUdWRILUJkWDd1MWhEcUw0VnNnQWhjNTEtQ0dwaHhuVktGSE5WQjVWdzNSLXFEOWJsN2dfQVlUYTJacGNQWG1VZjhOUmpFenfSAcIBQVVfeXFMTW56eUo3dVpVRWsxT2YwczJmdF9nUkEwVnZDTmpodDBtZVo1XzZiSWM2NE9lbjY0N3lnMnk2Q1ZDUGtEeDA0ZkRRY1g0QjVnRUtoWTZyWmM1dHAxOTlVRWxNa3l6LTdNby04Tm1OUmhia04xU1NNVjBFSFJqdVAzQlppZjd6ZnA2ZTQ0bWlxS3J0b0dVU3FydzZob2FfNnh0WTg3MUVxN3N5dnJXSFNEUUlFVmJ2Z2pSTFFqUGZFcHhESmc?oc=5",
+    "source": "CNX Software",
+    "published": "Mon, 04 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.738018+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5c5b71f98b8fd5a8a4c97f33",
+    "title": "Itel A100 Pro Launched in India with 90 Hz LCD, Unisoc T7100 and Military-Grade Durability - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRWFtRXZyS2FFbmszeGNhNkFnVHZiX2ZzMzI3WUQ5VFU3cTdkTHRvN2s4ajJ5T1ZpMXEzUEFYQzhwU1lOVDRMRXpYa1hiU1g1ZWFlWTMxUmJHck9DRUQwb05uTG9FNWY5V2V2RXRtY3BEb05PbE9sTTFHLVVXRkJsakswdTNRbW13SFoxelhBTlNzcnF3QWY2ZGhWdTF0cDg?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Tue, 19 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.737974+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "981fd29a918b42d908b618fd",
+    "title": "Trying Out The Allwinner-Based Walnut Pi SBC - Hackaday",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY3BUZGF1U0pBSkVUUFJoV1RBYmFUeU0wbTg5bUxjeFFUcDJNWXc4THlYNjJxbmw4Y0JTejI1NGZtcklQTEpaRGk5Vnd6TlI3UXpzSjVjMm0zQzhBZU5TaFRUX2JoaS1pVXV4VkxyZjc2SWlZenVmWWM5aC01dmdQVWlITQ?oc=5",
+    "source": "Hackaday",
+    "published": "Fri, 16 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.737947+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "690a4b6373d33232523ade5c",
+    "title": "vivo Y05 debuts with Unisoc SoC, big battery - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaXZYbzA5RzBGMWJzWjA4Z0ltMGp0QTJCTS1KYmVOUzZMQnVTR0cyYTE5OWlUWFRDN0dQVEplb3lhcVpfSmE1dkJtc3NsaHMzTGZxN29oQVJfcmdBa3l0ZzR4bk94VF9VYWp5SkJiT2ViRzhlc1UtWTVQY0ZCdHJnS1hPWThtT0I1M3hN?oc=5",
+    "source": "GSMArena.com",
+    "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.737924+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fbd0181dbcc69eb194084e13",
+    "title": "Vadzo Imaging Positions Bolt-1335CRA: Onsemi AR1335 Color Autofocus MIPI CSI-2 Camera with RK3588 Rockchip Processor for Pathology Imaging in Medical and Life Science Applications - Newswire",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUWlwRGR2Vnp3Mk9XZU1kbVpkMkg2N1hNdDhYRFhtcXJzNl9ZRWlqM0lxdHVPek52QmFWb0M1UG5zUFBZenNMVjVPX2Q0TUw3OWhpUEw1MHhIUEV1REV5c2Z3Mldtc2JjR2lqMWdwamFlV0s3TFI2WlM5anFjMk9TanM1cWJ4ZmNvaUEyN3RLOGU0VUczVUpuMjk1MF9TUm1vVkxRR1p1SUQ?oc=5",
+    "source": "Newswire",
+    "published": "Thu, 22 Oct 2026 17:15:00 GMT",
+    "discovered_at": "2026-10-24T04:46:38.737729+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5ddc929f877aaa1c8144ea4e",
+    "title": "Google Cloud A5X Plans 960,000 Rubin GPUs, GA Nov. [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVhCY0ZIaDJYNDlES2pQVXNwN2pHa1RtaFROUXRMdjNnWm1qZFpqa3E0cFo2T2JpNTA1MkR5Z2txaU1EWVVyOUJETXEydzRsd01PUWd4Nl9kNGQwVGhBQ1ZnMXVVZHdlT1BEeGRMbFJvVHJlUmdLWjJPaWF0M2p5ZzBjaUk?oc=5",
+    "source": "shattered.io",
+    "published": "Tue, 20 Oct 2026 11:08:46 GMT",
+    "discovered_at": "2026-10-24T04:46:36.881592+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "993b346f18eb01c095edfe5f",
+    "title": "Part II: The long, windy trail of Intel GPUs - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aWXBPU2l5MU5uNlhqUVVPMG5HMk5jemtQS1ZXVndyenhhMkNCcjdTUGRqV1JKNnF3U0xWVXJiSF93SzlReXdaTFVfZW1GNVU5aWJ3M2JwLXdQR0dIVW4xTmFLRVZGQW1pWnBhejRUSlJLdXo3RFFmSEpMbmZaam8?oc=5",
+    "source": "Jon Peddie",
+    "published": "Tue, 05 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:34.492955+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "297468b8298c5b6fcf599a96",
+    "title": "RTX Spark Laptops Name 14 Online Games for Arm [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2FWTUlFWTdrSzI2bnh3T2VCazF5RmEtZXNaS0RrYkE2TFh2T1BndWt1RkRnenRaTXR4eF9ZZ19hUkJMclRZNi1RNDlNVk9ld083UFd4VTVudkVzbVJhNkhGOG9sSjRPR0RTbU9iR0JjVFYxNG55LTJsXy1wNXh0Qw?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 24 Oct 2026 01:18:45 GMT",
+    "discovered_at": "2026-10-24T04:46:31.198645+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "47d2d1a409c8e7e71da9778a",
+    "title": "Intel Nova Lake-S Drops 12-Core Xe3 GPU: What Changed - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGkxSEZ2UHJpS24tNXAtQU0wYnpTQTFCeXJBcUZMaVY2eHdwMUpBMGZTRklieHU1d1FFX2xzWU1ScmR2R3JxYndiQ2lLYmFRTFRSWlh3NlR0SG9KMTdWajZ4T3pmRGdrQWc1ZDJBcUsxMkQyd2M3b2FQU0hYQjlsQlF3?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-24T04:46:30.399408+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5c9128f284b15a4a8079f328",
+    "title": "M5 Air vs Core Ultra 3: Apple Wins on Battery by 40% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQS0h4bklGOGRhRHBDY1VUQ2hObnYzOWNrYUZxbmI3a0xLVGppOUlzTkxpbDBKMTNkUzdOd3I0TmNCWk5FNmdUQ2ZSNG1qRlJfZ3h1REpfOVBOYUhPbDZhck1GUVBpZTF4ak45YlBIaHVDX0g5LURRVG02bEFfLTlfejFrbkdFS1FDamQ1MmFBSHVsT3cxMkNr?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 24 Oct 2026 02:50:04 GMT",
+    "discovered_at": "2026-10-24T04:46:29.522858+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "92abeb137ec6ac32447cb3b6",
     "title": "[News] Huawei Speeds Up AI Chip Roadmap, Reportedly Pulls Ascend 960DT Forward Three Quarters to 1Q27 - TrendForce",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPU2tmTHNtTnRRV2JwdWtkelNZN2trbURVT0dXNWRkWGVBc2haeFJfLTlvZFBuVlRzTDcyREpOR2lWRUw5NV9rN0pMNHg0aVY5M1d1c1d2VmJLU2RIY0QzTXRMRW9kRmJxRlo3U1hEZ0Q1ejY5RGJhS0N2NVZpNVNwRlh2Uzg0ay1URE56N2ZrcnNyVGNJd2h2dU1UN1UtWThsZGZNS1ZsanNwcUEyaUptWENsM0ZTN1FDaVRFWFJvTjRDa0ctUXptR2JJTEx4Uk50VHhGZjB5aGxWZw?oc=5",
