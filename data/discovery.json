@@ -1,5 +1,60 @@
 [
   {
+    "id": "587298215b0ff45754bb99df",
+    "title": "AMD Launches Instinct MI300 AI Chips To Challenge Nvidia With Backing From Microsoft, Dell And HPE - CRN",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjhDSThRWXZ6eFRWV015WG5sVzlXQl9NdkZzX3RHTDJFX0FTM1ZVNWw5QmlITk1JX1hRR1B2dFptY1lPOVVrMnI2UEh1Rmw4QTlXcEFRR2ZFYTlreXlGZ1htVk9NOWNHMU5KeGp1T3E3NHpITDZxVUd1SE1MY3pyQ0ZCQU12eHhsZ3dlUDBsdDN5ZzVhUDFvSjdfVWYtOTV4b2ttR1FkVXNTNVEwUnFzZDEyVHotSHlSWHlUaTBWcU9rWm03eWlsQnVfTVZZeEk4NV91ZU9HbVRvVW1RRVE?oc=5",
+    "source": "CRN",
+    "published": "Wed, 06 Dec 2023 08:00:00 GMT",
+    "discovered_at": "2026-10-25T20:57:35.031404+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "286c580551815b05e2f3e01c",
+    "title": "AMD Announces AMD Instinct MI300 Accelerator Launch Event Highlighting Rapidly Expanding Ecosystem of AI Customers and Partners - AMD",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWh0VVV3MWVZWC1sdElvYjk3WUlnUjRfVU9ZTVcwanA3dzhVSk5ZeGUtakhmcE9oUW1sX2ItZ0VzdjAzYjNzblF1ZHlyenc3YmR5RV9SanJ1TWg2bVZfOU1KSDhibmFaY21WZWpKcmVYUENNVTdVU204MTloNFlSQU9wcktKRUUtRDh0MFFKY3Z3WkRHQU05R1pPV08yZk8yWUF5SmtOMHVrNEI1RjlNNXRVOA?oc=5",
+    "source": "AMD",
+    "published": "Wed, 15 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-10-25T20:57:35.031276+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2259844f55df84e1e5bd347d",
+    "title": "Snapdragon X2 Elite Handhelds Still Have No OEM or Price [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OWlR4OUs1cXBnZEQtZ2E3bUdkeTNQbkVjbHFOcTd4Y2gwbmxaMlZNdVhNY3J5ZVFSXzQ2LTZOYzBTZTB0dWhDN3FZaEFXS2JPN0J5aG9LaVVUYjJ3TnNEVjRKTnhNQkgwajh6ZUdhbzhkY29zT1d1NzhiY1ZsVjA?oc=5",
+    "source": "tech-insider.org",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-25T20:57:28.873175+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "249a13a334a736d3b46623ca",
+    "title": "Exynos 2700 has smoked the Snapdragon 8 Elite Extreme Gen 6 in tests, report says - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVjlIOHUzeTVkQXdCZ2s2RWZoSGd5YUhIb0JHZGxmRVVOV0gxRE9FYUxkcE9ZWXFlVnF1bHZBT2FMeFBKVm1FNDhjUWo0bWhDS3dFOHVXdmFsZ2FEaXRWVkZqMEZFZV9sYUV6Z0haSlRPTmprM2pQa0dCa0RxaVNMeTZiZjBSbHNCWWYtSFRHZ0hySjRHSnhCMzA1Z1Z4TUdHTE5UYXVjdXlnQ1lzZ2NrSGhn?oc=5",
+    "source": "SamMobile",
+    "published": "Sun, 25 Oct 2026 16:29:00 GMT",
+    "discovered_at": "2026-10-25T20:57:26.485188+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "033369ea1e1f0a22f40c64e8",
+    "title": "Exynos 2700 Pulls Ahead of Snapdragon 8 Elite Gen 6 in Early Tests - SammyGuru",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53U1V2SDFMQXV0Z2VzRnhkSDJXYVBVYm5uYllpcENxWlpzS3RlRjhCQlc4VFRNSWxRZWFzZ3VGMEN1ZzFkVFNPc0cySGJqSTNad2ZmNkFwMEJBSzEyUXZyRjIwNjJYMzdFbWRVRFV5eHcwV19IVXYyUnp3?oc=5",
+    "source": "SammyGuru",
+    "published": "Sun, 25 Oct 2026 17:24:34 GMT",
+    "discovered_at": "2026-10-25T20:57:26.485148+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "06d9bf35fe38da59e4bbe7da",
     "title": "Cerebras announces six new AI accelerator data centers across North America and France - SiliconANGLE",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVFrQ2ZTSVROX2xQNHhLSXdjY0JGN2Nhc1kwNUJ6UVFlZEVaQzZHcnUwSjdjbm1pLU9IWUQzZl9xS0s1aWlhV0Ixd2ZKTk9vM0JBeS1UMVJHTUctRE5oUjhjNXpsRVhEUElhbmJQaTRpaGhNTFRUUkhibF9JblBMSlBjN212UjkwYm5UelFpY0s2R2xvTDJEVWhDM0FERjk0dHJRd2w4Umdmb1U4YW80MFRqU1M4YXg0Yk9B?oc=5",
