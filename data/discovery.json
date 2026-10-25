@@ -1,5 +1,60 @@
 [
   {
+    "id": "1fc9a267e37fd2e357747e9e",
+    "title": "Unifying Edge AI: How Coral NPU’s open standard brings portable, energy-viable intelligence from model to silicon - Google for Developers Blog",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVWE0eHlpQW16NWZKMUhJcUxIWU5peHVRUWFSSVJGbHVDQ0pmaEtyWGZLMVhHUXJ5QmhoYnExQXlUWGVqTlBRdkVLYVBnWmpPc3NsdVkxN29hMmRmdnJhUkJ6NklfT3Zpb2c3dGJ3VFIzdnRKYkR0X1pLTUM4aUdHYUQySmkwMVZPSFFWYkdHdWR3b05GLXgyTS1mY214Q29vclQtbUhIbVJxU01OanhQcHZWT2QtejFsS3ZOMXRSb1lCUFBDU3RwZGpzelMtWjZRTFRsVHBobEZxLVF1WHc?oc=5",
+    "source": "Google for Developers Blog",
+    "published": "Tue, 20 Oct 2026 13:04:08 GMT",
+    "discovered_at": "2026-10-25T11:44:53.451229+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "35d7116a436ad3452be8342d",
+    "title": "Samsung's Exynos 2700 outscores Qualcomm's top chip by nearly 20% - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KZmV1WkJ1ZkVuQ2xlaFR2MUlsSWVMdzRhMkQ2WFd5VWxFTVBvNm42aU82YXFscWRVOVNpOUVBQ001dGJIanRQWE14ZGtRUUJtaHVwLTZnbw?oc=5",
+    "source": "The Korea Herald",
+    "published": "Sun, 25 Oct 2026 01:40:13 GMT",
+    "discovered_at": "2026-10-25T11:44:43.145396+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "871c4d615559e791e9da7eb6",
+    "title": "Leaked Benchmark Shows Samsung's New Chip Crushing Snapdragon's Top Silicon - nokiapoweruser.com",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMGpJMER3RmZCVHl1OTdnTnpHbk9LVDVURm5MZFFOMEdZYzFVbkRrU1pCYXRwWTFYNWdhQ2RLSHpGQ1VRaHo0MTdJakdyUmg2MXJRYXRJVHNiekJXYUpZRklLX2FvQWJQVndNdHhHUVlYMGhSRlJJa0NydmdycHozWDJxXzFCQzVCOVE?oc=5",
+    "source": "nokiapoweruser.com",
+    "published": "Fri, 23 Oct 2026 11:02:57 GMT",
+    "discovered_at": "2026-10-25T11:44:43.145329+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5ab8efe836f9836c27856d41",
+    "title": "Samsung's Exynos 2700 Beats Qualcomm's Top-Tier Chip by 20% in Internal Benchmarks - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBER2tGWVlTeVYwcmptbVZfVjFwMnR1SUt1VWJqMjhVYVl3QkJwSC1iMjNGbV9WdldYX3pZTHlxV0JkTHo5dV9hbVFsOFdtYVpjSmhMU3RSVkJteExMak55NjlmcjF6ZUJvX0EwUjNaNDhDb0tXV0E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Sun, 25 Oct 2026 01:55:00 GMT",
+    "discovered_at": "2026-10-25T11:44:43.145313+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e54e3c5c2498cbfdab84d6ff",
+    "title": "Exynos 2700 Internal Tests Show Qualcomm’s 2nm And New Snapdragon 8 Elite Extreme Gen 6 Packaging Bet Failed; Samsung’s Flagship SoC 20% Faster In CPU, GPU Workloads - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSmtyTml0Wm5EWG96LURCdEVOM2VaQkdfcU5Bc01EeERtaC1XbTJaZXZDT01wSWQ0VXViZnAzYzJsV0tsUUtZSTVWcmVGaFhxV2ttMGVJb3BZZDQtOG4yaXZkOVhNci1Wc3ZVc0p4aWdNaS0yZ3MzWGdFOTd5NXFoOEpTRTF5V05SMVJueUx2UGQ2bkFq0gGaAUFVX3lxTE5iUHpOOGJiZ3FiUWVDVU5VOEN5M1dWX0p1dWZZSXpzd3Q0MFBYTG9xZUhmdUJYUXNxZXU5MkY2Q0o0d2hBM1FjdFZRSVpNN3ZWOFVZcmdTbzJFOE5DVE9TRGlzREwzTUhmTXVGZ3BCdEVnbVRFWVJPenFaMElqSmZmaXpCaksydHBGUFZtTThuZVpmQmVWb1ZGT2c?oc=5",
+    "source": "Wccftech",
+    "published": "Sun, 25 Oct 2026 07:43:03 GMT",
+    "discovered_at": "2026-10-25T11:44:43.145222+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "0471a35bee121819e38905fa",
     "title": "Vadzo Imaging Validates Bolt-1335CRA 13MP AR1335 Autofocus MIPI Camera with RV1126 Rockchip Processor - Newswire",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVR0RFBUSzRyTThIZ0ZYNkJleWdaV0wwTFMwY0xBYXhmSDJzS1QyZ3hMYWJ0YzZzbGJFNlJ6NVRndUdMUm1DLVpITUFIcVlUbEMyNGtUN3dCOGRmSkFZRTdXNXJtNkVNTjNGallVQUF6WFlhZFZWNlNNRE5ObDluNTViQWwxckx6S21saW9LS2VhX3lmZE5ibVYzcnJTNTV2cnk0N0NqTzIyOW1UdUE?oc=5",
