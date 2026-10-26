@@ -1,5 +1,126 @@
 [
   {
+    "id": "db83aa3bafb0158383d7333e",
+    "title": "AMD EPYC Hits Record 46.2% Server Share [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE16TEdkVXhWQUt3dFdQTEdOYXRVbFA3SVRuZW0wTzhXWXJVbDRJUjRDTGhjMjVfbWhEdENPVUxtMjVGRVdlRlgtbEkyOXp2OXljMXBENVpRQW10Mzl0bWctbGJFYmJrcEhmOTU4?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-26T04:58:13.123770+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d3d8f6098b59ac80f0789c91",
+    "title": "RISC-V chip designer SiFive raises $400m in funding round that includes Nvidia - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdGlHdmVfR1c3emUyODZoejc3Xzc0dElGRlhnNkQwazN0WDhPR0RKTG5ZZ0pKRDBXcjYyV2ROMXFIdmtCYXVqOGJJaFZ5b2kzRUduMkxpb3J2RFFabVV0a1pNUElqTjQxSWF3QzBMWDFxcGl1S1R5Uzd6Y3RZbzh1cEZCZkpzUWlDWmpfWnpvYk1fYi1wWFZlRlVZb3NHNW1DdDRkSEoyR3g5NHpKamxoOFJ5Wk9lU055T0tOVUxoRUlqSDBpY2dWNjRFZmVPSjVf?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-26T04:58:09.677288+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b8d02fd4487ca1a42b172116",
+    "title": "Tenstorrent Raises $1.5 Billion - FinSMEs",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80VnljLUdlQ1pqRDlqbnVra0Y5ZHJsQzRITXo5c2gxLV9UeldJYllUMThnamV2MzkwSG5WSG5ndFViNEtRX1gzQTJlRmhldXpDalFjdGJTa01kTEFKcGdTU21tMFBCaTY1WFhOY3oyaTBnbDNQNUE?oc=5",
+    "source": "FinSMEs",
+    "published": "Tue, 20 Oct 2026 10:05:11 GMT",
+    "discovered_at": "2026-10-26T04:58:09.677245+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c1ad15129bc78c5a3b661a48",
+    "title": "Alibaba’s RISC-V IP powers over 6 billion shipped chips as tech giant targets AI, autos - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSDhTdmpDY2hVbDl4THJwdGVqdW9GNFQ3QkVfdUFMbS1TLWtmMVdCd1BTdkFKTklweWZtT0JTV1hTTWlsOGxKZ004czBWOEF6OXRPSFJZSVgtdWVSXzZFQVM1M2tSSWVBRGhLNC1jN0RlbkVid2JtdW5GcENKWHN6NS1sRDB6Vzc2RU1TOGhoRWxtdEV6RW9FU3d3ZFMwWWZQYlRSUXR6UjdrbVJoeXZkT01hMFlXNExIUXFaOS10Y3E5OE94T2IxWHItd2lldw?oc=5",
+    "source": "South China Morning Post",
+    "published": "Tue, 20 Oct 2026 00:30:10 GMT",
+    "discovered_at": "2026-10-26T04:58:09.677176+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "625965d2a7445b33af7455cd",
+    "title": "Five silicon qubits simultaneously achieved accuracy of about 99.9% — ScienceDaily - UA.NEWS",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSzBtNEM5ZUNwbUtPNll5NmZzdFM3UU1feVhGT001OWIxTGthQndLMzlRYUxoVkNOR0ZDNzByb1JSUHp5emxYaVlOM0ZyNWRYWkFXdVFhV2NKUnpxR3NVV0g3YW1lZGRkZGVUOXZMWEppajh0dXc4UU81QmpyLVFmT2RYQ2VkZUZfMVZXclcySlYxQWNfcjdDVTJ1TEJYMlo0NUNxYUtJRjVBb3MzUGE4NmNn?oc=5",
+    "source": "UA.NEWS",
+    "published": "Mon, 26 Oct 2026 03:03:00 GMT",
+    "discovered_at": "2026-10-26T04:58:09.677107+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5c9f306dc317a24382d3c0cb",
+    "title": "Intel Xeon 6+ vs AMD Epyc: 288 Cores on 18A [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JUnpoWTlkN0tVbTVOQ2syclE5SGM2TDhpYW9wT2lhUTR5anplbHNtc1VxUEI0a0dzNG9ZSFRmMk5WbnRHLVI4WjBvS3FSNENPdnhnVVBtYjEyUzNWN1JyU1picTZkTWRwNDNLZDRNZ1k2ZmszRWluYU9n?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 12 Sep 2026 21:21:02 GMT",
+    "discovered_at": "2026-10-26T04:58:08.395856+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "89cb6bd1357c6a579e18206d",
+    "title": "Intel Arc GPU Graphics Drivers 101.8861 Beta Released - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQelhLUUo5V05kMVJfbGNFVlJWaVh2a05LZ0NqUnVwUWlvVUxaZ3RxNmZIalFpcnY0cmUyQkFaWHFZQ0J1UFhaYXpHWUNVdUlTUkhjbVBsdE9neFc4dG9GNkp6UkJjZEdwSGNLTHhIX0xkWUo2dVZsVE44aG9pVWdLZlJVUzlGNGpBOTRqNzZ1Q2ZuUdIBlwFBVV95cUxPUFpYZjVmbFdacU9pbUEyYXpxT3gzOUxkV3BaX1lfYVNaa0d4aGtHYVI4b0ExTml0ZWprYVZTM2szaWpsUlNpbXJ2UG9ySnNOYTU0RXBZYlB6Mm5kNFRfcGtXR2dXSmZ0NUZoaXRfeEEwaFZxVFplUFRBT240R1FtRzVYUHg5dHc5dHpKYUxvaWRxX1Nyd2hF?oc=5",
+    "source": "TechPowerUp",
+    "published": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-26T04:58:06.705556+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2706b5cce23e850500b8ac74",
+    "title": "AMD Ryzen 9 5900X3D Leak: 128MB Cache Sample Found [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sWjRRbjAyNjVyRUFRU2FTVHdCbXZ5ZFU3WEkzSFBMT1kxNUZQdHZ4aU9UdGJiM1lrbkxYbmd6elJ1UGdpdHlTbkRoTjFIWExSX1RyRTdVaXVhYTRwa1NFMEVQOUR2X0Q1UW1vcm10cmw?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 03 Oct 2026 11:38:54 GMT",
+    "discovered_at": "2026-10-26T04:58:06.089988+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8f53e118244c9e13271944cc",
+    "title": "RTX Spark vs Ryzen AI Max+ PRO 495: Memory Gap [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQejhVdkQ3S3RUQnZxdTdZUkNHZFY3c1QxTFl3WGw0TFh0QUtkczZqbE43Ql9lUERFTllkZkxiaUVtRWg4MlFQM3dMckpNYmpITjZiTURVVlhQTkpDZjEwQjV4cEc3N1pKSi01XzBYUlBkSWtRZUdJNHg4aV8xbGQ2cUx5R0wxOWJZVlBDNEVTMnc?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Mon, 26 Oct 2026 01:25:22 GMT",
+    "discovered_at": "2026-10-26T04:58:03.554945+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e55d5567f434823fa6889c20",
+    "title": "AMD Zen6 Ryzen10000 CPU Spotted as Medusa Point NextG APU Enters Early Testing Phase - NoobFeed",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81VDlJR2h2U01GRnZJZHJielVkRGRSRV9DYnU1TjBnT1QtQktUcVJ1dTJlN0hhWExzcHFXdGM0V2pFb3FTQ3VJNkd3eEMya3VSWHJycGJNRnUxV2pBRjFYX1c3YlRVcFZST2JtTEJrNURLQ2tHbG9RRFBYX1QzbzA?oc=5",
+    "source": "NoobFeed",
+    "published": "Wed, 14 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-26T04:58:02.952924+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "518826fee0b0c649f2d142d5",
+    "title": "Intel Drops Nova Lake-S 12-Core GPU as Zen 6 Looms [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWGkxSEZ2UHJpS24tNXAtQU0wYnpTQTFCeXJBcUZMaVY2eHdwMUpBMGZTRklieHU1d1FFX2xzWU1ScmR2R3JxYndiQ2lLYmFRTFRSWlh3NlR0SG9KMTdWajZ4T3pmRGdrQWc1ZDJBcUsxMkQyd2M3b2FQU0hYQjlsQlF3?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 25 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-26T04:58:02.642936+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "587298215b0ff45754bb99df",
     "title": "AMD Launches Instinct MI300 AI Chips To Challenge Nvidia With Backing From Microsoft, Dell And HPE - CRN",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNjhDSThRWXZ6eFRWV015WG5sVzlXQl9NdkZzX3RHTDJFX0FTM1ZVNWw5QmlITk1JX1hRR1B2dFptY1lPOVVrMnI2UEh1Rmw4QTlXcEFRR2ZFYTlreXlGZ1htVk9NOWNHMU5KeGp1T3E3NHpITDZxVUd1SE1MY3pyQ0ZCQU12eHhsZ3dlUDBsdDN5ZzVhUDFvSjdfVWYtOTV4b2ttR1FkVXNTNVEwUnFzZDEyVHotSHlSWHlUaTBWcU9rWm03eWlsQnVfTVZZeEk4NV91ZU9HbVRvVW1RRVE?oc=5",
