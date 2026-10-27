@@ -1,5 +1,126 @@
 [
   {
+    "id": "bebc8d8ce4cf3452d36cf0b5",
+    "title": "SiFive Performance P870 and the SiFive Intelligence X390 - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXZqYlVIOWtzS1RJUTJUenAwYkxJSV92THVZLUhPdW1Iel9UYUp2YUt0NE1iNlZnUW1qQWo5MWo4VERkYmdvdWtScEw5a2gwSE5BR29JTHdCWmpGdmkzMk4tejJfal9naXZrZy1FbmtOcjVPb1ZJVEllaVI3SXNVUEJwUWxYYVdQVDhXX1kxX2xpUQ?oc=5",
+    "source": "Jon Peddie",
+    "published": "Fri, 13 Oct 2023 07:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:27.852320+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "80d5fc387c99f556b1102d71",
+    "title": "Itel A80 entry segment smartphone with Unisoc processor launched in India - The Hindu",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWkRPQzQxWWpka1lCNzZkcHVqaEtZNURCYlFEVGNUYks2aC1XVWs1YmxraUQ3d0N1aldxcW1rX3F0VURxS1dOUzJzNHI1SUhLWkswMjdzR0ZIQzZCeWtGS3VKM0JvRjA3QVBWVF9JUDQyVEo5eTlJUHkwdGRUU1NJQWxUckh3d1BDMWgwSlkxM3BHdklBWTdVRG1hMGQ2eEo3RVItcnhoNkMzYjhGQ3RRUjVUemV4X2x5Rzd6Q2pHLUVYb0dSQml4RmY2WVhZNjNENmljNmxfQXpGMzBWdDNn0gHmAUFVX3lxTE8tck5EaTRCczM0WVBIX18xT3diM25kLWJwTHBDSU5lYkdTelZWd2k5Q0kzSGdnbjZUMklPc3NOaU5QdmNiVTZtNkRmdEZNUEh6WHRia0l1bFYxWlN2NDIwMVZraVp1MG9vajAzMVlYekR1RTZrc1ZYUlpKVWVnNkN1azNhVlNEZkNtaklZTVZKRFNFa1VGQmMtV3pzZjhSWGp2TVZLSUs4YkotaEtWUTU5cWxnY2VQQnYxLXRXdWJvZ2E1OE8wbElTM1l0Y0tWUEg3SlladVExU3ozVExSNHBRTkVrMnhR?oc=5",
+    "source": "The Hindu",
+    "published": "Mon, 06 Jan 2025 08:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:22.657553+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3056b6870f13a7719cbad6da",
+    "title": "Machine learning spots RISC-V hardware attacks from processor performance counters - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzdLUTVlazN3ZFVWYTRuOWpEMFRQUFEyb25tTGk4WEtCelZPUkplR1FaQS1INlp0aDZaQWtqVmhvYlJLaG8zOF9tYnZRSXlWSXBwbjJFUnZHZ2lZQURadmtoR1FsRGVmQVNZWm5pV01aZEVvcXVnSEY5Z01VYjEyNHdYUUJvbTdEbEhDUGJ6cGNzWGoyaE9UcFNxTU16Rk5kTUdUd2E3cVZpUzg?oc=5",
+    "source": "Bioengineer.org",
+    "published": "Tue, 27 Oct 2026 09:33:45 GMT",
+    "discovered_at": "2026-10-27T12:24:21.344345+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bdab42432577a68026c20c0b",
+    "title": "Microsoft claims to be first hyperscaler to \"power on\" Nvidia Vera Rubin NVL72 system - Data Center Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTFBZTlma1dHYnpfMUk1bE5zOTBQa1FzNWpuWHh2YnFyNjZ0dmxONXl2YzVDQ0kwZmMxZm5RVDhmOVBQNTlYMXdWbnFlVXZhd2JaMTJpaGVhRFlub1pTWTNuMUZWdkczSDJ6dnphTVY1dzhNbm1qRTczZ1pIUG9oNGdCQXYyUlpDZGVFMEJGVy1aTzhPODZzOURNM1A5MEx6ZmtxYnhZOVNrZXVpNjFCUFBtR3VsN1Y0N3l5QjhpSklRaEJmaXc?oc=5",
+    "source": "Data Center Dynamics",
+    "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:20.870020+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "56519a763f3e4683be1a8167",
+    "title": "Intel Announces Next-Gen 288-Core Xeon Server Processor - Data Center Knowledge",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOTRxN3N6RHdMT2ZYbm9pQkVLU011akEtZWRWelplS3JQbkJwWEI4SjNGbElETnRsSmFRczFYaGdrRzktS2NsYV85QzhOc3ZQbTN6WVFGWTZiYkVaMkNVY1J3NFRZUXluQTVOaFpSdGdPRnlQMVhtb3pfRFF3YjNoVEhTMGJtU3lrbGl1TENDcnV0YTd2emNJWXFISGpxVkJR?oc=5",
+    "source": "Data Center Knowledge",
+    "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:20.183660+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e030b0bb2069cf3777f2c183",
+    "title": "Intel Nova Lake Release Date Leak: Q1 2027, 52 Cores [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43M0pMcU1Hd2V1TXNEcS02OVpJTXV2ZEZzWWwxTHBobGZGMTJMSjU1MWtlcFRiOFlyRWdfbVNMejVFUnQ2WTN6ZDFTSEVnTE1TX25LQW5xZFF5ellGTENMRnVwaWV3ek00SlpVaGtWZXZtQQ?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Thu, 03 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:18.038090+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f3e56e6ed69b543c5c9b3a58",
+    "title": "Intel's Nova Lake-S Leak Shows Single-Core Win Over Core Ultra 9 285K, Multithreaded Deficit - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rRTkyTGxOaGdOV3ZLVzdnTVozcFljVlNGMUpRRG8zRHFLckl4TUpVanB5WEw4anRqR0RmeXdVZ3ZNWUFWTlk1bF82V0oyVWVTN2dYTmlkUWtMNFNyTV8xWFFYT2hlMGtiR3Jjc25fS0IySGs4YkE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Tue, 27 Oct 2026 09:35:00 GMT",
+    "discovered_at": "2026-10-27T12:24:18.037940+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0df960d8ff3ddc14f30c6555",
+    "title": "NVIDIA RTX Spark Price: $2,599 to $5,999 (Oct. 16) [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1IMXphRDY3WTVhaXNLb2hpMVlLRlNtTDZsVHJJRmRLZmJtaUg1QnlCUEpVeDVhSF9qc1V4dWt1YWV1OFNobXBfS3B1MXlVd2VaREdXR3h2c0czaXBtSlRLVEtiZXJSQW1YbjVnVlZDNlBYVklyUjBFdA?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T12:24:15.411496+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9769dd9a09e5181ef5503c7b",
+    "title": "Microsoft Ships First Surface Laptop Ultra Firmware to Fix Flicker and Slow Reboots - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UUjJnRFUzdXRXLXhlYVQ2c2pEdlZmUmRqT0ZiRW4tSmZuY3EtM3RBMC1COU1tSV8zcnh1SHR1bEthRDVrV0FqUzE1clQzWHIzcW5CM0JJajBwQ0RjM3JMZkktR1JydDl4Q2FoRi12UEFkcjB3VkE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Tue, 27 Oct 2026 11:05:00 GMT",
+    "discovered_at": "2026-10-27T12:24:15.411442+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ffd2f4dd9a1f2ece8631c263",
+    "title": "Asus ProArt P14 (RTX Spark) review: Nvidia's super-premium chip makes for a MacBook-like experience - T3",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ELXNRZlJkUUFnODdqLUgzVFNmdDhIdk8xYkxpdGVtcEl6dE9iTnZFTTF3a3Y4UWJxUGRMekVmV19fVDhSYWpXcjBJcjNabndsSjBKT2lTMnYzRXNfTHQ1SVBsTklrNGotOW1uS2VPZTBtcWh6UG5kRjNXZw?oc=5",
+    "source": "T3",
+    "published": "Tue, 27 Oct 2026 08:01:00 GMT",
+    "discovered_at": "2026-10-27T12:24:15.411331+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "687cde5249fef16f5258f95a",
+    "title": "Samsung Galaxy S27 Ultra could outpace the Xiaomi 18 Pro Max - Tech Advisor",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONzZMWUI5S1o2VG10YTZMOExiWU9OZ19TTGlIUHBmMHdUM3JNNkFCV1NwZi13d1Q3bGxpQjlLZnBpSWJQODdSZ0tiT0ZEWWFZY2gtbmg5dmJIekVfUV91ek52S2NRN1RzSXVtTWx3Skh0V3pnbm9aajRxMlBDeWVFZDVBa2QwVzdWaFJUQ3hTT1hWZS03SzdmSTB5dWEzSTdxNF9HaGZ1bFc5UXpGTjNpRHo2SnE0QQ?oc=5",
+    "source": "Tech Advisor",
+    "published": "Tue, 27 Oct 2026 11:34:41 GMT",
+    "discovered_at": "2026-10-27T12:24:12.117358+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "e9bc537b7d9d5932b464b281",
     "title": "Ironwood is Google’s newest AI accelerator chip - TechCrunch",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYzBhT0VjSTh5czJaYmVINnZkRW9KanhEZC1OSmhBRzM3Z1puaVFOTEZ6WXo2SHFqUDJiSHRRZGpJaVNZSFpDakRTenR6RkJKdHZxWmFsVGlKbldhUVBtbWo3Wk5LSkNmWTU4bTUybmtwOE5feTNpRVZyVXR4VWNIckN0TTZfZF9JOUZiaQ?oc=5",
