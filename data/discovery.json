@@ -1,5 +1,148 @@
 [
   {
+    "id": "2d7e1dda4890982ac5580210",
+    "title": "Oracle Cloud Infrastructure to Offer Google’s TPU Accelerators - Unite.AI",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXhybGlGbWNrRWxzZFdPanYwbGZJOW5RelZMa1B6Ykdwck5PVWV6amdyM2U0VDlScmRCUEJvc1FLZE5ROHlJRXNaVUF4SGNoZGJscHZwQmlQWlFXX0haSmZfQlFuclF4T0NmUV8yTmZWTWhCWFAwWlViR1p3dTd5RXBVNi1fYXdNcVJr?oc=5",
+    "source": "Unite.AI",
+    "published": "Tue, 27 Oct 2026 16:46:05 GMT",
+    "discovered_at": "2026-10-27T22:23:35.355817+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5acc6af25aebfd815c8d09e6",
+    "title": "Leaked EPYC 9996 benchmarks show Zen 6c leading Zen 5 by up to 24% in single-threaded tests - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWxUeExTMkU4X0x1ZVJnNkptLWluallmQTJuZk1DblhUVEpmMTRtdXh4Q1MzN180SzI0YmxZUW15YVJpbGtYYldFdlpMbEdMZERPb0FFVHV3VGZMSWJFV3lDVWd1Q1dEdnRFRDZyOU5EUlB2RFRNX2dVd0FWTFNvM3NzSVl4enVXVThiSXhiZERMQW1hTWVVdDR5Um13NDM1ZGt6MmJFRjFOMWNQWkVMeTZIUElYam5FeGMw?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Tue, 27 Oct 2026 01:11:26 GMT",
+    "discovered_at": "2026-10-27T22:23:31.245147+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b92abf4e9358fbc702a4ba8a",
+    "title": "Samsung Galaxy S20 Ultra 5G Teardown Analysis - TechInsights",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBvMzB5MjdQUS1yM0d1dVdYbk11RFF2dmtJaDBaa0poNzRJX1ozTER6NHhld2VyOWlia3RGbG9qUFByQzd5YjRRRFVTWlhkNmlzUFRyNFg3ZnNCcER4dlRMWkdSaDNYeXhZWWRCSU8wcURmS29QYVhwYkV3?oc=5",
+    "source": "TechInsights",
+    "published": "Fri, 23 Oct 2026 18:57:07 GMT",
+    "discovered_at": "2026-10-27T22:23:30.225364+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cb6ffe3f53c7b62158ec6e89",
+    "title": "NVIDIA’s Vera CPU Lands at Leading AI Labs as Agentic AI Demand Grows - HPCwire",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEFEejlEc1RscV9HanlJaW5GWG5BRDV0S3NEaEdjMERjOGNHYWtxcjZ3MF9aSjNXbS1YRm5sbVVnRjUyQW1kRkJSRXBHUUNFSG5abGlLRkxuRUlHbW43ZTRwbVpvY2psQ0FQZ2VGQUVxOWZlWHlNcnBMeksyTldwWUh5ZXFCVmhBbm5DLVRWa3NpWmVJUm0yZEVtV0Vpb0lIYmJid3R1SkwwenVheEtFbg?oc=5",
+    "source": "HPCwire",
+    "published": "Tue, 19 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:27.007601+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ecb3b223c407fe1a4f748de5",
+    "title": "EXCLUSIVE: China's DeepSeek trained AI model on Nvidia's best chip despite US ban, official says - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYko5c1BzTGVuUV9VZl9CMGczWm5RdThBeW00Mm5BX3NDb2Z6XzZuNGstMWs1Y2pSZS1wcWdndEZBc3YwSEtNT0ZnXzNjUUFncWN5eHFEbXZ1ZmEyR3M3dFg2TU5tZzQ0QXdhZTJhTXJGSWxyXzRMcDJxZllwRXgxQTFhbkZ2RjFJbDViNmd2enRZWGtZcVV1cE9nUXFUNFQtQzFoZ01lRkc3YTlueXhwZVUxQTVkeDBfTlZmaWxlX1g0X0tCRFE?oc=5",
+    "source": "Reuters",
+    "published": "Tue, 24 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:25.113040+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "df86eb2bc859eae9e85ba118",
+    "title": "Nvidia’s new Vera Rubin chips: 4 things to know - Mashable",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QYThweUwyMmJMcGx0YS16WGFaUk1HNi0wVlZxWkpRd0F4RTRQZ0hjYVdSM0FJdDdCbTNJMl9CZ1ZiN1Atb3lXTGZTN1RMaVQxU29sZHk5aWs3b05DVk5EaFJFc1QwcTBMQzc5WlBVSDRHMFh2enVFek93?oc=5",
+    "source": "Mashable",
+    "published": "Tue, 06 Jan 2026 22:17:56 GMT",
+    "discovered_at": "2026-10-27T22:23:25.112964+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0dacade98e30bee1dd8f1d0e",
+    "title": "ASUS launches Intel Arc Pro B70 workstation GPU for local AI workloads - Tech Edition",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYW13d2FDY3R5c1hBSkpndVA5RDVDMEswQnZoXzNUa285dS1KMEg4NVIwUGxJWmhOVC1zRXlzVUtzUEV0U1ppMXdVbThDbkNVZVZKNXdQd1VONXQ2UTlvV2xnUF9ISTNHS0hLR1FyTE9OaElFNDc5NlVuTWJQdjQ3bnpCUDRzQUsydWFvclIzbTdsbm81bXNnci1n?oc=5",
+    "source": "Tech Edition",
+    "published": "Tue, 27 Oct 2026 16:03:16 GMT",
+    "discovered_at": "2026-10-27T22:23:24.674649+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0dc451b1e84de54cbf1530c9",
+    "title": "Intel Nova Lake CPUs show promising single-thread performance in early benchmarks - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSkY5bFlFdi1fN3JCcGJHRFJEYkJ1ZUJRa1ZfSmJxV0tBd0sxeXpoQ05QdG1HRVotSkxYU3ZJOGtVUVduVGlKeWwzaFNPdG9aUmU0TzI5ZEtBcEIwa1hBTjlJOGF0Sy1TUVQ4cVBjOVgtZk5IQWVtZkQxLVR1YkloVFY5T2V1Y09tcFFndld2em1ra1Q3Wk1adnhHWHdNTFhmdzRlMFM1Z3AzdlBzSXQ1RjNhZGRZbHQ3WEhkb3B4eVRvMXRa?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 27 Oct 2026 21:25:00 GMT",
+    "discovered_at": "2026-10-27T22:23:24.222079+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dc5db664e3cf694fd90c2f44",
+    "title": "Chip wars: What to expect from Intel, AMD, Nvidia, and Snapdragon at CES 2026 - PCWorld",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLUtxNlRFUEsyN0ItYjA1elJCVDNSOXo1MTV6alBYalEzTFFmbF9CcFh2TkxKR09CNHVTcjktdkMwMlRpNHVfcDVaR2ZRRlZ5QTZTZXdoMGduN05RRFBvSWZRWnpvQ21Dd1Q2bTExZDI4NzZIanBTWTBUd29CMnZXNHlQNHNqWGVUUG5qU0tKc3J6enNYTTR3eTJzWXlfbkRBRGxNM1h3?oc=5",
+    "source": "PCWorld",
+    "published": "Fri, 02 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:23.803511+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b2b20b2c9a9d09a1a4211e39",
+    "title": "Surface Laptop Ultra: 128GB RAM, RTX Spark Chip [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RWEg4d0dsMWh3WFlaWVNXZHkzMm9VSzBZcmlZN0cweXUxTUQtWWhhZ0djdjMzM2dhREMxMXVNalRSLVh1eHlGUHY2RE5HUWRCX3BfaGdmN0N5NlY2UU1tNV9SY1JJMEx2SGZKaEQtX255UGlRUXl3UlBLUQ?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Tue, 06 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:23.803200+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "229da309b7d2ed2e61e3f55e",
+    "title": "Huawei unveils flagship and LogicFolding chips – Kirin 9030, 9035, 9050, 9050 Pro - Huawei Central",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOajhKQWFEb2ZwR1B6WVl1YUF1cVlyZENKM0EtOU1hd3VxZU0zM0gyX1hCWkFLZlZiZUtyZ24xUFJKMVBXQS1BVzhZdF9idFlzWDJlMGJXaVk1N19GVE10MVRwNmQzZzhXY211am1tdGVxN0FlS2JjNXhuVTdRU1pEdzZTYno5VVViamdrRlRMONIBlAFBVV95cUxOdHJUTm04TzlLaDQ5MHhfY3BXem5TZ0lRaXBSWVNnSW5ZS1c1Wnp6c0tuR1Y5TFpVMW9DLU5ycmVPa09Db1U3M2VuWE9YRVdmYzNjaXlWbmpNMGxEdk5CX1RMeFBvbTFpOUQ1TWpYNldob2NaMnFuYm4yYW9BVmxja19Tbi1vcjhFQjh3V19lN1NrT0Mt?oc=5",
+    "source": "Huawei Central",
+    "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:22.569420+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "12b5d1f42f0d474c6ab52a62",
+    "title": "NVIDIA RTX Spark N1X N1X Brings 1 Petaflop AI to Laptops - Parametric Architecture",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB5OXNleFpSUEJPMmI4RTktVjBDV1FOdms4SHB5R01lc0xyY25aTjlMbWZta19ETU5nQUM5a2RaOTVZSC1aMGs2RTJCM1hhUGNJY1ZEYXNjZkdQLVNfR2F3cC1ud2JlM0ZGVUVoc1h2ekFFVzJOUW9TYg?oc=5",
+    "source": "Parametric Architecture",
+    "published": "Tue, 27 Oct 2026 15:00:00 GMT",
+    "discovered_at": "2026-10-27T22:23:21.655800+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1dee5d86a9b133338f5c9829",
+    "title": "Cristiano Amon Tells Qualcomm Staff Performance ‘Has Consistently Fallen Short Of Expectations’ As Job Cuts Land Days After Snapdragon Overheating Claims - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxON2U2NGJoLWExcGsxTl8wLUZ3QTZGUXlmRm96dFlsOHRuOGhHSXhqdXFHeDB0SnlsR19kYTBVZy1rZnlQS2xmNkFIS3NhVGk0bGg1Z2xER0FhaGhxa1Q3RFByeWJteEtQY29aeGF5TjZXTVBEdmVRdVJyeWtoVGtqZTNCNl80U0NfVWlLWWlWRmNBNDRDbXfSAZsBQVVfeXFMUGt4RkRJY3VlWTlsUVQ2QzNVUlZEbWhURGhXeHlibVhSeEZjdVB6MXZELUFrZy1VSXl2OWNnQXVtU3cydFFBd1d1M2gtVkNveVhiQXRkajZmWV8wNWxqYkQwRVdVcFdjT2FpNE55QVFQR2F4R0V4WXI1UzZVQVY1X29iTXRZNEhJV0pfdzVmRFFyYmtBcXBvV053b00?oc=5",
+    "source": "Wccftech",
+    "published": "Tue, 27 Oct 2026 13:51:03 GMT",
+    "discovered_at": "2026-10-27T22:23:17.950558+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "bebc8d8ce4cf3452d36cf0b5",
     "title": "SiFive Performance P870 and the SiFive Intelligence X390 - Jon Peddie",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXZqYlVIOWtzS1RJUTJUenAwYkxJSV92THVZLUhPdW1Iel9UYUp2YUt0NE1iNlZnUW1qQWo5MWo4VERkYmdvdWtScEw5a2gwSE5BR29JTHdCWmpGdmkzMk4tejJfal9naXZrZy1FbmtOcjVPb1ZJVEllaVI3SXNVUEJwUWxYYVdQVDhXX1kxX2xpUQ?oc=5",
