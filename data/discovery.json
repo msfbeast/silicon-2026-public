@@ -1,5 +1,82 @@
 [
   {
+    "id": "c4a100c7c68d2055e12e136b",
+    "title": "Oracle Expands Cloud Chip Lineup, Adding Google TPU and OpenAI's In-House Chip for the First Time - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaYzNZNHlTMzdXazlwcW1ZaUVma2YxdFRWb0plVndUYWtwcnE2eFc5bkZwWFYyM0VISFZscDBwMWEtb0lWcUpFN2NVWjJLNU1GMkRheG1lVzFHSnV2ZmZ5cnZnTXQ4TTFfczAtTk9xZk5FallDZEE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Tue, 27 Oct 2026 17:25:00 GMT",
+    "discovered_at": "2026-10-28T05:54:19.421029+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9840506ff4bb51092db87611",
+    "title": "SiFive raises $400 million from Atreides, Nvidia for data-center chip technology - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSllzQnBkRFBnOW1uYzN1ajgyLUlXZ0Jra2lOMUVQbThXTXByNVBRRTdHVmxialZnRVZtdHJKUnV0cnJvOXFUejhlci15RVl4eDBQOWFqWGVMUGYyX25zdWRsRGpITXBubHoyRGQzbVdsbmhtY0lSY0QwSGJBc0VCZHEyRUIwTTJobDRfUHNjUVh2VG51VV9WTTVzNkZjMmZfc29wTUUwVEc4OVplYzZ6MFQyVnI?oc=5",
+    "source": "Reuters",
+    "published": "Thu, 09 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-28T05:54:12.462160+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b75f8fe8cfb093b4b9a8956b",
+    "title": "Nvidia Vera Rubin: 5 Clouds Live, AWS Eyes 2M GPUs [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YRWdKTl80S2k0cWNjaDlZeUJ2TFlOVU9fdGZ2bmk3elhsNFZTZVVmNjRGQmdfNGJTRTJyVERFUFRGZzNOSXhOcUd6LVVDZUNHZGR1UmhvOFpNcVdVMXA2QTJGbW1VZE1XR3JNOWtUS2dvWWJXMjZGSW90SQ?oc=5",
+    "source": "shattered.io",
+    "published": "Wed, 28 Oct 2026 02:10:35 GMT",
+    "discovered_at": "2026-10-28T05:54:12.028852+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9624bd1f8b76694abdb3d962",
+    "title": "AMD MI400 GPU at Hot Chips 2026 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zMXJZSWZPSjhaQ0dzWkI4aHpVV1FrSGVCUmZYbmcyWFRYdC05RUstSEs2ZGRJU3NkNkNtUkQ4TVpCMDFHRWtnS05mWUxrLVNzMjhWd1d5ak9ic3FxZi1acWpoODB6TUxmNVRZZ01R?oc=5",
+    "source": "ServeTheHome",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-28T05:54:10.349811+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f8ed447050b5d6f23b83fd82",
+    "title": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN21ZdVE4c0RZa3pxQmZjSEQwSVFEbWQ3WG9Vajl0RGxidm9TLUYwQWtXUENWRm01bGxHYVhweGExa2JGNlhzSUwwdnBrNTc0UHVqU0RLclNRZmlFTHpiOG1NS2VFZnYyalRIcmt6am5RbFdxaUZtaXdFbDJHUUQ4ZE5lT3pPM3ltcTNTUlp0TXMtb2xxRXVj?oc=5",
+    "source": "shattered.io",
+    "published": "Wed, 28 Oct 2026 02:45:35 GMT",
+    "discovered_at": "2026-10-28T05:54:09.998621+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "41f8c26d4d56dc7700c84439",
+    "title": "RTX Spark Gaming Laptop 2026: $2,599 for 1440p Power - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UbFlPeVVlMEVHSTFDang1YVBOSk0wVHZ2TzFjQ1Y5bjg1TlBMNTR5a00zeC12elpheU5oeHQyNE42Vmk2VFdhaGxyZFNseWdueFhydlZKVkhaUkQ4eGZpR0JJUm9vMnF0TmQzcU5aY281Vk44Y1E?oc=5",
+    "source": "shattered.io",
+    "published": "Wed, 28 Oct 2026 03:18:34 GMT",
+    "discovered_at": "2026-10-28T05:54:06.620398+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "713db69729afcbef3c19da6c",
+    "title": "M6 vs M4: How two years and two chip generations change Apple Silicon - AppleInsider",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWsxMVhDQThubDVSamx2TVRSamxlU3llYU5YaWpGdnY5RnIwMWRRQ1lha19JU1JrZkNiaEt5V1RONnFlc1RBZkxmQVBSUkYtNldsb2tmOFhCR19saGpER0RXNW5iUjZNQTUtNFgwU2s5Y1hyNENGQ0o2ZFFtSkhYaGZ4SGc3ZWhEYk5TUXZXR2R2QUlablZEVkZWTGJjVDJBU1VSUXl3NDN5dC0yTDNMckdTWlk4MURV?oc=5",
+    "source": "AppleInsider",
+    "published": "Tue, 27 Oct 2026 13:31:00 GMT",
+    "discovered_at": "2026-10-28T05:54:05.024572+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "2d7e1dda4890982ac5580210",
     "title": "Oracle Cloud Infrastructure to Offer Google’s TPU Accelerators - Unite.AI",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORXhybGlGbWNrRWxzZFdPanYwbGZJOW5RelZMa1B6Ykdwck5PVWV6amdyM2U0VDlScmRCUEJvc1FLZE5ROHlJRXNaVUF4SGNoZGJscHZwQmlQWlFXX0haSmZfQlFuclF4T0NmUV8yTmZWTWhCWFAwWlViR1p3dTd5RXBVNi1fYXdNcVJr?oc=5",
