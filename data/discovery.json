@@ -1,5 +1,93 @@
 [
   {
+    "id": "402e2f79c0e2dfd25f6a79bc",
+    "title": "Test-Driving NVIDIA's L2++ Hyperion AV Stack: A Mercedes CLA Ride Through Berlin - Counterpoint Research",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0ZxSllLX0hnY09BZS1VXzdmSHdmMjBiRU9pbFBEZ2d3aWVjamQtTnpwak8wSC04Q09laDVra05lYVpPaW5GbmhKVkVtWWNmMExhU1BseEtIRGdJUUhzRnNxbG5mNTNwQkNFV0tHbWEwU3lqT0V4ODhndlFPS21hT3pWQ2QzOWtNVTZZM2NWcw?oc=5",
+    "source": "Counterpoint Research",
+    "published": "Wed, 28 Oct 2026 13:18:14 GMT",
+    "discovered_at": "2026-10-29T22:50:59.726214+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "83ab3ea5f81af32a104c3334",
+    "title": "Qwenputer Compiles RISC-V CPU Directly Into Qwen 3.5 Weights - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVTdiWU9SdFlENGRRbmE4aVVBbWh1ZFJsWW1mUllLOG9PSDduenRLbzhBblE1b1ZjVkpSU3RUaGFDSzZzNzhDZ19QQlF6X2d2bnNwQjRsaW9wVTlCNEp1Y09DZkJONktWLTh2UTRhUHhMYlBZeDA1N3RRV21EMkVKWHZySDJVU1RST2tpYV9zb2FJclk?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Thu, 29 Oct 2026 09:33:43 GMT",
+    "discovered_at": "2026-10-29T22:50:58.967741+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a081076fd34f3fb5484189bb",
+    "title": "I tested the Asus ProArt P16 RTX Spark and that next-gen Nvidia chip gives it superb AI, creative and gaming performance — it’s like a MacBook Pro M5 you can game on - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUlgyMWw2Smc1MTNsY1VvekJfcHhoeUZJV3V1bUVTTFl6dS1GaGFsaDFHXzcxYlJqUXpWNFVqUEVJakloaUJVVi1ZLWtEYzBQMGFTdHduek5UYjg1bG1FWUkzOFVxV19scnJyNFlTTmZUTmNTUkpDbkhPUkpiZUxhSEgwVQ?oc=5",
+    "source": "TechRadar",
+    "published": "Wed, 28 Oct 2026 11:22:10 GMT",
+    "discovered_at": "2026-10-29T22:50:53.191638+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6298f84d8959a0d1dcccfa90",
+    "title": "NVIDIA RTX Spark N1X 5120-Core Blackwell GPU - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMC1TbWVrdzEtNUNpM3VsOEpWcmRlOXJRWXFSdzByVEtKNVBrQjNjZTJEdHN6ei1Lb1dzdG92dHVQbzlSOTh0bUpMX2JIRXdUb0JvTTR3eWx0dmJxcDU0OW51R3g5ZURCTVp1Uy1GX0hhOHpNUzF5ejNac1dWZXV3VFFHS19mZmZrMEpmY2tQNkhkOWFDSE5JbnYtSHB3blVjYl9hbmNfSUtxSjYyRllJ?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 27 Oct 2026 16:15:39 GMT",
+    "discovered_at": "2026-10-29T22:50:53.191606+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c3cd3b6e4cd5d849091b201d",
+    "title": "Dell XPS 16 Creator Edition Review: RTX Spark N1X Holds Full Speed in a 17.8mm Chassis - StorageReview.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGhKU3JRa3phbWlUTkdYbnFfdUdqNWNXXzgxUy12VTRkQ3Jzc1VhVnRmSzJIeHNPbjR1TXZ5TnhzSWs4YmZyNlE2bmxZS3h6Vk5KaTRUbjFiOFNXelB4Zk1zWmp0T2RsMEFfS1dZTWQ4NjNuMXJ6Mk1zWVNXajM5aHN5QUR4R2p4Tm1oT19R0gGTAUFVX3lxTFBpWGNPMFhZTW5SY1JnMzZGVC1OemgyVU9Yejg2YlVtOTh5NTNhbHBST2VtZFo3OVZYWnI2MDhyTFBvYWt5Qk1NSnEzUGRqZWExaDNvX2QzRzJVdFI5UWZON3RzM3lpTjdjbl9hZTUxc1oxbFhObVBHUzRIZzloQXo0TDB3SHF1ZUxFRklhMkV2TnZpVQ?oc=5",
+    "source": "StorageReview.com",
+    "published": "Thu, 29 Oct 2026 21:02:49 GMT",
+    "discovered_at": "2026-10-29T22:50:53.191418+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ae0ca15c26a380e4adb3c5a5",
+    "title": "Intel Moon Lake Leak Points To Dirt-Cheap 6W Chips Built On 18A - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YmJSZWVDZ0l4YjVJU05fclNsMkt5V0thWWhmcmMxLXg0aEpZR3pjak53amFjajlfRzBJMzFHQXA0MGxtVHFhZEpCM1ZZVVVSRmd4NWtHZHdIcUhmbGhTRTlLcUJacVh3NDNB?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 29 Oct 2026 18:55:00 GMT",
+    "discovered_at": "2026-10-29T22:50:52.168423+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9c601a2b2bd249682fb39ff1",
+    "title": "Intel confirms Nova Lake will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNWnFrX3F5WWZoaEJkSUpheHltS3FDZHpKTlVDejVaTkdlanJ4dmdWTFpoa3VQNGFRWHNIX0hYT2oyNWdsUTQ4YnhzY0plLU9oZ0NnZks0d1N6WnNWV3BneVhfTmNYLW1tNGNkZGJCemxGLUhBWFFTVjZHSEhwZVM1TTFaQVROSVhuTlhlYjRBRHh3QUliaG9oZEc5Y05fZXpGZDFDdm1NUTRIaGM2VVVyOWhqZGxYaW1ISUFMYTE5LTZLeHloeEUtTTdIYlNtOFNaVVlseHJXazZCdU5GcnFWV1loSTNnM29vRnVyalhpTjI3VHZZV19fang4ZXJVWUtpU1NFZlhfaTZwLVltaWxWVjl2eWZQRjRqVlczSWc0MlFOcVBHcGlxVEMtRVZQcnFvcVpfWG9mQUI1VXNPVzV2Z2pLTQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 29 Oct 2026 21:55:48 GMT",
+    "discovered_at": "2026-10-29T22:50:52.168378+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dd80ed96e8e68e94cde9ca4d",
+    "title": "Snapdragon X2 Elite Benchmarks Leak: Beats Apple M5 in 3 Out of 5 Tests, Shows 48% Gain Over Predecessor - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdUkxV3lVbTlmQVM2ZUdnaXlOQmdFWFpnb2pzY2phWHpQX3QwZVhoZXd6TDFxRlItUVpFWTJPcUc1cVpRZmpGd0ZTNlJmUU04QVRPdkNZUmd4YXNGU3RNZTJuREFCczBISUstWWxlN2dYaUFoVXpna3d6cHlrbmE0ODVoSHN6R1hvMUROak1vVWxtRWlQdmtKMk01SW5kOTg?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Mon, 09 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-10-29T22:50:51.739718+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "be83b69c8565bf89f2cfb9d2",
     "title": "ASUS Enters Intel Arc Market With 32GB Battlemage Card Targeting AI Workloads - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TRmhkY3BNWHhIVXY4c3F5dmxjeExpUXN5dXVUend6V0RCTTBsZHpfOXdXTTFsNXQ0SGtQdGNvMVEwaEsxSTNtWGFPMmJ2ZHVHVWxYeFYycF9OU3BFaG9qdVFYUGU1Nk1Nc2FMNUswZmxHNF95LUE?oc=5",
