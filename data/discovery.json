@@ -1,5 +1,126 @@
 [
   {
+    "id": "18a71ebaba646a7fa8517ded",
+    "title": "OpenAI Pursues Direct Purchase of Google TPUs, Testing NVIDIA's Dominance - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aMmc0cTVDMUhqWlZ0SVBWWXozMjQzSkx3WV84amRhRGEzWjhSell4WXlIc1J4NzNRTGw2enBoc05GbXFpSTMzV0x5ZTRPSDl6Z2MyWDFGa2Q0YnhjbllqWXBLVzBfQzh0clNkVXlMUzdpOW52ZEE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 28 Oct 2026 18:25:00 GMT",
+    "discovered_at": "2026-10-29T05:58:37.947385+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1bd935d178b8cdc0d994c4e2",
+    "title": "Intel Grossly Exaggerates Foundry “Wins” With Qualcomm And Amazon, There Are No Deals For Manufacturing Chips - SemiAnalysis",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1idUdPNXVySFdsZHByWDM3bEZXYVJNQU5yUTZpSUQ0dkZUZ1dRMjZsQ1RUZ3lFV3lzTlEtN3NQeFFnT2gza3N5NWJ4Z3YtSFR3UVlHbVQwbERtZ3NqSFI4MUs4eWEtT3I2SW9JTXRscGtIbEZqTy1IU1E0QQ?oc=5",
+    "source": "SemiAnalysis",
+    "published": "Thu, 29 Jul 2021 07:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:33.950235+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5f232dce5058bc73e451f996",
+    "title": "DeepSeek Open-Sources Tools For Huawei Chips - Open Source For You",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNlJFM1hlLWEwc3U5TFgwRWhlRnQ4bV94RGlTQUZjdzRzeW5nWjgtUF80dEhzLUVwRWRuSnAwWHowUTZ6eXFQdGFldDRZVWs0eVBxYzVZWmpkMUxmaFVwb2YtVzVjOVpLRlR6V2xFSXc1dzJLQUt2RDdGbDlvVTNLZWlhaXhUTERpMkNaTQ?oc=5",
+    "source": "Open Source For You",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:33.316020+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4869581f91561a36538e13cb",
+    "title": "RISC-V Chip Design Brings Post-Quantum Cryptography Closer to FPGA Reality - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNklraE93SVVYY08xdkVycHRLRVVuTFU1NFpETERUZTFNVkFDSF9FbEh4MlB5UldQWEhYdGRfMXJPYmZtYzhCdmowaTZpeFUyOHFrY0ppS3k1aEx1b2IweDZmNUotQWc3R2NDZjB5dXBIam05OEMzSWR0NVEtekNCd2hOcDB2R09scjlIRUJLV2g5Q2hjM0lDcjluYllsM2J0?oc=5",
+    "source": "Bioengineer.org",
+    "published": "Thu, 29 Oct 2026 02:02:44 GMT",
+    "discovered_at": "2026-10-29T05:58:31.319465+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d85a9b5b390944e304bfc889",
+    "title": "2026 Retrocomputing Challenge: Custom RISC-V Processor For Retro System - Hackaday",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZGlLX3pDOEpuXy1ZaW9aWXNRaUh3Yld3NDVhOVFmeGtITHJUWGZ1TDVvd1JEWVlBcnphMzBlSkFDTU9KalkxcUg1VDlfYzI5OGpONkxtcHM4MVR6d1FCVEZZYTM3NTRHbndfTUJ1bzdSTVdLNFRVTXhHbUdicnJqZkJMYWdrT0V1ZlVCLWZBSTFhb3RBN0Z4RFRUNmJtNGpUNFBfd0dR?oc=5",
+    "source": "Hackaday",
+    "published": "Thu, 29 Oct 2026 05:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:31.319416+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "884f0d257411b830c5b310b3",
+    "title": "Who’s Really The King of Custom Silicon, Broadcom or Marvell Technology? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSS1HVnNtYUk2b0lDTnRLS2xTMnlPY3RqN25MQS1fYUpTSFZ2cUhvMFFCTE5kaURROEVnZU1lajk1MUNpZW9pQkJXQnFDd1NEdnktNnNjbFIwbk9nT1BEYmdfRG9TSldQWEZYTGxnWXBsaFViUlZmYWd3am0yTnk4TF9iaC1mWjI1X2FmbEVGZnQzYVlQN0J2N194VHFlX3cy?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Mon, 17 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:30.178769+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "809aa8346d8e20a32cc68c28",
+    "title": "Intel Unfolds Xeon Roadmap With More Cores, Denser Transistors - The Next Platform",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVnhNWGZUc3RpZEpDdmRQYTdpZXZyMDJfOVpLdjdhd1FucFdpaXNib2hJSUlBNmRDWjB5OXkwNDJabE9tVTVyX1FHVlZJcE4zQ3g1VkphYXBDQnV1eHNsUlliNDN1aVlxdkQ5MGhuVDlxLUZtZnI3Z0hVeDRkQW40MGx2VVhiRlctNG05VXZzLUZZMHIzRnVtX2tVdzRtSGIxbWdGQWc5VUZrOEFKUTFJMlRqQzRMVGdR?oc=5",
+    "source": "The Next Platform",
+    "published": "Thu, 17 Feb 2022 08:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:29.804023+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "51b0690f97328ee5e65a9b6b",
+    "title": "AMD preps Mega Pod with 256 Instinct MI500 AI GPUs, Verano CPUs — Leak suggests platform with better scalability than Nvidia will arrive in 2027 - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNLWNfTmtfZEFKMDZoYVdrd2cwaVZRSXV0dmJYeFBLNVpWaWhkZjBoUVNFRnExcl9kVjNTQkZaSmtDaEJrejA0OTBLR2l1cDdManZELTJCWjlYVzN4SldqaGlQZVIxN2hSbTVsaExlazdnWUtHZFBwS1dTNV9WeXh1b0NIeTd1Z3kwRjRUcF9JM3BMZE1XcGJsb1hYdnZfR01YVmRoYWdtTWV2cnQyT2VZcXdiTVhUbWxzUUx2b1V3YS1meF9jMmZfOEY5UDJ6LWZSTFBZWmQ0eEZMdzFMc1IwTEhMTGgtdXRHbE4zU01zb285SDNncXlUdFByNGpFOXozZUREczJ3QUlTckUtUWxESGNJWWU?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 04 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:29.474240+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bbdb1af0211a7cdd802fb811",
+    "title": "Oracle Makes the Supercluster Multi-Silicon at AI World 2026 - The Futurum Group",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNVViZDZfM253VWpGT2JPQmowRFY2Ti1ja2c4TUNpc1F2TVFXZGliWWNtWG1tblV5dXJsTXFac21pSWRtMk5mSG5nQnJhVklxaElndWk4ZURaUHZtWXFQc3hwUFJQWjVMMW9XaGRjUDVkdzhxTXQtUWRhdHFGMTREWVNfRVpQTFVMaGxyQUs4UW5DY2Y2eGUwWHN1VQ?oc=5",
+    "source": "The Futurum Group",
+    "published": "Wed, 28 Oct 2026 16:52:08 GMT",
+    "discovered_at": "2026-10-29T05:58:29.063856+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "27e56948684a8a602f82367b",
+    "title": "RTX Spark Review: 128GB Memory Wins, CPU Lags [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PUXoteHhMd0hMRE1GNzVXYW5sRjRLOFEyOGV0ekVlbWZjcVlGWFZTcE43OWpiU1ZKQ3QxZGlUMm04SVVsQXFhakdPQVR1SEU3bkh2NmZDVWxsLXh6dmdHVVloZGtzRGRVM0pvTGhJdHhpR1FNakVtTUg4akNNd0E?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 29 Oct 2026 02:10:35 GMT",
+    "discovered_at": "2026-10-29T05:58:25.653647+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "efeb4d474e396c7abfb2d602",
+    "title": "Xiaomi Xring O3 Chipset Launched: Claims Higher Performance and Better Efficiency - Smartprix",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU5CdUczMzNsUTNta0Y5SUU1d0c1UGE2QTh5RlpYWnBlY2ZJd1A2WXJqNWpLQXhGRmJOQ0hpTndZX3dzcktLN0sybl93Z295c1JFRzVhN2NESVpUdkplOUQxNTh4WWxKdmdzcHFjVThZX0s0ZGozRWs1N3UzQzNyamZiMFkyV3pDMi1BTVJfTW9uRWZTWkpCSjlqRVlmOTdHZFpmWVhHZTBscW5Pbk5Hai04VQ?oc=5",
+    "source": "Smartprix",
+    "published": "Mon, 24 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-29T05:58:22.441776+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ad1e9757d339bb0c088e02f7",
     "title": "What Is AI Inference? How It Works - Cerebras",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QOHU5WENMbzhVcGJrY0tRb2ZSQTFxZVVHTnFUTmwtQ2dhLUQ2MWlIbFBCcUVubGYtZHFZVGljc0t4ekVobXNwUEZIcUlEbTFmVmY5R2RSQTBNd0F2UFhEZEtqTQ?oc=5",
