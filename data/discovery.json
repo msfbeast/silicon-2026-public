@@ -1,5 +1,137 @@
 [
   {
+    "id": "e4bbb34cb5790dd5ad9d3f94",
+    "title": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TSnU5elUyZ25XVGdhN2ZDS0Ryam5fY1ltVEJ4QldWbUV3T3lkbU5iTHJ3QzZUZU1hZ1hmQ2dXemp3ZXM0dVpFbnpxcEE5cGVWQWZXSDhhQ3JOZV9HbnVoRjE0M3VBY0o1UXVrTHFTVUZ3eXkwbzlRQUZCc9IBgAFBVV95cUxQdldMWDJYdTl4LVFNWTcyTm53R0FTRGRwWTNUaENSYm00SnNua3ZCYlF0cFJOV0lhNS1ZY3IwLVByYk5IdUgxY3UzZGdhNlBQQTRPUHhXUUxXQVllSXdPdHVDWkFpcFRBM1hVQUdUNXVkcFJ4QVR2cVRMYWZtS2ExbA?oc=5",
+    "source": "CNBC",
+    "published": "Fri, 13 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:30.662209+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1c8f228622e042250deb6223",
+    "title": "Nvidia Vera CPU vs Intel, AMD: Specs, Price, Benchmarks - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QbDBsN1JCTXAxcC1sMUNxUkNrQXB3eUpMY0NCeUQ4TnVDSUFpTHo3amRuNzkwdmlYeHYyVXFZdU9JWHZ5WmJsUkdtUEt4a0ZodGFFQW1RWDZqdTJ1MWwzV2x3V0pfc2s?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Tue, 11 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:30.662175+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ceb1257db6ee3bbc54744c73",
+    "title": "Apple unveiled the M6 and M5 Ultra – the first 2-nm chip and the company’s most powerful processor - mobidevices.com",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KYnFwMnFmMUg4WFYtc1haQ0oxQmxsSXQtMmljSW5acWxaamVLVFB1UkpXVnpWTmc0RzNQWDRQbDBoS3UwTmtITS1EQ0lUd1BGZFBDNDU3OEZEUDVz?oc=5",
+    "source": "mobidevices.com",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:29.112239+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "73455885737ab01a06da17eb",
+    "title": "Redmi R70 and R70m Silently Announced with Unisoc Processor and Large Battery - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNkRZbWRsZmtEV2JZWW85cUhqSmstdmp6Z3lJbDlUalY1bVBncmZybUM3aTN3OElrZGYwdHlFajBKbDNscHpKUlladjhsb3V0eXdXd29DZHFPQUphZ3NBeTVLem50TnB5T1RJQnppVzlxcVYyMWtwQTFGbEhwV2xoRlZ2X0lJTDlhNVg0LXpFcWNVSkhTX2J1YURfNVYtZEFvWnQ4?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Wed, 15 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:28.127394+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1ae428f2748b40c7c4e0f672",
+    "title": "Microsoft Maia 300 Chip Claims 40% More Tokens per Megawatt [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41aEJWX24td0VibkpZaUFiNTVLaVJRZ2Jvcnc5eXVHcVlBUjM3WGMwYVhrN25SUjE0aU1sQVdvNnR2OVBDaGowNjdXZjY5alNselJFUU5Va1FnRGlyLUF2XzlhT3gtWHJ1Q0dscEN5cEg5VTBhWFlYQ1JrWl8?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Wed, 14 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:25.589740+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9aa982d0e91cab4ed78ac846",
+    "title": "TSMC reportedly weighs 20% CoWoS price increase as Nvidia Blackwell and Rubin chips put pressure on packaging capacity — equipment lead times stretch to eight months - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNeC1ucXhWbmlMd2ZsUDZzZ1FxUTBkTXhUTUphc0FtbVo3aFo2WkpsQ2pTZ3V1eGNnVkNhTzE4bXlGcmJFd3FDLVc3bXRON0huRVJoSjBianhnOHhxLXh1cmJSeUl1Vk9uamoyYjhmNzEyVkJCeGotdW5HSW55WnVXUl9XMzcxOFEwMUdDblQwN1hYMHVEWS1oR0xqOEVwUGtPdlpuNlJ5SlVMSjk5ZVdLWG9kb05jU2lvNGdlZTdVc1JHVlFPX19wM3FteTh5NmxZUkRILVpUVW54eVdoVk44eTk1X3ZBNVhIRTBZU0RWdi1wSDEtX1VQTjJzcllzQkN0OTJOMFFBTlZlWE9DR0R0aThKWDNrNVBTeklpZ0s4WnNoNEZtNHRwb0tjSmFaOG5ZXzVRTTdfckNwc1M5NkUyTFB0NjdycW9sNVpVaw?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Tue, 27 Oct 2026 14:30:00 GMT",
+    "discovered_at": "2026-10-30T05:59:24.222462+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ed2012ce86b6a1bcd77a044f",
+    "title": "Oracle expands chip supply deal with Nvidia, adds Google and Cerebras offerings - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUlplTWs3ZWN2a19QcFRzenR5alVVejBueUtiUWU0ZmpCMWVldFhsdWNXejNtdmRMRGZWUkVhLUd5RkY5MzJYTjQtMWNKRXFHMktkOXJzTFBmS3JtNTRJQ1JITlFKdnQ5YWRfX0ZwU1g4NWpXMkZ4OTJyOG5IbmdTejhhNkc3OG94V3VLUDZOMDZvVFNkc3dQaTRwSzNxVEg0cWh4cmQzc3JyOEwyNUphRnJWSTZXZTlzdmMwY0tjZ25YT3RUSF9LWkpDVFNiYU5Hbm1PVjE0a3h4bUtCQ0RVYnJn0gHnAUFVX3lxTE1NUEV0TFdJbVl0NE13SWJTUWhwUVV5SmVxN0FrQUpuZGVvcDJyVmlkMG5ONEpXUjE0M2VRVFRBc3JacWRoYld2cmxaVzlsaTVIRXRDQ1d5Z202ejQ4NVF6LWNYNjZwd1puUlFsN3h0QUprMkY0NS1ua2g0bXJ2bFJyb2ZmV0dWZnVXaDhRZmhoUnNsdkYyQ1dReTR2VzdULUREd0NNaVBFcldNNFZ4S1BydlZhVk40SlhPT0E1RU1ab2FHMjVlVkxzc19zb3VGcGFOUzlRRzg4Rk1PSlVOeGFpMElBQTg2NA?oc=5",
+    "source": "The Economic Times",
+    "published": "Tue, 27 Oct 2026 16:05:32 GMT",
+    "discovered_at": "2026-10-30T05:59:24.222244+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "10aa129db135c41489e77eda",
+    "title": "Oracle expands AI chip deals with Nvidia, Google, Cerebras - electronics.economictimes.indiatimes.com",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQ0JTVjV1V2t1dnB2a25MMXZ4S1lwWVpCejR5V2NZazdVU21IbjFxT1hVT1pUcVpKZjFqZURSWXhqTFpxS2x4SXpYbGwxY19zNXRGc0JUM2c3ZzJKS0xKWS1rMjF1QzQwREJIUjJ5bDJkN0NENVM1OWVRMy1OcDJzQmRubkFOSTZ1V01OMXh5QmRETDVlTldfY0E2M2E5NmFWVjN5WGRnWmhlZTZpM0V6QV9EUmROa1ZVdi1aRk45NDVEVGxMaXdVNFRYUjFLVjDSAdQBQVVfeXFMUF9hNWVFLTR2c0ZjSVNjNElVT2NLdWFVOUlCdjdlTjUxRFlpZFBfUUNaTG9IX0RqZ3JKaU5fSm9OY3Vvc0l3c19xS1AzMmN0WDlsQUxSMk1vR29EZUZCM3NrcTR5Qjg1U2FMZnpBMVhIYWRLbC1DaUIxQUdsY2ExcDNoZU9xY2FJbEVZUHQxZkFxTFFYaGFRYTN0TFZKcm50T3djWXdTS1ZNR1dXQXhzTmYyQ0VJRXdUMzh0SnNwdThIZkhrUjJZRFYzMjFmdWQ2S285VEc?oc=5",
+    "source": "electronics.economictimes.indiatimes.com",
+    "published": "Wed, 28 Oct 2026 02:22:57 GMT",
+    "discovered_at": "2026-10-30T05:59:24.222121+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1b2377b9f348cc40a40a5eea",
+    "title": "ASUS ProArt P16 Finishes AI Work 20 Minutes Faster Than RTX 5090 Desktop - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0tSRkJkSkZNRGdybFZMNnA4T2tmZVkySzM1N1hTanF5VWpfQXlUVjlXa2FKVS0zZ2ZMYWJtT0NOSDlGai1kNUs5QmZaVXhoMk9fajNZakJqNkNzNUNYc0JLLVY1R19Ock5Qb05uTl81NzdPWW5IdEdnNUpnaUZqSUVqdnd0QkRnVzZyN3BtbnR3RWJxdWdISXM0R2Y0ell1SHpzVjhzeEgyWW5fMHZFWDZZR2RraURzeTI3MThHVQ?oc=5",
+    "source": "Tech Times",
+    "published": "Fri, 30 Oct 2026 04:43:53 GMT",
+    "discovered_at": "2026-10-30T05:59:20.498425+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "de0cc6c47b0ca201174d19a6",
+    "title": "Intel confirms Nova Lake CPUs will use advanced 18A-P node, more details at CES — company says it's taking Panther Lake capacity offline to build more Granite Rapids data center CPUs - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNWnFrX3F5WWZoaEJkSUpheHltS3FDZHpKTlVDejVaTkdlanJ4dmdWTFpoa3VQNGFRWHNIX0hYT2oyNWdsUTQ4YnhzY0plLU9oZ0NnZks0d1N6WnNWV3BneVhfTmNYLW1tNGNkZGJCemxGLUhBWFFTVjZHSEhwZVM1TTFaQVROSVhuTlhlYjRBRHh3QUliaG9oZEc5Y05fZXpGZDFDdm1NUTRIaGM2VVVyOWhqZGxYaW1ISUFMYTE5LTZLeHloeEUtTTdIYlNtOFNaVVlseHJXazZCdU5GcnFWV1loSTNnM29vRnVyalhpTjI3VHZZV19fang4ZXJVWUtpU1NFZlhfaTZwLVltaWxWVjl2eWZQRjRqVlczSWc0MlFOcVBHcGlxVEMtRVZQcnFvcVpfWG9mQUI1VXNPVzV2Z2pLTQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 29 Oct 2026 21:55:48 GMT",
+    "discovered_at": "2026-10-30T05:59:19.698074+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2bc53018e0c5b5d8eb444279",
+    "title": "M5 vs. M6 Chip Buyer's Guide: How Much Better Really Is M6? - MacRumors",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LMGV2RWtTUTdaRjRIZWxUNl82RWd6VHllZWZMR3l0V3EyZTc1ZjY4QzZGTXJBdVQyX1lVTkxfT2YyRW5iVGNVV01lNFVnaWZKTURr?oc=5",
+    "source": "MacRumors",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T05:59:18.906706+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8474d69a5c2f4ab913a3d5ec",
+    "title": "Intel vs Apple Silicon Mac: 18x Claim, macOS 27 End [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0Nka05Wa0g0ZFZmSXd2NGNpWHBzc1lianU3SFp2WDl4ZFFKSXUxdy1QQ1N6QTZ4bU1jU0hNVG1VS0lvSmVpMUkyY3Vla01MSlh0bjZEY1IyN2l1WnBvTWhJN3c1ekMtRzlTU1hCeXA0OWRKZWd3Qm9NMlNndGVnZmhoQ0RzZw?oc=5",
+    "source": "shattered.io",
+    "published": "Fri, 30 Oct 2026 02:50:22 GMT",
+    "discovered_at": "2026-10-30T05:59:18.906395+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "402e2f79c0e2dfd25f6a79bc",
     "title": "Test-Driving NVIDIA's L2++ Hyperion AV Stack: A Mercedes CLA Ride Through Berlin - Counterpoint Research",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV0ZxSllLX0hnY09BZS1VXzdmSHdmMjBiRU9pbFBEZ2d3aWVjamQtTnpwak8wSC04Q09laDVra05lYVpPaW5GbmhKVkVtWWNmMExhU1BseEtIRGdJUUhzRnNxbG5mNTNwQkNFV0tHbWEwU3lqT0V4ODhndlFPS21hT3pWQ2QzOWtNVTZZM2NWcw?oc=5",
