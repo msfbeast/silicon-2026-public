@@ -1,5 +1,104 @@
 [
   {
+    "id": "5ffd40e538c9c20d29e58e24",
+    "title": "Apple A20 Pro Teardown Revealed: Chip Area Grows Only 0.6% on 2nm Process, Package Structure Overhauled - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQlcwc1lFT2JZaGdNRnN0bFVSWm9YaC1hdzlRMS0xTmxXckpCMWUtYWZQUnQ5TUhFcGpWeFFzZWY1YVNKc1l4VGJTTzI3d29Fdnl0NzJXa3pZa3A1dUNWOC1hcWsxMmZUYmFhMFN0aU9ibjU0dXc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 30 Oct 2026 10:25:00 GMT",
+    "discovered_at": "2026-10-30T13:09:14.561739+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d5839a1816be7580cbb7bef3",
+    "title": "DeepSeek and Huawei release open-source Ascend AI programming tools to reduce reliance on Nvidia CUDA ecosystem — tools include compute and communication libraries, as well as Ascend support for TileLang - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQdDJFV0hheDJFSlF1ZzF3X0R6WUlCTlE1bEVweU5iYmoxejNtMTRSVzJpekVZTTRMV2ZxamI3b05IMU55Tm9aMlRWMGRvWEJQS3RqMFpQM09qaVZRbFFyS1hSN0Y0SnpKRmF2VTl2U3R3c1RmWk1yRFJfVU5VcmUzZjhYVlhITUg1X1JOanFaSVlXVnRaQ2l4d3dURDdlekt3OF9MQS1UUXE4dzU5amtMMzQwdTAzdklUNWxnV3lSRmRLQndEYTBBU0lwWmNpdGtXUjdQTHBWTDF2RkljNXd6UjVhVXdhZTB1aWI5MDdjTmVxVFVjSzYwdE15MmNaelpDLUltVG5VSHFwaGl2d1luMjVrRkIzNzB0emJQZDFBZ21FUXpJOC1ieUpxNHp3a2VvNkw5aWROWkZBMTlOMmU0NHRyNkZyMmpBZjRMSmM3c19pQVlHVnJaZGFqTDhnMEZBVWJ5OElLUnIyUS15aGJqemgxa2FIUHlnVkE?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T13:09:14.215367+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2db817baaf44658ea70430ac",
+    "title": "Huawei AI CloudMatrix 384 – China's Answer to Nvidia GB200 NVL72 - SemiAnalysis",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzdyMFZOY3M0d1RFR056al94ZjJ2Mnd4QmtGSFBlVVM2ZEFEaEJzMGtXS0Rwd2ZfVE9zRXVRYzFYTlJuUm4xVlNKMV9OZUI4dE1YWG12VFVldGdlZ2VQdEpuODdfY3VtNkZ5dF9uMENPLWZqbnFHeG9CbWdueF9KQ2NQSzJjeVZtUTBmSXlMRkhLemhGd1RWcUVicFhvTkJz?oc=5",
+    "source": "SemiAnalysis",
+    "published": "Tue, 15 Apr 2025 07:00:00 GMT",
+    "discovered_at": "2026-10-30T13:09:14.215317+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4d9089a4c474657d2a0c8bc2",
+    "title": "Embedding RISC-V CPU Directly into AI Weights: Qwen3.5-4B-Based \"Qwenputer\" Released - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZUmtXVzN1bzhoNnVvU0l4NVBXVnlTTXpKbFhqVDVJUU85NjBiVUlydEliYU12aDN4d2xZbS1mOUtQN1RfUjhLQXVpZDlBeWpFYUY4NkJPVklDM0VIdkNnRmpRUzZ1bmNTUU0zVGg4ei0tMXhoMnc?oc=5",
+    "source": "finance.biggo.com",
+    "published": "Fri, 30 Oct 2026 03:05:00 GMT",
+    "discovered_at": "2026-10-30T13:09:12.227010+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "db86d029a31f5364fad9d4ca",
+    "title": "The Great Rebalance: How Agentic AI Is Reshaping the CPU:GPU Ratio - TrendForce",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxY1NsaEI4a0wwMWYwRUgxVTdtSXRrQ0VNeGVPZlNpMF9GWG5BMU43NWkyMG9yTWs4SDFlZlZ4TFRHYm1na3FXYlpSQnhhamxBbWlFdU5EeGJrTXZMWHZYcmR3?oc=5",
+    "source": "TrendForce",
+    "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T13:09:11.727416+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "91f795327c0fe6b3371032b7",
+    "title": "Intel Delays Nova Lake-S 12-Xe iGPU to Razor Lake [2026] - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DczhiSXVsR1dwV0IyWWpFMnhtdUNWSGJoVjlCQTJLek9GTlFtcFg3N2YtVnAxM0RWN2VSeDQ4LWYybkp5alB5UnpYUG9XOFB5a256WUV2dXlsd0dIN1ZJWXRhZndzcWc2WkdjN3V6VEcxb3B6djlTYjBjaE0?oc=5",
+    "source": "tech-insider.org",
+    "published": "Tue, 15 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T13:09:05.028756+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e6b4b1b50ef789329f11c144",
+    "title": "Intel Moon Lake CPUs To Power Entry-Level Laptops With Just Four LPE “Darkmont” Cores Based on 18A, & A TDP Starting at 6 Watts - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYXExSlBZMDFDZDc0UGIwUjVfakhxNjJMQ3ZHTWU3ZDUyWGZDY2kxbl9LYkFETFFHdDg5THJiZmsxQzYtTDlqczhVeDRUaDlPa29IMm56UW5DSkJWTGZjcE5KRzhZV3dsOFNrQkFmdEV1N2VPOTlzTzZNZ0hNQk1yQkRNdUxVemtDQThENTdreXllUUlVZFVhTl9Sb3E1VlBuUGlJMlR3a9IBpwFBVV95cUxPYXExSlBZMDFDZDc0UGIwUjVfakhxNjJMQ3ZHTWU3ZDUyWGZDY2kxbl9LYkFETFFHdDg5THJiZmsxQzYtTDlqczhVeDRUaDlPa29IMm56UW5DSkJWTGZjcE5KRzhZV3dsOFNrQkFmdEV1N2VPOTlzTzZNZ0hNQk1yQkRNdUxVemtDQThENTdreXllUUlVZFVhTl9Sb3E1VlBuUGlJMlR3aw?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 29 Oct 2026 06:25:00 GMT",
+    "discovered_at": "2026-10-30T13:09:05.028520+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f4d9464726ffb09d7bcf4915",
+    "title": "Intel Confirms Nova Lake Uses 18A-P, Teases CES Details, Shifts Client Capacity - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEFrTHVuNERwU2ZCYl9xa1BHS09tTHpudjg4bGZkc2lOSm4zWWVNdEh2bVcyZkpubkNMVTJNdWpLRlZWaFpjNFV6M2N2Y19vRGdRMWJnWHZDVURPMGZBcUZaZWMzc0RGZG1aSnQ2UzNleml4TUhfY1J0dVdYZElIb3RxZVBSVjhpalVKSHo2LXBTai0tMl94OUFTWWFfN3A5RlhTZU9aRlZ3Zw?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Fri, 30 Oct 2026 00:29:52 GMT",
+    "discovered_at": "2026-10-30T13:09:05.028467+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "67ef821dc4de6a221bbdf4b2",
+    "title": "iQOO Pad Pro 8.8″ Launched With Snapdragon 8 Elite Gen 5, 165Hz OLED Display and 9020 Battery - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLWRnZjUzX1JRX2xUYXNCMERtaDZVUnY2T2w3aUMxbV91Z1ViT1I3em5ZZ2VodmZocXA1bC1id1dscF9RMTJQQ0NhbW9ubXRsNHRUUG9hNFZJQkFCUmxSVmdwbm9xVVZwZi03WGNQYkIyY2VpYXVjbGxVMlVacTh1N3NDOWt5LUpHY2dsRXFaaDBpZ1BqV25Ib1R5RGUwZXhIUjhNTmFxcXI5VkRNRUpmMk9LRlU2cU16TWtIV2FmSkcwWHR3ZlRJcHZrcw?oc=5",
+    "source": "My Mobile India",
+    "published": "Wed, 28 Oct 2026 18:24:53 GMT",
+    "discovered_at": "2026-10-30T13:09:02.575501+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "e4bbb34cb5790dd5ad9d3f94",
     "title": "Nvidia's GTC will mark an AI chip pivot. Here's why the CPU is taking center stage - CNBC",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TSnU5elUyZ25XVGdhN2ZDS0Ryam5fY1ltVEJ4QldWbUV3T3lkbU5iTHJ3QzZUZU1hZ1hmQ2dXemp3ZXM0dVpFbnpxcEE5cGVWQWZXSDhhQ3JOZV9HbnVoRjE0M3VBY0o1UXVrTHFTVUZ3eXkwbzlRQUZCc9IBgAFBVV95cUxQdldMWDJYdTl4LVFNWTcyTm53R0FTRGRwWTNUaENSYm00SnNua3ZCYlF0cFJOV0lhNS1ZY3IwLVByYk5IdUgxY3UzZGdhNlBQQTRPUHhXUUxXQVllSXdPdHVDWkFpcFRBM1hVQUdUNXVkcFJ4QVR2cVRMYWZtS2ExbA?oc=5",
