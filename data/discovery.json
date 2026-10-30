@@ -1,5 +1,115 @@
 [
   {
+    "id": "557d1d3506ad897402185403",
+    "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’ - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQWhwd2w4Sk1ibDZfbjVIeGUxcDdkR21ZRTRZWUYtZXBDZWNPS2dSVHI1LWZqeTF6TnNyaXFsQ2pCbWZYWlVKNlc4a3RqNGZwNXczUmtPaUV0MmRYcTdPRTdpb1RjSVIzOTg2WVhoYW43VTN0OXhnZGhBSkpOLWQ4Tm5OMnVhU2QxLVVNcXNUektzUFlmb2x5NE1kLWRfdDA5ZEVFVi1JQlVCTVVPZ1lKOXBrZE9qZU16TjV6VVdnM2NUVjZmbFZ5VXNLS1BKMHplcUl6RDN5TjJhSjJBVDJ1U1AtWWloQUxtemM3dmhybXUySDVtZzkyemFONFFJS21FZ3FjNDFrLW9RUGJ4UXhNbGJQLXJQZlJKMnRXR25HMlJoUQ?oc=5",
+    "source": "TradingView",
+    "published": "Sun, 25 Oct 2026 14:46:24 GMT",
+    "discovered_at": "2026-10-30T22:28:10.258212+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "66149df322a3c1d6dbd4ced8",
+    "title": "AMD Advancing AI: Helios in Production Ramp, 31TB HBM4 [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTTBZTTBNS2Z5Zno4a0VBSWN6SXRYUW8wV29jSndlSmhhNzlLVXBvVlU3Vng4R3AyLUFzc29mNkdzVy1PQ3Q0ZWNSTW01TWtFZmxJSVZkMmlmOW8?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T22:28:06.550735+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a5090578dd83ec82e2f9ab1f",
+    "title": "ASUS Unveils XA P2N-E2 Powered by NVIDIA Vera CPU at OCP 2026 - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ1JGUEtnaHVJOGF5a2FJdHYwaHVjS0hxbHN1eDlxWkZFaVhHdjNHQ1Ixcy15b1J4U3NzX09fWnBheEhsUlhVM3Q2Rm9HeVpHalB3YTlZS1hCQkYyU05mczlhUDlqOWFNaHEwZGVJajhaNzBvMm9LSUpMQzY3UDRuRGIwc3hjbmZsZ1BETmtvU3pyV3Q0YlYzNE5WOEPSAaIBQVVfeXFMT1piWHRfM3ZzRW9tVUhIM3hMUDJLOWl6OVhwWDF0QTZmSUhHbTAyNVUzc3FnTGVLTi1wak9nQ0Fac0ZrT1JVd3dQZlEzcW9aZWxJbU9HWFRCWkJLRXFYckRYekhFSTV0ZWpvaHRMOXVUTnM1OEpVTi1iclhVNTAtdzRhREJzc24xV3VhVnk1RV9tN1d1WnJhVl9mbW5xQklXMWJ3?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 12 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T22:28:06.550559+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ddd2619d60f233c0f9a4ba8a",
+    "title": "Apple M5 Pro Chip Teardown Analysis: Apple Silicon Chiplet Era Beckons - Counterpoint Research",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1NQbEF0X1htN0x2aEVweURpODNyeHlPZVA2LUhnSnQ1UGh0ekVTZ0JLNTIwbVhJakFodlpXQjhvUFNEazduQVNacjhLY3B3Q3JhOXl1S3k4NHE4a2VKTzFaTllLLXNUMlhGV3RVNklqZ3ZSU1dLUGRKR21XZTIwS0Fjdjl0Q28?oc=5",
+    "source": "Counterpoint Research",
+    "published": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T22:28:04.892327+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4e0f8a9cb50fc96eb21401f0",
+    "title": "Back to basics: AMD's Instinct MI430X will be an FP64 accelerator - heise online",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjZLUmUzbjRiRVNjby1PTjc0ZURDdGhRS2JfVVVUdVcxSndudXppdnJPMVlhYVRqZmVrUjlBOUhCMUs3aERMMjhWTTUtYXRsOHVxWVRKNjR6SFhiN2dTLUtCaGlCNzJTU3UtbkZsUm1qeEYzMmpVa01JT0l3ZFdjN2hpRzU2M3JfcHFpUzNtQjh6eV90OFJPWko0NnhGOHBmdF90dmM5aVFQUVk?oc=5",
+    "source": "heise online",
+    "published": "Fri, 08 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T22:28:00.472927+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b81bc86d3ab781cfdfa02e17",
+    "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal - Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHgtcGRUUmk5UVJtZ1dYTlNiSmw5aEtBQ1ZRLXhDZjN0bnFZV3A2UXdRN1ZEbGlEb3RDdGFoTUY5VkI4djZnT0hqRFZKdXpNNVBJeWNsQ0dzbFZfVUUwZWhCUklMVmhuaURGdHNxSEtNYjFnWXRJVG41X283SGlFa2d0MW9mWV9FWnNCU05pZkFrdmc3WGlNeWFPbzl4Qi1UdXpwX2U1WFNUUEM4ejBhMXlkZVA?oc=5",
+    "source": "Bloomberg",
+    "published": "Thu, 01 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-30T22:28:00.011454+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "513a6e1bf8c6cd5c0ded4d3f",
+    "title": "Intel leaker reveals Moon Lake chip as a likely replacement for N-series SoCs — four lower-power-efficiency cores, no performance cores, and a 6W TDP - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNamxpQTVnSGhJMHpaS1FtdndpMGlTaHRHQkRtd094SWhrYVNyMWRJb01KTEhMaGdXdTFXRk5iWU9HNktZd01WUDlXcjRxMzFNRWZubWdsajYwakZldW01a3pNMFk0YU05T1ZpbmtMYTh2NWxKTEZlc3pCSXlRSXRFNng2SEdlZmVUQW1tYk5uSGVGZlNnN055UUFvN3R3RVdRNzNOeWx6TmpxSHpfUjU5V1VCRDVZcHFsTjlyQ2k0MXhYbkNSVHJaeE1JZ3Zwd19xWUFWRGJhZ0hXZm8zLVBFLURWNVV1bmktTlo5dklIZHVUMGhBd29yc20tSFF2MHd5aHRFUXRpSUtpSzhfMFdXbWZ4TUVRc0pELS1qMk5Taw?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Fri, 30 Oct 2026 11:40:00 GMT",
+    "discovered_at": "2026-10-30T22:27:54.942053+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a0dad260a9f2ca201c3d63d2",
+    "title": "OPPO Find X10 Ultra being tested with MediaTek Dimensity 9600 Pro besides Snapdragon, claims tipster - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN0lNZnp5RW1URm9kYnVXM3NZa2dYSWhrUFZUR2d1ZTZCbDl1cjc3RHFIaHpTc21WRTJzeGFUODJMWHoxZGp3aGhjLUlPQ1Y4aGQ5NlppMi1ldzV5YThHZGY0bGlHOGIxLTBsN05Ic1RZaklud01hMXBaYmszeTlhTTVWSEp6TU9EQ21vQ2F3RzQwNnZnZ0Npb21pbmtHSEXSAaQBQVVfeXFMUGV5SEVEdUdFRVZjUTJ0bUFzNDVmTHRud1Q1NGdnWGExbWJVRFF6QUxiUC01QzdHZVd6dmxmZ09UdFBYWEJrRWNoTEFTNkg3WVVfQjJfV1h0cm9pYjROSWZZWHRiM3RYcnItaktrc2pxVnNscEVEeG1vRlgtMi1ZUDBRcmJQTUpJeW9SVHh6M052QlJueER2X2ZUS2hWVTBaWmQ3Njc?oc=5",
+    "source": "91Mobiles",
+    "published": "Fri, 30 Oct 2026 13:12:05 GMT",
+    "discovered_at": "2026-10-30T22:27:51.962378+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "69d75a273f24de8c29534707",
+    "title": "Samsung May Use Snapdragon 8 Elite Gen 6 Extreme in Europe for Galaxy S27 Ultra - JournalArta",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWk9ieWVndjVLcGtKRXktclBaNXpuSld3VVlRdFBpX1pyZ2dLSnE1RUJDZjlkN19tVEtyUjd5cHRpYnE3MVBjbWRnbFJhdW9ydzhMWkdIU0ZUdDBlOW5IVEd4X2NUYUUtbF9FeFN2YzVmVVg2WEt1SW1JZlI1U3czY1kyREtEQQ?oc=5",
+    "source": "JournalArta",
+    "published": "Fri, 30 Oct 2026 16:26:47 GMT",
+    "discovered_at": "2026-10-30T22:27:51.962289+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ecb642fa64b06071f0287ca3",
+    "title": "NUVIA Co-Founder Gerard Williams Takes A Possible Veiled Jab At Snapdragon 8 Elite Extreme Gen 6, Saying “Real Progress Isn’t Just About Pushing Frequencies Higher” - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSFVtQzNhWFJTeVNHeU9LNDBuMFI3cWFVeXRLaTB5OU16ZW04ZE9uNml3Z2paT241cVlncEp0dmJSbktTempSVDEzMy00Y2xWV2dWMHRYdVlOWUw0LVBQRTdfVVpuM0pRNmRTb0tSRzc0MGhNbkVPdllqMXRaSk53RGhkTlprLWloSUg1amRYLUdYV1XSAZgBQVVfeXFMTTZXQ2pEaWRGOXVDRXZEQlRlYjJlRmI1WEt2SUs1eUpGMkg2RFltV0xNOXozSUtZOVk4c3RYaVFUWXFsd0ZWRi1zWnZtRHdJcXF2UXJsbmZIbjI0cTctUkRpakQtWW9hY0ZQN1kxNmU3UGs1bnVlWmw1dTREb0JmX2ZMV2U4dWEzU1hWVDEzMm0yQV9NdW1PMHQ?oc=5",
+    "source": "Wccftech",
+    "published": "Fri, 30 Oct 2026 21:14:00 GMT",
+    "discovered_at": "2026-10-30T22:27:51.962187+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "5ffd40e538c9c20d29e58e24",
     "title": "Apple A20 Pro Teardown Revealed: Chip Area Grows Only 0.6% on 2nm Process, Package Structure Overhauled - BigGo Finance",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQlcwc1lFT2JZaGdNRnN0bFVSWm9YaC1hdzlRMS0xTmxXckpCMWUtYWZQUnQ5TUhFcGpWeFFzZWY1YVNKc1l4VGJTTzI3d29Fdnl0NzJXa3pZa3A1dUNWOC1hcWsxMmZUYmFhMFN0aU9ibjU0dXc?oc=5",
