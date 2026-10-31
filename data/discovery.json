@@ -1,5 +1,71 @@
 [
   {
+    "id": "dfcfa88a11be7fd27dca3e2b",
+    "title": "Google’s $250 Billion AI Chip Opportunity Takes Aim at Nvidia - I/O Fund",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOVdXLUJZTUxqMGpEamllS0tKMmx3MERqZnUyMnZQem1GYmNraVl4YWdlZTRzNl9aZERRVHprM3JTV3o1QkRidktIcE0tTkFBakwzcDk0U2h3WEM4YlpDOVRQS3hnVG9OeU1HNWRoMlZqUVU4UHpkTVdiTjZmYnhKZnpNemk?oc=5",
+    "source": "I/O Fund",
+    "published": "Fri, 23 Oct 2026 12:10:21 GMT",
+    "discovered_at": "2026-10-31T05:55:09.146119+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1ea1d2be8a5eae21ec00f8c3",
+    "title": "Romania's FIORA5 lands €150K from Vest Ventures for RISC-V chip IP - Dealroom",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3hYOTdCcExESkpwaTlRS1lFN01FVDNqUjRUZWxZWEtyZmZhcVRUUExoUmJfMFM4VDN4SGxwLUtYUmozQ3BOdHFvVWJ4TVNsemV4STRzaFFES0daUHNod3pFc1VWZzRWcW5aOW5kM0x6UXN6MDVGaUlHSjJCcnNFWEQ1eHo5TTNrdzI5d0pwRFJVUmtoSm1xSVZlQ1l1aTIt?oc=5",
+    "source": "Dealroom",
+    "published": "Tue, 27 Oct 2026 20:15:19 GMT",
+    "discovered_at": "2026-10-31T05:55:02.725955+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a4aeac859a1f974398d7e605",
+    "title": "Democratizing Chip Design: Empowering the Next Generation of Engineers with RISC-V Expertise - Design And Reuse",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM21KMEd5LVZnNnE4amk4aFNyOVN5bTRGT3YyelZwSTRNMnRSRUM4N1Z1amY2SlpBbHBjQ2dQUm82OTY4VlYwaHEyNEhRSWVvYU4zdFdSZ1B5d0RoU0dOZnQxRFRIODZIRjhPMjF0TjhvbVNjSlZhNFVrSEhLVGQ2aFZ0NHJOV1luM3drQUtfUVdfMUxHTndCeDdFYmE1X0hSY2s1cTJmVGFLNTgxQlAxNmJuNWdLcWl4UHZOT2lfbkdOb2JNQkMtWEp0TVQ?oc=5",
+    "source": "Design And Reuse",
+    "published": "Fri, 30 Oct 2026 13:54:17 GMT",
+    "discovered_at": "2026-10-31T05:55:02.725896+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a1997ae908d3ca368ce6ae61",
+    "title": "Apple M6 and M5 Ultra debut with up to 80-core GPU and 512GB memory - TrueTech Technology News",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JNEY3YU1RaDQ1S3NIcGxLY1hhY3lhNGRuenJlQkJZd19QR0ZMMFp1VFhDaV8xbUVMNXVFak9pOWVPMkswSGN1N2lqYUVWRlJwQVBNRGVHSjA3M09Mb1MyLXJGcw?oc=5",
+    "source": "TrueTech Technology News",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-10-31T05:54:55.340471+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f64185356eef92bf750ae32d",
+    "title": "Samsung's Galaxy Z Fold 9 Ultra Leaks Point to Sub-4mm Unfolded Body, 200MP Camera and Snapdragon 8 Elite Gen 6 - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RQ19EQi0zVFFybkVXOUc1cElGNmwxT0hJbjliZVppMl9SZkMxcy14NFBnV1dwZmF6cC1jbFZwTWUzZFpmajN4d2ZhbjYtcE9mM3N1M2NyaS1qOE1tZ0VnNkpPTmZNTFkzM2I1TkNzLXNZZkkwT1E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 30 Oct 2026 23:35:00 GMT",
+    "discovered_at": "2026-10-31T05:54:53.840117+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cbbdcce1dc3e00ac582ebb79",
+    "title": "Motorola Signature 27 Geekbench scores reveal Snapdragon 8 Elite Extreme Gen 6 performance - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BQXljaHNGMmlBOFVuNEpkUFNDSzBWSFZ3TXI4ODNlempMbWp1N0FtZXpvbkxDTUJRZEN4RG1jQ19zbk9xZURyRG9Xd0VSREZGOUxaU2RGX1lrWExSckI0QXVDZGVWaC03Wklwd1lsR05RRFdwUmgzS9IBfkFVX3lxTFBPME5mU1BUUE1xc1U1OXlYdkdtOUFNWXZkLWh0WldqQmVSdkxLdFpvYVI1LW9wTm5FRk9HaGV0a01PbW9sVXVfOUw1aF92NmdKRGNJU3JHb2JyRzJUaWVNQklReV8tNk9MRHlmZ3Z0N2FfM0RwZVBvdlhPTnJvUQ?oc=5",
+    "source": "91Mobiles",
+    "published": "Fri, 30 Oct 2026 12:22:04 GMT",
+    "discovered_at": "2026-10-31T05:54:53.839950+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "557d1d3506ad897402185403",
     "title": "GOOGL's $250B AI Chip Opportunity Takes Aim At NVDA — Beth Kindig Says Google Is Going After ‘One Of The Most Profitable Hardware Businesses’ - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNQWhwd2w4Sk1ibDZfbjVIeGUxcDdkR21ZRTRZWUYtZXBDZWNPS2dSVHI1LWZqeTF6TnNyaXFsQ2pCbWZYWlVKNlc4a3RqNGZwNXczUmtPaUV0MmRYcTdPRTdpb1RjSVIzOTg2WVhoYW43VTN0OXhnZGhBSkpOLWQ4Tm5OMnVhU2QxLVVNcXNUektzUFlmb2x5NE1kLWRfdDA5ZEVFVi1JQlVCTVVPZ1lKOXBrZE9qZU16TjV6VVdnM2NUVjZmbFZ5VXNLS1BKMHplcUl6RDN5TjJhSjJBVDJ1U1AtWWloQUxtemM3dmhybXUySDVtZzkyemFONFFJS21FZ3FjNDFrLW9RUGJ4UXhNbGJQLXJQZlJKMnRXR25HMlJoUQ?oc=5",
