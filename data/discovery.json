@@ -1,5 +1,115 @@
 [
   {
+    "id": "cde81a7e9ee0c3559f394cac",
+    "title": "Unpacking AMD's latest datacenter CPU and GPU announcements - The Register",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQ1JSWHRtcUNVb3NGUjJ3MzZhaGxJQTMxUC1ZYjZLWHQ4ZFYtaHF3a2JlRUltWEFRcUQtUjF5OEk1bFNXY1MwOEVmcWp6cGROYkdjVlJlcGh6cVRjTWNaekZjUlBKMGdycVlwVG5RV2JwcDk5bVJXZXFCa0xrMWVHN2k2aG5waEVfQ3pkOVRRYXJTamwzSThYMXlsWk42cVVWcF9HcW9kZ3lObUZ5a0stV1Nxaw?oc=5",
+    "source": "The Register",
+    "published": "Wed, 07 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:12.999226+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "33801d95fce4ecc9389d75d8",
+    "title": "Intel Granite Rapids & Sierra Forest Xeon CPU Detailed In Avenue City Platform Leak: Up To 500W TDP & 12-Channel DDR5 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDZ6WHVwb3pFUkRYbV8yWjdEQkxSQ3lyVmFrMVMxZGJLeDktOXdjbTFJMFJOWWpTcHRIdHpiYm80bkpBZE0wVW85UVZNRFhiSnd6SllIbURmdXoyYXRaNDNpVkd5cGktRGtIcmU2bVdvbDlBYWJZWmVPYW5FdDc3UXBDbUZ1bkxib1lGcWF6VHQxOXd6V195MUo0eV91Vk5rMjBqOWwwWEpwR043ck94LUVTRGdpS2tfdmVhRXpuTjBVS3czcVgtR3hMS1Bjcjg?oc=5",
+    "source": "Wccftech",
+    "published": "Mon, 20 Mar 2023 07:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:12.320365+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "eaa7f02bd2d97285af945be5",
+    "title": "The New Engine of Automotive Growth: Strategic Electronics OEM Collaborations - Bisinfotech",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnU4UXlhaWV2b2xCS2hEWVhmVzJHekVCZFBnRTNOcEE4eTRFM0psWHJRWUZYLW1CMTUyR2wtNnhwbjFhVGtOWi1hT1VMYUxQY1FZTTdKNHN2bjZqSWxoRWt1cXRjQzF2TlBjWUlNdXhNUU9ZTGJxVHhkb2FuOUpsUXNBanJoai1FTm5rV3FKbWRGVVkzWnlQck16cXhmeG9WSU1iY1JvLVE?oc=5",
+    "source": "Bisinfotech",
+    "published": "Sat, 02 Aug 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:09.244815+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "820d2ce055f698f6d491c64e",
+    "title": "RISC-V chip designer SiFive integrates Nvidia NVLink Fusion to power AI data centers - Network World",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN3ZBbWY4SUpoZEJVWGotVDQ3bERWUmtRam9RLU1jbi1Kd0NmblNZcmRkNV9WUzN6NnBOcnJib0haQ3JDdndNclM5M1c1blpaQ2FacFpycVVDWlR1TXlYanhjeTdTYjg2a0hXOWxrV0g2UGV6QkR0cjJISzBqY21LOFl4ZE9obTVRbWxKZUhrQWZYRERqcVVTMHpjMGJWNlVPRFhvRlRZNEZGdXZ5SDdtdlZpX2tsM1FPcWRLbldYRi14b0twWHN6eEFkUXgzWDQ?oc=5",
+    "source": "Network World",
+    "published": "Mon, 19 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:08.645095+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ef93a9a9fa6c3f6527ba53a0",
+    "title": "Ubitium Tapes Out First ‘Universal’ RISC-V Chip - EE Times",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9wd05YdzExOThFc1RaYVpqNUtmamJ3a0tVZHZmUVlMaFVNS2RkUVBlS21kdmdWRkMwOHMwT3F0VG14VDcxcnBiYWl3eVl2RDJ4eTRZSWN1dEw4b3Q5cXpxUk5icDZpaGN3SXJEMGp2c2RJZlM3V29Lcm13?oc=5",
+    "source": "EE Times",
+    "published": "Mon, 09 Mar 2026 06:00:53 GMT",
+    "discovered_at": "2026-11-01T06:22:08.645059+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6476f02583c15e0dfea12ff5",
+    "title": "Nvidia trims HBM4 bandwidth for Rubin platform, sources say - digitimes",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9reU9DRjhPWU16ci13ZWpKMExhY1IwRVlhVnpnU0pHcDQ4dlgwcm1lblJMSjFNdTVEZEtDbjZ5WG05OUZyOE92N2NTX2F1MFVXZGcyN0RidW5pbF9qaHdr?oc=5",
+    "source": "digitimes",
+    "published": "Thu, 29 Oct 2026 03:09:45 GMT",
+    "discovered_at": "2026-11-01T06:22:06.826478+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b489c15704727457971103a0",
+    "title": "28-Core Intel Nova Lake-S CPU Shows Promising Performance Boost in Leaked Benchmark - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRXdrc2xXbnBwbWJGWVlwTjdoWGJ2ajNPZVF4ZDZIUzVkLUk5RmZNYnU0cm5iV2lkMlNjeXVkVG9McC14cHptQWM4OC1Eak1nVWs4Q19sMWFkMVlaXzc3d1dDdTIyQnV2ajNrNzBhSDNsT1ZJbE5xZzNiT19HaUpNRGZQeW8yWk9sWjhhSmRpUVN4cC1Mc2lOc19QNjNvRFdES0Z4THFyb3ZUMFVhNHNYMjlYSV9sMXFRN1HSAb8BQVVfeXFMT0p3X1pleUY1Z214S0VvczZJaGtaeWk0ZG95V2l4ZlVLQV9OVTh6QmRjTkREVzdoQUxNUWZaM0hacUVuUElKNXMtM1k4QzRBVzFPdFFJOVh6WGllYXFaWkpTMVgxb3ctcFlwcHU5ODRqWmlXZlROeXluekM0ZGp0REhOTFEwTHVwRVZwbXdGbEdMOTlNaVplNVlRLTdESmFHeVVRLU1JR2djN3NkTXctQUJqWFpIdE94N05Sd3loUU0?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 26 Oct 2026 18:11:16 GMT",
+    "discovered_at": "2026-11-01T06:22:05.635601+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ede609fe93a2af29c243d20a",
+    "title": "Tensor G6 vs Snapdragon 8 Elite Gen 5: Benchmark score, spec sheet, and more - Gizmochina",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR28xb1lXYUYweWU0WVNMZmV6SlBRRGw1MC1NYkxySUlZV21Rb0hoNzcyYVZERlJGQVlIMjdGZ1NCNzFFS2NwX2Y3ZzBaSXIzTWlSNFJsNUlJMl9xcGRBZHE2ZmRESjJBLV9Gbjc0RVZEUDNiWThZQzJaS1lqc1VYWHFBaUdlX3l3ZmNQZmJ4Y0tXSWFBb2NFVUJDbUlrQ1BMZFZQZWsxRHRrWVZJ?oc=5",
+    "source": "Gizmochina",
+    "published": "Thu, 27 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:03.747696+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a47e9cc570c7f799f5b91c45",
+    "title": "Qualcomm Snapdragon X2 Elite Extreme X2E-96-100 Processor - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmcxSmdTWkVxSmVuQ3diTlk4R0dxSXJPMFZUTHJpNG9QN2h2SG5rX1lpd2FtcDFuWWg5Vk5zbHMxUEVDbGZLcEpjTXJMTE14eFBueG9iYURqTXVNdkR1b3hER296ME1xUE5SeEg5MjFYdEhHcnQzMnVPbG5yanJOT2hhMlczS0pUZnprcWlRZWtBMEx0UmU3ZV9pZm11cGF2aFREMDJkUHIwM1E5UmgtNHQzVFJwUW9MbzdPemhHX3g?oc=5",
+    "source": "Notebookcheck",
+    "published": "Thu, 29 Oct 2026 09:12:48 GMT",
+    "discovered_at": "2026-11-01T06:22:02.106365+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "00a3853e053a841c511a40d8",
+    "title": "iPhone 18 Pro's 'A20 Pro' Chip to Use TSMC 2nm Process, But Up to 10% Price Hike Adds Cost Pressure - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBvTmdNSWRTWTdqMEVDd0w5U1NleTJka2FVaDQ3VGVPNDIzd0NHQ2FuZ1RXRHJvTzNweV9zb0RzYmppQk9IWjlzZHg2dGQ5WEs3cUs3Y0tKZllrRlBINVdnWng2RlNMamJUMVVqWUx3YjFBNEZrVUE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-01T06:22:01.081510+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "4ed2ae38dec44600ad05470a",
     "title": "Nvidia Touts Progress Getting New Rubin Design to Customers - Bloomberg",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNk9DR20yVlp0dThjRlo3SE1qc3FtTXpYODBRY2ZGRHlCUHBvY1ZpM2lCYkpyNmRfdFdXZzJ6ZmxSdXlnSlFDSGZiZkJSQ1FHX3F3UUtTV1RxT0hyWlkyNExqY250LVZkWXNGaEljWE9sbU9aekRQeGxwaUk2MEgzWEt4VkJKTFZZTE56MWlxWlRzRHNmaFpGcnBSbXZjcDF3QmlydHdVR3RTRUxaSHhF?oc=5",
