@@ -1,5 +1,137 @@
 [
   {
+    "id": "22df7b4b5174b54a79b51014",
+    "title": "ASUS Unveils AI Server XA P2N-E2 - Inven Global",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakNCY25ZWjZBS2JMdWRpTWxJUDRCVGRiZlRQWHdzUDZiemRHcjdadS05V19wTHR2eXlseUFNbDRmSHJBc2ZQZmNOaWdjNEhMS2NZM3ZUaUhVdWp5NDVYWjY3cWNMZWl0S2NzQkNDUDhNNjRaM1RZTm5Nb3ZNZFdOQw?oc=5",
+    "source": "Inven Global",
+    "published": "Mon, 02 Nov 2026 01:28:05 GMT",
+    "discovered_at": "2026-11-02T21:46:41.232278+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "89f640be1f5d6c4e073fbcac",
+    "title": "Chinese AI Chip Prices Rise as HBM Shortage Hits Huawei - Business Outreach Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IcGppTkdCdU4zeFQwamIwSnlFUms4VFk3YjNZY0VqdDNqRjJ2YjUtX1JHaXUtR1A2Z1p3UVVSZUhNdnhqQVNfUm1SWGd2bm1wSUZZZWNKUHcyRjZjWlFvOVByQ1VJdw?oc=5",
+    "source": "Business Outreach Magazine",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:39.346227+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ec7d6ce6c747bd66bbb38709",
+    "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRVc5UElKdUVtcTExYWljX0IxQmxOY0FDcU91el9sUzhwZUpYSFJpSkJZN1RzOGdMN1AxSDA0ZXJvem8ycVVLcjREa0JZYW92N0NfQkkzTUNRaUh0Z0t0cmVXTENYdVZUQXppRnF1UmhtU0hiMUNfTm1WMG03QUZ4OUV5T2RwcjM0dHRyQ1NqbDhTaVV5QWY2LURLTEx0QkZtd0REVA?oc=5",
+    "source": "SiliconANGLE",
+    "published": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:36.482326+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "947203cc32084d1781434f42",
+    "title": "Nvidia is bankrolling AI accelerator supply chain buildout to reserve production capacity - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQSGZheUpEUC1EN2c5VFB0NEp1TldOUmhTVnZCMnRNdmZGVmIxa01nMndWUUFKM3hXblczTklSWE9WVDJSZ0dNMnN3Tm1XaW1LZVAzODdMV2FsTjh1d011ZUJ6S3BKWFdiS0lad1VLOHJPTFZDRV8zYjl1blNhTVV0X1VnZ2IzVXgtLV9feXFkX0pBV2xscmhjb0c2b2daWTIyRUtaMW5jQkZpbjdkeGNJNXBNZVJOR2N5d2k4NnZfNUI2OHI4alFHc1g4dXk2OHJ6bC1xbDZpLVVXVFNfYmxUeW9mRHBQV3RJZ2JpVUVpN201N2dtcHpha2NIOF8wbTl4cGRuZDF0YjdtRXpTWVp5RG5tOGFGV092SDRKSkl5QmU5WV9oamdxdWJXWFNSay1haVRiakxpQ3Ewc1RhS0ZJblRRNDhRRWNHZVkxdG95U1FUZjZXZnNybUhGVDN0a2JUTTByU1ZudWNXX2R3WmhHSUttYXVpbVRqdzBpVUt0VHBTbExWVUlhazhnUEYyQ0RyY1F2Yg?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Tue, 27 Oct 2026 11:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:34.638896+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4060ed0a6c595122cd5df226",
+    "title": "Making Kubernetes AI-Ready for NVIDIA Vera Rubin on Day One | NVIDIA Technical Blog - NVIDIA Developer",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSm9sT3U3a3RBZXl2ajhpa0ZVbmJ3cVZwUDdNNjVsc0xVc01VN05vajcxaXJmUjJFNTV5cF9tWi1xbkxLY2ZwdzdrX1UxeXJvSjRjbEgzU1ppMGZrYllHb3hMMVI3TVR2X0FuWk80VHZHM3YzVTJiM1U5TTQwbEM5aEJqUlVqMWNQV3FETmdOYmZLWTRpcUExd01R?oc=5",
+    "source": "NVIDIA Developer",
+    "published": "Mon, 02 Nov 2026 18:20:34 GMT",
+    "discovered_at": "2026-11-02T21:46:34.638652+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e820c8016549f35c75fdd138",
+    "title": "Pixel 11 Pro XL Tensor G6 benchmark reveals a surprising lack of performance gains - Sportskeeda Tech",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeXczZldCd29MdDgwUVNzLXZTejZxWmdXSHozMFhHR0JWMnd3OUFEUDhxWkpzV1VpU1QzMi1RaWRCaVBjcnlqaFdMYmdtOUJCUGltU2d0Q1ZtVTJiMDZvZ3E1cV9RalRROUNIdHF1YWRObWdMRFNLS0tZdFBmMXMxbXZBOXBtNXJWUGlGWi1sVng0T251bHVxV3B0YW9ZTlZ3S2tYUHlrdENWTE0xMTRZbklvQmtubEtMeV84?oc=5",
+    "source": "Sportskeeda Tech",
+    "published": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:31.378925+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9fafc47267ec0bfa95392505",
+    "title": "Intel Nova Lake Edge Leak Suggests 8 E-Cores With A Powerful 12-Core Xe3 GPU - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZOFRXNmpEQmZWeENZTnZQQVlDRE1SdXNVN3pxQWlRU0NvQS1DQkJYaWgtMmdrckVySzRVb3FQVVRJWjFvaFR6R2tnWTA2ZVlHdzB3b29jaWV5bHVQNWMxTmYydlY?oc=5",
+    "source": "HotHardware",
+    "published": "Wed, 27 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:30.093488+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "93df0861d2007a114910c283",
+    "title": "The Professional's Guide to Buying a Mac with Apple Silicon by Jeff Greenberg - ProVideo Coalition - ProVideo Coalition",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2o4TmhHcE15elY3QTFmcW80WFNOSkdlTVRxc1BMSFpucHdWY1RNV0Ewa1VwMUdvR3Jqdk91S1QyN2RVVUhYc21EYmV2SXIxM1k3ME5WN1l1YWQ0N2l6NWZneVJZZTBUak9uQ19SMy1TbmUxUHA5dVF4c2xodmlxVVNaZmZRMnhBMlVTZ3BwX1JURUx1Q0t4edIBngFBVV95cUxPZVVrT0lnaFpnUDdLa0Z6SHlyVzVIanRyLVpaQ3lnbzlLelNXZWUtZTkxR2Fld2t2bHRIdGFUc2E4RDRDakY1bjJwUXd3dFVnZkR1YjZVWWRCU2xpX2k1Y29wbURXOWFWYV9nZnB0dWI3bUZZR0pXTzBqQ0NqNENUenZ2SGxLbXlJaUUyWUJ4a2FTM0FicnNva0liQ0tZZw?oc=5",
+    "source": "ProVideo Coalition",
+    "published": "Mon, 02 Nov 2026 16:47:15 GMT",
+    "discovered_at": "2026-11-02T21:46:29.269742+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c7ee1ab4c0b7b234597e4b68",
+    "title": "Possible AMD RDNA 5 GPU IP Ships Inside a Samsung SoC on 2 nm Node - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOR3phcFdSbDNaelhsejNSTjNYbUE0dkJ6NEExYUl6SElSM1daRDAwMU5kblNyV0l2Ym1TUVM3ZlNuRm9TLTJaSHNOYVpVMkF1Nl9DRTVkNmtEZjl1c3FnTC1ra2VFTW81VmMtSWRCMTdCb0pLNnRKSkZ6Q2xJeFJUaUtKVWgzaFNkdE1Ddm5qOVhxUnpicm4wSTdLS3Vjd2lkZ21j?oc=5",
+    "source": "TechPowerUp",
+    "published": "Wed, 02 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-02T21:46:28.271185+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bcf81975e6215cf4210f4137",
+    "title": "Xiaomi sets November window for Xiaomi 18 Pro global launch - Mezha.net",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRW1FeFpGWTU3Y3dtVUxZMXBYNXgta2dWR05mc2JBYTY3Mk1yZkdGSGRFcTJycFFyRDBQbWRkUEZHc1lFZUVrSmpaZENTM2plaHR2LWRYRmpfZzEzWkFWQ3J1T3k2Y1hKX3VzblRYamY3QXd5bHFZbGNIbjh6eldha29rMjEtZw?oc=5",
+    "source": "Mezha.net",
+    "published": "Mon, 02 Nov 2026 07:20:45 GMT",
+    "discovered_at": "2026-11-02T21:46:27.567922+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb48a647695ab410abaf469d",
+    "title": "Xiaomi 18 Pro series to go global this month, confirms Xiaomi - MobiGyaan",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02cGRyME9VMG1yMXdpWVZDV3NyS0V6Wno0VVE2QUpTTzBqRUxBLUpaMS1DcHJ6WGt4UGxZcVprVUNTbXdVbkpMc25BbWJwbHlTblhRQU5NTlowRXZCMjZDdjdUeHFfTUtMZGppTQ?oc=5",
+    "source": "MobiGyaan",
+    "published": "Mon, 02 Nov 2026 15:20:11 GMT",
+    "discovered_at": "2026-11-02T21:46:27.567753+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2aa781ed146f2064d8946795",
+    "title": "Top 10 most powerful smartphones in October 2026 - mobidevices.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1Va3Fpb1o1c3BLel9hOURyQjRjQ1hhZDNpb0lHLVM1Sll6WFl6YWdITXpjbU9ZVGpuS0g0c0RUUkk5ZlBLTEN2R09lbENBMExEazdOV2lTRGJ6YzFfR1EwMklabjVWeUlLQjVLc0tyZEswY0xU?oc=5",
+    "source": "mobidevices.com",
+    "published": "Mon, 02 Nov 2026 15:00:31 GMT",
+    "discovered_at": "2026-11-02T21:46:27.567731+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "1687b98010d6ac365df92545",
     "title": "AMD Gorgon Halo Benchmarks vs RTX Spark [2026] - shattered.io",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0NmdnWUZPWGR6eEFLMldXcW1nMWp0d1JuNlhvVEl5NkZ4M2VSM1QxUEp0NW8tLTY1dnRHRWw3X09RZG5MZWNZUDdGWERNQ2hZbjVrVEQyVFVlcndXeHJqX0dWcWxVZU5xR1Y0U2p4eWNHTlQ5?oc=5",
