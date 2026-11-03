@@ -1,5 +1,93 @@
 [
   {
+    "id": "8b8bffb67c86766dd6b1ea5d",
+    "title": "AI inference cast in silicon: Taala’s HC1 is not an accelerator, but a declaration of war - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcmVSNHNURlVBYThybmIzazAtd1dmUFEtNm9oZEtvSlpDRWVoMF95SHZEV0ZfcnlrOGVWbWU4dzlPT01PdXhzeTVnN0d5SlpZYVVLOHJEZU1SbVl6Z3RDVnJsSUNPRGpCNGdxSUZkYjdIUnJZRnB2azU0R3lQZ1E0VEQzTFExRmVjN3ZmM0FrVG5kT0tKVnZWeXUyOXJBUEZWeGloZTZuRDJwZWhOT19DdjZ6eFE?oc=5",
+    "source": "igor´sLAB",
+    "published": "Mon, 23 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:42.124946+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "38a0c6d6e5f6f4acef38d42c",
+    "title": "AMD Instinct MI450 AI GPU Will Take The Fight To NVIDIA With 2nm Chip Tech - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOEVzM1JSdlNHaVdMYldIYlRqSWtyc29ySnlPY3ZNTVE1dUJPR0F6ZHBBUHYwd2EwZDRuLTJDRHI2NTdOTnJxU0hCcUk1UkxJeURoU0V3UFZ5U1RWTXBMemNRbWJMMEJVcUNtUHFpVElSQVNfUlloS0tScmhoNmx4bS0wWk1rakIzZEJsb192dw?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 09 Oct 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:39.892539+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a460e68f08ce30aeaa727a93",
+    "title": "AMD Instinct MI400 to Include new Dedicated Multimedia IO Die - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPREwtc1J5MV90VzVLaU9KQ0FtZ3lGVDE4eVN5SWRHdEE5X3p5RFU5MmVJazVXMkZMT1BDMmlLNTFnRzJteHZxRGRJXzZwNE44SWFBVUJJUjJ3NWxUTXcwT3VBRFpFZUxMSXYtZTRZU2lMaFpRSkUxdFVhQUJIZVJIa0piVEVCdjF6WWRCOERhdXhpaGF2VGVmT2F1TXnSAaIBQVVfeXFMT0xzbWQwZWlEUkdTeHJWTnJOQ2R6UjNmZVFwbDlfd3JxUHRYVjV6bHRvd0E0amxta2FTNUVXbzRhRFlsNnJkak9OMThwZUl0MnQwY1RFTVkxajFXWGVxZjloN3cyXzR2Y2U0Nk5xYUhlWUNPVTBaWHY0ZE9Kd1RaQnMtYUhOZWdVOHhNako1WFdJU2c0RWFKOFdnZ05pckNnM0RR?oc=5",
+    "source": "TechPowerUp",
+    "published": "Mon, 03 Feb 2025 08:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:39.892496+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "55387ac25ac18cb02d77395f",
+    "title": "Intel Sets 50% Gross Margin Goal for Every New Product Before Production - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOUxCY2k2cEdxY2lxYVItZFgzdVF2X0x2UTdfYlNTNnlTUEhGcEpicnVrMjRCdlNKZHhEdUxMUTNIc18xaXRmbWlLcG5qa0tEX3VYa0NXR3BsVUQ4ZWtXcG1zUHdFaTZuclcybmtsbUtNYlNoYy04X3hvVVh4VVZwWHVCMEF4ZmpSa2FfU3d4Z2l3TW5CdGQ4Vml2Q0VSUkdJajlMUGtVQnFNUdIBrwFBVV95cUxPRlV0akZjZVhxNWRual9XeWxXUEozZHFpTnpJbDNTNWk3MXQtVzVkeUE1ampXYmRYX2M0ODJ3NURCRUtIZ1B6T1RfWk5UY1Bmc3lQdnFEdlJvR19kdDJnaEZfOGlmOHI1MEFQR0laV1ozM2J3aWRTN0xoN0o4YmltNnFkdndENURMZ1g4cnVuVUNSUFh6Q3pMMHJVd0ZmWGRVUVR5ZTZPd1BlTlpUclBN?oc=5",
+    "source": "TechPowerUp",
+    "published": "Fri, 06 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:39.190049+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "37f2ab26f7878c1995e3ca29",
+    "title": "Accelerate Autonomous Vehicle Development with the NVIDIA DRIVE AGX Thor Developer Kit - NVIDIA Developer",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcTQ4eG5WNWNNQmY5YVI0MDMzbEVhYmk5Znk4d1d1OUVzbHh2ZHNXTlFfQ2laVkNQTURmRE5FQjV1SFhjRDhVbVBQZDhYN0xOcmtPQzc1ek9GRm50NERWZjRGMXdjekd6UERyTTcyTUhrQktpQ3E1NlE5TS1QamFhWm9QRG1pM3ZsN05YRUFmSlVxX2laX3NWNDJBZlA3ZEZSUFoxeVhON3Z5WTNfLWdMY0NzYTZxZG9NcVlWN0tB?oc=5",
+    "source": "NVIDIA Developer",
+    "published": "Wed, 03 Sep 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:36.691308+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2a01f03a44b1339c118c4e63",
+    "title": "Tier IV and Isuzu launch L4 autonomous buses on Nvidia platform - Automotive World",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWRmalZhNS1aYzlRS0lOQndpX0JPbHpWYnJBSEI0YVAzMlhYNC00cllEUS1DRUFTbnIxVVVoU2t3bzZhWjNpMEVqUXZBUDFNRjYzUnNSZjFyb1R4VnMtRkc3bng0c0h0ampvb0hVNUN1c3UzYVZqN2paUnNISTB1QlF2RDE4amhNTnNJem5VZk9mUXFvREhoOHAwUXhTNG40RGpj?oc=5",
+    "source": "Automotive World",
+    "published": "Tue, 17 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-03T06:58:36.691148+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "de53c6e31af273811bcfab1a",
+    "title": "Intel Core 2000HX: 3 Raptor Lake SKUs, 24 Cores Max [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcnhSaXNFVVZucHJ4c1JMM3R5Z3FtSGQ0amUyTUdwLS1QSXliVUZTd2YtbTFxQ1drbDZsczVXdlZ4bkxCUGprWFhYRHNlZFJoenRDSjF2UFZuU3pWY3VhaWtJRlJNTTEtUk9wb0RIeGRXNnlNNWo4eVFNZy1TQU1tS2pWTU42d2YyVkhwS2t3?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Sun, 01 Nov 2026 10:57:48 GMT",
+    "discovered_at": "2026-11-03T06:58:32.196957+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "384d6e242d5eb6f6489a30f0",
+    "title": "Xiaomi 18 Pro Goes Global in November: What Buyers Outside China Actually Get - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUXhraDZ4cGJ0MnBaUGgwN3ViLUZueV92a3pnX1dYTTJJQ1ZhY2laM01id0FJbWVKU3FEcGloVnZwUVlVaW1TVVlRaklRSEpjYjV0cHZaZnNyM09ESEhyN2FLem5UZHVXM09DS1JCM0lhenhGUk10ZlU1aHFCZzZSNDFtYVZ3TFY1bHlCSzJEMEQyZkpkS3ZMalNIaWlpY0gxdE1XS2hNMjZJVF9ZUmRCRVlBWVB1d2o4S2VPT2cwSEFwYm94anhZ?oc=5",
+    "source": "Tech Times",
+    "published": "Tue, 03 Nov 2026 03:09:07 GMT",
+    "discovered_at": "2026-11-03T06:58:27.061635+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "22df7b4b5174b54a79b51014",
     "title": "ASUS Unveils AI Server XA P2N-E2 - Inven Global",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOakNCY25ZWjZBS2JMdWRpTWxJUDRCVGRiZlRQWHdzUDZiemRHcjdadS05V19wTHR2eXlseUFNbDRmSHJBc2ZQZmNOaWdjNEhMS2NZM3ZUaUhVdWp5NDVYWjY3cWNMZWl0S2NzQkNDUDhNNjRaM1RZTm5Nb3ZNZFdOQw?oc=5",
