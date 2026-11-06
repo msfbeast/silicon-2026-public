@@ -1,5 +1,71 @@
 [
   {
+    "id": "5ec24adf02788aab466ab972",
+    "title": "How US-China tech ties are deepening as RISC-V chips go mainstream - SCMP",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWjNPY1kxV1N4OHJhNGtxQ1Z0eWdrY0U2T1ZIZHhvTUhFcndzcjRUcVJVNDVuMEFyRlgzMHdDSVF6c1JSb1VScEpEcENRWVJPYy1LcFBfNlVFNFl3VHVyLWZKQTc1TnlpU3VwWURfUTdUUHF6RGdlQVdGWFBrZ1gtUEUtQmtwWGFWakViSVVndGRyWHdUSThWOGhXWnpGeTA1cnFCM2tYRUdvTjJscExzalZTVjE4bFBuNnfSAboBQVVfeXFMT3NaS0JTUl8ySnE4a2F2Vzgxb0RPdFBsbTJ2ZjU3cEJibEszVXZHUEozWnBETS1qSFZ5TEV6ckdUaGN4N0plWU1xODF5V25aREliR1J2Y18zTHBJWjBCQnBSMXB4Rkx4bHJsSDE4WUhmM3RDZnZDTjBTUlE2dTF3Z3N3UmFqcnYwUVNSYmRWS1Nnc29rcVBXMURIc0RyZkdNM1VzWTNTam5iVl9ZaTgtLWZ0bGdRZ0R0UEZn?oc=5",
+    "source": "SCMP",
+    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-06T06:58:50.501133+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3ebcd587e75f009ee92341e5",
+    "title": "GPU vs TPU: Rubin, Ironwood, MI355X’s 288 GB [2026] - https://tech-insider.org/",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IUE9BcmIyakVuWkRHQmRUazZYREVSQTBtMDJRU25YdmZVTnQxUjN3enFVR25lTWx1b0tOSk5SU0xWNlF3MU1laEtxODRwekxycjRwVDZxT2lodnI2N1FLR3ZGZUI4Z1RiaEw3TkZUU3c3WHBPelgtY2hjTXFwUFE?oc=5",
+    "source": "https://tech-insider.org/",
+    "published": "Fri, 06 Nov 2026 00:47:46 GMT",
+    "discovered_at": "2026-11-06T06:58:48.807387+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ce8883e592c1a19d98aabf9e",
+    "title": "Nvidia RTX Spark Review: The Little Engine That Couldn’t ⭐ - Thurrott.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXlZUTdxTmpxczVCUWdBWktVRVNIcjR0QUg2TGU0bkVLU1JFQ3JQZ1MzZTNRYzBBLWVjYm8zNEdQMWoxQzM0bFdEaERuZDl6SlJsYVFpbmhvOXhhZWduZzZTeHNCVF91RnZpTGo0YlFRMmw1UXBMRjlObTRnOEZCcDZrQTItOUFtV24tVEQ2SHVvMUZUaWE5bEhSRQ?oc=5",
+    "source": "Thurrott.com",
+    "published": "Sat, 31 Oct 2026 19:32:27 GMT",
+    "discovered_at": "2026-11-06T06:58:46.171144+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e2f61d33422560ef633122f1",
+    "title": "AMD Zen 6 Medusa Point Beats Ryzen 9 9950X3D at 2.0 GHz in First Lenovo OEM Test - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWENKWGhCWGdHUV9mX2M2V0MzWUZZbjUwNmpUSktuZG52azhoYktpVGpsNlpjMGJSYm5icDViR21RTzE5T2Z5c3o0N05kbEtoSGpmN3Z2b1pvMnFJQTNtTWNHOEhRRXNPSnU1cDRvNkxnWVE0eHYwdXdnUkhoM2ZxQlFPWnR6QmkydTREdFZHaGVBY3MwdjBVVGVUWjBhWUQ2S2N2NmtrUjg2TlF0NEoxUWIyVWpWaUFPNGxiTVA1OXpBYWQyeXV3?oc=5",
+    "source": "Tech Times",
+    "published": "Thu, 05 Nov 2026 23:34:37 GMT",
+    "discovered_at": "2026-11-06T06:58:45.774025+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d62d9cf46c1ef2fcaa1c30ea",
+    "title": "RedMagic 12 Pro Review: Classic Compromises - BGR",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kc1ROOTMxcThzLXpuY01naTVuZ09RSEdhT3dRZzBXZ1ZrLUZDT1JaWnRNTjN2OUppSjR4NV9MdTJBOW5zYmdaZUVTQVNvS3VrSHRwMTVwUTBkUmNzRmpWWg?oc=5",
+    "source": "BGR",
+    "published": "Thu, 05 Nov 2026 21:33:21 GMT",
+    "discovered_at": "2026-11-06T06:58:43.624588+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "79e02b0107166621c861968a",
+    "title": "Motorola's New Signature 27 Phone Has a 12,000-Nit Display, 200MP Zoom Camera - PCMag Middle East",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaHVLRFpTX0ZxcjNPVmN4dS1ZNzFPUWVfNVFjS3VNRWUxa29XNmYxOXZkT2t4RXpCSFd0dnVCUGJuSFE4T3ViMU5Jb1dXM1dNWTJqTnktcmh2VHV1WGNHSDd4OU55RHVMbktTYWtuZHBfQ0YzYXdKX1AzTmViam02YVRjUy1RN2hELVpnTXl5RTFyemR3TXJoLVFFMWpEU0ZTRjk2b0psaWVuTkxIS0QtTjYtQmdwN0FvQ0E?oc=5",
+    "source": "PCMag Middle East",
+    "published": "Fri, 06 Nov 2026 03:44:33 GMT",
+    "discovered_at": "2026-11-06T06:58:43.624499+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ee60dab14b16e2be81178b3c",
     "title": "Groq Rolls out AI Chip on the Cloud - EE Times Asia",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zeGR0S1hzeXNoWEg0ZU9jckhIVHp6N2tORGc4MmpHUGZmNERFQ2hCUmdUQ3NzN0hlZ2RSMEIxOFUxbmJZSzV1RDlaMkZxRWd0Y1NseXhGZGFfejBjTGV1TUItNzNKaWNUeFBXOA?oc=5",
