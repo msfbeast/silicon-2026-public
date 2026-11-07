@@ -1,5 +1,126 @@
 [
   {
+    "id": "9cc7808c74461e6659a475fb",
+    "title": "Infineon's RISC-V Debut Caps a Week of Design Wins as Traders Weigh AI Data-Centre Risk - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVU1fR215ZUJ2d21UQUo1ck9CWV9HVGw3b1ZPVU4wRWZSTVV4cXZyOGZlZHVkc2pTWTU2MWtZRHlvbzJrTGppbU1XY1BTUUtKWDRmY0xKbUNTWXl2OG9GX2kySlU4cVpmOXRPWms5TmF6R2JqVHY5SnJyQnBRVHFXSE9IRjhxamRTU3VrZzV1dzlmbi1pbWl4YnI1RV8za1JwUlJCNkdzcTlQZHlKYTc2V2NfZC05c0Mtak5NYTdDeThBNmxuVGpfOHpzMldPMUVXeFFwdDJBQkpEbEVPTjJIMTRIVXpZWjF3b0pFdElVS2I?oc=5",
+    "source": "ad-hoc-news.de",
+    "published": "Sat, 07 Nov 2026 03:02:02 GMT",
+    "discovered_at": "2026-11-07T06:11:51.733262+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c805ca3ae6f6215399232b62",
+    "title": "AMD Instinct MI300 AI accelerator takes aim at Nvidia GPUs - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb1N5cFdBX2FaZzRBU1doRVVLWXoycXpZRDdGaWc5aGNWZ1NBaHppa2tEQzZGczRBdU5CVWRENkV5ekx0X3pHc05vMm5IcFJCT3QtQTFpMGltQnlGZGladGhGYmVpNENRNHUtbVpvSmt5NmF1dzZwcG9DS3d3ZFlZb3hTdERhVFNjOXVqcUJPd1FxaHNyR3NiTzY5eERQTXM?oc=5",
+    "source": "TechTarget",
+    "published": "Wed, 06 Dec 2023 08:00:00 GMT",
+    "discovered_at": "2026-11-07T06:11:50.330347+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "138a726b920ff3c210457356",
+    "title": "RTX 5070 with GB203: Larger Chip, No More Performance - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUVpYVU52LXJidnY5TTZ4WmFkd1ByUWwtQmxUNlRrdWl4enZsRUxxQV9PNnczSFhnYkprRVIxQl9QY3RXV1dDWmlib3BlTGVBdXc4YTNRRmpUTkMyazlSRjNDVUhWeEhHeWZJcFhzelIzUDNQWGVRSjJ4cWlzbE1aVHdwUF8?oc=5",
+    "source": "igor´sLAB",
+    "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+    "discovered_at": "2026-11-07T06:11:49.995465+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3330bd4a4143bf4efc7f9287",
+    "title": "CUDA 13.5 Makes Vera Rubin Production-Ready: NVIDIA Expands Scheduling and Multi-GPU Communication - igor´sLAB",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWxXaWdfWkNrMWRTUjFvSjR0VVQ0Q1JnNWlWbWUtcFBhX1FoU0NRR2ZNZmQtMVl5X0Frb3o1VUVrWG14dXFnMGxILXRzenllaFZDVHo0Z0tXUVZWLXpsN2Z3a0ZlZWE2NzZsTVdKSjRUSmxHVW5XVUFmaU05dzFkdWRlelV3UzNsZlZTbXgydHg2OUlVcXFhbnRsNmlKYXYwb1hoVmhadENCUFE?oc=5",
+    "source": "igor´sLAB",
+    "published": "Sat, 07 Nov 2026 05:00:00 GMT",
+    "discovered_at": "2026-11-07T06:11:49.995296+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "afb3c01f99179949c4c45d05",
+    "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVE?oc=5",
+    "source": "CNBC",
+    "published": "Thu, 05 Nov 2026 13:34:14 GMT",
+    "discovered_at": "2026-11-07T06:11:49.995171+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "becce388b3e029b431131100",
+    "title": "Intel Arc B580 Could Be Discontinued to Prioritize High-Margin AI GPU Production - NoobFeed",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrOWxTaHJFYnhhSFRBMC1nUjY1aVlmN1lKUFRQX3FyaEdhSjVfeGNITGd4RGVVakllSXpYLVlMWnJTdklWc0hsTzJKdjFTdzU1c3k4TC1kY0YzUEtIZnVQY1VaTE90clpFQS0yLXB5dms2dEhqUmc?oc=5",
+    "source": "NoobFeed",
+    "published": "Wed, 04 Nov 2026 17:58:34 GMT",
+    "discovered_at": "2026-11-07T06:11:49.575497+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b2f0e691b5fc1f7effddc18e",
+    "title": "AMD Zen 6 Medusa Point APU Drops The Hammer In Geekbench Leak - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sWEhzcG1xM3lReGZPOFJiV1VnSmFWYTlHR2ZDc2t3eE1NVGJxUHFDTkpGczF4UVJybFpLeEdCUXJNZGJOZy1keHdwRDZkT1BBZUVycUk1SEZiVXFxSkloeC0xdE1US25tblJ3Tkl4aDM0dHhNUTJwNV9kam4?oc=5",
+    "source": "HotHardware",
+    "published": "Fri, 06 Nov 2026 18:48:00 GMT",
+    "discovered_at": "2026-11-07T06:11:49.166322+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "08627943257a107d2eb99fac",
+    "title": "AMD Zen 6 laptop CPU leak reveals unusual core configurations and reduced cache - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQakhnMENEWjlzSEVwRU5aS0NGSTJGamF1UGpEQmdVSk5iTmt1cGJDZmFackVTRnNNUTF0OThvZXV2OU5TSDlacm1VT1ljZlBDTzV1OVNlank4M1BWZXFmcHZ3VHFXV19JMlBHUHpvNWhhVXNSMUlRTEoxeXB5akFQTFlyclNzRmRQYzBCSlBZVXhWeC14blRERzU0OVJpTDlpMzA0cjJzUTlOaFJoMnhRRGNDT3llcjczRnVocU52T3AzQQ?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sat, 07 Nov 2026 04:39:00 GMT",
+    "discovered_at": "2026-11-07T06:11:48.740489+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d52d670e98828ed2e53b99f4",
+    "title": "The OnePlus Turbo 7 Could Copy the Ace 7's Best Specs. The Hard Part Is Leaving Room on Price - Memeburn",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE42QTZGZXZ2TkJ1YkZxXzQ4cFZHM1NGQUhvaGZycncxYi1sdjE5MnJzeE5XbWpXWGJOajIyT1NvTHFqZUMwc0ZFTFhGcW9maGJZdGtLeHdYSW9WWG9p?oc=5",
+    "source": "Memeburn",
+    "published": "Fri, 06 Nov 2026 21:17:50 GMT",
+    "discovered_at": "2026-11-07T06:11:44.687642+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2659933aec286c6cf7e6faf4",
+    "title": "Motorola Signature 27 debuts with a 2nm Snapdragon chip and 200MP zoom camera - Sportskeeda Tech",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaHhULWlmX2wtcmNUOTkzamdndEVsRTdObUNpc3dUNDROVG5vV3dqeFdaelBnLXdMUHNYSmszb2dOYXBlQ3ZqZ3VBZ01ZUDYxZmVmbW5rdE1rV3VNU0tfWkNhQVNsendOOFZwUzBmaUJ1VzRQSkJjVUxwNGxFYTUwaWdUTmVkZTVKUUZZTE56Y2pydWdxYkllM1JibmhWejNtbm9KQmZGRlN1RzVS?oc=5",
+    "source": "Sportskeeda Tech",
+    "published": "Fri, 06 Nov 2026 12:16:37 GMT",
+    "discovered_at": "2026-11-07T06:11:44.687521+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8ded517d868e327ba3ec8e82",
+    "title": "Samsung Galaxy S27 Ultra tipped to use Snapdragon processor despite overheating concerns - Android Police",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZkF5LXlvMzdVSVdpUUJNNjE0ekxuTnF0TVI3SmhLcDlvMGF3d3BPLTVOSV9JX1lUZmN6N2lubThPVFYweF9oeVVPNFhqbnVvVDlLS2NQVGJCbDFXeklWQXZDN0RFclB2R3FMdFBkXzVFZkdDWHZONEgyaHVNVUlVVnIwT1pubXlEX3EyR3JyQy1CbkJEaTRfTml1OVhnZkdDZG82czJwZE1WWXdqU2Qzc0VNSXB3ZE0?oc=5",
+    "source": "Android Police",
+    "published": "Sat, 07 Nov 2026 02:36:00 GMT",
+    "discovered_at": "2026-11-07T06:11:44.687252+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "366dee8f6bce6a1bd230818f",
     "title": "Qualcomm Acquires RISC-V Chip Designer Ventana To Boost CPU Efforts - CRN",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMDVtS3l3aWQ1enU4UVVuV29kM3k5U2dkU1EtSUlaQy1Gb21JclVLR3hscGNVS0UxNlpST1JIbVJUdnh1NWZQcTdndTF2UDc1dGFfRy1uRE4tUFNyeXJfeVVFb2h6M0ZqbHE0MWxmSFg0R1pPRnhFa1hnMFM0bENiRnFfcjZILUNiQVFtc21lWGNqdHFVNnZIXzFYXzNTTTM3a0dCY2VsLWdyZU83Y19BbGFtZUpDUzJGTURZazl6akdHZW8?oc=5",
