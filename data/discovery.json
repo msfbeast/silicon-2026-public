@@ -1,5 +1,60 @@
 [
   {
+    "id": "4fc58ce312d1d762f1b8d687",
+    "title": "Devin CLI’s New Build Lists a ‘Silicon’ Model in Five Tiers - FourWeekMBA",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMHlqemhPVWpMS1hOWVRhUEMyd242TFZmZV8tNmpFeWpaZkNiWUtxaVRaN01LRUpqSVM0b2Q5dGFDTFZhdUI2VXh4SnVUaV9QTEM5NlhZT0otR3d5aTZUTFZZQmZ0c2pFU2NGMEhZRXJVVnVWM19yeHUyd0kwbzBkcE9tMnFKa1p3WHpraw?oc=5",
+    "source": "FourWeekMBA",
+    "published": "Sun, 08 Nov 2026 14:32:49 GMT",
+    "discovered_at": "2026-11-09T06:49:42.686655+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7db7b4d26c6f69fddc2f6563",
+    "title": "Visinex Introduces VS815V RISC-V Vision Chip With Four Camera Inputs and 4K Video - Pandaily",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWTUwMlV2VTlkT2otMjlLQWxRbEdXcFJ2aG1aM2VhWU9xZ2VlZ0ZGMTEzQ1B1S1NmZDdhajNnMkZtQmE2d3poMmNfVDhwcVY1ZWdSdHREMkV0Z0Jva0JJdXRMaGk0R3h0UFd1ZkJOWjc1STBCZkFIMW1DLUhpYzJDRklB?oc=5",
+    "source": "Pandaily",
+    "published": "Mon, 09 Nov 2026 01:51:32 GMT",
+    "discovered_at": "2026-11-09T06:49:42.686391+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "342d148d27d103b82fcda080",
+    "title": "Entry-level Intel Core Series 3 \"Wildcat Lake\" Mobile Processor Spotted at CES - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR0NlQ245aVR3QUZtS0JDMHlfaWxnVFNMQ04wQ05HRGttRkpoWGlxOHdtbWYyQk15c1FKZi1rUlNpMThqMGctZ2pIQndCOW1ESkZOQmd3b3EwdGhwMlpESF9kMVpaaHBpbGpzUW9pbEM2NW1KLVprbG9fcjZtZ05uLVNNbnZ6R1pXelNZdVk3eEFjcWVseEdRTjlnZnpRME91WWgxdjBlRGhtZ1hkOWFTdw?oc=5",
+    "source": "TechPowerUp",
+    "published": "Thu, 08 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-09T06:49:37.455690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "31de137acbde2ff7ccaacdce",
+    "title": "Is this the shocking conclusion to the Galaxy S27 Ultra processor mystery? - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSV9UYWg3d1lWdGdKaTNkTlRIdmROUmw0Ri05d1Ffa3ZteGtYSjZmQW5hVUVFUUZTWHBaY293QThMaUg0YmM4MGVvMWlWcmgtYjUyTU9GMVR5SG11YzhqQVVrTEluUnRuVFBlVld1NllTaEt2WFduWS1WU3YzRUxpOEwwa3RtYXRUbEFGaE1Mc1FrNnh4Qlc1ZEdMU1VPLTQwNE85bFRaY3JXUQ?oc=5",
+    "source": "PhoneArena",
+    "published": "Mon, 09 Nov 2026 04:46:54 GMT",
+    "discovered_at": "2026-11-09T06:49:35.628109+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "387c0714e010752b70e37497",
+    "title": "OnePlus 16R Expected Specs: 9,000mAh Battery, Snapdragon 8 Elite Gen 5 Chip And More - Gizbot",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd2ItTFl0ZUJ4bGN3RWVQaU1VOWZWSGtsblFYd1NTS2tPSEl0dC1abVhXYkJjQ3gzNzJrQzBrV1g4VEpNSmFxVUE5QVhRZ21mYlYxQV9mQjg4LU9LVjFNZjdSdEFOVTZQdTVvZ1RJMmdxMzFWdUYxNHN1b3dxUmtLWGd0aXloMTdaNlgwaDhXalp3bmwta0hLRVBNeTNnMUJ4RkZ3Vl9uMm92Ml94alY4ZXZaRE9nazMxSHhWUDJxR1FEVGFrdWgxUw?oc=5",
+    "source": "Gizbot",
+    "published": "Mon, 09 Nov 2026 06:41:34 GMT",
+    "discovered_at": "2026-11-09T06:49:35.628045+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "88200dae2074eff64ff05909",
     "title": "Google Ironwood TPU Pricing: $12/Hr vs Nvidia B200 - shattered.io",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRcHIxZnpYMnN4TXF2M3R5N01sTjJRSUhBbXFuYXAyY2tSQjZIR2dPWjNQeUplNTYtTFVXa1lGR1dSNzhRejlsS2dIbjdTdkU4OWVFekl1bnlvOVBGTTdVaklOQXJTajhEQW9rYVhmWWQ2QQ?oc=5",
