@@ -1,5 +1,115 @@
 [
   {
+    "id": "b2af79556711445df5b27fc8",
+    "title": "Google debuts specialised tensor accelerators for AI inference - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29YQXAzMThaaGhwbGthOG1mUlZ6ZlhqcFpMQlhhazBtMlRnb0p4MDBYWmlHSDhiN3o5cFFiZEV0VTFCcFo3ZVRrS0Etdkt3ZFNVTUgwQUJ4Uk5fVE9RYmZPRW5vMzFYNnI4aUc5R1BXMEFYQjRyZlI2TUJuZUFyTkRualRBTERJaUszWTV1U1RPNG9hcVpWLXlKNnE3ZDVlSDFkR21HRlE?oc=5",
+    "source": "Telecompaper",
+    "published": "Tue, 10 Nov 2026 16:00:51 GMT",
+    "discovered_at": "2026-11-10T19:51:03.565176+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "835f7412b35340788cce6b46",
+    "title": "nubia A57 Debuts With Unisoc T7250 Plus Chip and 5,000mAh Battery - My Mobile India",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXdrNGRVSVNZYWstaDlPZjM1RUN2dzFPQ2FLdW5zWkNPaGR1bWFIcS1CWm02Q0t4VGg4TVYwV3RJWjlnVmlHYzJabGx5WWx6US1EakdDcU13Z1BWM3VKRnpVT2NKdkdzUFU3SHVpQ0FRaXU2dF93ZHRWLVVpNHVWa0VvZ1dLaHUwZVM5MVlrTVZyMUVTSS04MXdyRQ?oc=5",
+    "source": "My Mobile India",
+    "published": "Tue, 10 Nov 2026 12:41:31 GMT",
+    "discovered_at": "2026-11-10T19:50:58.246922+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ab884ba5c77c67f372d9f5c5",
+    "title": "Nvidia sales are 'off the charts,' but Google, Amazon and others now make their own custom AI chips - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTW01VGRQN0xUaFo3SXAzeFVBZUF2VEw2S3M5Y05mcXp2SDdjclE3MGJYNzhhTmRMVWZad0VQSGR1VEJvOXZUclhWLUtvUDJqN0dwOXRZMzBEbXM0Mi1sZ29XR2ctVE1GcTBEcmY0R3J3emdCSXhDbG8ySzVmZnlkUV9BNWtzRC1McDVKSU50MmlmelBkVHJxS3BBRkNlTDJmUkE?oc=5",
+    "source": "CNBC",
+    "published": "Fri, 21 Nov 2025 08:00:00 GMT",
+    "discovered_at": "2026-11-10T19:50:55.984283+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d242fac3c39a3423c99df81f",
+    "title": "AMD’s Next-Gen Instinct MI400 Accelerator Doubles The Compute To 40 PFLOPs, Equipped With 432 GB HBM4 Memory at 19.6 TB/s & Launches In 2026 - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObHlkcTU4UU9oWGZXM1hIM0hNS043Y1RYWmlScmtMRFhMTTVFellCcFNYVGtGQXFHbDRXRm5CandWMGxtel9IS1lYUkd1Z0lYSl9SX3h4X1diaGdQaDJ2VXg4b3NlME10dktUeURDRExMNjlyOTdTa1pueGdZTFNqTDlESzNaWE01WlQxbVdNT280SXBwZFVkX1ZNNlR5RE9aWkVXb0IxN1JlWkdtRXfSAbMBQVVfeXFMT1JHVHlpWWFFeHJSc3FuMTFId1c1QjFBZXgyNFdXQmF1WExKZ0R4LXB4MGVyQVNkWXN4ZEwydmpudXBQLWpGM01ZQmlGVENRLVlibDc2X25SSS1vLTFvWHNTbGc5Mzc0VHZnM2hnM25TNVNMeHZ1ZWp5U0F2LTFDQ3hONzd6LWJ1Y1VlS0FQU241ZzFZRXFILS1Wa3lWTTFRRXhiVXBBLWRUc28wZ29UN1llblE?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 12 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-10T19:50:55.168690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1536388463ff84fdd268f4b7",
+    "title": "Nvidia CEO's affair with alleged spy aided US$7.5 billion in China chip shipments, Information reports - The Standard (HK)",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSVRiSDVwbnplNjdLY0pKOTl6YnNjQmREX3YtTjVSUHFiMnJfTzVTelBMbzhreV9HNVVwRmlWQ2lydUs4MEo3SS1fVkdmX24tOWRqeEdNcE9hcmRDVGlZZ0Z4bzdlQk9CYWl3aDhmUEhMbGJPTFlieUZDa2lQckEwZFpCT3FkODlvNFVkT2dYV28xUXg4QW52eFpod3ptd0tHLU9hUGhDRWpvdzRWcHk2UjdEbmpXX0JOWmZhNm9zNzlyakhqWUs3ODJyb1F4dU52MnBQWWFSZVhuN0ZESmY0SmFqQ0R4RFdiYTIw?oc=5",
+    "source": "The Standard (HK)",
+    "published": "Tue, 10 Nov 2026 11:25:30 GMT",
+    "discovered_at": "2026-11-10T19:50:54.775492+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bf563d8af4dcbafe90dd5f73",
+    "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPV2ZZME1sb2JBTVBGT2l4V0pUcGlCbnNLSnJRUmZ2aUhMaU41Z0tGaERoNVJJOHRUZkxZRjR2aGZ4NlJJYTlzWUJxb1l0SkxPUlZtQklSTXJFb2NEYlpQdlBlTzQ3MFd5MC0xNkl2N29RMXo1Tjk5M2N5Z1ZWVUpHVldZNHZWdEd0Tm5LaWpOUGFXcy1NUkJFRm9MNi1mNjUzTWpzUkJQU3hUWXNKMmFiNVZfbHNGbW1DXzk4dE1FSW1IYW85cEdJd1FYS0VuVk9nSHRYLUVLSGxtMDhPWlJva0tLTTkzQQ?oc=5",
+    "source": "The Register",
+    "published": "Tue, 10 Nov 2026 17:00:00 GMT",
+    "discovered_at": "2026-11-10T19:50:54.775341+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "19ef3cacf6bfacd0e1c6d34a",
+    "title": "AMD's Verano Targets Nvidia's Vera Rubin With 112 Gbps CPU-GPU Links - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1NSmloZXVpOWdaVTFyb0RPVXBLbGtyb3E1RWZ3ZUZYQ3M2em1HUzEtNFM3Ri1DNEdqR1BOTlNQQmRmOUhCUTZlakNqMFpmRjQxc0I1M0xlTy1ZTk8xOFRqOHR1TFRVNk1ha08tOVhvRC1hX0ZCWEE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Tue, 10 Nov 2026 17:35:00 GMT",
+    "discovered_at": "2026-11-10T19:50:54.775304+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f51d41bbfbc6e8df35f04fcb",
+    "title": "China’s Top Spy Agency Recruited Woman Who Targeted Jensen Huang - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQlRKTG9WNHBINWg3VkxadkZGV0dCbHZPWUpFclJJNFZBdzNmbGNLbldyWVgtblFfUk1famJaZUlzX3JSTHpyYnRIa25Qd01jNWhPbVV0QllXRW5pTGdBam9NaE1iTXBXMmhCNVFoNTI3ZHFDVEFSU0F5dXNTMHVfY0Z1RzltVGpRdDdaUUlYNzQwWVlz?oc=5",
+    "source": "The New York Times",
+    "published": "Fri, 06 Nov 2026 21:30:50 GMT",
+    "discovered_at": "2026-11-10T19:50:54.775263+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "15f3d8d2faa9652c2a9d0e72",
+    "title": "Google Tensor G6: Benchmarks and Specs - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96c0ZIaHd1SHltTFpyc25ibnc5REpWMUZzSVU1NWRLLVd1MzQ3OEFUN2FHbkJDeG84ZE02NlF4d1J5NGljbXRjT0M0aUhrUloyN0Nwano2WjJmNFVMMGZybmhtcmJCc2I1dXdJRGZERDF2aGFF?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Wed, 26 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-10T19:50:52.013988+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2986ddcbbc791d1bf909d203",
+    "title": "RedMagic 12 Pro+ vs OnePlus Ace 7 Pro: Specs, Features, Cameras, and Prices Compared - Nokiamob",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVk55bTQxRkY2QUhEZm53NUFGRjB0NWFPblpPY0VVYk5VRXVnR2U1akNQd3N5SU4yNjZjN0RBcWRWc0p5U1hYRXBUbjduWHpDWTZXcFJvTUlvYWEyZUVMLVdtLWVHTlUzcm1IWkNzdUlQSU5xRkt1bThhX3RxYzg0clhyVTFFSXdFTmhaWDFaREttd01HQ3lkVjhhTmlRa1p2Z0k1cHVINU82MDBnbXpXeFJn?oc=5",
+    "source": "Nokiamob",
+    "published": "Tue, 10 Nov 2026 17:51:05 GMT",
+    "discovered_at": "2026-11-10T19:50:48.394269+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f0abce272c946b583dfce8ef",
     "title": "Google TPU 8tx, 8i Max: 4 Systems in 1 Year [2026] - shattered.io",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWVua0dvUzRLRkRYSjFQY0ZHS2lhMGdfVWxQV2lIc2ZCejF4Uko2NlBjZEFJekVRMUpDSFZ1NjAyeHdfMjlNbjFBNER3LWRTeHhMSTlITV9lZ0l5NEotSHQtckpfTWpWR0xnMGhVOU1FRURjSmJPU0hqbk5BY0RrX3I0dm5zVHJjd0xYQ01R?oc=5",
