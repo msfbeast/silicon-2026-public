@@ -1,5 +1,93 @@
 [
   {
+    "id": "4ab127524d50d3bb729a7713",
+    "title": "Introducing TPU Sync: Fast KV cache and weight transfer for inference and RL on TPU - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDluRWk0RzZlUkdHX2JINmF3NmVPNm4zZHJBMi1uZkxOaFJQOXZEUWpiajVJSFV2aGhDaGpMa3M4NHkzUEVfYzl6SzJhTUkta2UzMFVIY0N6OFV0MFg1VXFNbktrbnZNYjk0cm9neU1ON0pwOFVpSU1yVWNTUUQ4N3ZLeVZieVc5R2xORVVsWnpWb0l2TFF4M2FaSnk1U0QxWUJocWlIel9KUEtEQjRCbWhFSFJ2R1U?oc=5",
+    "source": "Google Cloud",
+    "published": "Mon, 09 Nov 2026 13:44:19 GMT",
+    "discovered_at": "2026-11-11T06:42:48.990052+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e47e806460d466435f56ba63",
+    "title": "AMD Unveils EPYC Venice-X: 96 Zen 6 Cores, 1,152MB Cache, 5.3GHz Boost for 2027 - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnOUpQWllvelg4a0EyaC1LQUZSTm1IU3ZHSURRQURoZDNXWmpFV2pOR0RlQkJmN3R6eWh4NF9oWFVrXy10R1p2MEpqSzFkckk0TlNOLVVidGV0NXNibzJFNHVhTVVkeW5vallUWWdmbk55bTA3S1E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 11 Nov 2026 00:09:27 GMT",
+    "discovered_at": "2026-11-11T06:42:45.503811+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5508345b4f8398a1f52176fe",
+    "title": "AMD launches EPYC 9006 ‘Venice’ processors with up to 256 cores - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVhiczRQbmQ5QjRId094U19ZaUJ3akQ2Nldxc3Nla3dMRnZWQUJJX3drM1NJV0pnZ2pPT29VNkh3YkluNjd4aTVWYTFHVkRTeGRYdVlZbEh0d012UXdLdDFISWZfN2o0dEltUnZoMlFhX2pELUdnNExJRUp4ZVROLVBnTmJNdUdRWmhGa0YzYWR0MlZG?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Wed, 11 Nov 2026 00:15:21 GMT",
+    "discovered_at": "2026-11-11T06:42:45.503579+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6d3b19083b0ef4960ba1adca",
+    "title": "AMD EPYC 9006 Results Are Here and AMD Delivers a Knockout Part Deux - Page 5 of 13 - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYkdCUnB0ZWJYVXQtNmwwOXdxM3VUSE5FaHpzNWxGbThXRHE3VnBvU0lGYWtjRmJaLVYtaVJpMEpGR1RhQnZjdTlfWTdFRkhrdEM3WnBjV284Q2ZiV0Yxc3FMclJCRTNabGRRTHdzOW9vckhPcFZsVGVCZ2M1QWduUjJMNTZVSTBXck53UGlPdTlUU1hjZlNKWjNIODVFaGFtWXc?oc=5",
+    "source": "ServeTheHome",
+    "published": "Tue, 10 Nov 2026 17:00:08 GMT",
+    "discovered_at": "2026-11-11T06:42:45.503549+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "65c0f8b04932b3b11b96996a",
+    "title": "AMD's Silicon Power Play for the Agentic AI Era - TechNewsWorld",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUV4aVJJVDFqcl9SRko1d3psNEhBQ2N2SWZPZG04VS1ETHozWmExYTVQU0FnT1J5c1YzYzZ3eDZ5eFNQVzF0elhiR1dSazJOLW1HdC1XV2wzNW9WWVJVa2dtblN2TjJ4SnRrTzdXNVpRSVItdTdlY3RfdHM1OEUxRFdhY0NaQVJxNnUzVk9vVFp6SE9SaXdMbEd3?oc=5",
+    "source": "TechNewsWorld",
+    "published": "Tue, 10 Nov 2026 17:15:00 GMT",
+    "discovered_at": "2026-11-11T06:42:45.503503+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cf935c1fee052d6520db2758",
+    "title": "RISC-V Open-Source Chip Push Puts Strategy Over Capability - The Jamestown Foundation",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPb1VYckZveFc2a1EyNjd2S2FaS1BkRHVsV0VDUGVWRDZCYXpYbDhFb2tmOG4zWGlCbnVMUWJfb3h1R3EzTTJ2ajdmd01fSDA3Z2ZtYlVjd2w3SWlWNDE2czFCWnJTLVRGMk9UcW1aTWtHZDlxX3JTc0N4MF91dE1RWWY5X0xsTnFL?oc=5",
+    "source": "The Jamestown Foundation",
+    "published": "Wed, 11 Nov 2026 02:36:35 GMT",
+    "discovered_at": "2026-11-11T06:42:42.601210+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "479d69dcfeb63e25a44017a6",
+    "title": "How China gets the Nvidia chips it needs to develop AI - The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmRDdWlfN01nOER0YmE0RXNDNm9tcm9FOS1NY04zVzR1WWpJcl9aZWZwUlhBcjJ0eFZfanFVcmNkNHBiMGVHU21QbnhfaE94Tmkzdk9nYUVfS3VRc2VQelVHenRRME12V1U2LW53MlBiWXdaalFlU2g5dWhfdS1sWlI0UWhEZmxMUEN5VHZBUzhGek9FNC1YOVlXSEJfS00?oc=5",
+    "source": "The Straits Times",
+    "published": "Tue, 10 Nov 2026 06:20:00 GMT",
+    "discovered_at": "2026-11-11T06:42:40.803428+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2fd3b9063cc976ee9f5c6c29",
+    "title": "RedMagic 12 Pro Malaysia: Snapdragon 8 Elite Extreme Gen 6, 185Hz OLED and 8,400mAh battery from RM3,999 - SoyaCincau",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN3BHck9oVGJkbzkwaFo4S3ZSTHhNTDRQejNTcm8wYmRVTlloTkM2MmJGdEl1a09kT3FMQTRiVXBwbllyZmQ5LS02a2d3bnRib0VQNlgtazFnd0JZX1dtUXhtRi1FaThNRzE3cXFkbWdxZnRYTWlYZjNLcXlnUDJSUjRFQ1RYVGNjODF3V19KVGQ0X1hPQVRfVi1ZaHNtOS02Vmo1cHN6Y2FnM2UyTWFWSw?oc=5",
+    "source": "SoyaCincau",
+    "published": "Wed, 11 Nov 2026 03:22:30 GMT",
+    "discovered_at": "2026-11-11T06:42:35.142343+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "b2af79556711445df5b27fc8",
     "title": "Google debuts specialised tensor accelerators for AI inference - Telecompaper",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN29YQXAzMThaaGhwbGthOG1mUlZ6ZlhqcFpMQlhhazBtMlRnb0p4MDBYWmlHSDhiN3o5cFFiZEV0VTFCcFo3ZVRrS0Etdkt3ZFNVTUgwQUJ4Uk5fVE9RYmZPRW5vMzFYNnI4aUc5R1BXMEFYQjRyZlI2TUJuZUFyTkRualRBTERJaUszWTV1U1RPNG9hcVpWLXlKNnE3ZDVlSDFkR21HRlE?oc=5",
