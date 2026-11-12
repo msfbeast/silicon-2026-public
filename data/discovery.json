@@ -1,5 +1,137 @@
 [
   {
+    "id": "6682c0411e565654d7ada51b",
+    "title": "Ventana bumps performance on Veyron RISC-V silicon to surely speed up servers - The Register",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUp0TGVTNGJpZEFMVUI2VDFWeE5CajRWSHpoU0hyMWZiR0w4U0lEYktnOWN5NjA2Qlg5OGNMNlZZYzZnbEc3T2dTYzlrQ2FjbUNYcmNJdHRQV0dDZVlrYnlsa0dpNVNsRFZBeFdKYkpHS3hrZVpYaWtpa25qci1sRDhLU0NSS3lOY2pxYmZoS2NPSGs5NXdXUko2aUllcjJ2QkhUd1VkUnE4VDd3aWpsWTNNQVI?oc=5",
+    "source": "The Register",
+    "published": "Tue, 07 Nov 2023 08:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:29.505582+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8377469da4a76d50e7b42c28",
+    "title": "Meta's new MTIA lineup joins hyperscalers' unified push for dedicated inferencing chips — companies diversify AI chips in effort to diversify from sole reliance on Nvidia - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOODRhVllvUmdLaGw3SEpPUEkweW1iQTh5Qi1JN2QxNF85MWxQeGZfWjY0RXczZjc3d25LaHcwQVltMVdVU0h3ejRNRFNaZHVaeTNCNldPOGljRGJmMTJRcWNKTmxQOXdaTU0ybVV1VEZMclFaZzBra29VanRJbDVobFZZTUQ0TUZLZFljNFMwYUx1bjVaWG5sZUR1TkJYZUFYZEZrQ2R3T0pUQ1N2Vm11Z2UxbVQ0OUNpMVlzUjMxOEhuSUdiSW51MGJzWDlRWlk?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:24.159296+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cff01123ab20beb040f96e96",
+    "title": "Nvidia’s new AI system Vera Rubin is 10 times more efficient than its predecessor — here’s a first look - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2tuS2JiVzBkNnplTHhnWjA4SmV3RTZVSmZpaXU2ek1sWWQ3ejZ0cHVyTF9nVUxnSkVVenFJbGZ0QTZvTWZGUG1uN1oyXzJYU1BTRURHRDd6eEUzbFVxVTd0c0hWemstOGtPdDZ1QnA1QmJ6b1VlRHFOZmgxQVJOc1FPcFV2NFNJYUZicmEza2ExZnBMbVZUMTJyRFZQbEVxRkRsUjh0VnFiQQ?oc=5",
+    "source": "CNBC",
+    "published": "Wed, 25 Feb 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:23.148172+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d41d2154c681cef83f275dae",
+    "title": "SpaceX is designing Kessel, a 72-GPU Nvidia Rubin rack for data centers in space, report says - MLQ.ai",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVEVhN2hsWGFSQ3lxM0dZNnFFd3BKdEtYWTVVVFhCUC05SHZaM0JrWWJtbUhQWHg3SkU2VzR2U1ctWXZ0Y2syWHQxeGNqeFlVY3dzV2JaamRUdTkzVEUxTXZMclFKOU1BaENNYTU4d2dRX1NoNTR2bWhlUHVVcUhaYnBDa0xIaU1MTUp3MWV4OFJlQ3ZOUDhaZjFnVE1INGVuMnZSMVl4Q3pJWFV2aUI5dkZB?oc=5",
+    "source": "MLQ.ai",
+    "published": "Wed, 11 Nov 2026 16:00:11 GMT",
+    "discovered_at": "2026-11-12T07:23:23.148116+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3eae77793f2f01af78724038",
+    "title": "GPU vs TPU vs NPU: 4 AI Chip Camps Compared [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWbTc2bzFtMG5pelZtOUdyVUJDM01kNm9naG1VdjlwSW1FNl9KYTNUcHpuRGZ0QTF0NzdieU1Hc25nM0w1YThIdVVZQmszTGwtLU5ZbFJkOWdrTGg5ckpyaVc2T3A2LUt1ajVMalQ2Ni1FaDhvZmc?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 12 Nov 2026 05:43:35 GMT",
+    "discovered_at": "2026-11-12T07:23:23.148022+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c369e383f2d83ab3f5563b44",
+    "title": "Intel Arc B580 vs. Nvidia GeForce RTX 4060 - Club386",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BZklVZ3c4bmU0NUlVSDM1ZktZbHdzeG8zMDRQQkxNYzNhV0hyekhNdkM5VTBfb3dOZ2Z1Z2JQWXYtY2I1dWVZN1FDRklSeXZKeGg5TnNoVmhFc2JZWGhaR1FiRlFzUXlkclpZMmZwQlgzQVNo?oc=5",
+    "source": "Club386",
+    "published": "Thu, 12 Dec 2024 08:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:22.801293+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "610128e5c06512cecf84ca39",
+    "title": "Intel Arc GPU Graphics Drivers 101.8331 WHQL Released - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRnFjNUJLbDVKQ1kyUkQ2WnpkaXJJVm55di1RMnhaYU1rOEs4NWN3WGVnbGNNQVE0SXRBbElUSnNsQzhtSkFOMXdZYlRGN3VIeHFiU0tlRTBPMmYzcWdEbGJYOHZIMDRBMEJ0YTV0TWd2MUNiaFgtWlBzU05MRGVhSkUzbU82RFJfOXJnR0RqdUFJQdIBlwFBVV95cUxOTEcwTm9pS0ltQldxZjhDRUtQWlliLWFScm9fTGdGMkJDbW1WeTFSUDkzZGFMZFBkQ2Z3WlhEWDhTV3hhcjl2aGNYb2JVYXBBa3pTSEUtSTNBUmZmQnlFdFJZa1J2TEFvU1I4Sl9yRzFvMThRZTZ0MHJUcW50TkMzUHBwVjhSTmJfVFI4enpqRXJyNmRyY01V?oc=5",
+    "source": "TechPowerUp",
+    "published": "Thu, 04 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:22.801167+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "fa0c618e043bd12a14f0a337",
+    "title": "AMD Ryzen 7 9800HX3D could bring 3D V-Cache to a much wider range of gaming laptops - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3hRbm8ta2pYV3VPcEd2ZmdwTDNGUVRIY191VGpDYjY3V0RBZ0hUTE1FOTkyS20zT1IwaWl3WnNxZk9RdXhQQ0FLZnJfbjYyQ1RSaVhBbTBFUmJNSFMwbE1FVWtfZ1BnSzZ3ZzZkc2ZiSVBUaWZYc3Y5QjZzLTVXQWtha005ZUNWV2lmZ1QzNzdVaTNRSnBCLWc0U0tJdGUzWUQyUEI5VEU3c2lLTk01SDN2SFN6NjVXSjUwb1hPVVpMdzV6b3NB?oc=5",
+    "source": "Notebookcheck",
+    "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:22.006176+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5ea4d990f340e632e2b6eef2",
+    "title": "A one-liter desktop that runs big AI models on your desk - The Gadgeteer",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTXFNMHhkQzk1SVdOdmNCTUhKc3ExeUpZZWpCdkw5ZUZvWDRBemJVY1BhQ1hCcXcwTzgtU2pTejVZRUEyZld4QTREOHpCM0pIRGhvS2w1V3JZVjktME1EOEh4ZVdDcEV2R2dEM0I2RG1pWTZHOEdROTU3MmxTeVFPUUhhOGdTRnhDMTRGd2hMOTBTU0I2cmlzTkRB?oc=5",
+    "source": "The Gadgeteer",
+    "published": "Thu, 12 Nov 2026 03:09:52 GMT",
+    "discovered_at": "2026-11-12T07:23:20.556030+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5d81176dec3c8ec2211e3200",
+    "title": "GIGABYTE AI TOP AERO: 128GB RAM, 4TB, Worth It? [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mcGF5Rmg1TzZBeG1HTTMwYVRITU8zWmVlaWZTczJaZlBRalV1MFJwMFQ3ckkwNEo4M29ZQVNxaW55SFFNbkRrLS1YYUNQZElRRVNaQWotemY2T1V4Z240WXhBTWFVWFhSWUdmVkRfa0dKRnNjT3ZJZEN3RldyOW8?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 12 Nov 2026 01:42:36 GMT",
+    "discovered_at": "2026-11-12T07:23:20.555939+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "39b04fe4053690d841ffac5d",
+    "title": "Qualcomm split its 2026 flagship Snapdragon 8 Elite Gen 6 chip into two tiers, and both hit 5GHz - XDA",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZzlweXBlRTYzTkZad3pORmRFdjFua19zY3h2cWZtTEhmQWJTZmdfUGhQY1lOU2oySmh4dC1RVmpfQXRYd2tON2FoRmxHTkd6a2h6bDR1RGI3a1FLSnp4VXdmNnlMV0U2bDlVSmhBUG5lMm9ONzVTUlRuUEJZenoyTGdxZWVaWmtFRUREOTIzVks1NncwMTRiSzM3ZWVTSXdocnFYNmJpcEhSdjE3eHU0?oc=5",
+    "source": "XDA",
+    "published": "Tue, 22 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:17.058013+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f4ca4f8f924d283b931dc65d",
+    "title": "Snapdragon 8 Elite Extreme Gen 6 vs Apple A20 Pro: Benchmarks and Specs - Beebom Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbGVzQTJ1UkZpd0FVNUxiQU5hQVFBVXphd3JyUDhocmRKcXFBNFhGMEM1dW9QR0lEVWdVZGtCM1FleTNhUTBGSmQxbWw0OVpEVDFTTDNsWGVmaFF4YkhRdXQ0UVBtTms3eEZoZTROZl8zdE5qblJYSFJSakQ1ZXI4OUNadEx4Q3BMcE4zdW1QT1FTM0w5cDVIaTNrSldFU3JJ?oc=5",
+    "source": "Beebom Gadgets",
+    "published": "Wed, 23 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-12T07:23:17.057865+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "4eea95db7228a944064d54da",
     "title": "AMD Zen 6 rumor: 24-core flagship, 20-core and 16-core CPUs - and a 12-core X3D gaming chip? - TweakTown",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFZHU3BNaVE4N2xOdmZtem5XeGxTVnN4Y3JlaDhmRHFrSlBheXc2QVlxT01neXJVVG5fVnh5ZlMzakowT3NPQVJDUTQtcVJLQ2Q1Tk5tYWhVRnQzQWtySVRWRm5QamhlWC1aV3I2YXF1NGQxNVBsWGRKT3pUa2tLX2xQVkZXYURDczRaODVsZXFIOWFwblEwcVRBSzNJdndyNTRYQkRSQnJVdnVoSGtVR2FBTldBbnh5cndxekp3TEFxQjBsTk9YQU41cUtjTXNlWmc?oc=5",
