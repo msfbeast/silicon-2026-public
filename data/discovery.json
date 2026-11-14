@@ -1,5 +1,148 @@
 [
   {
+    "id": "f309c9b5de25a38314a91ff6",
+    "title": "Introducing TPU Sync: Fast KV cache & weight transfer on TPU - Google Cloud",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDluRWk0RzZlUkdHX2JINmF3NmVPNm4zZHJBMi1uZkxOaFJQOXZEUWpiajVJSFV2aGhDaGpMa3M4NHkzUEVfYzl6SzJhTUkta2UzMFVIY0N6OFV0MFg1VXFNbktrbnZNYjk0cm9neU1ON0pwOFVpSU1yVWNTUUQ4N3ZLeVZieVc5R2xORVVsWnpWb0l2TFF4M2FaSnk1U0QxWUJocWlIel9KUEtEQjRCbWhFSFJ2R1U?oc=5",
+    "source": "Google Cloud",
+    "published": "Mon, 09 Nov 2026 13:44:19 GMT",
+    "discovered_at": "2026-11-14T06:41:38.537694+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "ab4ba05dc873121e97dc8d30",
+    "title": "NVIDIA Vera CPU Delivers High Performance, Bandwidth, and Efficiency for AI Factories | NVIDIA Technical Blog - NVIDIA Developer",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUt1ME0tS2VFVGdHaHlvMU81U28xSk4zS1phVkU1RXpvMU8zVWdtQ3lweTlrSmgyZjJaeFdTUmpXQnlQdExIWFdKU3FtUzBlbW5nUUoxeFpRSDZYSTczT1NnaXpvTllwRElDSzlIRm1xUmZDUGRNSnlqLTNwMWZaZTVrVUd2M2RURTRQRkFNNU9UOHF0cER2ZkFPUmxrWnlYQzJRZTVBX3JZUENKX05SMVhfbWJvQTBmN0E?oc=5",
+    "source": "NVIDIA Developer",
+    "published": "Mon, 16 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-14T06:41:36.101506+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "81ccd3be911212dc84a0bb9f",
+    "title": "Redmi R70 and R70m debut with Unisoc chipset, big batteries - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tQW9wWkgzSnctdXAwUFpYdkFxNVBldTg4dklVU215ZE1wb28zQ3VoZEpFcGpQWjVUc2l6aEw2b1dtNzlIVGMxYlJPNm8yXzZNNlh4a3NOOVBmT2QwS0JtWXprdUMyakJsMXFoLVpuNXVhQQ?oc=5",
+    "source": "GSMArena.com",
+    "published": "Tue, 14 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-14T06:41:34.095207+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "54a5723423cc071a85f5cb8f",
+    "title": "How Arm chip licensing works, from royalties to RISC-V - qz.com",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LRTBMVTJlWUZNM3pQTmVmcU9PSWFaNmdHWWxrRERPV0ZzTm9PaGNfOTdhVHNIR3hPUmpqMXdQZkFMVXI0eUpFZ0VfT1dZeWxMdG9UVm1B?oc=5",
+    "source": "qz.com",
+    "published": "Fri, 13 Nov 2026 20:58:44 GMT",
+    "discovered_at": "2026-11-14T06:41:33.009200+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a90e73333a029fba5f8d5e10",
+    "title": "Meta announces four custom AI chips over two years - Tech Brew",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kSjluVUdZcDlsdy1KN0xKUUlJQmg2Q3hON1g3WDJ3Q2RlUEhjb1JkdXR5bGZXSFprWjlNbXp6REx3Slp6SkM5REV0MU1KMHBDdjVyUXE0TzVLZEhNcC1hT0pIM0FuUm8tbnpBODJBQXRwblNjZGtSRmwtNnA?oc=5",
+    "source": "Tech Brew",
+    "published": "Thu, 12 Mar 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-14T06:41:32.308649+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8d877b675c0ca8446f6b7347",
+    "title": "Nvidia owns the AI chips market. Google, Amazon, and others are coming - Quartz",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdUg1cENiNlVlTUN2d1B3ODNmUVZhdTdJZS03emJ5ekcxZzBqbHEtbXhQb09USXV1cl9sSVdOVzVncFNxU2Z5emJtLWI1NG9yMzNucnU4NFZBR2dwQmxRMXRTcmdLdUg1Y2hNV3E2UjUzSlNkbk9saXBzVy1UNUFMM3NxX0hlQQ?oc=5",
+    "source": "Quartz",
+    "published": "Thu, 09 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-14T06:41:32.308621+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b8c4a2656180f227dda8562b",
+    "title": "DeepSeek Blackwell Claim: Hidden AI Chip Fingerprints - Brave New Coin",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFlCWjZyTENkYl90dXRCSXFDSU8xR0JFOTlVcmJPR1hqWVBaeGtkLTdQS0ZTQ2VhWFY3M0Q5V0s1NjRxZ3YwcmJlNEk3ZHNyWkFmM1RzNWhLQ2NQQ3RUY0Fpc0lwbW95RHFiSVp5dUVweDVfdktnRGs5REFPVkpFdlFxSkFIWVljU3RhQw?oc=5",
+    "source": "Brave New Coin",
+    "published": "Fri, 13 Nov 2026 20:22:08 GMT",
+    "discovered_at": "2026-11-14T06:41:31.324793+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "78ce884c5d15b21cfa9570aa",
+    "title": "Bessent blames Lutnick’s Commerce Department for not restricting Nvidia chip exports - WIVT - News 34",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPclgtVjdTR1VCZWUxZEszUzVZXzNtN3h0T29QeFRKYmgwaThWaEtaTG8zVFh1QzBQNTNXd2hhS09oMnVzODRJSEJaVnVJQmJIZzYzU3BCTlNhdzZ6dGRmUW9DUVM0YzFYN1daTzQxZGpaQkZpRU4yY09rUzYyQ0NZaDJrM21mNzZ3UDkzcmpLTnZqSkw4THlQZHhIY3drMjNqRVA4eDJwXzdzVDhEV3lla05ibDVuYlEzYlE2aDN5Z0pWbVhoSlJ0OEQwX3NiYS1WbjRlWGl30gHbAUFVX3lxTFBTMUZjenh0cU9Ud2ItTXhpNldjemZLc1FOQUtxeGFOWURwcTNtMndYYjBCQW05OTM3MGNJb05iS0xuUUZvM1RHSXRWeDhaZG4zdGJSUUZDNGZTZ2lSX2c0aWl2MGNwVVpqMkJONTk5UlYxUDFUNGg1dkpaazZmUTIwNHdKa0JKSkJLY0MtNG81cU5wdU1JalE1c0FfMkY2Ym1OZ2xPcWVnWW5wX2pTbnFWVFpZLXFsaHl5VDFBeDV3MkpsdlFIZnVPZXVKaVgzSXlWcjBSTG5vZTZSWQ?oc=5",
+    "source": "WIVT - News 34",
+    "published": "Fri, 13 Nov 2026 21:24:36 GMT",
+    "discovered_at": "2026-11-14T06:41:31.324709+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9c0f0691f6a054fd63dd1aef",
+    "title": "Instead Of Lowering GPU Prices, Former NVIDIA CEO Jensen Huang Reportedly Financed AI Startups To Absorb Excess Silicon, Shattering The Shortage Perception - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHY5LWkyLWJMemRpb19USWRiZkdQSWJOVTJFQUMyZHNVdEhBaGJXWXZzajR2ZTB4c0o5WEZnczFuSEFIZVVSX3NYQzRQM095OFIzTTBHZFg0MlZTNTlHSVN3Yk1XbDNMckphYlhvSkFHTG10ZXR2ZmRPNDN4ZTE5SnZxa9IBiAFBVV95cUxPaUgzWktjM2NjcFdMNHdaR2NRd05lbkhyMmhKbk9tS3JFdzJyZEkwREhMd191bll5WkdvOUlGUU1ZbjRid2pzTGJoQkpjYmJrbkxXVlNfMlhabGxaVmpHS1ZjUDJ6ZWFVUkI1aUFNbkprcDh4aVBWOWtiSGtzUzFpLTNDZnRlWE5u?oc=5",
+    "source": "Wccftech",
+    "published": "Fri, 13 Nov 2026 19:23:49 GMT",
+    "discovered_at": "2026-11-14T06:41:31.324654+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "37f7660d7653501ea1218684",
+    "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
+    "source": "TechCrunch",
+    "published": "Fri, 13 Nov 2026 18:40:30 GMT",
+    "discovered_at": "2026-11-14T06:41:31.324300+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b2e3b4c4ff53a7840c3e2842",
+    "title": "Intel Arrow Lake-S Desktop CPUs Pictured, Several Engineering Samples Up For Sale - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ0dZSF9kUmY3M184aUtJRjg2UWp6a1ZRZDIteG9sRDNyOWFJYXVRTlJ6a1FQMjU3MHFxOGZ2SHZQb0pWYXVqUzB1MFlSM0F4Ni1mbHJMV0VsYXlGX1ZoUmo0eVV0dExndG8tNGhfNnJQQk5VSGFpdWZsejB4X2otNEZrWk9LcklTWnRJTzE5YzJ5bGppUmZmUVZkX09zQ0ozSUFJeNIBqgFBVV95cUxOSWhyZDdIVFotWDJqTTVrSXVvTy01eC13bHlDQTZEbGg5MFdnY3RRNVNIbFc4QjFLTEowWUNuTFY4ZHhsbGk5bFRIaTdXRGlxaUljVHlqdXZCM0RUNXAxaFh4UUhBSTI1RnZWSXNFRmo0blhJZ2czc3BjblBfWTBQcjlkdDctaVpJRUFMdzZ6T1Izbkh3UEEyempxNFg0QmF6ek1Yc3BKYlRoZw?oc=5",
+    "source": "Wccftech",
+    "published": "Thu, 26 Sep 2024 07:00:00 GMT",
+    "discovered_at": "2026-11-14T06:41:30.496234+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7d9a5cd11c829be7ae253c53",
+    "title": "Gigabyte launches 1-liter AI mini PC with Nvidia RTX Spark chip and up to 4TB SSD - Gizmochina",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMl9hWW81TU05Z1NnZ3lBcWVGY1B3dWJ4RWpxOXhLTkQyTUlGaVFlbkpfWVhaT2xPekhnejJvYlFLclFPdVhUOWJHTTNaeEstSWNpVjh2RzNLbm41MU9HU1lFZkFrWFNZaFhISHpwLVRoN2xLbzUtNjl1TmdqQkNCWW5PaFRoaGUzcjBibGFWTmN4dw?oc=5",
+    "source": "Gizmochina",
+    "published": "Wed, 11 Nov 2026 23:23:06 GMT",
+    "discovered_at": "2026-11-14T06:41:28.702179+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3e925ab1814ace957078321e",
+    "title": "AMD's Siren Halo APU Could Pack GDDR7 VRAM And Next-Gen Xbox DNA - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeHhkaUJ3NDU3S1ZONFY2MzRkTG5vX3JUbFp5ZEpfT0k5OFdEMm43UXhGTXBMVGd4eXJZZDNvbElyY2JOLXJIY3pndVpOVTJkMTBqZU9FT3M2X1BQOEtraDZ3X0VnQjZITlRzVVdjT2ZOSF9RYjV6SVR4alJXRVNzRG5fQk5VU21kUXFlczNiT0JPQVo5N2RR?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 12 Nov 2026 19:45:00 GMT",
+    "discovered_at": "2026-11-14T06:41:28.292979+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "5c005a1bd4196fe78e80cdbd",
     "title": "AMD openSIL Achieves Its Production Goal With 6th Gen EPYC \"Venice\" - Phoronix",
     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82LWN0a0JyZmpQTFAwUk9PZFF2OWl4Q0ppRFdBS0FFVm9jRGlXU240ZW9Ea0VzcG5hME5LM0ROa0s0aEwxU0h6SFdzME5oSld3OHVqNGhwdlp1V3NGNGVkR1VFbw?oc=5",
