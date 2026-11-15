@@ -1,5 +1,93 @@
 [
   {
+    "id": "9dc998376e76db0b921118bf",
+    "title": "AWS Releases Trainium3 ASIC to Ease Reliance on NVIDIA Hardware - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGRMZldBc3hKV040ZmlDSVpWZWY0V1FNcnJXNjdfNWNqMlVadklNQURCSG1EelFQSVE1Um9EVzFTZUViTTF6TExVRVJFTnBScmJMd09RN3FpZVNORWZwM2RYSDd3dk9WTHlycnZ2NXBtMG43NU91cmlYcFhad0N2XzhkZ3IyV0FTVmY2ZnJFa3ZmeEY2eno1c1FQNFNtZnM?oc=5",
+    "source": "TechPowerUp",
+    "published": "Tue, 02 Dec 2025 08:00:00 GMT",
+    "discovered_at": "2026-11-15T18:57:19.659503+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4b2edf9aee7bb0d41b4130f0",
+    "title": "Librem 5 v2 Linux smartphone adopts eight-core RISC-V processor - LinuxGizmos.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYVNDbHQ3YXZGYjhNYU1tS0lfTTN6aTZkZ3FnQktWdE9DZTMybGN4eFprZUpsZFo5OXVJdFRzX04xLTZnSDNONkM5czZJbF93MEtjRGVOb0VnakYyTTNtVXhjS2s4YlJLQ3VtMUhoQk1UQl94X2NtWmladjNOQm90MDBibzRwTnZWYkt4VlpEYm42UQ?oc=5",
+    "source": "LinuxGizmos.com",
+    "published": "Sun, 15 Nov 2026 17:10:56 GMT",
+    "discovered_at": "2026-11-15T18:57:12.791887+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bb05c583a610a186ad37c397",
+    "title": "Chinese AI labs are training models on Nvidia's Blackwell despite export controls, says ex-OpenAI engineer - The Register",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc2d0VmU0UHVrQlVvWElsNFVGTlhKcDc2YVR0SGxqM2dBUXlvSGpLZTNrbUhDTVhiLU0yU1lUamJ2MFpNc3V0SUxlY2xkc3dKemkxel9zbEVXaTVoVHhMdUliUERkZUNKQ2pvSnNKeUh3WDBXdkw1dVBQM09pMjBlSXdoc3JUOVpxZTZYZkphSVFzeDV5MkN5SGpLN0E3bmZVcnJtRThzNDJYSGNzSi1qUEdXUDZWYzRrbHY1RkVqeTA5WWxadzdTcE9USjMxVkZLU3p2cGZMODJpU1V5SDlBTDFyWUNnWXZpbGF1aEotVlFsMkU?oc=5",
+    "source": "The Register",
+    "published": "Fri, 13 Nov 2026 21:16:22 GMT",
+    "discovered_at": "2026-11-15T18:57:10.877745+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "391ca2b9a0337de97b477de6",
+    "title": "HiSilicon Kirin 9030 Processor - Benchmarks and Specs - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdEdEdmJENkstRWZMelQwaE9SSi13dkZINE52ZkkyNVNCbVVseGV3MVhPSVpxOERoRVBGaG5kVlVhYUx5NGpDLWxMMGxORDZSbDFKRDNMa201ZXd3T3UtSzFJYzNkNmV1RS1PZ2syT3RtNDFzTlVydDhMbGhNWFR2TTVoTTRJV1l0QXktakZQdHBrTnlremxjRTRvdUY?oc=5",
+    "source": "Notebookcheck",
+    "published": "Tue, 10 Nov 2026 04:35:23 GMT",
+    "discovered_at": "2026-11-15T18:57:08.650391+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3155192549071d862bd69186",
+    "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop - PCMag Australia",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVG9aeDRtTEFfMHpXSmQwY1ZFN25qT1VvSzRFM25PX29CTXJGblVrSGNGSFAwakR4U25wOC1TUE5pQ2pfTmNvTGllSzZMNzVtNjZRY3M0b1hHQWM5ZjAxSEcxVGdvY2o0aVQtVW1pSTFHanluRklMOHlPT2Y2WHQ0Z2JZRFVsZ2RONHVtR2xMWG56SHZwYkw4N0xBaGRPckVVMTduNEZHeXZCdDZGS05BMFlhVHVwVkJGNEkzSFUzSjF2cDA?oc=5",
+    "source": "PCMag Australia",
+    "published": "Sun, 15 Nov 2026 16:00:00 GMT",
+    "discovered_at": "2026-11-15T18:57:07.853199+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "53e446f675102791ec6a0ab6",
+    "title": "MSI EdgeMesa N AI+ costs $7,999 with 128GB - Tbreak UAE",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KRWVjTUZSd1Z6b2NRN05PTUIzbWJKajNzZjZobG5tdU0tV3VfSDFKVDlrMUlXaExVbVFFazRILThlMUlOV25PVW1vUERVNVE5NkNLNXBOV0ZRY2l3Ukh6LUpZOUQ?oc=5",
+    "source": "Tbreak UAE",
+    "published": "Sun, 15 Nov 2026 12:21:00 GMT",
+    "discovered_at": "2026-11-15T18:57:07.853114+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0cb81ad12f514abeffd0fb33",
+    "title": "Apple M6 GPU Score Beats M5 by 34% [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JQ0lDSFhfZkI0T0NBMGxrb0lVaTR2elQ4d1Z5c0NfVDhKLTBNOG9GR0w5UkRwM2FKWEZ4c1FxdEJBczRLcWlMLTlaQ3A5MUV2WGJlSWNoRWZiMlpxRDM1OFgxRXNBXzZpb1E?oc=5",
+    "source": "shattered.io",
+    "published": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-15T18:57:06.355828+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f7b980532411c9249b8106b4",
+    "title": "Xiaomi 18 specifications hinted again with Snapdragon 8 Elite Gen 6 chipset and dual 200MP cameras, could launch in China soon - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnQ5a2dHWFhtcTY4RXAyY00tMm9tUmVLZzZTVGVsbU1BaEVxV3FLUGN5LVBzMVFzUmVTWTZSc0tGVmNtZ1FiQWJJMjA1NW1qTjlzVnBDb2sydHJxa0JSc0JtVGFkMlhvdDZBTUZsekJYLW5hMVpzMl9oZEJBcF9UWnZLSlJjbTVRTFA5a1ZKSXctcENla1JPWnF1U3pDQUUx0gGmAUFVX3lxTE44eUpuNE9YaHlweTVJZ0dZcWh5aUhlTm5QZUNkOUZOTml1NWV2WEFFY3htcFl4Q0FtRGtIRXlFeVM1d2tYX0IxdHJfZTE4RnJmUERaR0J3N2NtNTBIVmhucDl0VHh6NjJlZVRsbWlOeXVrTURKUGJmQ3RvbjNxRjAzYW1BNWhsZG52WXBhY1J1NDJadGMydjE1MUkwcnF0MUZ0dncwUEE?oc=5",
+    "source": "91Mobiles",
+    "published": "Tue, 27 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-15T18:57:05.011066+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "5d6068981efdd71ebe7fec99",
     "title": "FURSOY publishes open-source RISC-V core that boots Linux and hits 500 MHz in synthesis - news.lavx.hu",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX05XUVFRRmpldjZoUGM0aUUyWnNGSlc2bjE2Y2pGLThHM214QkZvbWNaNFVDM1Y2dmxmbU9qZkcwOHpYbktzalctSTg2dHgwQVVfUFdSY2RTblJFdVdEME1FbHZ6cXZXU0xQakFqZ2ZRR3dTZjRYZVJCWjU0SVpTWWdVS1pWZm5wYXBzY1kyODJqelUtZFp4U0xoaXNoQkEyb0pKNzdoaVBKZnB1RHJmQ2UyeGlnamM?oc=5",
