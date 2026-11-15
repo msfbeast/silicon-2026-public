@@ -1,5 +1,93 @@
 [
   {
+    "id": "5d6068981efdd71ebe7fec99",
+    "title": "FURSOY publishes open-source RISC-V core that boots Linux and hits 500 MHz in synthesis - news.lavx.hu",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX05XUVFRRmpldjZoUGM0aUUyWnNGSlc2bjE2Y2pGLThHM214QkZvbWNaNFVDM1Y2dmxmbU9qZkcwOHpYbktzalctSTg2dHgwQVVfUFdSY2RTblJFdVdEME1FbHZ6cXZXU0xQakFqZ2ZRR3dTZjRYZVJCWjU0SVpTWWdVS1pWZm5wYXBzY1kyODJqelUtZFp4U0xoaXNoQkEyb0pKNzdoaVBKZnB1RHJmQ2UyeGlnamM?oc=5",
+    "source": "news.lavx.hu",
+    "published": "Sun, 15 Nov 2026 00:51:29 GMT",
+    "discovered_at": "2026-11-15T06:46:15.845762+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dc5cb935bddfb6a114ba39fb",
+    "title": "Jensen Huang’s exit hits AI infrastructure firms that grew on Nvidia cash - Korea JoongAng Daily",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLVJsMHRkUFRJT2hQSHZVUlRicVNoOGpwc1lRNmVfT0FXM1Rab3Zvdm5VZS1mcHNTM3ZsOUtldnplNnU0Tnh2WGpQa0NNaGFwN2hpRGprYTJaRDJrMDhkN0JuSy1UVlZ1Z19QVXczeXd6emQ2cGduTmVrUVprdlFFZ2NKQmwyOXFCWFlVbWp3dm1JbDBmbHJVRFFDWkh4cHNrYTdSNnBRY1l1S1VlVUNOV1pLeHAwcUQtVzg2dHdieHRDcDg?oc=5",
+    "source": "Korea JoongAng Daily",
+    "published": "Fri, 13 Nov 2026 11:23:51 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226640+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5898be5cc08e4517667d9156",
+    "title": "Nvidia and the World Without Jensen - SemiAnalysis",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9KakQ5VWxsZURJUjBsN256UlgyU3FBanR3VldBcVdTczdIb0JMbS1leGxfTlhBLWpYZUdXZjViYzBud0xOVV9LMm1HVVhIVGVZNlZyd1pRdTlOTF96c1JmVFYxT0RUNnR3NWRrSkZYRzlrMXZiakYyUTU2bG1Vdw?oc=5",
+    "source": "SemiAnalysis",
+    "published": "Thu, 12 Nov 2026 18:06:26 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226607+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "853d0f8cf9c7971fb2ab01ee",
+    "title": "How a sex scandal at Nvidia is putting pressure on the White House - BBC",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3YVRqVC10eEloUmdORzBONGZNRFRQcG9aeFkwRG1PUlpTMWk2V1RoN3ZMOFpwVjg1RkVtX2dvaTQ1M2ZRbTZwTVRuYkJiY0RIMlR0SDhrOE9naG8?oc=5",
+    "source": "BBC",
+    "published": "Fri, 13 Nov 2026 12:22:30 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226579+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "22dfc000bf4688c91ccb09a6",
+    "title": "U.S. lab says Chinese AI models trained on Nvidia Blackwell chips despite sanctions - Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFRFVnhDbnY0TUFmLTEtTFZXeXVTMUJ2U3k0MTBIT1dLaUZXY3RhZGdiVG55UHdlWlVpNk5uMWtqUWcxWTJLU0pTLVVZT04tVmhIZUFVYl83dWhMdlJrbDNPUkpvbGJEd05HdGpTM3NkVUtLOW01cmlKeDZUU284cW5WLTNpaGo20gGcAUFVX3lxTE9UanE0aUdjbldQTUQ3enNWMEdZaEp0cDZrUkNjLTlJU1NtMnRNYjd0dUJMUi1FMjVsMlFpTl9Ob044M2tMdGtjV3J3bjFIMXROZlctdWdPUl9FY2h5VVZzc2Iwd0MxaEJjcldwZWhPcmdaNEx1SFBMeUZUXzhFV1psSUhJX1c4bHE0X19Od0pXVUlzMkhkLUhmOXphWg?oc=5",
+    "source": "Chosunbiz",
+    "published": "Sat, 14 Nov 2026 23:07:00 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226554+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "35b3032bdd0f3cde586bd912",
+    "title": "Ex-OpenAI Engineer Says Chinese AI Models Carry Fingerprints of Banned Nvidia Blackwell Chips - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 13 Nov 2026 21:58:29 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226513+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1a8d7e175a211a6d5184f8a6",
+    "title": "Nvidia scandal: Alice Huang ‘offered AI chips to Chinese firm’ - The Times",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTBpNjZpdDNDdFFCVnI4cVk3cDhoYnpONzNjM216dWc4aVphQ3JKLTJQUG5UcFBfLThPeXdmVXN5aExsbHFBNTlrZ1RCY2hNMFhXRTFYUk9uZjBNOVJHWXZ4aDl0RTRRUmFVcWxJQ1FaeHh0c3BZc0g0dTFKVllmbFFCZnRkVVFjQWlvVFRRMlF6WDdtMzVHYXpRTVZrQVpKTEl1Z2xreGt5dFQwclY1ZktrQ1lseXJzcncyS0dn?oc=5",
+    "source": "The Times",
+    "published": "Thu, 12 Nov 2026 14:02:14 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226452+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7fccabc56b18816d19850018",
+    "title": "Nvidia After Jensen Huang. Are India’s AI Chip Deals on Track? - Open Magazine",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXl4LTRCZlRpekJQbGlCVzIyUGotT0J4eFlDTzlUeGNrZmVQaXVwSllaRGZWbFVRclhnVmZ6S004N29tdUxHSmFuMmVJQmI1T2ZyWmJXLWFUSFdMOWdhTkxPUWFwQ0dCX3A5Rkp2dzkxTG1IRXREcTItZGl0RjZGSFp4aDZadnloaXZldUt5aHBpUERES2ZuNA?oc=5",
+    "source": "Open Magazine",
+    "published": "Thu, 12 Nov 2026 15:28:05 GMT",
+    "discovered_at": "2026-11-15T06:46:14.226418+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "e865cf23e366b11dec18fd53",
     "title": "Huawei’s Ascend 910: ‘World’s most powerful’ AI processor - Arab News",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51UzJHM3RqN0J2dU5wOWpLNXNieUdIQ2JWZWdDc2g2akNqeXQ2MjR1NVZ6b1JXeV9oTGw1RHgyUGk0cGJ4RllaUk94UDNNcVY4QWFR?oc=5",
