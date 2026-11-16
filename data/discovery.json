@@ -1,5 +1,104 @@
 [
   {
+    "id": "cff017eee684d125b66d9b95",
+    "title": "AMD Launches EPYC Embedded 9006: Venice Gets an Early Start in Embedded - ServeTheHome",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcVkwRVFPM1VxN0FQRVR5UHNqOTNvdU1acHZmQXdiZm5NX3VMODhldDNReWJtWUF6d1ZWNjMyQU1FZHVNUnlCcWdOdUt0dzZCUzZTUlMxTlRTVFFfdUZfWWN5bTVCeHVfYUFNVll6QTJDSXRwbXZYcXYyR2tqcmcxMDlRTEtUVDlSTGRmM2M3bHlLanVZcTVYTlNMNFhTRG4xQVE?oc=5",
+    "source": "ServeTheHome",
+    "published": "Sat, 14 Nov 2026 19:00:44 GMT",
+    "discovered_at": "2026-11-16T06:45:11.054695+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "da2ee1ed4c68c26a041bc5ce",
+    "title": "HMD flip phone leaks with GPS tracking and some unexpected features - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhWTWdPS0hKbzJpMzhxeWw5YlgxVHJCeE1wQU90c0RoMWFodjk2cFZNM1Bld3R2N3QzOHBOaHFXMGswOGVpZGpWQ2VpRG5rZXhhYWx1bUVkOVJyUGJpaU1penNZczNLa29VSV9kMmNocHVWLXN2X3pESkdjWVRWeUxtUVFpRmhVODFiZ3ZzaWc5dUpNdm9LQXlOTExob2VPNkdQbTB0dDVFREs0WXRoQkRn?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sat, 14 Nov 2026 16:33:00 GMT",
+    "discovered_at": "2026-11-16T06:45:09.732566+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "96a9d623d95a33767df71c2b",
+    "title": "Open-Source RISC-V Platform Trains Chip Designers From RTL To Silicon (ETH Z., lowRISC, U of Bologna) - Semiconductor Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOS0Y2YzVpRnBjV1ZFaTFhbEd5UGEwb1kyVzZyemR2NUNpM1h5cDJhV3RtY0JxSTBFTVhUakZFbWpNYjRKQjdWaXBXNEdXbDJOWHNhblJxSlhITkpFRFRxbFZ4M3dGNnpWVU5EdU1zWFJvLTNaRFhyZ0U2STdBUFoyUUxCVkVnQ2ExakdKb2c5anlIMUN2S0VzaHBvRElqLTUxVlROSGdlQW1sa3pqZ3V0RWszQ0RRSWFUMUpSVEFlMUFaaHM?oc=5",
+    "source": "Semiconductor Engineering",
+    "published": "Mon, 29 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-16T06:45:08.387833+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9814808df4345301d8c813e9",
+    "title": "Bessent blames Lutnick's Commerce Department for not restricting Nvidia chip exports - The Daily News - Jacksonville, NC",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQMXBGMHdMcEFHdjFLVnJRUTMzbE9tSm9iX3RFYUpabFBEWHdtUWFHOGV0UjFVd0MtRmZOc0NUQTZ6eUpmWWFyN1BxM05iOUxrU3FZZHMxNWRDbnd0STFVbUlUeTlSSXBrM3NIckVQZFlreVFFZUF2MTJMVXlDSTNvZmRPT1RuS1dnVTRiWjVGc0tuQVBKOGJPYkxTWDltVEo1N01TOWxzT1lpbGc4OUNpNEJCUHJtOFRWT0p2WnNhcWhUV3d1ZkR0ZlR2aTM0dWZSejNZdjk4T3dJblBMZEUxdU5NbWlOcVBYeGRkNQ?oc=5",
+    "source": "The Daily News - Jacksonville, NC",
+    "published": "Mon, 16 Nov 2026 04:20:00 GMT",
+    "discovered_at": "2026-11-16T06:45:06.632143+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dd39f05779df97d1893bc119",
+    "title": "Ex-OpenAI Engineer Finds Nvidia Blackwell 'Fingerprints' in DeepSeek, Kimi Models Despite US Export Curbs - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NQWhXMV9Lbmd2LVBMWW9QTUlqa0dxZThRUTJxM294UjU5UzdGVmFBdkVTWVZ1bmw1ci1ZNnNCZXI5bExvMDNaVEVWdjIyeXBlQVdYcHhGZ3pmVkR3SjJEdG0zLVRySUYwVHcya2xGbGo1ZTgtU0E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 13 Nov 2026 21:55:00 GMT",
+    "discovered_at": "2026-11-16T06:45:06.632022+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ece05c36eeba778cc88bb97",
+    "title": "Nvidia Blackwell Chips Leave Traces in Six Chinese AI Models, Report Finds - Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81RHM4ZVNkWlhfZVF5MGRYTFJqV1lTUFdYbEtOS2kyM0ZvYUhueEFQRG9veHF1bEJoTS0yNGJaWUk5ZWVmV013bXItM3RIQzRwWnJsUGwzeG1GUHlOb1c3ZzBzOWwtUkI3cEp2N2dBUGhEU2Qt?oc=5",
+    "source": "Businesskorea",
+    "published": "Mon, 16 Nov 2026 01:50:59 GMT",
+    "discovered_at": "2026-11-16T06:45:06.631827+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cb9c6fceba0252c16053c2ea",
+    "title": "Did China use export-banned Nvidia chips to train its most advanced AI models? - The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONzYzemlScDdHdUFyTnV6R0s0eEplSlhVYW1mQkstX1JZZWtRb1BKYlhDdERyWm4yUms0UzktWU93c0dGSFZzMjQ5dThMNmtjTHM1Tl9rNks3OHN0bThkZHdUQzVDUVgtNnljdUJ3MmJHYUxLZ1h0VXd3VDI1cmQ4a0QycGtja0c1ZlNnU1hHSE9jRXQxd2l1Qk5IWmpDb0ZDek9BVFU4Z2R3eTBKeTVNN0hkU29mb281U3VuYXlR0gHEAUFVX3lxTE9ZOXd2WkhwdFRyN1pPVVkzZVJ6Wm92azkxeXNESkZ1ZU5fYU54UVVuZEdjU002MUhrTjhfS21ZbjBZYWplNG1BdjYtYVJtcFNkVU51TF9WTnNJZVhBblkteTFVOHFyRGhLR21Md1lhTUVOVEZLajRVTEZGN2tWZnc5VWNvZjBTOTQxM0lhWmEzVWxpcDVSSGV2WWpUWTFYdmtvazlVWGRQeFRGMElKZ21FdUJKa2UyS2NmRU9fU2x6V0pVNFQ?oc=5",
+    "source": "The Indian Express",
+    "published": "Mon, 16 Nov 2026 05:39:31 GMT",
+    "discovered_at": "2026-11-16T06:45:06.631786+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "306a7104f28b8ca32d869168",
+    "title": "Asus ProArt P16 (H7607) Review: Nvidia RTX Spark Supercharges a Venerable Workstation Laptop - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aYmpCcm1TdHVENWhudFNoWjZNN3JXbW81cEcwYUFXSUk2eGRoSnMxM0JIc01BVFhGZHVOaWIwMFVjb0ppWGxJMGY1VzktRFBrdzNYR1lveXBuMGFkRXc4RXJmcUlSUk1OalJzdFZR?oc=5",
+    "source": "PCMag",
+    "published": "Sun, 15 Nov 2026 16:00:35 GMT",
+    "discovered_at": "2026-11-16T06:45:03.644113+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "828941f067951b451afd20b2",
+    "title": "Leakster details the upcoming Snapdragon 8 Elite Gen 6 Pro and Dimensity 9600 Pro flagship chipsets - GSMArena.com",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYnVCajgySnByV2VsbzdUWnNIRmJWSEZVN3BjbXZ0dUlkMXc0SEMtblF4WXc3SjliY21JQkJYUWVhTGFyMjV6eEJaU1p6NW9RZzJBVTdkZEZCVkJxdGtYTXRZQTYwTlNLc0d0R1NaT0pBR2w3Q0g3XzFkZkFPTkxBYndmN3VpMS1NZUo2Wk1aRjZCTVhiay1vbzg1MzBzWnZvaUtlaXNDY2tXQkduTlZEczZUNjlfbGpReUctdWRBYmR1c25PeTRrak02Y2FnMVRpenFYUmdR?oc=5",
+    "source": "GSMArena.com",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-16T06:45:01.098608+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "9dc998376e76db0b921118bf",
     "title": "AWS Releases Trainium3 ASIC to Ease Reliance on NVIDIA Hardware - TechPowerUp",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGRMZldBc3hKV040ZmlDSVpWZWY0V1FNcnJXNjdfNWNqMlVadklNQURCSG1EelFQSVE1Um9EVzFTZUViTTF6TExVRVJFTnBScmJMd09RN3FpZVNORWZwM2RYSDd3dk9WTHlycnZ2NXBtMG43NU91cmlYcFhad0N2XzhkZ3IyV0FTVmY2ZnJFa3ZmeEY2eno1c1FQNFNtZnM?oc=5",
