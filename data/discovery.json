@@ -1,5 +1,82 @@
 [
   {
+    "id": "385243557e4ec1829c6588e8",
+    "title": "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere - Intel",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcGZWSE8xVl9ERkg1bHNHUzBkQ0o4ZzFzV1VrSVBDTWpGVnFBOFFMSDFrUG5GSzZSNlo0R0MyRGpZTDl5cnNTTFRoNldPSDEzbk5nZzJ3REQtMWUyTjhsVnpQV2Foc1RXU01lR1p5bWJqMzh0UFFMZ1J0Q2c1dkJkMUdweGk5bDZWT1poWEdRSW40MXVOQ0g1cUk0aw?oc=5",
+    "source": "Intel",
+    "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "discovered_at": "2026-11-17T08:05:53.383414+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6c0d8f3f4f5a0312af683ae4",
+    "title": "Nvidia unveils Rubin HPC and doubles down on FP64 for science - Pasquale Pillitteri",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWwwc05Td1hnR1ZHdlZEMi1YRjZLeU1YWnVFZW91cEhucjhFREl5UG15eU9pZ3ktbGhqUWVVSG9NeW90U0NMbEtCeE5pVWZZYUU3VWdJd0p5eTJic2J1ckJyS0RHaUFxV3MxTEt0MlhiTlg4azlnMXhsY1B4Tnlja2RoblliQTl3Y3FZMWdEOG9UR0g0UU9HLQ?oc=5",
+    "source": "Pasquale Pillitteri",
+    "published": "Tue, 17 Nov 2026 07:13:27 GMT",
+    "discovered_at": "2026-11-17T08:05:48.437641+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dbc1f36ad953bfca4f880e9c",
+    "title": "Nvidia Rubin HPC: 50,000+ CUDA Cores, Due in 2028 - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6TUc0Sjk3ZW0zMlRTcDc0YVVnMzEzQVVMdm05VFdtZ0otMzAwSVJyWWVLcUdiaGc4a0U2STc0QkVLMFpvN2JfZ2ZVNDQzemotaVNWR1dMcVE3ZGJvNk9IRFduMzg3ZXV5RFdTbzhVZlRUNl9BcXlyaA?oc=5",
+    "source": "shattered.io",
+    "published": "Tue, 17 Nov 2026 02:12:24 GMT",
+    "discovered_at": "2026-11-17T08:05:48.437613+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dea3a2b893268e5224623ab9",
+    "title": "Nvidia Unveils Rubin HPC Chip: 50,000 CUDA Cores Built for Scientific Computing, Launching in 2028 - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wV2JiNlRWMGZwZktRdnc3TDRaV0lFQ2JkV01vazVNR2RhRkg5SE4zYTk1ZUR1ZmRTV0VLRThoUlV5cnpVRFBMb0dGNjZmdkJURllhT2VoeUY4M21Xd1FFMU5nanBGejlMSkJ0bEhCYnhTMUQ0Ymc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Mon, 16 Nov 2026 23:25:00 GMT",
+    "discovered_at": "2026-11-17T08:05:48.437556+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9962530529a011c398be31ef",
+    "title": "At SC26, Nvidia debuts new Rubin HPC chip, scientific research libraries - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNU0FZZ0Z0Tl9DUzIwS3hNelFOTjJwOU5qWHV3cVdxSUNnOGM4MHQ2N3hGN1JYSDhhenhBejFNbXBRc1NXSnZuYWxINTlSRU5HU081UXFoYmNtQk5XeGxPRkpoX1JhWjdYMUJ3SVlQT2pfYWVlV3FfV3U3bWZ4MGRHcUk2LU5qRGxvc0dxWjExSk5BVDhYXzVNbU13MV9QNEJs?oc=5",
+    "source": "SiliconANGLE",
+    "published": "Tue, 17 Nov 2026 01:45:00 GMT",
+    "discovered_at": "2026-11-17T08:05:48.437467+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "de6a4c70fcd6f3e30c2bd993",
+    "title": "Intel's 'Meteor Lake' On-Chip GPU Unveiled: Arc Hits Integrated Graphics - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNkU1RnBWX0JGU21pWmtOUWpaRzRUcXB4djM1eEl1bmhCUDEyXzdBQjBfRGRmZWZiTGswdF9lcUVJdFJNaHZ4R19XODVFdVEwYjNtaTFlUmxseGdzMEJ2bndjMlhVeGsweDZrTmRIZXgwaFA5T1RFUnppaWlkMW4wLXp1RlJkU3JUTWk5a2s4MG95MG0yYTB5dUJKcw?oc=5",
+    "source": "PCMag",
+    "published": "Tue, 19 Sep 2023 07:00:00 GMT",
+    "discovered_at": "2026-11-17T08:05:47.989469+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9e0797e44e9e22337afab1b0",
+    "title": "iPhone 18 Pro Max tipped for major leap with new A20 Pro chip - Báo VietNamNet",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUjVic3ZmcmpYRzlveE9WVEg0N2FEbHlxYko4M0dDTkpHMVowRTY4X1gybzFOMmgzWlNjb3BVWWFTb0Q2NlJFNExuOGtsb1BzMzhYUmd3eW5XM0pTd2ZkdjZQTEx0SFlubDV1anJkNlg3U2pFNU9vS2QzeWZFSDZaalVudEszWENVdUVXWVZBUHRnWHNiWGJuVE50QUZFSUFy?oc=5",
+    "source": "Báo VietNamNet",
+    "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-17T08:05:43.669333+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "09ab30f75a88e85bec1818c2",
     "title": "AMD Instinct MI450 & Helios System: Challenging Nvidia's Data Center Hegemony - Moomoo",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODNVRk1GVWhwYUpZbDhlcUlMU1d6aWlYbk5VaFFiV3FEZEZHRXBLajhqUE9XNVZlcXV1ODZra0pPdzJxbjdKa3NCc29xWWVhNkJQQUQ2V3U0SEVYQWZIQklfZk1zY2t1aHExbmI5YS1WSWRtYXhfRmk0WmhVRTdBV0JMVGZIaWlvU1ExU0t5RGo2ZXZ1UFdQWjFsY1N3MGhSTGZBak45d1dSaHdHbFdtVEp1VWdWcklhQlE?oc=5",
