@@ -1,5 +1,49 @@
 [
   {
+    "id": "db55d9a467d846dc2e7bf16a",
+    "title": "Nvidia Vera CPU vs EPYC 9996: 5,470 SPEC vs 1,459 Est. [2026] - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ3JIbVJ3TDRiT1pROTZIajRDMms2dlkwZUx4S0hJMU5rMkl3V25wU1JrS0pDcW9HX0xwVXU1aTZJRlNvSVJxRm9HSndhMEsxMFJ6QjJUZ2FQRjA0cktmS0M5OGJ5TU15TTdEUGFlRXpDbF9TQzZNREUxZ1VheFNSMjU5dGVZcm1NX1Bxb2dGMA?oc=5",
+    "source": "shattered.io",
+    "published": "Sun, 15 Nov 2026 07:24:24 GMT",
+    "discovered_at": "2026-11-18T07:41:13.465246+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5a318822cf49da6ba39ba36b",
+    "title": "Purism Librem 5 v2 Announced: The First Smartphone With a Processor of the Future, Unprecedented Privacy, and Plenty of Caveats - Andro-News",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZTkzbnVIQkVhU1JfUG41RGFSZENaTWd0U2l5QTBOX2dHSU13QkhkZXk0MjdYUkFZaWJsOHl0SU9EemdHb0ZWMVdUNE80dVc3TWMwT0I0N2tPWDM2RGlOeHhZbDZaa1VLNkJtNm9jQlFNRk5ocWwtR0FqNnZSVUVJT0RqSmFDQmJNN1dLXy1hNnVIZnJoZ2Y2dXRkXzdkYVVianBySElSMW9RaWJMcjRtMXZIRzZnU01wYUNuZ2VobFQtVjB3LUFnWDB5RnRDNzFBamZhRENkUjNZM2lZLWh3U0gtc2U2QQ?oc=5",
+    "source": "Andro-News",
+    "published": "Tue, 17 Nov 2026 11:36:50 GMT",
+    "discovered_at": "2026-11-18T07:41:10.615078+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "30e81da6b100217baf308e7d",
+    "title": "GPU giants throw HPC users some tasty crumbs - The Register",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSjFuNmtyOGw2SXd3ME13SnItM1lKMXlCdFNRUmlLZkQtRERNallLTDFBTXdzVEhYVlFUSkg2NnotRDhpbXFrZThsd04yamlKZW9VYjR2OWt3blhnUGJ6TlBnQWRRRG8tRkN6Zk9zUUNTcmwwN2xkZDAyNzA0SXhicTVGNEpvUm5sRF85WjNCV1N2NFlYeHRGY1dTMA?oc=5",
+    "source": "The Register",
+    "published": "Tue, 17 Nov 2026 22:37:46 GMT",
+    "discovered_at": "2026-11-18T07:41:09.025690+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c4c20706db375cbcf5d927b0",
+    "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics - NVIDIA Blog",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45VUN4TFNYSi04aUh5dFJOTUNGRUYtbnFrVGI1NkVPaTRibDludFZST2JYd29ETkQ4Y0xJUURqcmNYWERkajZKZ0JZSFRUQ2RmSWc?oc=5",
+    "source": "NVIDIA Blog",
+    "published": "Mon, 16 Nov 2026 16:04:02 GMT",
+    "discovered_at": "2026-11-18T07:41:09.025611+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "2118cfc65966fb8eb89acd45",
     "title": "NVIDIA Expands Vera CPU Racks for Scientific Computing - The Defiant",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM1JhWE5JM0hmRWFEbFlrZDBUUjRYS1NPeGQ3THJvQVhqdl9Zc1V0UnQ0ZDVJSnF0aFRaWmdKSFZZNGlodW9CZ2dOb3MtZlhEbHlCRlFlUFBTeTczUUliM2ppQy13TS1oRy1TeGpwV1VQb3dFRmhsSm5xVkxVWGZpX3BabE92UzZGTmhsT3U0bzFpVVhOOWgzMkFWWTQ?oc=5",
