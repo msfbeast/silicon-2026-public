@@ -1,5 +1,148 @@
 [
   {
+    "id": "5b112665cf58d5160dae618f",
+    "title": "Inside Google's TPU V8 strategy, delivering two chips for two crucial tasks at incredible scale — network scales up to 1 million TPUs per cluster, an advantage over Nvidia AI accelerators - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeFlMR1hZeERLbDMzc3hsTUdxb2p4TXVwdVhaNTE4ZElxbkZkeEdzbW80akN6TVRYS1g5R01HYy1qZkRERDFLUEszT1RZUUt1cVFyUUxFcUJpZUhiTERuN0JJczJvZ3pSMzdxam9hemg5Zkw2SlRXYUpFdVB2YWVWR3JNN2ZSdmxCb1JKVEJWSjN4QXdhMzBSUGpJckt2dDltSXFTRDJyV21tVFNvb3hocGZPemtXUG5UZHBIS1h3eTdHMTNlMnh5dTN3SGpsNjVtR0xBenZ6VTRKSTBYLVVqY2c1aTA?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Mon, 27 Apr 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-19T20:46:48.112998+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1981fab0818bd518bbbcfe7b",
+    "title": "Intel Xeon Sapphire Rapids CPUs with DDR5 memory have been tested in AIDA64 - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZktYNUhMVzVwaW9ISmJGbXpSc0hyT1pESm5vSXNpSmNLNng3X29rSkJ5MUZYN0FGLWVDVjhnR0lRckZlejJMY1VWcExaTHh6cGZPMTVRZmtkcEpUbTlYR1MxSExHQVVpY3N6YjVWWk1nalZna1IybHA1TDl6OTdYRTM5MExQaC1DbkY4bmlDNE5DX1QydXpQSXFod0QtOHo1RVlTazFn?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Sat, 12 Feb 2022 08:00:00 GMT",
+    "discovered_at": "2026-11-19T20:46:44.671083+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "12a0a3cc0cf2b1d52b45727d",
+    "title": "A roadmap for semiconductor innovation - New Electronics",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPXzdXSEgyX0U0S2ZBcUllWHZzNndIWS0xZGFXVjEtTVU2VktoU2hyRzFoRTRBdVpPd18yMF9wTjFsZkgwYjh4dHFHU3N2cFNWb1U5VDJCUEhwWWJteTd0OV8xMG0xZXBwdXZhYWF5bEtnbUh6ckttV3g2QkpseE8ySWN4cmxzcFhwZDhSSHpXam9XZw?oc=5",
+    "source": "New Electronics",
+    "published": "Fri, 19 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-19T20:46:44.002325+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "37357a394f36677f8bc1a098",
+    "title": "AI models deliver up to 14% chip design gains in AMD collaboration - ET CIO",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQR19iM0x6ajQ0dXRKUS1jUzV6ejZxWVNKOXVINEtPNDFEU3g0d2V4RXB0TF9OREdHal9OSXpqd2FjTzg5dWg4czZtY1h6ZXgteUpHMkNTQnQyMUdVM3ljdlVGdTNQczdGZ3hXTFRRZmRTZWNCVm9VLWRNU2xXWUROVk9JQjJCdnQ4RXlpMkRsVTBaOUNBSEd2Nl94QTRWRXA1RWgzZUJqLU5nSXIwZVZYZVcwWGpYNURXZjJOTHJsRFlfYURFa2VFMndldzJHOWdMa0FyREJENFlFZlZ5ZnJMMjUzTmhvcWtpVFBBVzF1bVB1cFRIcTNVa0F2S0JVYVVUcXpza2VpT3F6YXJLM1ZYcE5LLWdoeHhaWnFxczdKVHkzRFdzOWfSAeMBQVVfeXFMTlJjRDZiUWRXSTk3U2hRMFJVc1NpUXY1OHFLbFF5VFNaREJCQ3lFdnhNRDRxdlI1VG5mTk5xSHJZQXpwQlBUbGZwYndHUkxTWEUxNTNWMDA1S0JWVHB4MklteTF5aURkMHVfYWRteEhCRm9VOXlFTXpFaW93dWRUSzlxdlNFVm5pODMzTzB5OWd3ckdaRjYyaDBfdElHV0hpOGYxUVk3cWNDYnVTUkNfT2FfYktfcF9iLXdPT0docDhPRHJKdEdQaFdsUHZ6bmMwcHJHTkFSRkFiQkhjeWttdDYybWM?oc=5",
+    "source": "ET CIO",
+    "published": "Thu, 19 Nov 2026 06:30:00 GMT",
+    "discovered_at": "2026-11-19T20:46:41.132170+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d8b5b8f77ca7adc728e9c7d8",
+    "title": "Trump's Hints at China Blackwell Chip Sales, Yet Nvidia Breaks Below $150 Post Earnings, as Elon Musk Criticizes Nvidia Board for Ousting Jensen Huang - FXLeaders",
+    "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUVItUWtqbmg2dGtzV0pFVkFsUWtZbTVYeVU1Q08yeWR6T050TnhnREs3WnphbFpfek9YNXNwXzd0X3U1aDc0cEVZSFZRc3BqNm84TGtjdFFVeHJVZHFxMGRSV2RYd28xTzJ0a2VQM3ZNTUczLXVabnFFRkF6S0FhaDBmVXFIOFRJNlRJNDdWN2JnNWZYaDNhUkhseGhkbGpMaXJtTzN6YjBjTkJURFBQVlFKWWFqb0lVUDB1TThpbks0TEpjcHBmTmxZM19hR1BWNUtBdXRmR29EejNHSy1RMUlDMENZMmgyMkpkZkFWUnM0RjlSMV9XbkVKcTh4VENOWV9ZN1JROVNSUVN6ZzI1UlE5MlI3NndJ?oc=5",
+    "source": "FXLeaders",
+    "published": "Thu, 19 Nov 2026 19:56:28 GMT",
+    "discovered_at": "2026-11-19T20:46:39.239422+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "029964da5d7a8acc52066f34",
+    "title": "Trump says U.S. might allow Nvidia AI chip sales to China in two to three years - Quartz",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yVHZqbXl1ZTU0Umd6REIzM0FHa05vTnJYZDNScTBBRVVqSUVwYUJYbjFwWFFjSTZZZHZSRUVPaUxtR04xZFZlNWNSVEdVQVdubHpsSzNOZG1XM2FYY2lsQUV0WThSX2pyeUlNTWZSTEktSGYxQXc?oc=5",
+    "source": "Quartz",
+    "published": "Thu, 19 Nov 2026 18:33:44 GMT",
+    "discovered_at": "2026-11-19T20:46:39.239402+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "dee6d0f52da6768a2afcab53",
+    "title": "SpaceX Stock Jumps 3.2% on $4B Bond Sale Plans to Fund Nvidia Vera Rubin Chip Orders - Coinpaper",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSWRURC1WUXduTXgzTlR1ZzVfUEpvZk9lR1Q1N2l6Uzd1STZEaTJJQ0dYZWNYN3BmeXEtNEZYckp0aFFYN3N0a3JSQmlfMEx0SXVBWkV1TDNpa0JjeGFmbVQtQUNQTDFxN0R4aElzZ1ItTUM2dXhUUDdNT0xLcWJ3QmFlU1RfSk9iYWRFdDBOVGs1S19MR2FIMVJGenVac1FsMzNHaFFNNFZaaG00dGR6M09n?oc=5",
+    "source": "Coinpaper",
+    "published": "Thu, 19 Nov 2026 15:38:21 GMT",
+    "discovered_at": "2026-11-19T20:46:39.239373+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "334234a699cb6b478b332964",
+    "title": "Nvidia stops shipping AI chips to China as pressure mounts over US export controls - The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV1RjSjRJSTN0YWdsOFpyYlA5c0Q4ajVya1FYMUJJTDZzMUNUMEdGaUZlXzF1Y3EyU2pINlBrd1lJazRLelJzcVdXa2xDWG5SRk85eklzeVVRNDBWSGMxcnlBaTNhVU9pQmlMNFlNSEJJUUtKSVRFSnlzVlEzRWFJWXBYNkxKMXVsVTdWdUwtUHQwakttVVQtd1FWQnRTeHpPdnN1REQ2TlRtbklnYVJrOEdKRVp3TXpHeU5NMWJpR0hTMnPSAcoBQVVfeXFMUGdDdWppYTlERk5EOElUaS1lVTlyLWV1MXFxSW9sX3A1RWhUYnpVTjRpbm9fc05JYWxSWmNmM0pPcVh6RlhnNG8xbXItTjEyY0xoRkVhbFE1bFpHUmI5UDlXNGt2WFYweEpJejFQNnNXOS1EU0RpZVUzc05ESHRpTTlPMGdPU2d2LXhUSjJad0lYRWtLYUZESW5CMHFKYkt5V2tjRG5xdGV4ZEFkQ1ZyNEQzYWxGTXRyN0UwaHVRc3ljbWFnNExhbFdIUQ?oc=5",
+    "source": "The Indian Express",
+    "published": "Thu, 19 Nov 2026 09:36:25 GMT",
+    "discovered_at": "2026-11-19T20:46:39.239300+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8e397498153aa16e55c541da",
+    "title": "The GPU benchmarks hierarchy 2026: Ten years of graphics card hardware tested and ranked - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE85QmowWWpZRWRKV2FvQmxob042MlJPQi1waHA3OWREcndSekZucExMYWJfTmJjN0VwSEYwemFkNDVsT1JfcG0tOUliYUdNYWQxYzBfYWJ4VmxlVFBjaWIzcVhBRnduOTE4X2xFcw?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Wed, 18 Nov 2026 23:06:25 GMT",
+    "discovered_at": "2026-11-19T20:46:38.766504+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2d02f084e42443f8456c7785",
+    "title": "The first mini PCs with Nvidia RTX Spark chips have gone on sale from Asus, Dell, and MSI. - GameGPU",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNWtlNFlQNDg0ODF3cWNTZkFhUm9UMEowajQ1YVM2Qm4tVmlSYnZhQVd1TXcyVTFzNG9OczRpSEdSWTAxNl95R1BiZm1OX1BVeVFpTkNqSkU3VTlRU3h3VkVTM19SOHBwMnpBc0NIOVV5cXVUUXZaVjNpZHZBc1hyaDIwbFFSMzdfTDJwMmxfV2JlUFlIeXh0ZWpkaEFxZWw4eVU0RzEteGl0azJPMDJkeE1rdEIyMHM?oc=5",
+    "source": "GameGPU",
+    "published": "Thu, 19 Nov 2026 14:52:58 GMT",
+    "discovered_at": "2026-11-19T20:46:36.268302+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "9d9d4d6fcb1db6422dd296ac",
+    "title": "Nvidia and Microsoft Bring RTX Spark to Compact Desktops - PCMag Middle East",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaTlCNnM2YmJVYTB1VXRVNkpCWm9tcEJ0cklJQWk3Z0dVWWgzbHQ5RzFqa2JveDNjZDlTc1hCN3NPRFFBYVE0aE9yX2pnMzBFTDBMcFZ1RkNTSGpuNllBMkpXSzg0Y1JmSjlyakpSV180czNoejItMEluUGFMX0RLcnBicG9RLWdQVXRNSVR2VUN2azNXVXoweTloSndVX3RUc0hOOQ?oc=5",
+    "source": "PCMag Middle East",
+    "published": "Thu, 19 Nov 2026 13:13:55 GMT",
+    "discovered_at": "2026-11-19T20:46:36.268271+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "aac766b62f609334255c7fde",
+    "title": "Apple Debuts 2nm M6 Mac Mini and Quad-Die M5 Ultra Mac Studio, Pushing On-Device AI - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VXlLcU10OVhXLXgzcVVHN04wcFZwY2hsVjlCMFlTMVNRZGJZT0E3NzNXYVZ1Qks4ZEl4Vkg4dWZGX1VtWGtMa0tnTU92ZnV4Mm5YSzdvdGc0XzlzYjRBQVdJMUNoZEw5WHJVMU51ekFTQ3hPQ0E?oc=5",
+    "source": "BigGo Finance",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-19T20:46:34.793863+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b80ebaf181859e958f7c0e5a",
+    "title": "Samsung prepares Galaxy AI on Snapdragon X Elite for its upcoming Android laptops - Android Authority",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzd6SFhJOGZTY2hOcTl5MWsyVUNBQjlSWUgtUkZZZmJ2MHR5VF9Oa2k1RFpKaDBENkt0d1FRdnMxLTQwU0tTUER6S1NqWnd5NjMwLTUyaXZmbGd3d1UxUWEyNzd3N3dHU05Uc0pJNksxU0c2YWEyelhoa0xCTGJiR190UTRobTZpN0lfOTBUT0RyZlprazZ2NUJ0QWMwcHhNUW1Td001dnJHRG8?oc=5",
+    "source": "Android Authority",
+    "published": "Thu, 19 Nov 2026 16:04:00 GMT",
+    "discovered_at": "2026-11-19T20:46:33.213780+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "96571197e380d9ec57e34595",
     "title": "OpenAI Advances Chip Design with AI Models, Achieving 14% PPA Improvement for AMD GPU - KuCoin",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFhQMnowT2w4eTl3SlYxbW9tSVdfaG8wVjNuU3NSbkgyMi02T2RtUlZ4cDBFQVh1VkVRUVRwdG1jbjdnNVZSQWpCSTlaQVllQk9Eem5tTjc2LTUtOHhERWdEOGdrTGZtTDJZVzUyVS1hT3BXUk01ZW1zbUV5QlR6UkpqQ1NfZTNndVBRLVVqM0hScVg3SDJzSU4wd3RFemJ5cDljelBSdE1WUExwUEFLOWdRVnU3SnM?oc=5",
