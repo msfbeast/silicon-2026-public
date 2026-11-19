@@ -1,5 +1,60 @@
 [
   {
+    "id": "96571197e380d9ec57e34595",
+    "title": "OpenAI Advances Chip Design with AI Models, Achieving 14% PPA Improvement for AMD GPU - KuCoin",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeFhQMnowT2w4eTl3SlYxbW9tSVdfaG8wVjNuU3NSbkgyMi02T2RtUlZ4cDBFQVh1VkVRUVRwdG1jbjdnNVZSQWpCSTlaQVllQk9Eem5tTjc2LTUtOHhERWdEOGdrTGZtTDJZVzUyVS1hT3BXUk01ZW1zbUV5QlR6UkpqQ1NfZTNndVBRLVVqM0hScVg3SDJzSU4wd3RFemJ5cDljelBSdE1WUExwUEFLOWdRVnU3SnM?oc=5",
+    "source": "KuCoin",
+    "published": "Thu, 19 Nov 2026 00:54:37 GMT",
+    "discovered_at": "2026-11-19T07:37:22.986382+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f6675d377f0032e89b0bec20",
+    "title": "AI models deliver up to 14% chip design gains in AMD collaboration, OpenAI says - ANI News",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY2NFejY4cTBhRUJ0alh5NVhHZDFwLUNWVVlsVzhGUHRSRWdvNmlhR043UV9icDhQVW1xbEtNN2g2YWp2eEp3X2hLTWJCRGdSb01HdnA0azktM3FFNXNRZXJOd1l3OXlZbWdoOVdMdHkxd0w3NXFfNHNBcnhyMlBLcS1rampuaUFVdFh1YmRoQ1g0MW9oYUJreWZYc00wek91b2JVblYzQWEzSFFVZEZCdEZrOFpFOXlONjdCcFdNUGNBUWZYTzNj?oc=5",
+    "source": "ANI News",
+    "published": "Thu, 19 Nov 2026 02:55:00 GMT",
+    "discovered_at": "2026-11-19T07:37:22.986351+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f4e7ac697754d4f7d5b648e6",
+    "title": "Trump says Nvidia could sell Blackwell chips to China in three years - CNBC TV18",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlVNZWNQdDVyYWx3Q1VIN25fVW1HaGJzbmxDZ3A4UWREN0lWSWMtWEV4RklxejJmMW9uZFc2Rmlhb054LXRtZ1AyS2RiaFBqY09vWnNOc2RXcnRBQU1qV0M2azBMVVFKTGM2MHJaUmRVaTZiclFadTBxN1Q2ckJjdkhQdFRmcDJRYlp4cTBTVXRmTEducHdMTkwwQ1VaeU04UklqSHdYYlFXQWQtM2lXcnpR0gG3AUFVX3lxTE5PcDV3dldXcWlqVDRpNW12Y2NLV0MwYWljZXlCdHBycHRtTGRCQ2NSVXI2Z0VLNktxVEZxcjM0RWZHR0dxMUVsZDBaSzBORTdoaHBBcHJxTDYwNGkyTDJFUUNQRS1LMl8zYzBxQmY5OE92dEpOV3huVDFaQ3BCRm5QOThnbjVXZXNzVi1hLUMwOWlxUUJlSnUtTDBiUDdzb25OSURvYVNmdXpjYjI5a3pFSllBYklSVQ?oc=5",
+    "source": "CNBC TV18",
+    "published": "Thu, 19 Nov 2026 03:40:52 GMT",
+    "discovered_at": "2026-11-19T07:37:21.265344+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "24a4a1825ad95b7a8071c6d6",
+    "title": "Trump Suggests US Can Sell Blackwell Chips to China in Future - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb2RmcllMcDNES1UzSmxVelRjcV9LUHZzVVQzaVA3Z0tKczJqMHBuaXh0X2NMVXFUSGR6V28tMkh6VWNJUmxuMXdiQTFuMzJsUExCa0Y4V3NXV2xtSzVIN2hvcS1zY3FFbGlJMlRZVExYVDVMMXlFWjRObUZKWGc1bHB3QkVEQkIzSVlaN3VpNFVrNXJScG9oV2Q0Yzc5ams2ME1VWTRrZWNfdkxHbFZnV1dn?oc=5",
+    "source": "Bloomberg.com",
+    "published": "Thu, 19 Nov 2026 04:00:00 GMT",
+    "discovered_at": "2026-11-19T07:37:21.265247+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "3e23313d171db19e9dd71eff",
+    "title": "Nvidia and Microsoft Bring RTX Spark to Compact Desktops - PCMag",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLW9yVU9DNFVxZEJ3SDJfaG5tS3VOT3ZMVGxwS1cyUVFETEFLYmN1UVJocFB0dmd5eml1dEx0QXAzb2hBZ3JnckdodndMU3R6bWZxNkxTbFlLOFdvczRkRGlLalhVYmdicHBES1JTWmMtM3B6b3NPSHpPbEkzMmxIZ3Y5Q2VWZmlEazN3?oc=5",
+    "source": "PCMag",
+    "published": "Wed, 18 Nov 2026 14:02:56 GMT",
+    "discovered_at": "2026-11-19T07:37:18.341794+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "828cc4adfd87de1e28c73734",
     "title": "AMD will beat Nvidia to launching AI GPUs on the cutting-edge 2nm node — Instinct MI450 is officially the first AMD GPU to launch with TSMC's finest tech - Tom's Hardware",
     "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOS0pKd2tWTWE0MVpNLUpmNkpNUHU1M1FBQ1U4U1J6TklIZ0hhX3hhNE5VWWpUOXFJQzBvV25mR3pZN25BWEIxNkpLbkdCZkpQWm5xb2VVV1JYb3lLM0NqSDluYkN4YnJhdXJFTkRybmhtSkpzcmdqTF9xSVIyVkJ0TVlFRUpKTHhaVUJZUWNFSjhLdkpLZDVUWTZIUFl2M2pZd1c1b1p4N3Z1cW5zdmxtMUh3RTN1UXBCZnZkTjFoRnN6b0xSRTM3T0RPc2FyOFhBLWc5UXhMUDJhblo4X242UmNVdFlqZG5fSGhiVHNvU0dWT2ZDYUFGVDNDS2NtQkJIcXVZenlOZHdWUGVkem9Jc1lJbkx0QWlEWDQ4aUJyYW5wanRFN2o5ZkxoQkdjVUU3TzZxMXJKMVllZFVaVElz?oc=5",
