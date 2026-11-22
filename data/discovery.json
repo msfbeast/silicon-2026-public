@@ -1,5 +1,115 @@
 [
   {
+    "id": "47efc4f05fc3b58ce5cab69c",
+    "title": "AMD Unveils YottaScale Data Centre Vision at CES 2026 - Data Centre Magazine",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS3NCakVsckIyMGFyb0JhZlhiZG0tNUpMVTFUOFFVeXFRWC1ZVmh6U0lmT0U5Zjl1VlE2a2MtN1VCajhadlRsbHdaYldzYXRpeTFtRUpvUmpLVEhzVlhNcTdCQ2d6VGJKaEpaWTV3TFFXbGx1SV9HcVlLU2V2YkhQR2gydy1iNGVXeFU5RFotYVhuTUU?oc=5",
+    "source": "Data Centre Magazine",
+    "published": "Tue, 06 Jan 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-22T07:03:47.597004+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "cc9f6e358f38705bcf841d22",
+    "title": "Entry-level Android tablet unveiled with 10.1-inch display, metal design and 4G LTE - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE9aOUZCRk9WUHVwblp4MmZIOXNDQVowbnNRNW9fWktabnM3VU9rdTJwRlFkZmtUOGpuU1lBOVFxOGxodEk3YW52Z3VDUWsyV0NPZG1WUmloZVRTNTVFcmxORVFSM0ZJS2MtOUxNTlRXcEttNG1QT1VlMzN5SmR6TWI5djJMeV9uSHd3VW9TRXo4cTRvbDAtc3JIS1BrYUV5bkRKNlowbzRBUWJaWi1SNE5oZENSWTJsWE5odkpoNVVwMXZQeGc?oc=5",
+    "source": "Notebookcheck",
+    "published": "Sun, 22 Nov 2026 00:23:00 GMT",
+    "discovered_at": "2026-11-22T07:03:45.245775+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "17c1ce6064828d7728b8b2a0",
+    "title": "China RISC-V Automotive Chip: M100 Batch Shipments - NeoTeo",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVE4xd3BlQjNaVGNwRzRZM1ZwQmdxb3ZuSlF3TE41RzR6bXE1VlVZU19fUGxLRWt5SkdzSTEycVJIcDVNQ2k0dDBFTHl3OW1pNktSZHlNdXRTSzFFRG9Vd2hxZ1gwSnEySkR4eEwxdmVlQ1dsX3NORDZiYUh3NTI1LS1vMGVxckptOEJteG1RSGxYV1lobV84?oc=5",
+    "source": "NeoTeo",
+    "published": "Thu, 19 Nov 2026 13:05:18 GMT",
+    "discovered_at": "2026-11-22T07:03:44.048916+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6d8ded770db88a3dc4f6db94",
+    "title": "Fursoy's Slice-1 Is a Fully-Open 64-Bit RISC-V Chip Design Capable of Booting Linux - Hackster.io",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU1l4b1hFYlctejlEQ2pHN2EyaTVGd3F6V2xPWWZlRS1pY1RTcFc0bVhwVzFZbTg2SllqcWs2WEZmWVd5dkR1bXpkalFlWjdPSFZ0cjhURXQ2dWZoek9odDVqWjl6cTJYSHFweXVWMlpUZUc0VkhVYkZEVU5SUXF4VWVVR1J4WGdEUVZPcUswTkVGQ0hPYVZ3SkRub3gwY0k2SDVoZ2xrc29qLTN3LWlpVl9zMnJsVkdfX2lmWms1YjJDUDQ?oc=5",
+    "source": "Hackster.io",
+    "published": "Mon, 16 Nov 2026 16:48:09 GMT",
+    "discovered_at": "2026-11-22T07:03:44.048808+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "6ed091b126c3539640a61e47",
+    "title": "Neurophos on building a chip 50 times faster than Nvidia’s Blackwell | CoinDesk Videos - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMDBQQ1BHdXhQWHhXR3JpMGNiT2N2TS11Zzd3c29LOWt6bDY0OTBzNExlanZza09YWVBDTENNZHl1S2Z4SThhMlRXV05tX294aUVSQzhWZkdYMnlJbDduaVpLNk1uRGtERGFOTk4yM1AxZk95ZmE1V1h2VUkzQ0tuMzZpMzlwWkpJa3ZKR2hzVWFFbWpISmg0NnRNNF91VEsz?oc=5",
+    "source": "CoinDesk",
+    "published": "Sat, 21 Nov 2026 20:06:04 GMT",
+    "discovered_at": "2026-11-22T07:03:42.158293+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "09c195ad240b596a02b2aaff",
+    "title": "Nvidia expands its Vera Rubin platform at SC26 supercomputing conference - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZmZZUl9zcllnaF9ad0c2SFdtSkRJZzBIQTV3eXlpUW40a0Mya0d4Z01CcFhKQlNMOTEtOWl4aVdKVjR2T3BFM1ZBU0lHOVNCRVpFSTVEYTQ5bHRkNm1SeFNfdVVVNjhFc1V4c01OMl9MWmZKU2ZPc1RNRm1VOHc5U1VBUjd6bzY4YmczNzQ2YTVTcTRQR0hwU2RBU0RWOGlLU0pVRFJjV1JhTzJ3V2NmNDhPQmVPbHlnWjNiRHdRUjNFSFllMjlsS05UMURpVnprTHB6eDl3YzNPbmFVQWwzbDU3ZUhJQ1g4ZEg4WXZOODBUUVZyUG9fbnVKN3JKZw?oc=5",
+    "source": "TechRadar",
+    "published": "Sun, 22 Nov 2026 00:26:23 GMT",
+    "discovered_at": "2026-11-22T07:03:42.158264+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0d5ca24c1de870ada00e94fc",
+    "title": "AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day — canceled Ryzen 9 5900X3D breaks free from the chipmaker's vault - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNd0JpMjZQSHhJS0F3VkN6ZE92NzE4ZnJUSlFLYUY4UmZFOW55TTNWWHdyMGdhcUpKVjVvWkMteGF0d0xfTGFzMDd4ZzFJbklkTjBKTUZuS2xtQUdudDhLc1Bhb0Rndjh0bThnMC0ybzR1X24tX3B3NXNYWER3VHF1N0tZeHFMN19idkRERGszQ2tMeWlNU25WeVY3LW9ndGJBYlp2bjljYjM0RjNiRV90QWVDR09IbWZudGtQdDBTYmpBSmMwMk0zTEd4bHRRY3ExU3ZpekI0c1hCNnI5aUlybE1JZGFtZllXN1hXRkpTMFVIM0c0Z3NSOG9sUnBJSXNjc2JsN3hRYUVjcW41MW9BTGNndWNfY3YtcU1DSA?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Sat, 03 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-22T07:03:41.408959+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "40b5743a3fbee94ab396cc47",
+    "title": "New NVIDIA RTX Spark N1X Plays Older PC Games at 4K Ultra - Geeky Gadgets",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNU1ZY2JQT0dENkFsSUZCMnN2RmlKUk1qdVR1b0xOYTFFbWVzZHA1YTRXZG9CMm5TSFFxZFlycFNlQmxING0zVllfOUFYNkZnOF9ILVlTY2Fxb1FJSkJ6R2cySFBTV1huazhYTXJpM2g?oc=5",
+    "source": "Geeky Gadgets",
+    "published": "Sat, 21 Nov 2026 07:00:19 GMT",
+    "discovered_at": "2026-11-22T07:03:39.287644+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "600168a6285affae8f55d1d4",
+    "title": "Intel Panther Lake, Arrow Lake HX Refresh, Nova Lake- 2026 Intel mobile hardware explained - Ultrabookreview.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95bGg5VHY5dGFzdlZzNkFwMDRhTnRJTC1BZ1lBUGxSRFhFMWI4VEFDbzRTYzRJZkJiSWREeUNNYWNtVkc0Q3FCZjE3N2hkWG1WcWs1empjNTNscXp6dF9PMDNsSHNicWN6cEhXYnh0bEdWRHM?oc=5",
+    "source": "Ultrabookreview.com",
+    "published": "Thu, 30 Jan 2025 08:00:00 GMT",
+    "discovered_at": "2026-11-22T07:03:38.584584+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "0795950b487cc431f9622f22",
+    "title": "2nm Chip Race Shifts To Heat-Management Packaging - Businesskorea",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82Q3RQcnZ0RGtFbFJmWGVwZjV3UFFEYnNKcDM5aXhiMFB0YjRfbTdRYThEb3VWSV9KWm41UGxGLXRHVmQ1OFVTUm1KS2dMOTNuOWlZLW9QTGZCdVNxVHVvMHhCWC0xdEs1NVFsUElteHRIVHVP?oc=5",
+    "source": "Businesskorea",
+    "published": "Thu, 10 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-22T07:03:37.630984+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "ff450f379801918ca06b5a0d",
     "title": "Qualcomm (NASDAQ: QCOM) Automotive Revenue Surges 61% As U.S. EV Sales Slide - Foreign Policy Journal",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORGd0dDBsVndGSF9WdzJPNTlGai16bVU2UlJjbVEtZDFDX3Z2eE9iczlYM29zTXVha25mSTJsb29GN2tkZlZMVjBZeVg1bGtIV2JhYWFFaDl5NVAxRTlsM2padi1XT1l3X21nQ1dKUUJwMGRJSXdBRFlnLTByTkxwVG5uelJ2Ry1IMWNoa1puZDNMWkRRUXZIcG15NE1JOHplZ3BTSm5lZEdaOGtuVFhnUjE5NXhGUThEY1JBUw?oc=5",
