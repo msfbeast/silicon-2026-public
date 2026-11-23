@@ -1,5 +1,60 @@
 [
   {
+    "id": "b56980bc1f9316951b75d5f8",
+    "title": "Three-Way Race To 3D-ICs - Semiconductor Engineering",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43ZXlYWWdWYVdkMmt0MnhDM2NTeHVGTkEwcDY5a2lzSTVtQkIwMUR1UXA2a2R0dWs2MGJhWGUyeGRLUDJUYk1POGxVbllBOC1FUi1hYURraW1CSjlGNXJvMGpPRQ?oc=5",
+    "source": "Semiconductor Engineering",
+    "published": "Mon, 05 May 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-23T07:52:08.811493+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "10d4eb4e7a337e008bae38c1",
+    "title": "Intel's fab roadmap examined — Arizona, Ohio, Ireland, and the two deadlines deciding 14A process node - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZE9tTzV0RlRRRDlSVl94Z1VMaVVUUjdOYTdmZVpsaUdudWFJeXNaVTh6NkxCLXZWVkp6WU1rcVRsaGFZRmM3YUhMTEYtWWFiZ3hDZjFtck5TWTlORHNOLUV6RDdWcTVYTHlld3lQdlVIWkhYYURKNXJyd1RXeE1HaUdHQVBvNDBmYXFxOHJR?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Wed, 17 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-23T07:52:08.811344+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "2f6493ed226565acbe815e19",
+    "title": "28-Core Intel \"Nova Lake-S\" Appears in Testing Running at 5.2 GHz - TechPowerUp",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1F2UFdad2R2cGdaYkJ6T2pZSVhVQlBDSXJhR1lhbC1BWTRsbnktS1I1NmZYUl9uTDdjTl84cnBLWUN5b1dXSi1Ib0FVSlA1dUYxUTd4bWUwcDc5U0M1YWQzdThpeEVSUDhYd0t3STdUU09xLXBaeW12cEd2WjNXLVdXMXVHMnNlbk5YQ0lxcnl1Y0xfcUoxTDB0Yl84RnfSAaQBQVVfeXFMT1ZpUVBKSnhRUHBWRG1xLWlaeEZJNmtvMlJDb1JLdDNudXRxTWdjYWtsdENTNGVIbDg0bV92VnRscE0tUlhZaWZpMDlFNEhmclJJUjluNkxqdXdSSUhWbEZSaWtjYUUxTW0zUGRuYlhxeWJ6TkFla0hCa2FWbjRGeTZFdXlpYmJzTnJqcWpUa3VKOFUyS2RGUm5TUG81SU5xX1cydEk?oc=5",
+    "source": "TechPowerUp",
+    "published": "Sat, 21 Nov 2026 15:39:12 GMT",
+    "discovered_at": "2026-11-23T07:52:04.032930+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b1f3c3cd96647ae1d1090e27",
+    "title": "AMD launches Ryzen AI PRO 400G desktop APUs, iGPU tops out at Radeon 860M with 8 CUs - VideoCardz.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObE9OZWVqaVRWNkJZUzRHUld2aDJvakljZk5MeDV4T0pXNlU2bUhQRmhDb2xwazMyQTdmWWM2dnB1SXdnM0F1SXlJTkxqOWF6M01Rd25HM1VldTBHVnY2RWlIejlmSVFCSE1va2ppSE0tRFdhLXo5d25xRmxHUXIwb2ZLYndiSXZyQzhOMHRMQUVXT0VFTEdRY2s5ZkRTOXlqTndZN1V0Tk1tTkZTLXUtYQ?oc=5",
+    "source": "VideoCardz.com",
+    "published": "Mon, 02 Mar 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-23T07:52:01.146551+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "56fb51fec8ee2753ebe669cd",
+    "title": "AMD's Siren Halo Leak Points to Dual Memory Pools: GDDR7 Plus LPDDR - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fcllhcE5tX2N4M1VXY0o3eGM0aTNKREdQRXdUUVZIcG53NVBobFhBNFMydFVRVVh2RVBsYmE0T0tQeXM5QjFQWjdleGVvSGRYc1pESlZiM3otNmlnX1ZhMldZV21QQmVuYlpvbFlaaUNadU5TdEE?oc=5",
+    "source": "BigGo Finance",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT",
+    "discovered_at": "2026-11-23T07:52:01.146255+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "f527f8ded1eef9083f46502b",
     "title": "Nubia Launches PAD SE Tablet in Malaysia With 10.1-Inch Display, Unisoc T310, and 4G LTE - XiaomiToday",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWC1EOFVNR0ZBZ2FjSmdLNWdpMXg5Q2poRDNkV3B4eW45X2plZk8wMjhieDFPVWRpZVRTejh4REV0RkR6RHp4cm9FeTBhUmRLUDRVc1NxdnkzVmdNTzR5VkdzWlpLTENyd0VXSUV6X21nOXY1ZUVGa0FuQkhiUEY2ZXN3UG9Gc3JwRDAyQUNjYjY2WmNFVk9xNi1jdjc1VFFzSGltS2E0NDRvakVINU15aQ?oc=5",
