@@ -1,5 +1,126 @@
 [
   {
+    "id": "41b3a5df504bfb1fc6b2e819",
+    "title": "New course teaches how AI models run on modern accelerators - IBM Research",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZktlaG9QZmdBZllTZU5MaXUyS2VzQ3RKLXU2NUdBaHpvNF81VWF3dlBHbnRpdmk3dlhWYktsUjR0ejMxM3VOX3FNbm9YdkkwZlk0ZzdlOF9BUV8xNllma3FtQ00za0R5LVZ1TGswVUhSZTkySm9vREZxemc2dnluZnJCb095MWxyMlQ5dnFweVk?oc=5",
+    "source": "IBM Research",
+    "published": "Mon, 19 Oct 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T21:49:26.288672+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "992e12808dac6fbca6258be7",
+    "title": "Vera Rubin NVL72 MLPerf Results: 2x Over GB300 - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aOTRKQUNQMjYyNTlqUndPc2dPVjVKOGRoTzN1MGdzdXQ0OFJxaWNzZGpNNWZtYWQyaW1HYVp5bnppSEVqNElGcGlPR0V0SVRQNGtXYjIxZ1lfRHJKcERZZzVxcmJfczRSeDQ0ZEdZQW5YS2M?oc=5",
+    "source": "shattered.io",
+    "published": "Sat, 26 Sep 2026 11:54:43 GMT",
+    "discovered_at": "2026-11-25T21:49:23.987765+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "97e0cff63303820c5394798a",
+    "title": "Understanding Xiangshan: How More Enterprises Can Leverage This Open-Source Processor Core - eu.36kr.com",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWRmV0ZzBOVlBuVVd4RnNsem9jZ0hnMklwZkZxNWE1MUZaTFBVbFVPaENQZm14dk9yeGhab2pPcEVzZTNPUGxOSE9pV3VxOXZ1VUpZ?oc=5",
+    "source": "eu.36kr.com",
+    "published": "Fri, 20 Nov 2026 09:52:27 GMT",
+    "discovered_at": "2026-11-25T21:49:20.506468+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4c4aaed489b2547659452a1b",
+    "title": "RISC-V, How to Define Standards? - Gasgoo",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjdVdDRSSU1OUkxYak9kRXZtVXNWbWt0UmdVNDg5M2w0NmUwZlV3blRhZVpsbmR5UFBnU21vNklFQ0Q4ZE4xY2hnVHgwc1VKdmZNTGRkeXpKamFPMlpITmVPS1VURE5EQ3lodktEWFFWZnE3dXNLVm1HMUJFdFZacTI5aE04aTdqWFVibEtmazdrV2Q5WHpn?oc=5",
+    "source": "Gasgoo",
+    "published": "Wed, 25 Nov 2026 11:28:08 GMT",
+    "discovered_at": "2026-11-25T21:49:20.506457+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "5923026d728a7615de19bb8a",
+    "title": "RISC-V enters vehicles, automakers begin drawing up timelines - Gasgoo",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYklsWGIzR3ZVNkNhcDRIbFhtbjBjT3lEUEpral9IandZdlY4dFVram5IT0w5VlpxaDBCcHF6ZlNRRFRSclhFR25YZ0Y2NFBJcTQzbWRHdFdqUnNHdDNQYzBTQkVQVnlMZmJIUnAxcXV4MmVMVlAzRHgtdzJSZHFoTTZHUFNYSVBHZ0ZGNmJqUXloSldCUERZLWhIQnJ1UjlXU1haRjEwdlBWZzBYZzBXajgtZk5oRHViMmJzTHZ0MA?oc=5",
+    "source": "Gasgoo",
+    "published": "Wed, 25 Nov 2026 11:23:45 GMT",
+    "discovered_at": "2026-11-25T21:49:20.506353+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "f8286582515a40a801344d41",
+    "title": "Specs for seven Intel Nova Lake-S CPUs leak: up to 28 cores and 144 MB cache - Notebookcheck",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQejlhWFdDZGFHb3FyZGF0N1B4OFV2SlU3V0RSTDNvWERPeEloMGhmUWJKYXh0d2ZXcTFvQ2Vwb1dFeUtWMVlJa05WdDBZZVZscUJRSXNVQjZKaExHbUlDcTBJaEZtSVpXQTdlSkU0U2RzSTh3aWpkRTJYRzVkbUdJRXQ4U3ZHNFp5OHNKMFhPeGFTelRmRWdrU1dBNTNsT0RYZ1RfOFR2RTQxeFluUGR3U1k4enFJRFFVRVY2Uw?oc=5",
+    "source": "Notebookcheck",
+    "published": "Wed, 25 Nov 2026 14:59:00 GMT",
+    "discovered_at": "2026-11-25T21:49:17.615138+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8db4fbd6abc27cc01e8056a0",
+    "title": "Intel won’t launch its 52-core Nova Lake CPUs until mid-2027, according to leak - Club386",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WT0hmbFBDR2JiRGNQTjdobkFSVjFXUEJ4bGwwOEh6dm0yY0lLMzFKZk9icnhLTzE1bFRoNDhMM0VUUlRSeHZGVlhrSWVQT244eVh1c0pfcVRmYTZtdk1QLU91MGFkTGRZNDRIeWc5eGo?oc=5",
+    "source": "Club386",
+    "published": "Fri, 17 Jul 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T21:49:16.986178+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e011488123d213650797b7e1",
+    "title": "Surface RTX Spark Dev Box is a 128 GB desktop for local AI - Tbreak UAE",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE01UlBkZ2RWYjFWeWtaNFJvMENVY2FCUXh3VUgzUDQyRm8tNGEwT1M5SXc3N2JSOFd2b25ib21LRzQxVHRqb3YzbXVMRzFSZ3p0WlhlVGtkTnpOUXVIaUFHSA?oc=5",
+    "source": "Tbreak UAE",
+    "published": "Wed, 25 Nov 2026 10:04:00 GMT",
+    "discovered_at": "2026-11-25T21:49:15.175247+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a0d08605c650ea08b9342ca1",
+    "title": "Apple Refreshes Mac Studio and Mac mini – M5 Ultra Goes Quad-Die, M6 Debuts as First 2nm Chip - CineD",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbi1IcUYxWVJrdGY3a0RBNDhUbnlfNjRlM1VnNk5ieVl0ZjdNSVFIZUZ0bHFQSjV0dWpMWW5TNjRkWUY3SXBhNkdSOExCbFJfYnhBMmRJRVNidGwxUnlPN0xuU19iQ3NTZ2ZfSG5zSE1uTFJCQUVUZHBzWVlNX191NmUydEFkTl96Tmg3cVpvWWRwbWY0Z0xGWTI3c2hJdmNobkRTUGc3RzhTWXMzREY4MnlrSQ?oc=5",
+    "source": "CineD",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T21:49:13.897814+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "13a9b44582c77bf5c94d19f0",
+    "title": "Three chips, four phones: How Samsung could split Snapdragon and Exynos across the Galaxy S27 lineup - SamMobile",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkV2cnBnZS0xZzF2V2NSeWtyblBIRG1RajZUODRTYUhwSWxXRVo3Z0VWVnlmc1NmdVJVVl9nckE5V3BBU19Tc1JKeVB1N0JwamVXYnBXNmtaMzhXYklYSTN4TUR6YlY1UmdBaGEtLTBzQXhDdUw4MFFkTlV3OF80REJpeGg0MTg1eG44ZDd3?oc=5",
+    "source": "SamMobile",
+    "published": "Wed, 25 Nov 2026 12:55:00 GMT",
+    "discovered_at": "2026-11-25T21:49:12.489326+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "33d2536539a77b5a2ba32a46",
+    "title": "iQOO 16 Amazon microsite goes live in India, confirms Snapdragon 8 Elite Extreme Gen 6 and OriginOS 7 - 91Mobiles",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzdmxYblJMVExxdE13UTRHakFuN0otTG5CeEliMWQtWDFyNEx4N3F6akZwYThiUGtFSW52NHZud1VDVWVWbG1uRnB6Vm1tVE03YU9IRTJacGRCU1ptN1dlM3YxdmJWOFZMQW5VM0ltUVNRN0lr0gF6QVVfeXFMTkZlZGpvbEZUM3hJWUUzVm1XdVcyMzAydXZfWGJDamF3bk1oNDhVcExLTFZRejJEVUlyV0tzQ2gtN3JlUV9zRWltYlFtTEhSQUJ5NDNDX0E4Zl9PLUwtRmVEa3V0OWtZUVNtM1A4RmotdElVWVFqN2VTOGc?oc=5",
+    "source": "91Mobiles",
+    "published": "Wed, 25 Nov 2026 17:20:44 GMT",
+    "discovered_at": "2026-11-25T21:49:12.489217+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "eeb401cbd60e0f5d3153952a",
     "title": "AWS Launches Trainium3 Chip to Challenge Nvidia - Data Center Knowledge",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2ZsT3kxOWFtOTdfWUd4WFhQcVBPc0xJZGNIVnRjb0hjaF9Cc1kwRjdTbmN5bjJsLUhqTmNEWFRMQ0ZFWkM0RjhhUnVDbFg4N2lrUTJ0am1jSVRGakY2MU5jMVFKMzBJQXByVXM2UkJKd1FTU2ZkMHhsVEM4b1NPUjVYMmxQVnVwYlNSSGFsRWtMQXpLTEZCRE5tdUluRWZMTF9EOTU0R0hwdUpSN1V0dHVBRQ?oc=5",
