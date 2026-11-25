@@ -1,5 +1,104 @@
 [
   {
+    "id": "eeb401cbd60e0f5d3153952a",
+    "title": "AWS Launches Trainium3 Chip to Challenge Nvidia - Data Center Knowledge",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2ZsT3kxOWFtOTdfWUd4WFhQcVBPc0xJZGNIVnRjb0hjaF9Cc1kwRjdTbmN5bjJsLUhqTmNEWFRMQ0ZFWkM0RjhhUnVDbFg4N2lrUTJ0am1jSVRGakY2MU5jMVFKMzBJQXByVXM2UkJKd1FTU2ZkMHhsVEM4b1NPUjVYMmxQVnVwYlNSSGFsRWtMQXpLTEZCRE5tdUluRWZMTF9EOTU0R0hwdUpSN1V0dHVBRQ?oc=5",
+    "source": "Data Center Knowledge",
+    "published": "Tue, 02 Dec 2025 20:25:38 GMT",
+    "discovered_at": "2026-11-25T08:49:27.471733+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e3885171579cd8283b5036db",
+    "title": "Purism Seeks Freedom From \"Big Tech,\" Shifts Its Librem 5 Phone to the RISC-V Architecture - Hackster.io",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFpGRmwzdFBiVDg4YllvSXhhckZGZFB3dzIta3hqcXdmUHpwSTBiaU1VUkg3TGt0ZTAwNkcxMTNYYTVYQ0x0LVhuZDdWYWtPZXpqV1YxOVN3Y25BdlRBa2J5QUNUMnZNWjkzaWVKSUs2MVJHRzJyZ2RmVzBiSExOYmdOWlR5bHZvTkFsbFIwR1R0WnZLTlBrbE9KU25zTlZ0NEp2YTBpSlJXcGhFQlN6dkRGenkzdVJQdnhYQjEtZmdBa0NHOWRZdA?oc=5",
+    "source": "Hackster.io",
+    "published": "Mon, 16 Nov 2026 16:14:03 GMT",
+    "discovered_at": "2026-11-25T08:49:20.841793+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "b0a6c62e7f400718f63fb902",
+    "title": "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZDZLQWo5WnRfdmowaXhNMG9MTThlejV1QWtXUzgwd1I5UTJqLVpsSFE0dFdUWXEwa3pia0xQRWU2cjV4b3Zhd2kyZkU0ZDVZQzNLU2JzdDFPc1dxOTlreUg4eU1NWVpCcUphWEs2a29rS0ltWFZKN0pCQmJPTV9WWDB6NW1EOXJOMXVGTmJRVVhBZVBiaFZjZVpxdVZZbHYxeWhiWjJRR2x6emhPZU1RaUJZWHFLM2FCRVVZUXFnS2ZjcmVXSGlWMzF4TkV1MmtkUDRwVmEzQVhBV0ZycEsyVk9wMVBtU0VETGV4ZVIteWpqUnI0WEtBWV9DUlllR1hhR3pZZzJsSm45ckFSYzN6elZ4WExaRDhZZU5jaTFkcTZzeVFSUW56TW51alNLNi1qbEl1MW5NQllGeG5UVkVER1F5WmJ2RHlmdkFxSjNvcEZzUVhuMml1UA?oc=5",
+    "source": "The Globe and Mail",
+    "published": "Sun, 22 Nov 2026 09:34:10 GMT",
+    "discovered_at": "2026-11-25T08:49:19.084070+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "23fd57f1e51dd455c9a434cb",
+    "title": "Chip Stocks Rebound After Huang's Return as Congress Eyes Nvidia - Around Prague",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZDFvcmJtRHJxOXJUZ0ZxNXMwTzRKd1p5S012OHlidXlPRkNnN0M4bHN5Y2huQ0x3X29iODRSeWlQTzlDMzlPaTRwOUtwbXBqXzlpblQxLUI5RlRSM3E0c3lldDNxeTFxQ1dWX3dfaXBwTE1DamdGcG9MTjIyY29OblhyRS1UVnFMVjFnY3I0MjVVazJSN3J4dTBnSE5kNGNU?oc=5",
+    "source": "Around Prague",
+    "published": "Mon, 23 Nov 2026 19:38:46 GMT",
+    "discovered_at": "2026-11-25T08:49:19.083916+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "1de3ec3eba12b08d53d8dec5",
+    "title": "Intel roadmap leaks reveal Nova Lake, Razor Lake, Titan Lake, and Moon Lake CPUs on track for 2026-2028 - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNV3NPQzMyRkdBZ1hGLWlDdmx1bGQ3ZGFjNFBzVDViQU10c0JxU3lZUjlMVmFuNTlRaDl3eFNCQk9hSnRkQzJVcWZLRUw3aThYSDJSZVlXYWFHUWdRUXhVX3lVcVJqcXVBYzdhMll2WllvdWZzS3AyZlNlT1BMZ2F3Zm1ZUjF5S1VjSDJ0NThHRUFrbEZqeExPZERDa19hdVdOdlIxSU9XNkwxeVZHYzg3bFVWSHRpRmEtR0ZvcXYxSEdSQk9wWVhLVWRYZWVHOHBhcXk2dXpLM0wxRFZhdWpCdTh1aw?oc=5",
+    "source": "TweakTown",
+    "published": "Thu, 07 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T08:49:18.043663+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "a31c7b7b0e0a47244adeb08e",
+    "title": "Huawei Mate 90 Series Launches in China: Kirin 9050 Pro Debuts, Starting at 5,999 Yuan - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RZ25aN2RGaDhzVDlxNVpQZVpkS2tiMWN0T0tvMmlLNFZnckpfWjlCa2pGUFEwWHNYb1ZYMUsxYzEycllfQlJTTTlrNTR3OHpLSDNrbERvbGwteEUzd1J2d3pOYWRJWDQ0Z0dCd2FURkRmYnk2Unc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 30 Sep 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T08:49:17.030675+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "d77615a2647ae58aaa12c39f",
+    "title": "ASUS Zenbook A16 Review: Snapdragon X2 Elite Ultralight Game-Changer - HotHardware",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONkYxaEZRdUFSbjhDbkN3eTVZTTQyd25vMTFhTnRzZTNENjBPXzhJQUJzQUdDRnNkWWxqMnNEUV92YkY0dGJKWXJQN1RXdkdyWFkwMF9vRmRaai1HdGo0d3pwM2o0Q2xZNE1BUVJfaFcxeENjb21xM3RYVHRWeTVSV3plX0oxWjlmbFdfeEZwdDJUQkNl?oc=5",
+    "source": "HotHardware",
+    "published": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-25T08:49:15.253696+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "4b589ef5c2ec65d39e2acedb",
+    "title": "Motorola Signature 27: India Dec. 9, Up to 12,000 Nits - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVnZ5YmM1QjRLUjFPMkNXLVh4aDJzdktpc2EyREZWTUJ6dFQ4cXlmeXRnTVJjYlphQUdvWFRxLWJiSUY4VTlvUXVJYU9MZW1HRmdqWExIYzlDNjBLMl81d1otdGk4T1h4WlpOMFMtWHVJTFpwLV9GTjNFOUNERWxra0tkbU5leDN4bnRXbFlkV1JvZVVLRkhhMzhiSzJVckNCQXFJSm9EWU1zZw?oc=5",
+    "source": "shattered.io",
+    "published": "Tue, 24 Nov 2026 07:14:01 GMT",
+    "discovered_at": "2026-11-25T08:49:13.275318+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "df894d1e21c655143f07cd8f",
+    "title": "Samsung's Galaxy S27 Ultra Said to Skip Exynos 2700 Over Budget, Not Performance - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qanM5UUxuaGpaVDR5Z3diT2VBWjh6b2MzWXhQek9hUGN0bUFtM1QtYUxaV2h0Z3ZTNWxhOUxnMm54UDUxMnQtOUFmUjhCLU91eDZfSVc3VzBiLUZhMFZTQ0FWcGRPZWt2RGlmdGI1TlFiRGFSdmc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Wed, 25 Nov 2026 01:56:00 GMT",
+    "discovered_at": "2026-11-25T08:49:13.275136+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "967733911a35e1659916eb92",
     "title": "How Will Microsoft Maia 200 Compete with Google TPU? - Analytics India Magazine",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi1aYklOVGEwa2VodkY4VUhWY0l2dUVoOWVjdzl3ZFlCMF9YY3dBWGR6a1ZDOEpjOS12blJpSWZwYnlRb1ExMGhVWjBIVUhfUmdRNjhpM08ta3R3RjVSd0s0cGFGdG51OUh4RmNmbGNQazB3aS14TFpYYVpUSmxWQWtFZVNLYW10QUlPdTh1TUViM0lRLXQwc3cxVmQ0SktNU1REWDA5T0V5OGpJRlNPVg?oc=5",
