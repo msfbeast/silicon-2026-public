@@ -1,5 +1,115 @@
 [
   {
+    "id": "a5d3f4ab55f64993390b7871",
+    "title": "Banana Pi's BPI-M2C Packs a UNISOC Eight-Core Processor and Integrated 5G Cellular Networking - Hackster.io",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3ZPVlNfelBWMGhZR2FMMXBjMFd6UXlDREVVSVR5ZnZ5TE42RE9WNVhuNGc4YU5zTF9iMlk5NENjVS1vbWpqTzBicVRKRk85ZURIaU1HbDB5SjQ5M282S2xBdG5jaFVSWi1LcjBDU1NubGlrcHBpcFNmTWx0QVZiRmRwcTExazhlc2VEaF9aNE55UzdkME1aWS16V29LWDl2aTJsSTZMNFZWb1dEMGpWa2hYSkFRZElHX0ZWQW8xVzZpUy1NaEVocXdULVNYVEs5?oc=5",
+    "source": "Hackster.io",
+    "published": "Thu, 26 Nov 2026 17:10:43 GMT",
+    "discovered_at": "2026-11-26T21:42:16.832882+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "64f72802ab80d4ebd866d65b",
+    "title": "What Is a Tensor Processing Unit (TPU)? - Built In",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93Wk1xRDdYTGZFQmVPWjBKdTY1RmkzU1EwQjhTNkw1SnFDV0twNDVCby1CTnlxMUFfVzJ0enp1STREVFNmbzFnSnVseFc3REhJbjF2U2JmeDZWTWNnZWdDQWVaY0NXZw?oc=5",
+    "source": "Built In",
+    "published": "Fri, 06 Jun 2025 07:00:00 GMT",
+    "discovered_at": "2026-11-26T21:42:14.402371+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "24aabc526879c50153eb7f12",
+    "title": "Challengers Are Coming for Nvidia’s Crown - IEEE Spectrum",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ScHpQc3hSdGl5dnlUS2tIcmswZWhkODFvcFZvUTBEUWk1ZGFKWXlsd3ZUeXdRQUh5VlVyaHM2dHhJZVpNb1JEcEtIMA?oc=5",
+    "source": "IEEE Spectrum",
+    "published": "Mon, 16 Sep 2024 14:01:06 GMT",
+    "discovered_at": "2026-11-26T21:42:14.402350+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "196bdb0afcf69598d0b2157e",
+    "title": "Eaton unveils Beam Rubin DSX Platform with NVIDIA - Techerati",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPZEhYa3V2X0ptaWd1QWI4NENCWVJ1LXJNTjgwZ1lPaDhKeHJnNnl6M3FoaGpvOUxid1BGRTljdmY0cmhVdS1MWTFfN1RrQkwzc0R3QWZ2dHZBSHAwblVSYW0wQ19VQ3E3RGY1YkVmQlRSS1NjdFFEZk8xUGI1Q0NZLTdFR1NnTWJLbnBkT0RqNDlUX1F4QUVtWGJtbUU3c0FCS05TRWNhWENYaDhkY2pSYWJxb0tad2NGY05ab3FQWU5jMWN0MkRDYWt4di1KWkVJaW96VUdsN3pELVZ6OEM5eDFjU29iZEFoVExJeE9OTTE4TURSQTF0aDFHVm1PSkFfanFNVVRpdTVSNnkzcm9OaERGUE1EYjRjUXdfcXI2MFRkZw?oc=5",
+    "source": "Techerati",
+    "published": "Thu, 26 Nov 2026 10:55:27 GMT",
+    "discovered_at": "2026-11-26T21:42:13.133089+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "01253c5edd960139d3c015c8",
+    "title": "SpaceX Reportedly Slashes Some Nvidia Chip Rents — AI Researcher Sees Musk’s Edge In A GPU Glut - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNmcyemkyaXdwU0IzejZ3dTVETTJJTXU4LXhQUXRZdzdQMG1oNFJOTVZKblB2RXdOekV0VzJwTFM4UTdYZVZXTFV5ZlJSWk5sR1FzV1RFRXlzZHlSTFZPams2V0RCYS1zazVhZFUyQ3M0TmJ0eGxTR25tQVZZSkNReEJkTXBvZXpoSWJaQjJGNkFsLUVuVk5kUGc4YmlsaEtJenpF?oc=5",
+    "source": "Yahoo Finance",
+    "published": "Thu, 26 Nov 2026 05:32:00 GMT",
+    "discovered_at": "2026-11-26T21:42:13.133030+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "beb3394b8f5ae67596e94bde",
+    "title": "Intel Core Ultra 4000 specs leak, revealing 28-core Nova Lake CPU with 144MB L3 cache and 5.5GHz boost - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNamNtajhsYzJIaUNuQlB6X0RkZUVpNWVpelN2amNiclVZSHRyYzFoZjNkclFKX0NoN2xpVW84OEdPTUF5cWtNSUpuZnJNYXpXTmpUWDRFNEZNZ2ktVEh4OW9vX3VYOENDcjcyZkpqQS03Zi1ReVZiSFZrZF9VM3VlZ1pHUm9CZXFPbF9NVjdLenBYeFhwVDJkTGtGRVNQRkszeG5aM2hhMVFEM0R2ZlpmRWY0OHdmcElCUFoyRFBKaVc3VlpEdWRLUW1TbUJkR1AzOUVxc0tJcFlFQlduUEQ3aVppenE?oc=5",
+    "source": "TweakTown",
+    "published": "Sun, 22 Nov 2026 18:20:15 GMT",
+    "discovered_at": "2026-11-26T21:42:12.355886+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e0a4a3c528271f96c11341d9",
+    "title": "Razor Lake-AX sample leak reveals massive physical package next to 4 on-package memory modules - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNTm5TWW45SWpYSzVpRE9RaFN4WTlwR1lHbmk2VU1oX2hFXzM5Q19IQjk5cnhUR05kOE05WmlBRVlzejVrM2N3dXhPZlp1YkNUNklGYTAtTEZfOXpxNHpxUHhEWTZFS2dYMjJYYUtIaEpxR2R5bnpXdUZ6ZTRKZ3JZRXJ4NGIza0x6VXVucXlpaGZJdV9VdnYydU1Fa3RtbFY3WXNCbnVBQXFDTURGWHpuT0xUUnFkWWdEZTBobXExbERnRElBYjNpZ1BnWTgxY1MzTHluemZldWhpcWh4eVBBNEY4aTRjZjgxOWg0cEsyMmQ2QnNnWFRnMVRKUTZkdGRYVE5WdHdZeDZFS29YZGJVZ0h2d3EtVFB3a0JBRndLSnI?oc=5",
+    "source": "TweakTown",
+    "published": "Thu, 26 Nov 2026 16:40:08 GMT",
+    "discovered_at": "2026-11-26T21:42:12.355618+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "69869fabdc98f1daec89a239",
+    "title": "Intel Nova Lake: 18A Confirmed, 28-Core Leaks Unproven - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPelFNcEg3TXdFUDd6c2Z0dGdRRmRFa0RhY2xLX0pLN3FhYUFqQW1pemlSLUl0Y0Y1X2RBcS01dHZKUlJvNnFuR0lwS3lseEFEYlhYOWV3eUZGc1o3Q19rOUZZcFZLTDZqb0czTUFrTWw1cV9lOGRRWGI2TXRFZ1JkckpKNTRvZmFGOHRzUWxJWFlMZGE0X3VzYVFSV3VkQ080YUl3?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 26 Nov 2026 01:34:57 GMT",
+    "discovered_at": "2026-11-26T21:42:12.355575+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "00df3eb3a7710a79fc232c9c",
+    "title": "Intel Nova Lake-S Leak Details Seven Desktop CPUs - remio",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcjRIa05LRDF0Nng5UlY2YmlUNFFhT2IzLVFoTDBOM2VXZ3owaHlhcEI4clR1QjFseFdYbnpibHhuU2VCOTFmT3VaMGdNVFNqOGx4ZnBERER6MXd6dUNkMUVUeUhDTGRDV2E1Z215S1JWVzlQTVZ1dmVyUzZKYkFzVg?oc=5",
+    "source": "remio",
+    "published": "Thu, 26 Nov 2026 10:30:10 GMT",
+    "discovered_at": "2026-11-26T21:42:12.355525+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8be3183da315e4a406b8575b",
+    "title": "HP OmniBook Ultra 16 India: RTX Spark N1X, Rs 5,49,999 - shattered.io",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR0dhZGZ3T0RmRllWdjc5bFF3b1cwcXJ2a3hYU2hJQTBjbDFYUEMwU3lGcW5QaXlUdmtCMUpPZC1oWE9oSG9Wd2Z4cGVBcFU4bkJHTTFxQndfV3ZaNTYwNTE5YVI2dmIyQ1BDMWhUMVB1UW9GYnJINnNRVEtyc05UUUV0MXJJLXRWclgweXUySm8?oc=5",
+    "source": "shattered.io",
+    "published": "Thu, 26 Nov 2026 14:34:59 GMT",
+    "discovered_at": "2026-11-26T21:42:10.303260+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "dda5d4c8129df6cb24ff14b9",
     "title": "Amazon AWS unveils Trainium3 chip, Project Rainier - ZDNET",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZGV2eDdzem1wUTNDNkVhY2NZWG1MdEVWaEJJR01zd183c3dBd01fbTRQdXdSSmxJNlk3dVV0S19RaDZhLXlrRkZIMmp5TVhGOUZIOVNxQnVXcmp4LUREVEk2MEswUFJwNG93dVJkRjdlYjF1UE1QWVNSS0Rfak9Ib1pRQXZoNjQ?oc=5",
