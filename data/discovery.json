@@ -1,5 +1,71 @@
 [
   {
+    "id": "ecc5fe7cd4cd4950f40bec1d",
+    "title": "Leading-edge foundry roadmaps for TSMC, Intel and Samsung — outlining the path to 1.4nm nodes and beyond - Tom's Hardware",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTGpVRFZ3VkhqY3RfbngyVHpxaG9CWjFESnNDQ0M0S2d5LW4wcHhHek9OdHY2Z2pZWjQ4X0NLNzZscnBPUjBCY293OGlIQXdpb2huLTN6SUNCSzRhcjZMeDJ6N3ZKUmZtRnhYNzNieWJoQkhGVUhDQzRrZ19nX0dkbGU0WjYyTzFPR2MtZWdJY0FyYURHNWxrRUFBU0tHVnZNWVdRZFNyQS0zSEtiOEg3ZF9rRzZ1MHRJQW9NVUZMNEVCdi1IM0hmOG9tcXQ1WXJCSHFMNDQtdXJuMzF2Z3k4U2hpV24yMkRyZE9YRHRRUHQ?oc=5",
+    "source": "Tom's Hardware",
+    "published": "Thu, 14 May 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-27T08:46:59.003769+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "bd58dfc976e11e84ee55ead0",
+    "title": "SpaceX Cuts Blackwell GPU Spot Prices As Anthropic Exits H200 Deal - Dataconomy",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjFXak1XamZJaEVrNnBUWDJRRFZNaXhCMEJNbEVNVVh2MmlKTEhnNUVCUkl6T28zVFBSeUU5TVZrelVxUFlSVGFPN1djenNsRlFNM1dNaDFVa0pVNENnVE05bFM1SkhOWWlVYTJyc0I0YjNOQlVrdWNGLUV1NlZXSy1pcE83bVVpNUh4bnkyT0x3TWp0WEE?oc=5",
+    "source": "Dataconomy",
+    "published": "Thu, 26 Nov 2026 13:03:17 GMT",
+    "discovered_at": "2026-11-27T08:46:54.316523+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "baf342b1a301fe037ea90208",
+    "title": "How China got access to Nvidia's AI chips despite rules to stop them - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU05FY1hvQmJod19oM3p3aTZQaS1CdktCWEZsSnk0TmVWREE1a0tmVW5kVnBxdG5VNU1TX2FmWnZ1aTc1UEQyblFkSklCZ3NlcU1XQUZQVDUwTXZ6R3BoVjlRb1RPY0pTNGdmUUdNZkw0Zi1oanJOcXFieGlBdzRTN05pa3FsaVhUWVk0UWpzc0hkN2kySGF6bGRpU1Y1a2IyNi1iaUFQZThLNVZON0E?oc=5",
+    "source": "Reuters",
+    "published": "Wed, 25 Nov 2026 19:58:10 GMT",
+    "discovered_at": "2026-11-27T08:46:54.316320+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "59b4c118b7e116bfebceef54",
+    "title": "Razor Lake-AX sample leak reveals massive physical package next to 4 on-package memory modules - TweakTown",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbFlFUUFmMjBoOGRMLTVDWjNOLTg4MmMwUHV3dk1fTVNuNDRFQURBakwzeEZVUldDdWNSVS0xcmx3QVQ0NTJVTDFBZHdGTGFrcUZ0NEdndTViNDBwb3VBN2c1Y3MyUEV6NjdEQlRzb0hHakZ5T2F3dmxMYVJ3bUZKMDQxNzByUjV5VV82VWxEUzk2VWRUZUpRWkpTbHd0RzU0OWlVOEZFSHRsSmlTN3BISXNndzZHdG16Zl9mV1c5MVB4WTFrZ2R5bUk4b3VMckNhMGlZd1FueHBpdHc?oc=5",
+    "source": "TweakTown",
+    "published": "Thu, 26 Nov 2026 16:40:08 GMT",
+    "discovered_at": "2026-11-27T08:46:53.571306+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "87a40d599141ebf78b8c4f4a",
+    "title": "Intel Nova Lake laptop CPU specs leak, showing 4.8GHz boost clock and DDR5-8000 support - Club386",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5FeHRCVFNURXM4OFd4X1RWeUxIX3pBN0R4LTg2NXJYSFhfaUxSQnUtbHc1QnhfTF96Q0RGSnV3RkpNRjF1ejA0X1BzRmpIZGFURmtOTGxQLXBtRHA1LWcySVpTbw?oc=5",
+    "source": "Club386",
+    "published": "Mon, 23 Nov 2026 12:02:45 GMT",
+    "discovered_at": "2026-11-27T08:46:53.072639+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "446033aeeaabc00d4ca1dd57",
+    "title": "Motorola Signature 27 Best Alternatives: Specs, Prices & Comparisons - Nokiamob",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUWdKQjNNRWJULUI2UkVHeDZGYVV1TGNOcFJsZWhlUVhWTFVWMEticVpSQTVhWEttbnY1RlJqM241TUJrUllyMlZsYXlfcC0zN1dWMGd0QTFNX2NYbEdfVVdaTEljSXl6MlpiUVM1dkdtdHUzbW9yellpMU1uZDAwWjlZeWhJTU5YOVBMZDJpQWs2Wmc?oc=5",
+    "source": "Nokiamob",
+    "published": "Fri, 27 Nov 2026 08:02:31 GMT",
+    "discovered_at": "2026-11-27T08:46:48.165627+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "a5d3f4ab55f64993390b7871",
     "title": "Banana Pi's BPI-M2C Packs a UNISOC Eight-Core Processor and Integrated 5G Cellular Networking - Hackster.io",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZ3ZPVlNfelBWMGhZR2FMMXBjMFd6UXlDREVVSVR5ZnZ5TE42RE9WNVhuNGc4YU5zTF9iMlk5NENjVS1vbWpqTzBicVRKRk85ZURIaU1HbDB5SjQ5M282S2xBdG5jaFVSWi1LcjBDU1NubGlrcHBpcFNmTWx0QVZiRmRwcTExazhlc2VEaF9aNE55UzdkME1aWS16V29LWDl2aTJsSTZMNFZWb1dEMGpWa2hYSkFRZElHX0ZWQW8xVzZpUy1NaEVocXdULVNYVEs5?oc=5",
