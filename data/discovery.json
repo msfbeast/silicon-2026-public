@@ -1,5 +1,93 @@
 [
   {
+    "id": "bdd25d5185622e6e3387e892",
+    "title": "Hot Chips 2026: Architectures for the Agentic Computing Era - Medium",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnNfZE8yX0ZNZlU0YVB5cU5Jd0RBLTFoQ19rQzl5UTNKRUEyai1GbGNVZmZGVjdOR3ZvcHdMUXpKTDE3ZlpIbEVJZm1JbjJ6UGcyWGMwZXhNN0V1UmFUNXJqSnc3SjBZZFB5X0RreVEtOVBwT3lFcHNkREhIZGJzdXM1NVA4MnQ5NDY2Y1phVzFYQzlreEwteFJoNTExcE5wTjNTVXdSQQ?oc=5",
+    "source": "Medium",
+    "published": "Tue, 25 Aug 2026 07:00:00 GMT",
+    "discovered_at": "2026-11-28T08:01:46.305692+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "e8606a6ea6a251cd28423b28",
+    "title": "Banned Nvidia chips uncovered at Chinese data center linked to Megaspeed's Alice Huang: report - New York Post",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMmNJTENPVGFQQ1NRU1RicF84NEdBOVhwdUxrdTBSdDZ2RlpCWUZyeEpJcG5IS0VzbkRVSEdQdTFSTW1NU0pmZUNsWWg3bEtyWnlGczdmWXVJSG1kYjFseWJyMkk3QmlqMWZKMGV4X1N5MHpOVzZCX0R4YnY3cHRJbG9yVGxiZDJwUHJROVpEbEtuMVVrZ0NTVlRiS0JyZ0dEMkV6bHktejlmbTZheU14LVR5OXhYUDY2QWVBZl9nLWxMVlA1NWxhQTd4Yw?oc=5",
+    "source": "New York Post",
+    "published": "Fri, 27 Nov 2026 17:18:00 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563731+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "c7ec41697ea010d505126968",
+    "title": "NVIDIA Blackwell Chips in Chinese Data Center Despite U.S. Export Bans - 조선일보",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcEFDaFBMUDhjeWszZndmOE9IUWJNQm5ENi03WU1iR1hRZmlrSG5rV2JNOVZrNi15LVNPem0tYmVRTUhHanVYYlEwd1B2MGY4Vnlobzd1QTBGcjd3Q3d3THN3TG1WZEZXQ3l5NUQxSDQyQXVRYUZxczI1SEwzb2dDUVNvRjg?oc=5",
+    "source": "조선일보",
+    "published": "Sat, 28 Nov 2026 04:43:58 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563696+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "7de64ced33a644ecd154b740",
+    "title": "Nvidia Stock Rebounds amid Shanghai Blackwell Chip Allegations - The Coin Republic",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMEZLSjJ1X251WTluNjFBWGZuU0VEbWpCNmNpZHFOTGZrZVBsMTliY0JkVmNyQnpRSEwwRkJZOFRWWVdqODFMQS1mQW5PQ1E3T1NlNVlPT20wRTFCT0FHVUtMME1rbS1BeDVGd2VWdWp2c01pNUY4ZjNUWldRdm9FUVhBbllrNDROcVNSOHJpaDE4SE1kZFhoTzlSQ2JkNVZZWFMtVzVQVWvSAa4BQVVfeXFMTmRybTBSeExlcnVScUJZaTBRQkRzRnF2eVR5eFBoMFNwWmxxZ0FGQ3d0RlNwSDAxX2hIVUhKdkdMZFc4RFY4QmR1bTJjZ01FSlI4MEQ3Wl95QjNzYkxlWnBBTnB5cUowQlVzVzZuX1pvdXRmR05xazhyYjhUWVNFenM0OUUtclY4aEVXeVVCQnVjbk5OaE1XQ1c1R3c2ZUFCZ1haSk85M2Z1T3RsRnFB?oc=5",
+    "source": "The Coin Republic",
+    "published": "Fri, 27 Nov 2026 20:30:31 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563667+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "8b48a103c159e08a88d149d1",
+    "title": "Report links Alice Huang to Chinese firms with smuggled Nvidia chips - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFV6aVo5bU5LLWJhdkZoZ1EzMUZVQ0g0Rjg1d3p3QTNBbmxrWGxIeDRUb3p5cktxdDRGMzRYX1BXWXk0Qlg4MllOVGpKSVhZT0lKN05hMFZ2Z3B4Vnd5eEpybTRsTVZ3akJ4ekZ4TFAyQTBWUXk1TVo2cnZXcHE5M2NGU21zZHZISnZhZG5Hb1ltRWNEb1QtdVRVN2FjWHhSZVhXbVktem4?oc=5",
+    "source": "SiliconANGLE",
+    "published": "Sat, 28 Nov 2026 00:13:00 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563555+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "43e912369ee3890fd9a14cf2",
+    "title": "Nvidia Blackwell Chips Found in Shanghai, Bloomberg Says - The Defiant",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVGlSRG5mdnJsYWV1NGR0ZUdOVGVHTVllMUs0d2tnU0dxVWphTXZkanBkdWhGV0dRV0Z1WVotbjV3QTN0YWVocVM4N0wzUEZTVEJPamlTckVERkdsRHl1THBxVkNyYkV2ZVk1ZUV6YmxSbHZwQjVWT29LUU9rbktDYlR6dFJKbUJnb2RvbmprQkZlRjg?oc=5",
+    "source": "The Defiant",
+    "published": "Fri, 27 Nov 2026 19:38:46 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563411+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "625260ca024500817fb25a66",
+    "title": "Nvidia's Blackwell Chip Found in Shanghai Data Center, Suspected Smuggling Despite China Export Ban - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJSVZMVS1XZ05Va0hGaWVQemtNOWFQQ194RkNySHROTU5ldnJGVHoxQ3BId3NrMHhrbS1yb1R2bWJtdUNCNmh2X2J4TTZyTkJiRGF4Q0hZcEVuU19BbWhSWmxHRHV4SDF4d2lsUnJqMUJrSmpPeXc?oc=5",
+    "source": "BigGo Finance",
+    "published": "Sat, 28 Nov 2026 03:25:00 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563338+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
+    "id": "237acfbeb62f7cb2909e2f8c",
+    "title": "Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajRDYnpkT2kwWEdlR2REeG93cnBZdkdsYmo3dTFmaVp3enZYN3Jid0RYVWZwNXJvcE00OG5FNjdwd0MzQXpFV1gzeUxkdnhxTVNoaGVNRmpnRllMTGY4emNtNW9VYnc4RWZVX0I2WExQNy1Ha21aV0FNWWVUb0FacnFLM01rUWRudjBCdGJpbGxCVUx3dl9KMEtZb0pyYURCTG1iWW5xUmNpaDlnc0lsMVpldmV6QQ?oc=5",
+    "source": "Bloomberg.com",
+    "published": "Fri, 27 Nov 2026 19:18:51 GMT",
+    "discovered_at": "2026-11-28T08:01:38.563292+00:00",
+    "status": "Unreviewed discovery",
+    "source_tier": "E",
+    "duplicate_of": ""
+  },
+  {
     "id": "cb75c3233a2c5e1c5d0636ed",
     "title": "Waabi to use Nvidia chip to power autonomous trucking solution - BetaKit",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFNtcVZ4VUEzajZyY0RuN0NtcGdXQ1g2MWdlMVFoMk1JWjFsVWVuZkJ3c2M4b1JTZHBzcDhic0pmcFcwcmhrTnpEWHgxMDB0M3NjNEFrOHlLcWFZT21XTUFXaUU3N1lBUmEyM0lBVEs4S09wRml0dDVtNktfSzN4UldGakFXazdZcUFz?oc=5",
